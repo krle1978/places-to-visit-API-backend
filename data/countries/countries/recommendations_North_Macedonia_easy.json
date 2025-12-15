@@ -1,0 +1,831 @@
+{
+  "name": "North Macedonia",
+  "cities": [
+    {
+      "name": "Bitola",
+      "interests": [
+        {
+          "name": "Širok Sokak",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.0311%2C21.3400",
+          "description": "The main pedestrian street of Bitola, lined with cafés, historic buildings, shops, and a lively local atmosphere."
+        },
+        {
+          "name": "Heraclea Lyncestis",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.0289%2C21.3272",
+          "description": "An ancient city founded by Philip II of Macedon, famous for its mosaics, amphitheater, and archaeological remains."
+        },
+        {
+          "name": "Magnolia Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.0318%2C21.3348",
+          "description": "A central square surrounded by cultural buildings, often used for events and gatherings."
+        }
+      ],
+      "local_food_tip": "Try tavče gravče (baked beans), ajvar, shopska salad, and local wines or rakija in traditional restaurants.",
+      "full_day": {
+        "morning": "Start your day strolling along <a href=\"https://www.google.com/maps/search/?api=1&query=41.0311%2C21.3400\" target=\"_blank\" rel=\"noopener\">Širok Sokak</a> ☕, enjoying coffee culture and historic architecture.",
+        "afternoon": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=41.0289%2C21.3272\" target=\"_blank\" rel=\"noopener\">Heraclea Lyncestis</a> 🏛️, then have lunch back in the city center.",
+        "sunset": "Relax at <a href=\"https://www.google.com/maps/search/?api=1&query=41.0318%2C21.3348\" target=\"_blank\" rel=\"noopener\">Magnolia Square</a> 🌅 as the city slows down.",
+        "night": "Enjoy dinner along Širok Sokak 🍽️ or attend a cultural event or live music nearby."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Cultural Season",
+          "description": "Spring brings mild weather, blooming trees, and ideal conditions for walking.",
+          "ideas": [
+            {
+              "name": "City Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0311%2C21.3400",
+              "description": "Comfortable temperatures and lively cafés."
+            },
+            {
+              "name": "Heraclea Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0289%2C21.3272",
+              "description": "Best season to explore ruins outdoors."
+            },
+            {
+              "name": "Park Relaxation",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0325%2C21.3330",
+              "description": "Green spaces come to life."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Bitola Cultural Summer",
+          "description": "Summer is lively with festivals, concerts, and outdoor events.",
+          "ideas": [
+            {
+              "name": "Evening Walks on Širok Sokak",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0311%2C21.3400",
+              "description": "Cooler evenings and social life."
+            },
+            {
+              "name": "Open-Air Performances",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0318%2C21.3348",
+              "description": "Music and theatre in public spaces."
+            },
+            {
+              "name": "Café Nights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0305%2C21.3390",
+              "description": "Late-night coffee culture."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Cultural Events",
+          "description": "Cooler air and golden colors create a relaxed city mood.",
+          "ideas": [
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0289%2C21.3272",
+              "description": "Soft light over historic sites."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0310%2C21.3385",
+              "description": "Seasonal Macedonian dishes."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0300%2C21.3365",
+              "description": "Comfortable indoor culture."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Winter Calm in Bitola",
+          "description": "Winter is colder but atmospheric, with cafés and cultural life continuing indoors.",
+          "ideas": [
+            {
+              "name": "Café Hopping",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0311%2C21.3400",
+              "description": "Warm drinks and social gatherings."
+            },
+            {
+              "name": "Historic Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0318%2C21.3348",
+              "description": "Quiet streets and local charm."
+            },
+            {
+              "name": "Cultural Centers",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.0300%2C21.3365",
+              "description": "Concerts and exhibitions."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses connect Bitola with Skopje and other major cities.",
+          "link": "https://www.sas.com.mk"
+        },
+        {
+          "tip": "The city center is compact and walkable.",
+          "link": "https://macedonia-timeless.com"
+        },
+        {
+          "tip": "Taxis are affordable for short distances.",
+          "link": "https://macedonia-timeless.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Bitola Cultural Summer",
+          "season": "Summer",
+          "description": "A series of concerts, theatre performances, and exhibitions.",
+          "website": "https://bitola.gov.mk",
+          "dates": "June–August (annual)"
+        },
+        {
+          "name": "Manaki Brothers International Film Festival",
+          "season": "Autumn",
+          "description": "A prestigious cinematography festival honoring the Manaki Brothers.",
+          "website": "https://manaki.com.mk",
+          "dates": "September (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Clock Tower of Bitola",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.0298%2C21.3350",
+          "description": "An Ottoman-era clock tower and symbol of the city."
+        },
+        {
+          "name": "Yeni Mosque",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.0306%2C21.3358",
+          "description": "A historic mosque now used as an art gallery."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "City Park (Gradski Park)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.0338%2C21.3415",
+          "description": "A green park near the center, popular with locals for walks and relaxation."
+        },
+        {
+          "name": "Consulates Quarter",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.0322%2C21.3380",
+          "description": "A historic area reflecting Bitola’s past as the ‘City of Consuls’."
+        }
+      ]
+    },
+
+    {
+      "name": "Ohrid",
+      "interests": [
+        {
+          "name": "Lake Ohrid",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1138%2C20.8016",
+          "description": "One of Europe’s oldest and deepest lakes, known for crystal-clear water and UNESCO World Heritage status."
+        },
+        {
+          "name": "Church of St. John at Kaneo",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1115%2C20.7937",
+          "description": "An iconic cliffside church overlooking Lake Ohrid, one of the most photographed sites in North Macedonia."
+        },
+        {
+          "name": "Samuel’s Fortress",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1132%2C20.8011",
+          "description": "A medieval fortress offering panoramic views over the town and lake."
+        }
+      ],
+      "local_food_tip": "Try Ohrid trout, local carp dishes, ajvar, and traditional desserts like kadaif in lakeside restaurants.",
+      "full_day": {
+        "morning": "Start with a walk along <a href=\"https://www.google.com/maps/search/?api=1&query=41.1138%2C20.8016\" target=\"_blank\" rel=\"noopener\">Lake Ohrid</a> 🌊, enjoying the calm water and lakeside paths.",
+        "afternoon": "Explore the old town and visit <a href=\"https://www.google.com/maps/search/?api=1&query=41.1132%2C20.8011\" target=\"_blank\" rel=\"noopener\">Samuel’s Fortress</a> 🏰, then have lunch nearby.",
+        "sunset": "Head to the <a href=\"https://www.google.com/maps/search/?api=1&query=41.1115%2C20.7937\" target=\"_blank\" rel=\"noopener\">Church of St. John at Kaneo</a> 🌅 for sunset views over the lake.",
+        "night": "Enjoy dinner by the lake 🍽️ or take an evening stroll through the old town."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Cultural Season",
+          "description": "Spring brings blooming nature, mild temperatures, and ideal sightseeing conditions.",
+          "ideas": [
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1125%2C20.8010",
+              "description": "Comfortable weather and fewer crowds."
+            },
+            {
+              "name": "Boat Rides",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1138%2C20.8016",
+              "description": "Calm waters and clear views."
+            },
+            {
+              "name": "Church Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1115%2C20.7937",
+              "description": "Quiet exploration of historic sites."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Ohrid Summer Festival",
+          "description": "Summer is lively with concerts, cultural events, and beach life along the lake.",
+          "ideas": [
+            {
+              "name": "Swimming in Lake Ohrid",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1130%2C20.8040",
+              "description": "Clear and refreshing water."
+            },
+            {
+              "name": "Evening Promenade Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1138%2C20.8016",
+              "description": "Cooler evenings by the lake."
+            },
+            {
+              "name": "Open-Air Performances",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1120%2C20.8000",
+              "description": "Festival events in historic venues."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Lake Calm",
+          "description": "Warm water, fewer visitors, and golden light define autumn in Ohrid.",
+          "ideas": [
+            {
+              "name": "Late-Season Swimming",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1130%2C20.8040",
+              "description": "Swimming continues into early autumn."
+            },
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1115%2C20.7937",
+              "description": "Soft light over lake and churches."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1128%2C20.8030",
+              "description": "Seasonal lake fish dishes."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Quiet Winter in Ohrid",
+          "description": "Winter is calm and atmospheric, with fewer tourists and local life.",
+          "ideas": [
+            {
+              "name": "Old Town Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1125%2C20.8010",
+              "description": "Peaceful streets and historic charm."
+            },
+            {
+              "name": "Lake Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1138%2C20.8016",
+              "description": "Dramatic winter scenery."
+            },
+            {
+              "name": "Cafés and Restaurants",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1128%2C20.8030",
+              "description": "Warm meals during colder days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses connect Ohrid with Skopje and other Macedonian cities.",
+          "link": "https://www.sas.com.mk"
+        },
+        {
+          "tip": "The old town is hilly; wear comfortable shoes.",
+          "link": "https://macedonia-timeless.com"
+        },
+        {
+          "tip": "Boat taxis operate on Lake Ohrid during warmer months.",
+          "link": "https://macedonia-timeless.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Ohrid Summer Festival",
+          "season": "Summer",
+          "description": "An international music and theatre festival held in historic venues.",
+          "website": "https://www.ohridskoleto.com.mk",
+          "dates": "July–August (annual)"
+        },
+        {
+          "name": "Lake Ohrid Swimming Marathon",
+          "season": "Summer",
+          "description": "A traditional long-distance swimming competition across the lake.",
+          "website": "https://ohridmarathon.mk",
+          "dates": "August (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Plaošnik Archaeological Site",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1118%2C20.8003",
+          "description": "An important archaeological and religious site with reconstructed churches."
+        },
+        {
+          "name": "Ancient Theatre of Ohrid",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1127%2C20.8026",
+          "description": "A Hellenistic theatre still used for performances today."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Kaneo Boardwalk",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1112%2C20.7928",
+          "description": "A scenic wooden path hugging the cliffs beneath Kaneo."
+        },
+        {
+          "name": "Lakeside Fishing Villages",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1060%2C20.7900",
+          "description": "Small nearby villages offering a quieter lake experience."
+        }
+      ]
+    },
+
+    {
+      "name": "Skopje",
+      "interests": [
+        {
+          "name": "Stone Bridge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.9966%2C21.4316",
+          "description": "Skopje’s iconic Ottoman-era bridge connecting the Old Bazaar with Macedonia Square across the Vardar River."
+        },
+        {
+          "name": "Old Bazaar (Stara Čaršija)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.0009%2C21.4360",
+          "description": "One of the largest and best-preserved bazaars in the Balkans, full of mosques, shops, workshops, and cafés."
+        },
+        {
+          "name": "Skopje Fortress (Kale)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.0016%2C21.4351",
+          "description": "A historic fortress overlooking the city, offering panoramic views of Skopje and the Vardar River."
+        }
+      ],
+      "local_food_tip": "Try tavče gravče, kebapi from the Old Bazaar, burek pastries, and Macedonian salad with local wine or rakija.",
+      "full_day": {
+        "morning": "Start at <a href=\"https://www.google.com/maps/search/?api=1&query=41.9966%2C21.4316\" target=\"_blank\" rel=\"noopener\">Stone Bridge</a> 🌉 and walk across to explore <a href=\"https://www.google.com/maps/search/?api=1&query=42.0009%2C21.4360\" target=\"_blank\" rel=\"noopener\">the Old Bazaar</a> ☕.",
+        "afternoon": "Climb up to <a href=\"https://www.google.com/maps/search/?api=1&query=42.0016%2C21.4351\" target=\"_blank\" rel=\"noopener\">Skopje Fortress</a> 🏰, then have lunch in a traditional restaurant below.",
+        "sunset": "Relax along the Vardar River promenade 🌅, watching the city lights turn on.",
+        "night": "Enjoy dinner around Macedonia Square 🍽️ or experience Skopje’s café and bar scene."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Cultural Season",
+          "description": "Spring brings blooming parks, mild temperatures, and ideal conditions for city walks.",
+          "ideas": [
+            {
+              "name": "Old Bazaar Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0009%2C21.4360",
+              "description": "Comfortable weather for exploring historic streets."
+            },
+            {
+              "name": "City Park (Gradski Park)",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0075%2C21.4235",
+              "description": "Green spaces come alive in spring."
+            },
+            {
+              "name": "River Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.9960%2C21.4325",
+              "description": "Pleasant strolls along the Vardar."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Skopje Summer Festival",
+          "description": "Hot days and lively evenings filled with concerts and outdoor events.",
+          "ideas": [
+            {
+              "name": "Evening Old Bazaar Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0009%2C21.4360",
+              "description": "Cooler temperatures after sunset."
+            },
+            {
+              "name": "Open-Air Concerts",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.9975%2C21.4338",
+              "description": "Cultural events across the city."
+            },
+            {
+              "name": "Late Café Nights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.9968%2C21.4332",
+              "description": "Skopje’s social life peaks in summer."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Cultural Season",
+          "description": "Cooler air and golden colors make autumn ideal for sightseeing.",
+          "ideas": [
+            {
+              "name": "Fortress Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0016%2C21.4351",
+              "description": "Clear views over the city."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.9969%2C21.4320",
+              "description": "Comfortable season for indoor culture."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.9978%2C21.4345",
+              "description": "Seasonal Macedonian dishes."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Winter Festivities in Skopje",
+          "description": "Winter is colder but lively, with cafés, lights, and holiday events.",
+          "ideas": [
+            {
+              "name": "Macedonia Square Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.9968%2C21.4312",
+              "description": "Festive atmosphere and decorations."
+            },
+            {
+              "name": "Old Bazaar Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0009%2C21.4360",
+              "description": "Warm drinks and traditional sweets."
+            },
+            {
+              "name": "Museum of the City of Skopje",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.9908%2C21.4350",
+              "description": "Indoor exploration during cold days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "City buses cover all major areas of Skopje.",
+          "link": "https://jsp.com.mk"
+        },
+        {
+          "tip": "The city center is compact and walkable.",
+          "link": "https://macedonia-timeless.com"
+        },
+        {
+          "tip": "Taxis are affordable for short city trips.",
+          "link": "https://macedonia-timeless.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Skopje Summer Festival",
+          "season": "Summer",
+          "description": "International music, theatre, and dance performances.",
+          "website": "https://skopjesummerfestival.com.mk",
+          "dates": "June–August (annual)"
+        },
+        {
+          "name": "Skopje Jazz Festival",
+          "season": "Autumn",
+          "description": "One of the most respected jazz festivals in Southeast Europe.",
+          "website": "https://skopjejazzfestival.com.mk",
+          "dates": "October (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Mother Teresa Memorial House",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.9962%2C21.4310",
+          "description": "A museum dedicated to Mother Teresa, who was born in Skopje."
+        },
+        {
+          "name": "City Park (Gradski Park)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.0075%2C21.4235",
+          "description": "Skopje’s largest park, ideal for walks and relaxation."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Debar Maalo",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.9979%2C21.4205",
+          "description": "A lively neighborhood known for restaurants, bars, and local nightlife."
+        },
+        {
+          "name": "Matka Canyon (Nearby)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.9550%2C21.2970",
+          "description": "A dramatic canyon just outside Skopje, perfect for nature escapes and boat trips."
+        }
+      ]
+    },
+
+    {
+      "name": "Struga",
+      "interests": [
+        {
+          "name": "Black Drin River",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1772%2C20.6785",
+          "description": "The river flowing out of Lake Ohrid through the center of Struga, crossed by small bridges and lined with cafés."
+        },
+        {
+          "name": "Lake Ohrid Promenade (Struga)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1788%2C20.6762",
+          "description": "A peaceful lakeside area ideal for walks, swimming, and sunset views over Lake Ohrid."
+        },
+        {
+          "name": "Poetry Bridge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1775%2C20.6792",
+          "description": "A symbolic bridge in the town center, closely linked to Struga’s literary traditions."
+        }
+      ],
+      "local_food_tip": "Try fresh lake fish, grilled meats, ajvar, and traditional Macedonian pastries at riverside restaurants.",
+      "full_day": {
+        "morning": "Begin with a walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=41.1772%2C20.6785\" target=\"_blank\" rel=\"noopener\">Black Drin River</a> 🌊, enjoying the calm town atmosphere.",
+        "afternoon": "Relax by the <a href=\"https://www.google.com/maps/search/?api=1&query=41.1788%2C20.6762\" target=\"_blank\" rel=\"noopener\">Lake Ohrid promenade</a> 🏖️ or have lunch at a lakeside restaurant.",
+        "sunset": "Stop at the <a href=\"https://www.google.com/maps/search/?api=1&query=41.1775%2C20.6792\" target=\"_blank\" rel=\"noopener\">Poetry Bridge</a> 🌅 to watch the river and lake glow in evening light.",
+        "night": "Enjoy a quiet dinner by the water 🍽️ or take an evening stroll through the town center."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Lakeside Season",
+          "description": "Spring brings greenery, mild weather, and peaceful walks along the river and lake.",
+          "ideas": [
+            {
+              "name": "River Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1772%2C20.6785",
+              "description": "Comfortable temperatures and fresh air."
+            },
+            {
+              "name": "Town Center Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1768%2C20.6798",
+              "description": "Outdoor seating returns."
+            },
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1788%2C20.6762",
+              "description": "Clear reflections on the lake."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Struga Poetry Evenings",
+          "description": "Summer is lively with cultural events, swimming, and lakeside life.",
+          "ideas": [
+            {
+              "name": "Swimming in Lake Ohrid",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1795%2C20.6755",
+              "description": "Clear and refreshing water."
+            },
+            {
+              "name": "Evening Promenade Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1788%2C20.6762",
+              "description": "Cooler evenings by the lake."
+            },
+            {
+              "name": "Open-Air Poetry Events",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1775%2C20.6792",
+              "description": "Cultural performances in the town center."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Lake Calm",
+          "description": "Fewer visitors and warm colors create a relaxed lakeside atmosphere.",
+          "ideas": [
+            {
+              "name": "Late-Season Swimming",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1795%2C20.6755",
+              "description": "The lake stays warm into early autumn."
+            },
+            {
+              "name": "Photography by the River",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1772%2C20.6785",
+              "description": "Soft autumn light."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1768%2C20.6798",
+              "description": "Seasonal Macedonian dishes."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Quiet Winter in Struga",
+          "description": "Winter is calm and peaceful, with a strong local feel.",
+          "ideas": [
+            {
+              "name": "River Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1772%2C20.6785",
+              "description": "Quiet streets and fresh air."
+            },
+            {
+              "name": "Cafés and Bakeries",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1768%2C20.6798",
+              "description": "Warm drinks on colder days."
+            },
+            {
+              "name": "Lake Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=41.1788%2C20.6762",
+              "description": "Atmospheric winter scenery."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses connect Struga with Ohrid, Skopje, and other cities.",
+          "link": "https://www.sas.com.mk"
+        },
+        {
+          "tip": "The town center is flat and easy to explore on foot.",
+          "link": "https://macedonia-timeless.com"
+        },
+        {
+          "tip": "Ohrid Airport is nearby for seasonal international flights.",
+          "link": "https://airports.com.mk"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Struga Poetry Evenings",
+          "season": "Summer",
+          "description": "An internationally renowned poetry festival held along the river and lake.",
+          "website": "https://strugapoetryevenings.com",
+          "dates": "August (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Halveti Hayati Tekke",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1762%2C20.6810",
+          "description": "A historic dervish monastery reflecting Struga’s diverse cultural heritage."
+        },
+        {
+          "name": "Women’s Bridge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1778%2C20.6788",
+          "description": "A small pedestrian bridge across the Black Drin, popular for walks."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Riverside Evening Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1770%2C20.6795",
+          "description": "Quiet spots to enjoy the river away from busy areas."
+        },
+        {
+          "name": "Village Beaches Near Struga",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=41.1835%2C20.6685",
+          "description": "Less-crowded lakeside beaches just outside town."
+        }
+      ]
+    },
+
+    {
+      "name": "Tetovo",
+      "interests": [
+        {
+          "name": "Šarena Džamija (Painted Mosque)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.0106%2C20.9731",
+          "description": "A unique 15th-century mosque famous for its colorful exterior and interior paintings, unlike any other mosque in the Balkans."
+        },
+        {
+          "name": "Arabati Baba Tekke",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.0129%2C20.9718",
+          "description": "A historic Bektashi dervish complex with courtyards, guest rooms, and a calm spiritual atmosphere."
+        },
+        {
+          "name": "Popova Šapka (Shar Mountains)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.0030%2C20.8885",
+          "description": "A mountain resort above Tetovo, popular for hiking, skiing, and panoramic alpine views."
+        }
+      ],
+      "local_food_tip": "Try Tetovo-style tavče gravče, grilled meats, burek, and local cheeses at traditional restaurants.",
+      "full_day": {
+        "morning": "Start your visit at the <a href=\"https://www.google.com/maps/search/?api=1&query=42.0106%2C20.9731\" target=\"_blank\" rel=\"noopener\">Painted Mosque</a> 🎨, exploring its colorful details and courtyard.",
+        "afternoon": "Walk to the nearby <a href=\"https://www.google.com/maps/search/?api=1&query=42.0129%2C20.9718\" target=\"_blank\" rel=\"noopener\">Arabati Baba Tekke</a> 🕌, then have lunch in the city center.",
+        "sunset": "Head toward <a href=\"https://www.google.com/maps/search/?api=1&query=42.0030%2C20.8885\" target=\"_blank\" rel=\"noopener\">Popova Šapka</a> 🌅 for mountain views if weather allows.",
+        "night": "Enjoy a relaxed dinner in Tetovo 🍽️ or a quiet café evening."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Mountain Season",
+          "description": "Spring brings fresh greenery and mild temperatures in the city and mountains.",
+          "ideas": [
+            {
+              "name": "City Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0100%2C20.9740",
+              "description": "Comfortable weather for sightseeing."
+            },
+            {
+              "name": "Tekke Courtyard Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0129%2C20.9718",
+              "description": "Peaceful atmosphere and blooming gardens."
+            },
+            {
+              "name": "Early Mountain Hikes",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0030%2C20.8885",
+              "description": "Snow melts and trails reopen."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Summer Mountain Escapes",
+          "description": "Warm days in the city and cooler air in the Shar Mountains.",
+          "ideas": [
+            {
+              "name": "Popova Šapka Day Trips",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0030%2C20.8885",
+              "description": "Hiking and fresh mountain air."
+            },
+            {
+              "name": "Evening City Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0105%2C20.9750",
+              "description": "Social life after sunset."
+            },
+            {
+              "name": "Cultural Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0106%2C20.9731",
+              "description": "Historic landmarks in warm evenings."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Colors in the Shar Mountains",
+          "description": "Cooler temperatures and colorful landscapes define autumn.",
+          "ideas": [
+            {
+              "name": "Mountain Photography",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0030%2C20.8885",
+              "description": "Golden forests and clear skies."
+            },
+            {
+              "name": "Historic Site Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0106%2C20.9731",
+              "description": "Comfortable sightseeing season."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0105%2C20.9750",
+              "description": "Hearty autumn dishes."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Popova Šapka Ski Season",
+          "description": "Winter brings snow to the mountains and a colder but lively ski atmosphere.",
+          "ideas": [
+            {
+              "name": "Skiing at Popova Šapka",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0030%2C20.8885",
+              "description": "One of North Macedonia’s main ski resorts."
+            },
+            {
+              "name": "City Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0105%2C20.9750",
+              "description": "Warm drinks after cold days."
+            },
+            {
+              "name": "Cultural Landmarks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.0129%2C20.9718",
+              "description": "Quiet winter visits."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses connect Tetovo with Skopje and other western cities.",
+          "link": "https://www.sas.com.mk"
+        },
+        {
+          "tip": "Local taxis are affordable within the city.",
+          "link": "https://macedonia-timeless.com"
+        },
+        {
+          "tip": "Road access to Popova Šapka is seasonal in winter.",
+          "link": "https://macedonia-timeless.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Shar Mountain Winter Season",
+          "season": "Winter",
+          "description": "Ski and snow activities centered around Popova Šapka.",
+          "website": "https://macedonia-timeless.com",
+          "dates": "December–March (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Tetovo City Center",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.0105%2C20.9750",
+          "description": "The lively heart of Tetovo with shops, cafés, and everyday local life."
+        },
+        {
+          "name": "Shar Mountains National Park Area",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.0035%2C20.8900",
+          "description": "A vast mountain area ideal for hiking, skiing, and nature exploration."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Old Ottoman Houses",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.0115%2C20.9725",
+          "description": "Traditional residential architecture tucked away from main streets."
+        },
+        {
+          "name": "Mountain View Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.0095%2C20.9695",
+          "description": "Small cafés offering views toward the Shar Mountains."
+        }
+      ]
+    }
+
+  ]
+}

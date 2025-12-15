@@ -1,0 +1,861 @@
+{
+  "name": "Ireland",
+  "cities": [
+    {
+  "name": "Cork",
+  "interests": [
+    {
+      "name": "English Market",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=51.8979%2C-8.4726",
+      "description": "Historic covered market operating since 1788, famous for local produce, cheeses, fish, and baked goods."
+    },
+    {
+      "name": "St. Fin Barre’s Cathedral",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=51.8966%2C-8.4865",
+      "description": "Striking Gothic Revival cathedral with ornate stonework and city views from the grounds."
+    },
+    {
+      "name": "Cork City Gaol",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=51.9031%2C-8.4942",
+      "description": "Former 19th-century prison turned museum, offering insight into Cork’s social history."
+    },
+    {
+      "name": "Fitzgerald Park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=51.8987%2C-8.5056",
+      "description": "Riverside park with walking paths, sculptures, and the Cork Public Museum."
+    },
+    {
+      "name": "Elizabeth Fort",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=51.8958%2C-8.4773",
+      "description": "Star-shaped fort offering panoramic views over Cork’s rooftops."
+    }
+  ],
+  "local_food_tip": "Try local specialties like drisheen, fresh seafood from the coast, artisan cheeses, soda bread, and dishes featuring Cork’s famous butter.",
+  "full_day": {
+    "Morning": "Start with breakfast at the <a href=\"https://www.google.com/maps/search/?api=1&query=51.8979%2C-8.4726\" target=\"_blank\" rel=\"noopener\">English Market</a> ☀️, sampling local flavors.",
+    "Afternoon": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=51.9031%2C-8.4942\" target=\"_blank\" rel=\"noopener\">Cork City Gaol</a> 🏛️, then stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=51.8987%2C-8.5056\" target=\"_blank\" rel=\"noopener\">Fitzgerald Park</a> 🍽️.",
+    "Sunset": "Head to <a href=\"https://www.google.com/maps/search/?api=1&query=51.8958%2C-8.4773\" target=\"_blank\" rel=\"noopener\">Elizabeth Fort</a> 🌅 for city views.",
+    "Night": "Dinner in the city center ✨ followed by traditional music in a local pub."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Spring in Cork",
+      "description": "Mild weather, blooming parks, and lively street life.",
+      "ideas": [
+        {
+          "name": "River Lee walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8995%2C-8.4740",
+          "description": "Fresh greenery along the riverbanks."
+        },
+        {
+          "name": "Park visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8987%2C-8.5056",
+          "description": "Relaxed outdoor time."
+        },
+        {
+          "name": "Market tastings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8979%2C-8.4726",
+          "description": "Seasonal local produce."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Cork Midsummer Festival",
+      "description": "Arts festival with performances across the city.",
+      "ideas": [
+        {
+          "name": "Outdoor performances",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8990%2C-8.4750",
+          "description": "Theatre and music in open spaces."
+        },
+        {
+          "name": "Day trips to Cobh",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8506%2C-8.2963",
+          "description": "Harbor town and Titanic history."
+        },
+        {
+          "name": "Evening river walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8995%2C-8.4740",
+          "description": "Long summer evenings."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Guinness Cork Jazz Festival",
+      "description": "Major international jazz festival attracting artists worldwide.",
+      "ideas": [
+        {
+          "name": "Jazz concerts",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8990%2C-8.4750",
+          "description": "Live music throughout the city."
+        },
+        {
+          "name": "Cultural walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8958%2C-8.4773",
+          "description": "Historic streets in autumn colors."
+        },
+        {
+          "name": "Museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.9003%2C-8.5035",
+          "description": "Indoor culture during cooler days."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Cork Christmas Celebration",
+      "description": "Festive lights, markets, and seasonal cheer.",
+      "ideas": [
+        {
+          "name": "Christmas markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8970%2C-8.4730",
+          "description": "Local crafts and treats."
+        },
+        {
+          "name": "Cathedral visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8966%2C-8.4865",
+          "description": "Quiet winter sightseeing."
+        },
+        {
+          "name": "Cozy pubs",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.8985%2C-8.4745",
+          "description": "Warm atmosphere and live music."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Local buses connect the city center with suburbs and attractions.",
+      "link": "https://www.buseireann.ie/"
+    },
+    {
+      "tip": "Cork city center is compact and walkable.",
+      "link": "https://www.corkcity.ie/"
+    },
+    {
+      "tip": "Trains connect Cork with Dublin and other Irish cities.",
+      "link": "https://www.irishrail.ie/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Guinness Cork Jazz Festival",
+      "season": "autumn",
+      "description": "One of Europe’s leading jazz festivals.",
+      "website": "https://www.corkjazzfestival.com/",
+      "dates": "October"
+    }
+  ],
+  "places": [
+    {
+      "name": "University College Cork (UCC)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=51.8937%2C-8.4923",
+      "description": "Historic university campus with Gothic architecture and green grounds."
+    },
+    {
+      "name": "Cork Public Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=51.8980%2C-8.5045",
+      "description": "Museum in Fitzgerald Park showcasing Cork’s history."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Shakey Bridge (Dalys Bridge)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=51.8989%2C-8.5112",
+      "description": "Historic pedestrian suspension bridge with a fun wobble."
+    },
+    {
+      "name": "Early-morning English Market",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=51.8979%2C-8.4726",
+      "description": "Best time to see locals shopping and stalls setting up."
+    }
+  ]
+},
+
+{
+  "name": "Dublin",
+  "interests": [
+    {
+      "name": "Trinity College & Book of Kells",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.3438%2C-6.2546",
+      "description": "Ireland’s oldest university, famous for the illuminated medieval manuscript and the Long Room library."
+    },
+    {
+      "name": "Guinness Storehouse",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.3419%2C-6.2868",
+      "description": "Seven-floor interactive museum telling the story of Ireland’s most famous stout, ending with city views from the Gravity Bar."
+    },
+    {
+      "name": "Dublin Castle",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.3429%2C-6.2675",
+      "description": "Historic complex that played a central role in Irish governance for centuries."
+    },
+    {
+      "name": "Temple Bar District",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.3456%2C-6.2640",
+      "description": "Cultural quarter known for cobbled streets, pubs, live music, and galleries."
+    },
+    {
+      "name": "Phoenix Park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.3550%2C-6.3290",
+      "description": "One of Europe’s largest urban parks, home to wild deer, Dublin Zoo, and the Irish President’s residence."
+    }
+  ],
+  "local_food_tip": "Try Irish stew, seafood chowder, soda bread, fish and chips, and locally brewed beers. Traditional pubs often serve hearty, classic dishes.",
+  "full_day": {
+    "Morning": "Start at <a href=\"https://www.google.com/maps/search/?api=1&query=53.3438%2C-6.2546\" target=\"_blank\" rel=\"noopener\">Trinity College</a> ☀️ to see the Book of Kells and stroll the campus.",
+    "Afternoon": "Explore <a href=\"https://www.google.com/maps/search/?api=1&query=53.3429%2C-6.2675\" target=\"_blank\" rel=\"noopener\">Dublin Castle</a> 🏛️, then enjoy lunch near Grafton Street 🍽️.",
+    "Sunset": "Walk along the River Liffey or relax in <a href=\"https://www.google.com/maps/search/?api=1&query=53.3550%2C-6.3290\" target=\"_blank\" rel=\"noopener\">Phoenix Park</a> 🌅.",
+    "Night": "Dinner and live music in <a href=\"https://www.google.com/maps/search/?api=1&query=53.3456%2C-6.2640\" target=\"_blank\" rel=\"noopener\">Temple Bar</a> ✨."
+  },
+  "seasons": {
+    "spring": {
+      "event": "St. Patrick’s Festival",
+      "description": "Parades, music, and cultural events celebrating Ireland’s patron saint.",
+      "ideas": [
+        {
+          "name": "City center walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3440%2C-6.2600",
+          "description": "Mild weather and blooming parks."
+        },
+        {
+          "name": "Phoenix Park strolls",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3550%2C-6.3290",
+          "description": "Green spaces come alive."
+        },
+        {
+          "name": "Museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3395%2C-6.2525",
+          "description": "Comfortable indoor culture."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Dublin Summer Culture",
+      "description": "Longer days with outdoor concerts, festivals, and lively streets.",
+      "ideas": [
+        {
+          "name": "River Liffey walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3460%2C-6.2600",
+          "description": "Pleasant evening strolls."
+        },
+        {
+          "name": "Day trips to Howth",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3875%2C-6.0650",
+          "description": "Coastal village and cliff walks."
+        },
+        {
+          "name": "Outdoor dining",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3456%2C-6.2640",
+          "description": "Lively summer atmosphere."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Dublin Theatre Festival",
+      "description": "Major cultural event featuring Irish and international theatre.",
+      "ideas": [
+        {
+          "name": "Theatre performances",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3430%2C-6.2610",
+          "description": "Cultural highlights across the city."
+        },
+        {
+          "name": "Autumn park walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3550%2C-6.3290",
+          "description": "Golden leaves in large parks."
+        },
+        {
+          "name": "Café culture",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3435%2C-6.2585",
+          "description": "Cozy city cafés."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Dublin Christmas Season",
+      "description": "Festive lights, markets, and warm pub culture.",
+      "ideas": [
+        {
+          "name": "Christmas markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3445%2C-6.2660",
+          "description": "Seasonal food and gifts."
+        },
+        {
+          "name": "Museum hopping",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3395%2C-6.2525",
+          "description": "Indoor cultural escapes."
+        },
+        {
+          "name": "Traditional pubs",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.3450%2C-6.2620",
+          "description": "Live music and warm atmosphere."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Buses, trams (Luas), and trains (DART) cover the city and coastline.",
+      "link": "https://www.transportforireland.ie/"
+    },
+    {
+      "tip": "Dublin city center is compact and walkable.",
+      "link": "https://www.dublincity.ie/"
+    },
+    {
+      "tip": "Dublin Airport is connected by frequent bus services.",
+      "link": "https://www.dublinairport.com/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "St. Patrick’s Festival",
+      "season": "spring",
+      "description": "Ireland’s largest cultural celebration with parades and performances.",
+      "website": "https://stpatricksfestival.ie/",
+      "dates": "March"
+    }
+  ],
+  "places": [
+    {
+      "name": "Grafton Street",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.3425%2C-6.2595",
+      "description": "Main pedestrian shopping street with buskers and cafés."
+    },
+    {
+      "name": "Kilmainham Gaol",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.3422%2C-6.3095",
+      "description": "Historic prison turned museum, central to Ireland’s independence story."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "St. Stephen’s Green early morning",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.3389%2C-6.2590",
+      "description": "Peaceful city park before crowds arrive."
+    },
+    {
+      "name": "Iveagh Gardens",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.3375%2C-6.2595",
+      "description": "Quiet Victorian garden tucked away near the city center."
+    }
+  ]
+},
+
+{
+  "name": "Galway",
+  "interests": [
+    {
+      "name": "Eyre Square",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.2744%2C-9.0495",
+      "description": "Central public square and main meeting point of Galway, surrounded by shops, cafés, and historic monuments."
+    },
+    {
+      "name": "Latin Quarter",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.2716%2C-9.0568",
+      "description": "Colorful historic district with narrow streets, traditional pubs, street performers, and boutiques."
+    },
+    {
+      "name": "Spanish Arch",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.2696%2C-9.0536",
+      "description": "Remnant of the city’s medieval walls located by the River Corrib near the harbor."
+    },
+    {
+      "name": "Galway Cathedral",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.2747%2C-9.0570",
+      "description": "Impressive cathedral combining Renaissance, Romanesque, and Gothic styles overlooking the river."
+    },
+    {
+      "name": "Salthill Promenade",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.2575%2C-9.0845",
+      "description": "Seaside promenade offering views over Galway Bay and the Atlantic Ocean."
+    }
+  ],
+  "local_food_tip": "Try fresh Atlantic seafood, Galway oysters, seafood chowder, soda bread, and locally brewed craft beers in traditional pubs.",
+  "full_day": {
+    "Morning": "Start at <a href=\"https://www.google.com/maps/search/?api=1&query=53.2744%2C-9.0495\" target=\"_blank\" rel=\"noopener\">Eyre Square</a> ☀️, then wander through the <a href=\"https://www.google.com/maps/search/?api=1&query=53.2716%2C-9.0568\" target=\"_blank\" rel=\"noopener\">Latin Quarter</a>.",
+    "Afternoon": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=53.2747%2C-9.0570\" target=\"_blank\" rel=\"noopener\">Galway Cathedral</a> 🏛️, followed by lunch near the River Corrib 🍽️.",
+    "Sunset": "Walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=53.2575%2C-9.0845\" target=\"_blank\" rel=\"noopener\">Salthill Promenade</a> 🌅.",
+    "Night": "Dinner and live traditional music ✨ in a pub in the Latin Quarter."
+  },
+  "seasons": {
+    "spring": {
+      "event": "St. Patrick’s Festival Galway",
+      "description": "Parades and cultural celebrations with a strong local community feel.",
+      "ideas": [
+        {
+          "name": "City walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2716%2C-9.0568",
+          "description": "Mild weather and lively streets."
+        },
+        {
+          "name": "River Corrib strolls",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2735%2C-9.0560",
+          "description": "Fresh spring air by the river."
+        },
+        {
+          "name": "Museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2698%2C-9.0530",
+          "description": "Indoor cultural exploration."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Galway International Arts Festival",
+      "description": "Major arts festival with music, theatre, and street performances.",
+      "ideas": [
+        {
+          "name": "Festival events",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2716%2C-9.0568",
+          "description": "Performances throughout the city."
+        },
+        {
+          "name": "Beach visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2575%2C-9.0845",
+          "description": "Sea air and coastal walks."
+        },
+        {
+          "name": "Day trips to Connemara",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.5000%2C-9.8000",
+          "description": "Wild landscapes and scenic drives."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Galway Oyster Festival",
+      "description": "Celebration of Galway’s famous oysters with food and music.",
+      "ideas": [
+        {
+          "name": "Food festival visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2696%2C-9.0536",
+          "description": "Seafood tastings and events."
+        },
+        {
+          "name": "Autumn city walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2744%2C-9.0495",
+          "description": "Cooler weather and fewer crowds."
+        },
+        {
+          "name": "Café culture",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2720%2C-9.0550",
+          "description": "Relaxed evenings indoors."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Galway Christmas Market",
+      "description": "Festive stalls, lights, and seasonal treats in Eyre Square.",
+      "ideas": [
+        {
+          "name": "Christmas market",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2744%2C-9.0495",
+          "description": "Holiday atmosphere and food."
+        },
+        {
+          "name": "Museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2698%2C-9.0530",
+          "description": "Warm indoor activities."
+        },
+        {
+          "name": "Traditional pubs",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=53.2716%2C-9.0568",
+          "description": "Music and cozy evenings."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Local buses connect the city center with suburbs and Salthill.",
+      "link": "https://www.buseireann.ie/"
+    },
+    {
+      "tip": "Galway city center is compact and ideal for walking.",
+      "link": "https://www.galwaycity.ie/"
+    },
+    {
+      "tip": "Trains and buses connect Galway with Dublin and the west of Ireland.",
+      "link": "https://www.irishrail.ie/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Galway International Arts Festival",
+      "season": "summer",
+      "description": "One of Ireland’s leading arts festivals with international performers.",
+      "website": "https://giaf.ie/",
+      "dates": "July"
+    }
+  ],
+  "places": [
+    {
+      "name": "Galway City Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.2698%2C-9.0530",
+      "description": "Museum showcasing the history, archaeology, and culture of Galway."
+    },
+    {
+      "name": "Claddagh",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.2700%2C-9.0605",
+      "description": "Former fishing village famous for the Claddagh ring tradition."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Long Walk",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.2705%2C-9.0555",
+      "description": "Picturesque waterfront street with colorful houses by the harbor."
+    },
+    {
+      "name": "Early-morning Salthill",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=53.2575%2C-9.0845",
+      "description": "Quiet seaside atmosphere before visitors arrive."
+    }
+  ]
+},
+
+{
+  "name": "Killarney",
+  "interests": [
+    {
+      "name": "Killarney National Park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.0045%2C-9.5105",
+      "description": "Ireland’s first national park, famous for lakes, mountains, forests, and native red deer."
+    },
+    {
+      "name": "Muckross House & Gardens",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.0058%2C-9.5087",
+      "description": "19th-century mansion set within Killarney National Park, surrounded by landscaped gardens."
+    },
+    {
+      "name": "Ross Castle",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.0170%2C-9.5080",
+      "description": "Well-preserved medieval tower house on the shores of Lough Leane."
+    },
+    {
+      "name": "Ladies View",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=51.9815%2C-9.5375",
+      "description": "Famous viewpoint overlooking lakes and valleys along the Ring of Kerry."
+    },
+    {
+      "name": "Torc Waterfall",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.0010%2C-9.5055",
+      "description": "Scenic waterfall reached by a short forest walk near Muckross."
+    }
+  ],
+  "local_food_tip": "Try traditional Irish stews, fresh Atlantic seafood, soda bread, and locally sourced lamb. Many pubs offer hearty meals and live music.",
+  "full_day": {
+    "Morning": "Begin at <a href=\"https://www.google.com/maps/search/?api=1&query=52.0170%2C-9.5080\" target=\"_blank\" rel=\"noopener\">Ross Castle</a> ☀️ and enjoy lakeside views.",
+    "Afternoon": "Explore <a href=\"https://www.google.com/maps/search/?api=1&query=52.0058%2C-9.5087\" target=\"_blank\" rel=\"noopener\">Muckross House & Gardens</a> 🏛️, then lunch in the park 🍽️.",
+    "Sunset": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=51.9815%2C-9.5375\" target=\"_blank\" rel=\"noopener\">Ladies View</a> 🌅.",
+    "Night": "Dinner in Killarney town ✨ with traditional Irish music in a pub."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Spring in Killarney",
+      "description": "Blooming rhododendrons and fresh green landscapes.",
+      "ideas": [
+        {
+          "name": "National park walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0045%2C-9.5105",
+          "description": "Mild weather and vibrant scenery."
+        },
+        {
+          "name": "Waterfall visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0010%2C-9.5055",
+          "description": "Strong spring water flow."
+        },
+        {
+          "name": "Garden exploration",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0058%2C-9.5087",
+          "description": "Seasonal flowers in bloom."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Summer in Killarney National Park",
+      "description": "Long days ideal for hiking, cycling, and lake activities.",
+      "ideas": [
+        {
+          "name": "Boat trips on Lough Leane",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0155%2C-9.5090",
+          "description": "Scenic lake cruises."
+        },
+        {
+          "name": "Hiking trails",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0025%2C-9.5115",
+          "description": "Mountain and forest paths."
+        },
+        {
+          "name": "Evening town strolls",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0600%2C-9.5050",
+          "description": "Lively summer atmosphere."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Autumn Colors in Killarney",
+      "description": "Golden forests and quieter trails.",
+      "ideas": [
+        {
+          "name": "Photography walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0045%2C-9.5105",
+          "description": "Colorful reflections on the lakes."
+        },
+        {
+          "name": "Ring of Kerry drives",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=51.9815%2C-9.5375",
+          "description": "Scenic coastal and mountain routes."
+        },
+        {
+          "name": "Café stops",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0600%2C-9.5050",
+          "description": "Relaxed autumn evenings."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Quiet Winter Season",
+      "description": "Peaceful landscapes with occasional snow on the mountains.",
+      "ideas": [
+        {
+          "name": "Lakeside walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0170%2C-9.5080",
+          "description": "Calm winter scenery."
+        },
+        {
+          "name": "Historic house visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0058%2C-9.5087",
+          "description": "Cultural focus indoors."
+        },
+        {
+          "name": "Cozy pub evenings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.0600%2C-9.5050",
+          "description": "Fireplaces and local music."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Trains and buses connect Killarney with Dublin, Cork, and Kerry.",
+      "link": "https://www.irishrail.ie/"
+    },
+    {
+      "tip": "Local jaunting cars and bike rentals are popular for park visits.",
+      "link": "https://killarney.ie/"
+    },
+    {
+      "tip": "Car rental is useful for exploring the Ring of Kerry.",
+      "link": "https://www.discoverireland.ie/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Killarney SummerFest",
+      "season": "summer",
+      "description": "Town festival with music, family events, and street entertainment.",
+      "website": "https://www.killarneysummerfest.com/",
+      "dates": "July"
+    }
+  ],
+  "places": [
+    {
+      "name": "Gap of Dunloe",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.0105%2C-9.6790",
+      "description": "Dramatic mountain pass near Killarney, popular for walking and cycling."
+    },
+    {
+      "name": "Innisfallen Island",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.0160%2C-9.5205",
+      "description": "Historic island monastery reachable by boat on Lough Leane."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Early-morning Ross Castle",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.0170%2C-9.5080",
+      "description": "Peaceful reflections on the lake before crowds arrive."
+    },
+    {
+      "name": "Quiet forest paths near Muckross",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.0025%2C-9.5115",
+      "description": "Less-visited trails in the national park."
+    }
+  ]
+},
+
+{
+  "name": "Limerick",
+  "interests": [
+    {
+      "name": "King John’s Castle",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.6677%2C-8.6236",
+      "description": "Impressive 13th-century Norman castle on King’s Island with interactive exhibitions and river views."
+    },
+    {
+      "name": "St. Mary’s Cathedral",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.6668%2C-8.6249",
+      "description": "Limerick’s oldest building, founded in 1168, showcasing Romanesque and Gothic architecture."
+    },
+    {
+      "name": "Hunt Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.6639%2C-8.6231",
+      "description": "Museum housing an eclectic private collection of art, archaeology, and design from around the world."
+    },
+    {
+      "name": "River Shannon Walks",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.6655%2C-8.6265",
+      "description": "Scenic riverside paths through the city with historic bridges and viewpoints."
+    },
+    {
+      "name": "People’s Park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.6566%2C-8.6244",
+      "description": "Victorian-era city park with flowerbeds, playgrounds, and seasonal events."
+    }
+  ],
+  "local_food_tip": "Try traditional Irish dishes like bacon and cabbage, seafood chowder, soda bread, and local cheeses. Pubs often serve hearty meals with regional produce.",
+  "full_day": {
+    "Morning": "Start at <a href=\"https://www.google.com/maps/search/?api=1&query=52.6677%2C-8.6236\" target=\"_blank\" rel=\"noopener\">King John’s Castle</a> ☀️ to explore medieval Limerick.",
+    "Afternoon": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=52.6639%2C-8.6231\" target=\"_blank\" rel=\"noopener\">The Hunt Museum</a> 🏛️, then enjoy lunch by the River Shannon 🍽️.",
+    "Sunset": "Walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=52.6655%2C-8.6265\" target=\"_blank\" rel=\"noopener\">River Shannon</a> 🌅 and cross one of the historic bridges.",
+    "Night": "Dinner in the city center ✨ followed by live music in a traditional pub."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Spring in Limerick",
+      "description": "Mild temperatures and blooming parks make the city pleasant to explore.",
+      "ideas": [
+        {
+          "name": "City walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6655%2C-8.6265",
+          "description": "Comfortable weather for riverside strolls."
+        },
+        {
+          "name": "Park visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6566%2C-8.6244",
+          "description": "Fresh greenery in People’s Park."
+        },
+        {
+          "name": "Museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6639%2C-8.6231",
+          "description": "Indoor culture on cooler days."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Riverfest Limerick",
+      "description": "Major summer festival celebrating the River Shannon with music, food, and fireworks.",
+      "ideas": [
+        {
+          "name": "Festival events",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6670%2C-8.6245",
+          "description": "River-based activities and concerts."
+        },
+        {
+          "name": "Outdoor dining",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6640%2C-8.6250",
+          "description": "Lively summer atmosphere."
+        },
+        {
+          "name": "Day trips",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.5340%2C-9.2950",
+          "description": "Easy access to the Clare countryside."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Autumn Cultural Season",
+      "description": "Quieter city life with theatre, music, and arts events.",
+      "ideas": [
+        {
+          "name": "Historic walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6668%2C-8.6249",
+          "description": "Golden light on medieval streets."
+        },
+        {
+          "name": "Gallery visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6639%2C-8.6231",
+          "description": "Strong local cultural scene."
+        },
+        {
+          "name": "Café culture",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6645%2C-8.6255",
+          "description": "Relaxed autumn evenings."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Christmas in Limerick",
+      "description": "Festive lights, markets, and seasonal events in the city center.",
+      "ideas": [
+        {
+          "name": "Christmas markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6650%2C-8.6250",
+          "description": "Seasonal food and gifts."
+        },
+        {
+          "name": "Museum hopping",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6639%2C-8.6231",
+          "description": "Warm indoor attractions."
+        },
+        {
+          "name": "Cozy pubs",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=52.6658%2C-8.6240",
+          "description": "Fireplaces and live music."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Local buses cover the city and suburbs efficiently.",
+      "link": "https://www.buseireann.ie/"
+    },
+    {
+      "tip": "Limerick city center is compact and walkable.",
+      "link": "https://www.limerick.ie/"
+    },
+    {
+      "tip": "Trains connect Limerick with Dublin, Cork, and Galway.",
+      "link": "https://www.irishrail.ie/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Riverfest Limerick",
+      "season": "summer",
+      "description": "One of Ireland’s largest free festivals celebrating the River Shannon.",
+      "website": "https://www.riverfestlimerick.ie/",
+      "dates": "May"
+    }
+  ],
+  "places": [
+    {
+      "name": "Milk Market",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.6652%2C-8.6218",
+      "description": "Historic covered market operating on weekends with local food and crafts."
+    },
+    {
+      "name": "Thomond Park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.6810%2C-8.6420",
+      "description": "Iconic rugby stadium and museum, central to Limerick’s sporting identity."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Early-morning King’s Island",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.6677%2C-8.6236",
+      "description": "Quiet streets and river views before the city gets busy."
+    },
+    {
+      "name": "University of Limerick Riverside Walks",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=52.6738%2C-8.5723",
+      "description": "Peaceful riverside paths and modern architecture just outside the city center."
+    }
+  ]
+}
+
+
+  ]
+}

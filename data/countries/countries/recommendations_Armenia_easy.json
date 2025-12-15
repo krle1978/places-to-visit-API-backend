@@ -1,0 +1,859 @@
+{
+  "name": "Armenia",
+  "cities": [
+    {
+  "name": "Dilijan",
+  "interests": [
+    {
+      "name": "Dilijan National Park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7411%2C44.8630",
+      "description": "Lush forested park known as the ‘Armenian Switzerland,’ with hiking trails, rivers, viewpoints, and rich biodiversity."
+    },
+    {
+      "name": "Sharambeyan Street (Old Dilijan Complex)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7405%2C44.8638",
+      "description": "Reconstructed historic street with traditional wooden houses, craft shops, museums, and cafés."
+    },
+    {
+      "name": "Haghartsin Monastery",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8022%2C44.8908",
+      "description": "13th-century medieval monastery hidden deep in the forest, one of the most atmospheric sites in northern Armenia."
+    },
+    {
+      "name": "Goshavank Monastery",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7318%2C44.9936",
+      "description": "Historic monastery complex near Gosh village, famous for khachkars (cross-stones) and cultural heritage."
+    },
+    {
+      "name": "Parz Lake (Parz Lich)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7724%2C44.8997",
+      "description": "Peaceful forest lake ideal for walking, pedal boats, and quiet nature breaks."
+    }
+  ],
+  "local_food_tip": "Try local taverns for khorovats (grilled meats), fresh herbs, lavash bread, forest honey, and herbal teas. Trout from nearby streams is a regional favorite.",
+  "full_day": {
+    "Morning": "Start with a relaxed walk along <a href=\"https://www.google.com/maps/search/?api=1&query=40.7405%2C44.8638\" target=\"_blank\" rel=\"noopener\">Sharambeyan Street</a> ☀️, explore craft shops, and enjoy Armenian coffee in a traditional setting.",
+    "Afternoon": "Drive or take a taxi to <a href=\"https://www.google.com/maps/search/?api=1&query=40.8022%2C44.8908\" target=\"_blank\" rel=\"noopener\">Haghartsin Monastery</a> 🏛️, then continue to <a href=\"https://www.google.com/maps/search/?api=1&query=40.7724%2C44.8997\" target=\"_blank\" rel=\"noopener\">Parz Lake</a> 🌲 for a nature break.",
+    "Sunset": "Return via forest roads or viewpoints inside <a href=\"https://www.google.com/maps/search/?api=1&query=40.7411%2C44.8630\" target=\"_blank\" rel=\"noopener\">Dilijan National Park</a> 🌄 as the light softens over the hills.",
+    "Night": "Dinner in town 🍽️ with local dishes, followed by a calm evening walk under the cool mountain air."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Forest Bloom Season",
+      "description": "Fresh greenery, flowers, and flowing streams—ideal for hiking and monastery visits.",
+      "ideas": [
+        {
+          "name": "National Park hikes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7411%2C44.8630",
+          "description": "Comfortable temperatures and vibrant nature."
+        },
+        {
+          "name": "Sharambeyan Street strolls",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7405%2C44.8638",
+          "description": "Quiet atmosphere before summer visitors."
+        },
+        {
+          "name": "Goshavank visit",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7318%2C44.9936",
+          "description": "Pleasant weather for cultural exploration."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Dilijan International Music & Arts Events",
+      "description": "Cool mountain climate attracts visitors escaping city heat; outdoor concerts and festivals appear.",
+      "ideas": [
+        {
+          "name": "Parz Lake relaxation",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7724%2C44.8997",
+          "description": "Shade and fresh air by the water."
+        },
+        {
+          "name": "Haghartsin forest walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8022%2C44.8908",
+          "description": "Cooler temperatures under dense trees."
+        },
+        {
+          "name": "Evening cafés in town",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7405%2C44.8638",
+          "description": "Relaxed nights and local music."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Autumn Foliage Season",
+      "description": "Golden and red forests make Dilijan one of Armenia’s top autumn destinations.",
+      "ideas": [
+        {
+          "name": "Forest photography trails",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7411%2C44.8630",
+          "description": "Peak color season in the park."
+        },
+        {
+          "name": "Monastery visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8022%2C44.8908",
+          "description": "Dramatic scenery with fewer crowds."
+        },
+        {
+          "name": "Local food tasting",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7405%2C44.8638",
+          "description": "Seasonal dishes and warm drinks."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Quiet Mountain Winter",
+      "description": "Snowy forests, peaceful streets, and cozy guesthouses define Dilijan in winter.",
+      "ideas": [
+        {
+          "name": "Snowy park walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7411%2C44.8630",
+          "description": "Short, careful walks in fresh snow."
+        },
+        {
+          "name": "Museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7405%2C44.8638",
+          "description": "Indoor cultural activities."
+        },
+        {
+          "name": "Guesthouse evenings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7400%2C44.8645",
+          "description": "Warm meals and fireplaces."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Marshrutka minibuses connect Dilijan with Yerevan several times daily.",
+      "link": "https://www.armeniatravel.am/"
+    },
+    {
+      "tip": "Taxis are the easiest way to reach monasteries and Parz Lake.",
+      "link": "https://www.armeniatravel.am/"
+    },
+    {
+      "tip": "Distances are short, but mountain roads can be winding—allow extra travel time.",
+      "link": "https://www.armeniatravel.am/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Dilijan International Music Festival",
+      "season": "summer",
+      "description": "Classical and contemporary performances set in Dilijan’s mountain surroundings.",
+      "website": "https://www.visitarmenia.org/",
+      "dates": "July–August"
+    }
+  ],
+  "places": [
+    {
+      "name": "Dilijan Local Lore Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7409%2C44.8644",
+      "description": "Small museum showcasing local history, crafts, and everyday life."
+    },
+    {
+      "name": "United World College Dilijan",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7672%2C44.8619",
+      "description": "International school campus set in nature, symbolizing Dilijan’s modern revival."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Hidden forest chapels near Haghartsin",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8040%2C44.8925",
+      "description": "Small, quiet religious sites tucked into the woods."
+    },
+    {
+      "name": "Early-morning Parz Lake",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7724%2C44.8997",
+      "description": "Mirror-like water and near silence before visitors arrive."
+    }
+  ]
+},
+{
+  "name": "Gyumri",
+  "interests": [
+    {
+      "name": "Kumayri Historic District",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+      "description": "Preserved 19th-century district with black tuff stone houses, narrow streets, and a strong artistic identity."
+    },
+    {
+      "name": "Vartanants Square",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466",
+      "description": "Main square of Gyumri, surrounded by museums, churches, and public buildings."
+    },
+    {
+      "name": "Black Fortress (Sev Berd)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7786%2C43.8219",
+      "description": "19th-century Russian fortress on a hill overlooking the city, offering wide views and open space."
+    },
+    {
+      "name": "Mother Armenia Monument (Gyumri)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7769%2C43.8195",
+      "description": "Monument honoring resilience and strength, located near the Black Fortress."
+    },
+    {
+      "name": "Dzitoghtsyan Museum of National Architecture and Urban Life",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7867%2C43.8453",
+      "description": "Museum inside a traditional house showing everyday life, crafts, and traditions of Gyumri."
+    }
+  ],
+  "local_food_tip": "Try Gyumri’s hearty dishes such as kyalla (traditional soup), local kebabs, handmade bread, and sweets from old bakeries. Coffee culture is strong—sit and chat like locals do.",
+  "full_day": {
+    "Morning": "Start in the <a href=\"https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458\" target=\"_blank\" rel=\"noopener\">Kumayri Historic District</a> ☀️, wandering through stone streets and artisan workshops. Continue to <a href=\"https://www.google.com/maps/search/?api=1&query=40.7867%2C43.8453\" target=\"_blank\" rel=\"noopener\">Dzitoghtsyan Museum</a> 🏠 to understand local life.",
+    "Afternoon": "Have lunch near <a href=\"https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466\" target=\"_blank\" rel=\"noopener\">Vartanants Square</a> 🍽️, then explore surrounding churches and galleries.",
+    "Sunset": "Head up to the <a href=\"https://www.google.com/maps/search/?api=1&query=40.7786%2C43.8219\" target=\"_blank\" rel=\"noopener\">Black Fortress</a> 🌄 for sunset views over Gyumri.",
+    "Night": "Dinner in a traditional tavern 🍲 and a calm evening walk through the old town."
+  },
+  "seasons": {
+    "spring": {
+      "event": "City Awakening Season",
+      "description": "Mild weather brings life back to streets and cafés after winter.",
+      "ideas": [
+        {
+          "name": "Old town walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+          "description": "Comfortable temperatures for exploring."
+        },
+        {
+          "name": "Museum hopping",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7867%2C43.8453",
+          "description": "Cultural focus before summer heat."
+        },
+        {
+          "name": "Café terraces",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466",
+          "description": "Local social life returns outdoors."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Gyumri Humor & Arts Season",
+      "description": "Warm days and cultural events highlight the city’s creative spirit.",
+      "ideas": [
+        {
+          "name": "Open-air cultural events",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466",
+          "description": "Festivals and performances in central squares."
+        },
+        {
+          "name": "Evening fortress visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7786%2C43.8219",
+          "description": "Cooler air and wide views."
+        },
+        {
+          "name": "Art workshops",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+          "description": "Gyumri’s creative spaces open to visitors."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Autumn Calm",
+      "description": "Cool air and golden light give the city a reflective mood.",
+      "ideas": [
+        {
+          "name": "Photography walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+          "description": "Soft light on black tuff buildings."
+        },
+        {
+          "name": "Traditional food tasting",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466",
+          "description": "Hearty meals as temperatures drop."
+        },
+        {
+          "name": "Museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7867%2C43.8453",
+          "description": "Quiet cultural afternoons."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Snowy Gyumri Winter",
+      "description": "Cold temperatures, snow-covered streets, and cozy indoor life.",
+      "ideas": [
+        {
+          "name": "Local museums",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7867%2C43.8453",
+          "description": "Warm indoor cultural stops."
+        },
+        {
+          "name": "Coffeehouse culture",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466",
+          "description": "Long conversations over hot drinks."
+        },
+        {
+          "name": "Winter city walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+          "description": "Atmospheric snowy streets."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Gyumri is connected to Yerevan by train and minibuses (marshrutkas).",
+      "link": "https://www.railway.am/"
+    },
+    {
+      "tip": "The city center is compact and walkable.",
+      "link": "https://www.visitarmenia.org/"
+    },
+    {
+      "tip": "Taxis are affordable for reaching outskirts like the Black Fortress.",
+      "link": "https://www.visitarmenia.org/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Gyumri Humor Festival",
+      "season": "summer",
+      "description": "Celebration of Gyumri’s famous humor and creative spirit.",
+      "website": "https://www.visitarmenia.org/",
+      "dates": "July"
+    }
+  ],
+  "places": [
+    {
+      "name": "Holy Saviour’s Church (Surb Amenaprkich)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7878%2C43.8456",
+      "description": "Large 19th-century church symbolizing the city’s resilience and restoration."
+    },
+    {
+      "name": "Seven Wounds of the Holy Mother of God Church",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7869%2C43.8475",
+      "description": "One of the most important active churches in Gyumri."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Local artist courtyards",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7855%2C43.8448",
+      "description": "Small creative spaces hidden behind stone gates."
+    },
+    {
+      "name": "Early-morning Kumayri streets",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+      "description": "Quiet atmosphere before the city wakes."
+    }
+  ]
+},
+
+{
+  "name": "Gyumri",
+  "interests": [
+    {
+      "name": "Kumayri Historic District",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+      "description": "Historic heart of Gyumri with preserved 19th-century black tuff stone houses, narrow streets, and a strong artistic identity shaped by resilience and humor."
+    },
+    {
+      "name": "Vartanants Square",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466",
+      "description": "Central square surrounded by churches, museums, and civic buildings—main gathering point for city life and events."
+    },
+    {
+      "name": "Dzitoghtsyan Museum of National Architecture and Urban Life",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7867%2C43.8453",
+      "description": "Museum inside a traditional Gyumri house showing everyday life, crafts, clothing, and customs of the Shirak region."
+    },
+    {
+      "name": "Black Fortress (Sev Berd)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7786%2C43.8219",
+      "description": "19th-century Russian fortress on a hill overlooking Gyumri, offering wide open space and panoramic views."
+    },
+    {
+      "name": "Mother Armenia Monument (Gyumri)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7769%2C43.8195",
+      "description": "Monument symbolizing strength and endurance, located near the Black Fortress."
+    }
+  ],
+  "local_food_tip": "Gyumri is famous for hearty Shirak cuisine—try kyalla (traditional soup), local kebabs, fresh lavash, and sweets from old bakeries. Coffeehouses are part of daily life, not a rush.",
+  "full_day": {
+    "Morning": "Start in the <a href=\"https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458\" target=\"_blank\" rel=\"noopener\">Kumayri Historic District</a> ☀️, wandering past stone houses, courtyards, and artist studios. Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=40.7867%2C43.8453\" target=\"_blank\" rel=\"noopener\">Dzitoghtsyan Museum</a> 🏠 to understand local traditions.",
+    "Afternoon": "Have lunch near <a href=\"https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466\" target=\"_blank\" rel=\"noopener\">Vartanants Square</a> 🍽️, then explore nearby churches and small galleries.",
+    "Sunset": "Head up to the <a href=\"https://www.google.com/maps/search/?api=1&query=40.7786%2C43.8219\" target=\"_blank\" rel=\"noopener\">Black Fortress</a> 🌄 for sunset views over the city and surrounding plains.",
+    "Night": "Dinner in a traditional tavern 🍲 followed by a calm evening walk through the old streets where Gyumri’s humor and character shine."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Spring City Revival",
+      "description": "Milder weather brings life back to cafés and streets after a long winter.",
+      "ideas": [
+        {
+          "name": "Historic district walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+          "description": "Comfortable weather for long strolls."
+        },
+        {
+          "name": "Museum afternoons",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7867%2C43.8453",
+          "description": "Cultural focus before summer events."
+        },
+        {
+          "name": "Café terraces",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466",
+          "description": "Local social life moves outdoors."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Gyumri Humor & Arts Season",
+      "description": "Warm days, cultural events, and a strong artistic vibe across the city.",
+      "ideas": [
+        {
+          "name": "Open-air events at Vartanants Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466",
+          "description": "Festivals and performances."
+        },
+        {
+          "name": "Evening fortress visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7786%2C43.8219",
+          "description": "Cooler air and wide views."
+        },
+        {
+          "name": "Art courtyards",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7855%2C43.8448",
+          "description": "Meet local artists and craftsmen."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Autumn Calm in Shirak",
+      "description": "Cool air and golden light give Gyumri a reflective, photogenic mood.",
+      "ideas": [
+        {
+          "name": "Photography walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+          "description": "Soft light on black tuff buildings."
+        },
+        {
+          "name": "Traditional food tastings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466",
+          "description": "Hearty dishes for cooler evenings."
+        },
+        {
+          "name": "Quiet museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7867%2C43.8453",
+          "description": "Uncrowded cultural spaces."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Snowy Gyumri Winter",
+      "description": "Cold temperatures, snow-covered streets, and a cozy indoor lifestyle.",
+      "ideas": [
+        {
+          "name": "Coffeehouse culture",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7873%2C43.8466",
+          "description": "Long conversations over hot drinks."
+        },
+        {
+          "name": "Local museums",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7867%2C43.8453",
+          "description": "Warm indoor cultural stops."
+        },
+        {
+          "name": "Snowy old-town walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+          "description": "Atmospheric winter scenes."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Gyumri is connected with Yerevan by train and frequent minibuses (marshrutkas).",
+      "link": "https://www.railway.am/"
+    },
+    {
+      "tip": "The historic center is compact and ideal for walking.",
+      "link": "https://www.visitarmenia.org/"
+    },
+    {
+      "tip": "Taxis are affordable for reaching outskirts like the Black Fortress.",
+      "link": "https://www.visitarmenia.org/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Gyumri Humor Festival",
+      "season": "summer",
+      "description": "Festival celebrating Gyumri’s famous humor, creativity, and resilience.",
+      "website": "https://www.visitarmenia.org/",
+      "dates": "July"
+    }
+  ],
+  "places": [
+    {
+      "name": "Holy Saviour’s Church (Surb Amenaprkich)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7878%2C43.8456",
+      "description": "Large 19th-century church symbolizing Gyumri’s endurance and reconstruction."
+    },
+    {
+      "name": "Seven Wounds of the Holy Mother of God Church",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7869%2C43.8475",
+      "description": "One of the city’s most important active churches."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Artist courtyards in Kumayri",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7855%2C43.8448",
+      "description": "Hidden creative spaces behind stone gates."
+    },
+    {
+      "name": "Early-morning Kumayri streets",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.7860%2C43.8458",
+      "description": "Quiet, authentic atmosphere before the city wakes."
+    }
+  ]
+},
+
+{
+  "name": "Kapan",
+  "interests": [
+    {
+      "name": "Kapan City Center",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=39.2076%2C46.4058",
+      "description": "Compact city center set in a deep valley, surrounded by green hills and mountains—calm, authentic, and very local."
+    },
+    {
+      "name": "Vahanavank Monastery",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=39.2506%2C46.3694",
+      "description": "10th-century Armenian monastery complex located in the hills above Kapan, known for its peaceful setting and historical importance."
+    },
+    {
+      "name": "Baghaberd Fortress",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=39.1926%2C46.3329",
+      "description": "Medieval fortress ruins dramatically positioned above the Voghji River gorge, offering wide views of Syunik landscapes."
+    },
+    {
+      "name": "Voghji River Walks",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=39.2069%2C46.4075",
+      "description": "Riverside paths and bridges providing easy walks through the heart of the city."
+    },
+    {
+      "name": "Syunik Regional Museum (Kapan)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=39.2083%2C46.4064",
+      "description": "Local museum presenting the history, culture, and traditions of the Syunik region."
+    }
+  ],
+  "local_food_tip": "In Kapan, try homemade khashlama, khorovats (grilled meat), fresh herbs, mountain honey, and dairy products from nearby villages—simple, filling, and local.",
+  "full_day": {
+    "Morning": "Begin with a walk through the <a href=\"https://www.google.com/maps/search/?api=1&query=39.2076%2C46.4058\" target=\"_blank\" rel=\"noopener\">city center</a> ☀️ and along the <a href=\"https://www.google.com/maps/search/?api=1&query=39.2069%2C46.4075\" target=\"_blank\" rel=\"noopener\">Voghji River</a>, getting a feel for everyday life in southern Armenia.",
+    "Afternoon": "Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=39.2083%2C46.4064\" target=\"_blank\" rel=\"noopener\">Syunik Regional Museum</a> 🏛️, then take a taxi to <a href=\"https://www.google.com/maps/search/?api=1&query=39.2506%2C46.3694\" target=\"_blank\" rel=\"noopener\">Vahanavank Monastery</a> ⛪ for history and quiet mountain views.",
+    "Sunset": "Head toward <a href=\"https://www.google.com/maps/search/?api=1&query=39.1926%2C46.3329\" target=\"_blank\" rel=\"noopener\">Baghaberd Fortress</a> 🌄 for dramatic sunset light over the gorge.",
+    "Night": "Dinner in town 🍽️ with traditional dishes, followed by a calm evening stroll along the river."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Syunik Spring Green-Up",
+      "description": "Hills and valleys around Kapan turn lush green, perfect for monastery visits and short hikes.",
+      "ideas": [
+        {
+          "name": "Vahanavank Monastery visit",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2506%2C46.3694",
+          "description": "Fresh air and blooming surroundings."
+        },
+        {
+          "name": "River walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2069%2C46.4075",
+          "description": "Mild temperatures for easy strolls."
+        },
+        {
+          "name": "Local café stops",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2076%2C46.4058",
+          "description": "Relaxed spring atmosphere."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Mountain Summer Season",
+      "description": "Warm but comfortable climate due to elevation, with cooler evenings.",
+      "ideas": [
+        {
+          "name": "Baghaberd Fortress hike",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.1926%2C46.3329",
+          "description": "Clear views and dry paths."
+        },
+        {
+          "name": "Village day trips",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2500%2C46.3600",
+          "description": "Nearby Syunik villages and scenery."
+        },
+        {
+          "name": "Evening river walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2069%2C46.4075",
+          "description": "Cooler air after sunset."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Syunik Autumn Colors",
+      "description": "Golden forests and crisp air make autumn one of the best times to visit Kapan.",
+      "ideas": [
+        {
+          "name": "Photography in surrounding hills",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2100%2C46.3900",
+          "description": "Rich colors and dramatic light."
+        },
+        {
+          "name": "Monastery revisits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2506%2C46.3694",
+          "description": "Quiet and reflective atmosphere."
+        },
+        {
+          "name": "Traditional food tastings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2076%2C46.4058",
+          "description": "Hearty meals as temperatures drop."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Quiet Syunik Winter",
+      "description": "Snowy landscapes, calm streets, and a strong sense of local life.",
+      "ideas": [
+        {
+          "name": "Snowy city walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2076%2C46.4058",
+          "description": "Peaceful winter atmosphere."
+        },
+        {
+          "name": "Museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2083%2C46.4064",
+          "description": "Warm indoor cultural stops."
+        },
+        {
+          "name": "Local dining evenings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=39.2076%2C46.4058",
+          "description": "Traditional meals and hospitality."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Kapan is connected to Yerevan by long-distance buses and minibuses.",
+      "link": "https://www.visitarmenia.org/"
+    },
+    {
+      "tip": "Taxis are the most practical way to reach monasteries and fortresses around Kapan.",
+      "link": "https://www.visitarmenia.org/"
+    },
+    {
+      "tip": "Mountain roads can be slow—always allow extra travel time.",
+      "link": "https://www.roadpolice.am/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Syunik Regional Cultural Events",
+      "season": "summer",
+      "description": "Local music, dance, and community celebrations highlighting southern Armenian traditions.",
+      "website": "https://www.visitarmenia.org/",
+      "dates": "June–August"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kapan Central Park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=39.2072%2C46.4086",
+      "description": "Small green space used by locals for walks and gatherings."
+    },
+    {
+      "name": "St. Mesrop Mashtots Church",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=39.2105%2C46.4049",
+      "description": "Modern Armenian church serving the local community."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Baghaberd Gorge viewpoints",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=39.1950%2C46.3350",
+      "description": "Less-visited viewpoints overlooking dramatic canyon scenery."
+    },
+    {
+      "name": "Early-morning river bridges",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=39.2069%2C46.4075",
+      "description": "Quiet moments as the city wakes up."
+    }
+  ]
+},
+
+{
+  "name": "Vanadzor",
+  "interests": [
+    {
+      "name": "Vanadzor Central Park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8127%2C44.4883",
+      "description": "Large green park in the city center with walking paths, trees, and local social life—popular for relaxed strolls."
+    },
+    {
+      "name": "Vanadzor Fine Arts Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8121%2C44.4865",
+      "description": "Regional art museum showcasing Armenian painters and sculptors, with a focus on Lori province artists."
+    },
+    {
+      "name": "Charles Aznavour Cultural Center",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8136%2C44.4889",
+      "description": "Modern cultural center named after the famous Armenian-French singer, hosting concerts, exhibitions, and events."
+    },
+    {
+      "name": "Lori Regional Museum (Vanadzor)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8131%2C44.4871",
+      "description": "Museum presenting the history, ethnography, and traditions of the Lori region."
+    },
+    {
+      "name": "Pambak Mountains Viewpoints",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8300%2C44.4700",
+      "description": "Scenic viewpoints and short hikes offering views over Vanadzor and surrounding highlands."
+    }
+  ],
+  "local_food_tip": "Try Lori specialties such as herb-filled pastries, khorovats (grilled meat), fresh dairy products, and seasonal soups. Local bakeries are known for simple, tasty bread.",
+  "full_day": {
+    "Morning": "Start with a walk through <a href=\"https://www.google.com/maps/search/?api=1&query=40.8127%2C44.4883\" target=\"_blank\" rel=\"noopener\">Vanadzor Central Park</a> ☀️, then visit the <a href=\"https://www.google.com/maps/search/?api=1&query=40.8121%2C44.4865\" target=\"_blank\" rel=\"noopener\">Fine Arts Museum</a> 🎨 for a cultural introduction.",
+    "Afternoon": "Have lunch near the center 🍽️, then explore the <a href=\"https://www.google.com/maps/search/?api=1&query=40.8131%2C44.4871\" target=\"_blank\" rel=\"noopener\">Lori Regional Museum</a> 🏛️ or attend an exhibition at the <a href=\"https://www.google.com/maps/search/?api=1&query=40.8136%2C44.4889\" target=\"_blank\" rel=\"noopener\">Charles Aznavour Cultural Center</a>.",
+    "Sunset": "Head toward nearby <a href=\"https://www.google.com/maps/search/?api=1&query=40.8300%2C44.4700\" target=\"_blank\" rel=\"noopener\">Pambak Mountain viewpoints</a> 🌄 for open landscapes and evening light.",
+    "Night": "Dinner in town 🍽️ and a quiet evening walk through the park or central streets."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Lori Spring Green-Up",
+      "description": "Fields and hills around Vanadzor turn green, making outdoor walks enjoyable.",
+      "ideas": [
+        {
+          "name": "City park walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8127%2C44.4883",
+          "description": "Fresh air and blossoms."
+        },
+        {
+          "name": "Museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8131%2C44.4871",
+          "description": "Comfortable indoor culture."
+        },
+        {
+          "name": "Short hillside hikes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8300%2C44.4700",
+          "description": "Mild temperatures and views."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Cool Highland Summer",
+      "description": "Vanadzor’s elevation keeps summers cooler than Yerevan.",
+      "ideas": [
+        {
+          "name": "Evening park life",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8127%2C44.4883",
+          "description": "Social atmosphere after sunset."
+        },
+        {
+          "name": "Outdoor cultural events",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8136%2C44.4889",
+          "description": "Concerts and performances."
+        },
+        {
+          "name": "Day trips in Lori region",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.9120%2C44.6540",
+          "description": "Nearby nature and villages."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Autumn in Lori",
+      "description": "Cool air and soft colors across forests and hills.",
+      "ideas": [
+        {
+          "name": "Photography walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8127%2C44.4883",
+          "description": "Golden tones in the park."
+        },
+        {
+          "name": "Regional cuisine tasting",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8120%2C44.4870",
+          "description": "Hearty local meals."
+        },
+        {
+          "name": "Museum afternoons",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8131%2C44.4871",
+          "description": "Quiet cultural time."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Snowy Lori Winter",
+      "description": "Cold temperatures, snow-covered streets, and a calm city pace.",
+      "ideas": [
+        {
+          "name": "Local museums",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8131%2C44.4871",
+          "description": "Warm indoor stops."
+        },
+        {
+          "name": "Café culture",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8120%2C44.4870",
+          "description": "Hot drinks and conversation."
+        },
+        {
+          "name": "Winter city walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=40.8127%2C44.4883",
+          "description": "Atmospheric snowy scenes."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Vanadzor is well connected with Yerevan by train and minibuses.",
+      "link": "https://www.railway.am/"
+    },
+    {
+      "tip": "The city center is walkable; taxis are inexpensive.",
+      "link": "https://www.visitarmenia.org/"
+    },
+    {
+      "tip": "Vanadzor is a good base for exploring Lori monasteries and nature.",
+      "link": "https://www.visitarmenia.org/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Vanadzor Cultural Days",
+      "season": "summer",
+      "description": "Concerts, exhibitions, and public performances celebrating local culture.",
+      "website": "https://www.visitarmenia.org/",
+      "dates": "June–August"
+    }
+  ],
+  "places": [
+    {
+      "name": "St. Gregory of Narek Church",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8098%2C44.4905",
+      "description": "Modern Armenian Apostolic church serving the community."
+    },
+    {
+      "name": "Vanadzor City Stadium Area",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8159%2C44.4972",
+      "description": "Open area used for sports and local gatherings."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Quiet neighborhoods near the park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8110%2C44.4850",
+      "description": "Authentic local streets away from main traffic."
+    },
+    {
+      "name": "Early-morning Pambak views",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=40.8300%2C44.4700",
+      "description": "Soft light over mountains and town."
+    }
+  ]
+}
+
+  ]
+}

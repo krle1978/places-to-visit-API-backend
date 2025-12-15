@@ -1,0 +1,860 @@
+{
+  "name": "Finland",
+  "cities": [
+    {
+      "name": "Helsinki",
+      "interests": [
+        {
+          "name": "Helsinki Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.1709%2C24.9522",
+          "description": "Iconic white neoclassical cathedral overlooking Senate Square, symbol of the Finnish capital."
+        },
+        {
+          "name": "Suomenlinna Sea Fortress",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.1458%2C24.9883",
+          "description": "UNESCO World Heritage sea fortress spread across several islands, reachable by ferry."
+        },
+        {
+          "name": "Market Square (Kauppatori)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.1675%2C24.9565",
+          "description": "Lively harbor market with food stalls, local products, and sea views."
+        },
+        {
+          "name": "Temppeliaukio Church (Rock Church)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.1737%2C24.9257",
+          "description": "Unique church carved directly into solid rock, famous for its acoustics and architecture."
+        },
+        {
+          "name": "Design District Helsinki",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.1615%2C24.9435",
+          "description": "Creative area filled with Finnish design shops, galleries, and cafés."
+        }
+      ],
+      "local_food_tip": "Try Finnish salmon soup (lohikeitto), rye bread, reindeer dishes, fresh pastries, and local berries. Market Square and food halls like Old Market Hall are great choices.",
+      "full_day": {
+        "Morning": "Start at <a href=\"https://www.google.com/maps/search/?api=1&query=60.1709%2C24.9522\" target=\"_blank\" rel=\"noopener\">Helsinki Cathedral</a> ☀️ and explore Senate Square.",
+        "Afternoon": "Take the ferry to <a href=\"https://www.google.com/maps/search/?api=1&query=60.1458%2C24.9883\" target=\"_blank\" rel=\"noopener\">Suomenlinna</a> 🏝️ and enjoy lunch with sea views.",
+        "Sunset": "Return to the city and walk through <a href=\"https://www.google.com/maps/search/?api=1&query=60.1675%2C24.9565\" target=\"_blank\" rel=\"noopener\">Market Square</a> 🌅 along the harbor.",
+        "Night": "Dinner in the <a href=\"https://www.google.com/maps/search/?api=1&query=60.1615%2C24.9435\" target=\"_blank\" rel=\"noopener\">Design District</a> ✨ followed by a relaxed evening stroll."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Vappu (May Day)",
+          "description": "Major spring celebration with picnics, student traditions, and festive city atmosphere.",
+          "ideas": [
+            {
+              "name": "Park picnics",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1810%2C24.9550",
+              "description": "Locals celebrate outdoors."
+            },
+            {
+              "name": "City walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1709%2C24.9522",
+              "description": "Mild weather sightseeing."
+            },
+            {
+              "name": "Café terraces",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1615%2C24.9435",
+              "description": "Outdoor dining returns."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Helsinki Festival",
+          "description": "Finland’s largest arts festival with music, theater, and outdoor events.",
+          "ideas": [
+            {
+              "name": "Island hopping",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1458%2C24.9883",
+              "description": "Explore nearby islands."
+            },
+            {
+              "name": "Harbor walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1675%2C24.9565",
+              "description": "Long Nordic evenings."
+            },
+            {
+              "name": "Outdoor concerts",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1700%2C24.9400",
+              "description": "City-wide cultural life."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Baltic Herring Market",
+          "description": "Traditional market celebrating Baltic Sea fishing culture.",
+          "ideas": [
+            {
+              "name": "Market visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1675%2C24.9565",
+              "description": "Seasonal food and traditions."
+            },
+            {
+              "name": "Museum hopping",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1710%2C24.9390",
+              "description": "Indoor cultural activities."
+            },
+            {
+              "name": "Autumn park walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1810%2C24.9550",
+              "description": "Colorful foliage."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Helsinki Christmas Season",
+          "description": "Festive markets, lights, and cozy Nordic winter atmosphere.",
+          "ideas": [
+            {
+              "name": "Christmas markets",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1709%2C24.9522",
+              "description": "Seasonal stalls and lights."
+            },
+            {
+              "name": "Sauna experiences",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1814%2C24.9540",
+              "description": "Classic Finnish winter tradition."
+            },
+            {
+              "name": "Museum visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.1710%2C24.9390",
+              "description": "Warm indoor culture."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Trams, buses, metro, and ferries are integrated into one ticket system.",
+          "link": "https://www.hsl.fi/"
+        },
+        {
+          "tip": "Ferries to Suomenlinna are included in public transport tickets.",
+          "link": "https://www.hsl.fi/"
+        },
+        {
+          "tip": "Helsinki Airport is connected to the city by train.",
+          "link": "https://www.finavia.fi/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Helsinki Festival",
+          "season": "summer",
+          "description": "Major arts festival featuring music, dance, and theater.",
+          "website": "https://helsinkifestival.fi/",
+          "dates": "August–September"
+        }
+      ],
+      "places": [
+        {
+          "name": "Old Market Hall",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.1672%2C24.9569",
+          "description": "Historic indoor market with Finnish food specialties."
+        },
+        {
+          "name": "Kiasma Museum of Contemporary Art",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.1719%2C24.9365",
+          "description": "Leading contemporary art museum with striking modern architecture."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Seurasaari Open-Air Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.1876%2C24.8846",
+          "description": "Island museum showcasing traditional Finnish wooden buildings."
+        },
+        {
+          "name": "Early-morning harbor walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.1675%2C24.9565",
+          "description": "Quiet sea views before the city wakes up."
+        }
+      ]
+    },
+
+    {
+      "name": "Oulu",
+      "interests": [
+        {
+          "name": "Market Square (Kauppatori)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=65.0126%2C25.4660",
+          "description": "Lively waterfront square known for food stalls, cafés, and the famous Toripolliisi statue."
+        },
+        {
+          "name": "Oulu Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=65.0116%2C25.4719",
+          "description": "Neoclassical cathedral designed by Carl Ludvig Engel, a key landmark of the city center."
+        },
+        {
+          "name": "Tietomaa Science Centre",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=65.0103%2C25.4820",
+          "description": "Interactive science center and observation tower popular with visitors of all ages."
+        },
+        {
+          "name": "Hupisaaret City Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=65.0146%2C25.4669",
+          "description": "Green island park with streams, bridges, and walking paths near the city center."
+        },
+        {
+          "name": "Nallikari Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=65.0382%2C25.4186",
+          "description": "Popular sandy beach area offering seaside walks, cycling paths, and summer activities."
+        }
+      ],
+      "local_food_tip": "Try Finnish salmon soup, fresh fish, rye bread, berries, and northern specialties. Market Square and local restaurants serve seasonal Lapland-influenced cuisine.",
+      "full_day": {
+        "Morning": "Start at <a href=\"https://www.google.com/maps/search/?api=1&query=65.0126%2C25.4660\" target=\"_blank\" rel=\"noopener\">Market Square</a> ☀️ and walk along the waterfront.",
+        "Afternoon": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=65.0103%2C25.4820\" target=\"_blank\" rel=\"noopener\">Tietomaa Science Centre</a> 🧪, then relax in <a href=\"https://www.google.com/maps/search/?api=1&query=65.0146%2C25.4669\" target=\"_blank\" rel=\"noopener\">Hupisaaret Park</a> 🌿.",
+        "Sunset": "Head to <a href=\"https://www.google.com/maps/search/?api=1&query=65.0382%2C25.4186\" target=\"_blank\" rel=\"noopener\">Nallikari Beach</a> 🌅 for coastal views.",
+        "Night": "Dinner in the city center ✨ and an evening walk along the river."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring in Oulu",
+          "description": "Snow melts, rivers flow freely, and outdoor life slowly returns.",
+          "ideas": [
+            {
+              "name": "River walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0130%2C25.4685",
+              "description": "Fresh air along the Oulujoki."
+            },
+            {
+              "name": "City park visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0146%2C25.4669",
+              "description": "Early greenery in Hupisaaret."
+            },
+            {
+              "name": "Museum visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0103%2C25.4820",
+              "description": "Comfortable indoor culture."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Qstock Festival",
+          "description": "Major music festival drawing artists and visitors from across Finland.",
+          "ideas": [
+            {
+              "name": "Beach time",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0382%2C25.4186",
+              "description": "Swimming and seaside relaxation."
+            },
+            {
+              "name": "Cycling routes",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0120%2C25.4700",
+              "description": "Extensive bike paths across the city."
+            },
+            {
+              "name": "Outdoor events",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0126%2C25.4660",
+              "description": "Concerts and festivals near the center."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Cultural Season",
+          "description": "Cool air, colorful foliage, and a return to indoor culture.",
+          "ideas": [
+            {
+              "name": "Photography walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0146%2C25.4669",
+              "description": "Autumn colors in city parks."
+            },
+            {
+              "name": "Café culture",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0115%2C25.4710",
+              "description": "Warm drinks and cozy interiors."
+            },
+            {
+              "name": "Museum visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0090%2C25.4700",
+              "description": "Cultural exploration."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Winter City Life & Northern Lights Season",
+          "description": "Snowy landscapes, ice swimming, and chances to see the northern lights.",
+          "ideas": [
+            {
+              "name": "Winter beach walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0382%2C25.4186",
+              "description": "Frozen sea views."
+            },
+            {
+              "name": "Sauna experiences",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0150%2C25.4705",
+              "description": "Classic Finnish winter tradition."
+            },
+            {
+              "name": "Indoor museums",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=65.0103%2C25.4820",
+              "description": "Warm cultural escapes."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Local buses cover the city and surrounding districts.",
+          "link": "https://www.oulunliikenne.fi/"
+        },
+        {
+          "tip": "Oulu is one of Finland’s most bike-friendly cities.",
+          "link": "https://www.ouka.fi/oulu/english/cycling"
+        },
+        {
+          "tip": "Trains connect Oulu with Helsinki and northern Finland.",
+          "link": "https://www.vr.fi/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Qstock Festival",
+          "season": "summer",
+          "description": "Large outdoor music festival held in central Oulu.",
+          "website": "https://qstock.fi/",
+          "dates": "July"
+        }
+      ],
+      "places": [
+        {
+          "name": "Toripolliisi Statue",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=65.0129%2C25.4657",
+          "description": "Famous bronze statue symbolizing the spirit of Oulu."
+        },
+        {
+          "name": "Northern Ostrobothnia Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=65.0139%2C25.4680",
+          "description": "Regional museum presenting northern Finnish history and culture."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet islands of Hupisaaret",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=65.0148%2C25.4688",
+          "description": "Peaceful nature pockets close to the city center."
+        },
+        {
+          "name": "Early-morning seaside paths",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=65.0382%2C25.4186",
+          "description": "Calm coastal atmosphere before the city wakes up."
+        }
+      ]
+    },
+
+    {
+      "name": "Rovaniemi",
+      "interests": [
+        {
+          "name": "Santa Claus Village",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=66.5439%2C25.8470",
+          "description": "World-famous village located on the Arctic Circle, home to Santa Claus, shops, and Arctic Circle marking."
+        },
+        {
+          "name": "Arktikum Science Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=66.4970%2C25.7240",
+          "description": "Museum and science center focused on Arctic nature, climate, and Lapland culture."
+        },
+        {
+          "name": "Arctic Circle Line",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=66.5436%2C25.8473",
+          "description": "Symbolic line marking the Arctic Circle, which visitors can physically cross."
+        },
+        {
+          "name": "Ounasvaara Hill",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=66.5078%2C25.7345",
+          "description": "Forested hill offering hiking trails, viewpoints, and winter sports near the city."
+        },
+        {
+          "name": "Kemijoki River",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=66.4975%2C25.7205",
+          "description": "Major river flowing through Rovaniemi, central to local life and seasonal activities."
+        }
+      ],
+      "local_food_tip": "Try Lappish specialties such as reindeer dishes, salmon soup, cloudberries, rye bread, and warm berry drinks. Local restaurants often highlight Arctic ingredients.",
+      "full_day": {
+        "Morning": "Start with a visit to <a href=\"https://www.google.com/maps/search/?api=1&query=66.4970%2C25.7240\" target=\"_blank\" rel=\"noopener\">Arktikum</a> ☀️ to understand Arctic nature and culture.",
+        "Afternoon": "Head to <a href=\"https://www.google.com/maps/search/?api=1&query=66.5439%2C25.8470\" target=\"_blank\" rel=\"noopener\">Santa Claus Village</a> 🎅 and cross the <a href=\"https://www.google.com/maps/search/?api=1&query=66.5436%2C25.8473\" target=\"_blank\" rel=\"noopener\">Arctic Circle</a>.",
+        "Sunset": "Enjoy views from <a href=\"https://www.google.com/maps/search/?api=1&query=66.5078%2C25.7345\" target=\"_blank\" rel=\"noopener\">Ounasvaara Hill</a> 🌅 overlooking forests and rivers.",
+        "Night": "Dinner in the city center ✨ and, in winter, watch the sky for northern lights."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Snow & Light Season",
+          "description": "Longer daylight returns while snow still covers the landscape.",
+          "ideas": [
+            {
+              "name": "River walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.4975%2C25.7205",
+              "description": "Melting ice and fresh Arctic air."
+            },
+            {
+              "name": "Museum visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.4970%2C25.7240",
+              "description": "Cultural exploration indoors."
+            },
+            {
+              "name": "Forest trails",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.5078%2C25.7345",
+              "description": "Late-season snow hiking."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Midnight Sun Season",
+          "description": "The sun stays above the horizon, creating endless daylight.",
+          "ideas": [
+            {
+              "name": "Midnight hikes",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.5078%2C25.7345",
+              "description": "Nature under the midnight sun."
+            },
+            {
+              "name": "River activities",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.4975%2C25.7205",
+              "description": "Kayaking and riverside picnics."
+            },
+            {
+              "name": "Santa Claus Village visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.5439%2C25.8470",
+              "description": "Open-air summer atmosphere."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Ruska (Autumn Colors)",
+          "description": "Forests turn red and gold, marking one of Lapland’s most beautiful seasons.",
+          "ideas": [
+            {
+              "name": "Forest photography",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.5078%2C25.7345",
+              "description": "Vivid autumn colors."
+            },
+            {
+              "name": "Berry picking walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.5005%2C25.7300",
+              "description": "Local autumn tradition."
+            },
+            {
+              "name": "City strolls",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.4975%2C25.7205",
+              "description": "Calm atmosphere before winter."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Northern Lights & Winter Season",
+          "description": "Snow-covered landscapes, polar nights, and aurora borealis sightings.",
+          "ideas": [
+            {
+              "name": "Northern lights watching",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.5078%2C25.7345",
+              "description": "Dark skies outside the city."
+            },
+            {
+              "name": "Snow activities",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.5078%2C25.7345",
+              "description": "Skiing and winter trails."
+            },
+            {
+              "name": "Santa Claus Village winter visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=66.5439%2C25.8470",
+              "description": "Festive Arctic winter experience."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Local buses connect the city center with Santa Claus Village and residential areas.",
+          "link": "https://www.rovaniemi.fi/"
+        },
+        {
+          "tip": "Rovaniemi Airport has direct connections to Helsinki and seasonal international flights.",
+          "link": "https://www.finavia.fi/"
+        },
+        {
+          "tip": "Trains connect Rovaniemi with southern Finland, including overnight services.",
+          "link": "https://www.vr.fi/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Arctic Design Week",
+          "season": "winter",
+          "description": "Design and culture festival highlighting Arctic creativity.",
+          "website": "https://arcticdesignweek.fi/",
+          "dates": "February–March"
+        }
+      ],
+      "places": [
+        {
+          "name": "Korundi House of Culture",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=66.4989%2C25.7229",
+          "description": "Art museum and concert hall focusing on contemporary Arctic art."
+        },
+        {
+          "name": "Lumberjack’s Candle Bridge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=66.4998%2C25.7285",
+          "description": "Iconic bridge symbolizing Rovaniemi, beautifully lit at night."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet riverbanks outside the center",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=66.5020%2C25.7350",
+          "description": "Peaceful spots for nature and aurora viewing."
+        },
+        {
+          "name": "Early-morning Ounasvaara trails",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=66.5078%2C25.7345",
+          "description": "Silent forest paths with fresh Arctic air."
+        }
+      ]
+    },
+
+    {
+      "name": "Tampere",
+      "interests": [
+        {
+          "name": "Tampere Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=61.5014%2C23.7616",
+          "description": "National Romantic-style cathedral known for its striking frescoes and symbolism."
+        },
+        {
+          "name": "Näsinneula Observation Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=61.5067%2C23.7475",
+          "description": "Iconic tower in Särkänniemi offering panoramic views over lakes and the city."
+        },
+        {
+          "name": "Pyynikki Observation Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=61.4956%2C23.7226",
+          "description": "Historic tower on a forested ridge with views over Lake Pyhäjärvi and famous donuts."
+        },
+        {
+          "name": "Tammerkoski Rapids",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=61.4985%2C23.7593",
+          "description": "Central rapids dividing the city, lined with old industrial buildings turned cultural venues."
+        },
+        {
+          "name": "Vapriikki Museum Centre",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=61.4976%2C23.7618",
+          "description": "Large museum complex featuring exhibitions on history, nature, and technology."
+        }
+      ],
+      "local_food_tip": "Try Tampere specialties such as mustamakkara (black sausage) with lingonberry jam, Finnish salmon soup, rye bread, and local craft beers.",
+      "full_day": {
+        "Morning": "Start with a walk along <a href=\"https://www.google.com/maps/search/?api=1&query=61.4985%2C23.7593\" target=\"_blank\" rel=\"noopener\">Tammerkoski Rapids</a> ☀️ and enjoy breakfast nearby.",
+        "Afternoon": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=61.4976%2C23.7618\" target=\"_blank\" rel=\"noopener\">Vapriikki Museum Centre</a> 🏛️, then head to <a href=\"https://www.google.com/maps/search/?api=1&query=61.5014%2C23.7616\" target=\"_blank\" rel=\"noopener\">Tampere Cathedral</a> ⛪.",
+        "Sunset": "Climb <a href=\"https://www.google.com/maps/search/?api=1&query=61.4956%2C23.7226\" target=\"_blank\" rel=\"noopener\">Pyynikki Observation Tower</a> 🌅 for lake views.",
+        "Night": "Dinner in the city center ✨ and an evening walk along the lakeshore."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring in Tampere",
+          "description": "Melting ice, flowing rapids, and lively city parks.",
+          "ideas": [
+            {
+              "name": "Park walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4995%2C23.7530",
+              "description": "Fresh greenery near the water."
+            },
+            {
+              "name": "Museum visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4976%2C23.7618",
+              "description": "Comfortable indoor culture."
+            },
+            {
+              "name": "Café terraces",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4980%2C23.7600",
+              "description": "Outdoor dining returns."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Tampere Theatre Summer",
+          "description": "Major cultural festival featuring open-air performances and theater.",
+          "ideas": [
+            {
+              "name": "Lake swimming",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4925%2C23.7185",
+              "description": "Clean lakes and beaches."
+            },
+            {
+              "name": "Boat cruises",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4980%2C23.7590",
+              "description": "Relaxed lake sightseeing."
+            },
+            {
+              "name": "Outdoor events",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4985%2C23.7593",
+              "description": "Festivals around the rapids."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Culture Season",
+          "description": "Colorful forests and a strong cultural program.",
+          "ideas": [
+            {
+              "name": "Forest walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4956%2C23.7226",
+              "description": "Autumn colors around Pyynikki."
+            },
+            {
+              "name": "Museum hopping",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4976%2C23.7618",
+              "description": "Indoor exhibitions."
+            },
+            {
+              "name": "Café culture",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4980%2C23.7600",
+              "description": "Warm drinks and pastries."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Winter Sauna Season",
+          "description": "Snowy lakes, ice swimming, and traditional Finnish saunas.",
+          "ideas": [
+            {
+              "name": "Public saunas",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4982%2C23.7480",
+              "description": "Classic Finnish winter experience."
+            },
+            {
+              "name": "Frozen lake walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4925%2C23.7185",
+              "description": "Icy scenery."
+            },
+            {
+              "name": "Museum visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=61.4976%2C23.7618",
+              "description": "Warm indoor culture."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Trams and buses make getting around Tampere easy.",
+          "link": "https://www.nysse.fi/"
+        },
+        {
+          "tip": "The city center is compact and walkable.",
+          "link": "https://www.visittampere.fi/"
+        },
+        {
+          "tip": "Trains connect Tampere with Helsinki and other Finnish cities.",
+          "link": "https://www.vr.fi/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Tampere Theatre Summer",
+          "season": "summer",
+          "description": "Major summer theater festival with performances across the city.",
+          "website": "https://www.teatterikesa.fi/",
+          "dates": "August"
+        }
+      ],
+      "places": [
+        {
+          "name": "Särkänniemi Theme Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=61.5067%2C23.7475",
+          "description": "Popular amusement park with rides, aquarium, and observation tower."
+        },
+        {
+          "name": "Finlayson Area",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=61.4990%2C23.7575",
+          "description": "Historic factory district turned cultural and dining area."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Early-morning Pyynikki ridge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=61.4956%2C23.7226",
+          "description": "Quiet forest trails with lake views."
+        },
+        {
+          "name": "Lakeside paths near Rauhaniemi",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=61.5075%2C23.8005",
+          "description": "Less-visited shoreline walks."
+        }
+      ]
+    },
+
+    {
+      "name": "Turku",
+      "interests": [
+        {
+          "name": "Turku Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.4357%2C22.2285",
+          "description": "Impressive medieval castle dating back to the 13th century, one of Finland’s most important historical landmarks."
+        },
+        {
+          "name": "Turku Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.4516%2C22.2771",
+          "description": "Finland’s national cathedral and a central symbol of Finnish history and culture."
+        },
+        {
+          "name": "Aura River Promenade",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.4505%2C22.2665",
+          "description": "Lively riverside area lined with cafés, restaurants, museums, and walking paths."
+        },
+        {
+          "name": "Aboa Vetus & Ars Nova",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.4509%2C22.2732",
+          "description": "Museum complex combining medieval archaeology and contemporary art."
+        },
+        {
+          "name": "Luostarinmäki Handicrafts Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.4519%2C22.2758",
+          "description": "Open-air museum preserving 19th-century wooden houses and artisan workshops."
+        }
+      ],
+      "local_food_tip": "Try archipelago fish dishes, salmon soup, rye bread, and seasonal Nordic cuisine. Riverside restaurants along the Aura River are especially popular.",
+      "full_day": {
+        "Morning": "Start at <a href=\"https://www.google.com/maps/search/?api=1&query=60.4516%2C22.2771\" target=\"_blank\" rel=\"noopener\">Turku Cathedral</a> ☀️ and explore the historic surroundings.",
+        "Afternoon": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=60.4509%2C22.2732\" target=\"_blank\" rel=\"noopener\">Aboa Vetus & Ars Nova</a> 🏛️, then enjoy lunch along the <a href=\"https://www.google.com/maps/search/?api=1&query=60.4505%2C22.2665\" target=\"_blank\" rel=\"noopener\">Aura River</a> 🍽️.",
+        "Sunset": "Walk toward <a href=\"https://www.google.com/maps/search/?api=1&query=60.4357%2C22.2285\" target=\"_blank\" rel=\"noopener\">Turku Castle</a> 🌅 for views of the river mouth.",
+        "Night": "Dinner by the river ✨ followed by a relaxed evening stroll."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring in Turku",
+          "description": "Riverbanks come alive and outdoor cafés reopen.",
+          "ideas": [
+            {
+              "name": "Riverside walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4505%2C22.2665",
+              "description": "Fresh air and flowing water."
+            },
+            {
+              "name": "Museum visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4509%2C22.2732",
+              "description": "Cultural exploration."
+            },
+            {
+              "name": "Park picnics",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4475%2C22.2660",
+              "description": "Mild spring days."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Medieval Market of Turku",
+          "description": "Large historical festival recreating medieval life near the cathedral and river.",
+          "ideas": [
+            {
+              "name": "Festival visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4516%2C22.2771",
+              "description": "Costumes, food, and performances."
+            },
+            {
+              "name": "Riverboat dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4498%2C22.2680",
+              "description": "Unique floating restaurants."
+            },
+            {
+              "name": "Archipelago trips",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4357%2C22.2285",
+              "description": "Boat connections to nearby islands."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Turku Music & Culture Season",
+          "description": "Calmer streets and rich cultural programming.",
+          "ideas": [
+            {
+              "name": "Autumn river walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4505%2C22.2665",
+              "description": "Golden reflections on water."
+            },
+            {
+              "name": "Museum hopping",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4509%2C22.2732",
+              "description": "Indoor exhibitions."
+            },
+            {
+              "name": "Café culture",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4510%2C22.2700",
+              "description": "Cozy indoor spots."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Turku Christmas Season",
+          "description": "Finland’s official Christmas City with markets and traditions.",
+          "ideas": [
+            {
+              "name": "Christmas markets",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4516%2C22.2771",
+              "description": "Historic festive atmosphere."
+            },
+            {
+              "name": "Castle visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4357%2C22.2285",
+              "description": "Atmospheric winter history."
+            },
+            {
+              "name": "Museum visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=60.4509%2C22.2732",
+              "description": "Warm indoor culture."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Local buses connect the city center with residential areas and the harbor.",
+          "link": "https://www.foli.fi/"
+        },
+        {
+          "tip": "Turku is walkable, especially along the Aura River.",
+          "link": "https://www.visitturku.fi/"
+        },
+        {
+          "tip": "Ferries connect Turku with the Finnish archipelago and Sweden.",
+          "link": "https://www.portofturku.fi/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Medieval Market of Turku",
+          "season": "summer",
+          "description": "Large medieval-themed festival with crafts, food, and performances.",
+          "website": "https://www.turunlinnantori.fi/",
+          "dates": "Late June–early July"
+        }
+      ],
+      "places": [
+        {
+          "name": "Forum Marinum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.4378%2C22.2305",
+          "description": "Maritime museum and historic ships near Turku Castle."
+        },
+        {
+          "name": "Kakola Hill",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.4460%2C22.2515",
+          "description": "Former prison area turned into a modern neighborhood with viewpoints."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet stretches of the Aura River",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.4485%2C22.2630",
+          "description": "Less crowded riverside paths."
+        },
+        {
+          "name": "Early-morning Cathedral surroundings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=60.4516%2C22.2771",
+          "description": "Peaceful historic atmosphere."
+        }
+      ]
+    }
+
+  ]
+}

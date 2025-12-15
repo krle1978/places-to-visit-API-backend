@@ -1,0 +1,837 @@
+{
+  "name": "Montenegro",
+  "cities": [
+    {
+      "name": "Budva",
+      "interests": [
+        {
+          "name": "Budva Old Town (Stari Grad)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2780%2C18.8366",
+          "description": "A walled medieval old town with narrow stone streets, historic churches, small shops, and cafés by the sea."
+        },
+        {
+          "name": "Mogren Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2769%2C18.8326",
+          "description": "A scenic sandy beach divided into two coves, surrounded by cliffs and clear Adriatic water."
+        },
+        {
+          "name": "Budva Citadel",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2776%2C18.8362",
+          "description": "A historic fortress within the Old Town offering panoramic views over Budva and the coastline."
+        }
+      ],
+      "local_food_tip": "Try fresh seafood, grilled fish, or ćevapi at seaside restaurants, and sample Montenegrin wines or local cheese.",
+      "full_day": {
+        "morning": "Begin in <a href=\"https://www.google.com/maps/search/?api=1&query=42.2780%2C18.8366\" target=\"_blank\" rel=\"noopener\">Budva Old Town</a> 🏰, exploring its quiet streets and historic churches.",
+        "afternoon": "Head to <a href=\"https://www.google.com/maps/search/?api=1&query=42.2769%2C18.8326\" target=\"_blank\" rel=\"noopener\">Mogren Beach</a> 🏖️ for swimming and a relaxed seaside lunch.",
+        "sunset": "Climb the <a href=\"https://www.google.com/maps/search/?api=1&query=42.2776%2C18.8362\" target=\"_blank\" rel=\"noopener\">Budva Citadel</a> 🌅 to watch the sun set over the Adriatic.",
+        "night": "Enjoy dinner along the promenade 🍽️ or take an evening stroll through the lively Old Town."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Cultural Season",
+          "description": "Spring offers mild weather, blooming greenery, and fewer crowds.",
+          "ideas": [
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2780%2C18.8366",
+              "description": "Comfortable temperatures for sightseeing."
+            },
+            {
+              "name": "Coastal Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2795%2C18.8385",
+              "description": "Clear views along the Adriatic coast."
+            },
+            {
+              "name": "Early Beach Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2769%2C18.8326",
+              "description": "Quiet beaches before peak season."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Budva Summer Festival",
+          "description": "Summer is vibrant with beaches, nightlife, and cultural performances.",
+          "ideas": [
+            {
+              "name": "Beach Days",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2790%2C18.8415",
+              "description": "Swimming and sunbathing along Budva Riviera."
+            },
+            {
+              "name": "Open-Air Performances",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2780%2C18.8366",
+              "description": "Concerts and theatre in historic settings."
+            },
+            {
+              "name": "Evening Promenade Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2798%2C18.8410",
+              "description": "Lively atmosphere after sunset."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Seaside Calm",
+          "description": "Warm seas, fewer visitors, and relaxed coastal life.",
+          "ideas": [
+            {
+              "name": "Late-Season Swimming",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2769%2C18.8326",
+              "description": "Sea remains warm into autumn."
+            },
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2776%2C18.8362",
+              "description": "Soft light over the Old Town."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2795%2C18.8405",
+              "description": "Enjoy seasonal seafood."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Quiet Winter in Budva",
+          "description": "Winter is mild and peaceful, ideal for sightseeing without crowds.",
+          "ideas": [
+            {
+              "name": "Old Town Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2780%2C18.8366",
+              "description": "Calm streets and local life."
+            },
+            {
+              "name": "Seafront Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2798%2C18.8410",
+              "description": "Fresh air and dramatic winter seas."
+            },
+            {
+              "name": "Cafés and Restaurants",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2795%2C18.8405",
+              "description": "Warm drinks during cooler days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses connect Budva with Kotor, Sveti Stefan, and other coastal towns.",
+          "link": "https://www.busticket4.me"
+        },
+        {
+          "tip": "The Old Town and beaches are best explored on foot.",
+          "link": "https://www.visit-montenegro.com"
+        },
+        {
+          "tip": "Local taxis are affordable for short distances.",
+          "link": "https://www.visit-montenegro.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Budva Summer Festival",
+          "season": "Summer",
+          "description": "A major cultural festival with theatre, music, and performances.",
+          "website": "https://www.visitbudva.com",
+          "dates": "July–August (annual)"
+        },
+        {
+          "name": "New Year Celebrations in Budva",
+          "season": "Winter",
+          "description": "Outdoor concerts and festivities welcoming the New Year.",
+          "website": "https://www.visitbudva.com",
+          "dates": "Late December–January (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Slovenska Plaža",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2798%2C18.8410",
+          "description": "A long pebble beach with cafés, shops, and a lively promenade."
+        },
+        {
+          "name": "Church of St. John",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2779%2C18.8368",
+          "description": "One of Budva’s most recognizable landmarks inside the Old Town."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Richard’s Head Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2775%2C18.8373",
+          "description": "A small beach tucked between the Old Town walls and the sea."
+        },
+        {
+          "name": "Coastal Path Toward Mogren",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2772%2C18.8338",
+          "description": "A scenic walking path with cliffside views and photo spots."
+        }
+      ]
+    },
+    {
+      "name": "Herceg Novi",
+      "interests": [
+        {
+          "name": "Old Town (Stari Grad)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4540%2C18.5319",
+          "description": "A charming hillside old town with stone stairways, small squares, historic buildings, and sea views over the Bay of Kotor."
+        },
+        {
+          "name": "Forte Mare Fortress",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4546%2C18.5326",
+          "description": "A medieval seaside fortress offering panoramic views of the Adriatic and the entrance to the Bay of Kotor."
+        },
+        {
+          "name": "Savina Monastery",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4623%2C18.5418",
+          "description": "A peaceful Orthodox monastery complex surrounded by greenery, close to the sea."
+        }
+      ],
+      "local_food_tip": "Try fresh seafood, black risotto, or grilled fish at seaside konobas, and sample Montenegrin wines or rakija.",
+      "full_day": {
+        "morning": "Start by exploring the <a href=\"https://www.google.com/maps/search/?api=1&query=42.4540%2C18.5319\" target=\"_blank\" rel=\"noopener\">Old Town</a> 🏘️, wandering its stairways and small squares.",
+        "afternoon": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=42.4546%2C18.5326\" target=\"_blank\" rel=\"noopener\">Forte Mare Fortress</a> 🏰, then enjoy lunch along the seaside promenade.",
+        "sunset": "Head to <a href=\"https://www.google.com/maps/search/?api=1&query=42.4623%2C18.5418\" target=\"_blank\" rel=\"noopener\">Savina Monastery</a> 🌅 for calm views as the sun lowers over the bay.",
+        "night": "Enjoy dinner by the water 🍽️ or take an evening walk along the Pet Danica promenade."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Mimosa Festival",
+          "description": "Spring is colorful and lively, celebrating the blooming mimosa flowers with parades and events.",
+          "ideas": [
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4540%2C18.5319",
+              "description": "Comfortable weather for sightseeing."
+            },
+            {
+              "name": "Botanical Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4605%2C18.5380",
+              "description": "Blooming gardens and greenery."
+            },
+            {
+              "name": "Seafront Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4535%2C18.5335",
+              "description": "Outdoor seating returns."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Herceg Novi Summer Festival",
+          "description": "Summer is vibrant with concerts, theatre, and beach life.",
+          "ideas": [
+            {
+              "name": "Beach Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4585%2C18.5355",
+              "description": "Swimming in clear Adriatic waters."
+            },
+            {
+              "name": "Evening Promenade Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4538%2C18.5340",
+              "description": "Lively atmosphere after sunset."
+            },
+            {
+              "name": "Open-Air Performances",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4546%2C18.5326",
+              "description": "Cultural events at historic sites."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Cultural Season",
+          "description": "Warm seas and fewer crowds make autumn ideal for relaxed travel.",
+          "ideas": [
+            {
+              "name": "Late-Season Swimming",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4585%2C18.5355",
+              "description": "Sea remains warm into autumn."
+            },
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4546%2C18.5326",
+              "description": "Soft light over the bay."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4535%2C18.5335",
+              "description": "Seasonal seafood dishes."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Quiet Winter by the Bay",
+          "description": "Winter is mild and peaceful, with a local atmosphere and calm streets.",
+          "ideas": [
+            {
+              "name": "Old Town Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4540%2C18.5319",
+              "description": "Quiet streets and local life."
+            },
+            {
+              "name": "Seaside Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4538%2C18.5340",
+              "description": "Fresh air and bay views."
+            },
+            {
+              "name": "Cafés and Konobas",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4535%2C18.5335",
+              "description": "Warm drinks and relaxed meals."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Local buses connect Herceg Novi with Igalo, Kotor, and other coastal towns.",
+          "link": "https://www.busticket4.me"
+        },
+        {
+          "tip": "The old town is steep; wear comfortable shoes for walking.",
+          "link": "https://www.visit-montenegro.com"
+        },
+        {
+          "tip": "Ferries operate across the Bay of Kotor nearby (seasonal).",
+          "link": "https://www.visit-montenegro.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Mimosa Festival",
+          "season": "Spring",
+          "description": "A major local festival celebrating the mimosa flower with parades, concerts, and food.",
+          "website": "https://www.hercegnovi.travel",
+          "dates": "February–March (annual)"
+        },
+        {
+          "name": "Herceg Novi Summer Festival",
+          "season": "Summer",
+          "description": "Cultural festival featuring theatre, music, and open-air performances.",
+          "website": "https://www.hercegnovi.travel",
+          "dates": "July–August (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Kanli Kula Fortress",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4553%2C18.5312",
+          "description": "A hilltop fortress now used as an open-air theatre with wide views over the town."
+        },
+        {
+          "name": "Pet Danica Promenade",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4538%2C18.5340",
+          "description": "A long seaside promenade linking Herceg Novi with Igalo."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Španjola Fortress",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4588%2C18.5260",
+          "description": "A lesser-visited fortress offering quiet panoramic views above the town."
+        },
+        {
+          "name": "Savina Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4635%2C18.5430",
+          "description": "A small, peaceful beach near Savina Monastery with clear water."
+        }
+      ]
+    },
+
+    {
+      "name": "Kotor",
+      "interests": [
+        {
+          "name": "Kotor Old Town",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4247%2C18.7712",
+          "description": "A UNESCO-listed medieval old town with stone walls, narrow streets, historic squares, and Romanesque churches."
+        },
+        {
+          "name": "Kotor City Walls",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4258%2C18.7725",
+          "description": "Impressive defensive walls climbing the mountainside, enclosing the Old Town and offering dramatic views."
+        },
+        {
+          "name": "Bay of Kotor",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4305%2C18.7700",
+          "description": "A stunning natural bay surrounded by steep mountains, often described as Europe’s southernmost fjord."
+        }
+      ],
+      "local_food_tip": "Try black risotto, fresh mussels, or grilled fish at traditional konobas, and taste local wines or rakija.",
+      "full_day": {
+        "morning": "Start your day exploring <a href=\"https://www.google.com/maps/search/?api=1&query=42.4247%2C18.7712\" target=\"_blank\" rel=\"noopener\">Kotor Old Town</a> 🏰, visiting its squares and churches.",
+        "afternoon": "Walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=42.4258%2C18.7725\" target=\"_blank\" rel=\"noopener\">City Walls</a> 🚶‍♂️, then enjoy lunch inside the Old Town.",
+        "sunset": "Head to viewpoints overlooking the <a href=\"https://www.google.com/maps/search/?api=1&query=42.4305%2C18.7700\" target=\"_blank\" rel=\"noopener\">Bay of Kotor</a> 🌅 for unforgettable views.",
+        "night": "Dine in the Old Town 🍽️ and enjoy a calm evening stroll under the historic walls."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Cultural Season",
+          "description": "Spring offers mild weather, blooming greenery, and ideal conditions for walking and sightseeing.",
+          "ideas": [
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4247%2C18.7712",
+              "description": "Comfortable temperatures and fewer crowds."
+            },
+            {
+              "name": "Coastal Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4290%2C18.7690",
+              "description": "Clear bay views and fresh air."
+            },
+            {
+              "name": "Photography Tours",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4258%2C18.7725",
+              "description": "Bright light on stone architecture."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Kotor Summer Carnival",
+          "description": "Summer is lively with festivals, cruise ships, and warm evenings.",
+          "ideas": [
+            {
+              "name": "Early Morning Old Town Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4247%2C18.7712",
+              "description": "Explore before peak heat and crowds."
+            },
+            {
+              "name": "Boat Trips in the Bay",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4305%2C18.7700",
+              "description": "Explore nearby towns and islands."
+            },
+            {
+              "name": "Evening Promenade Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4270%2C18.7695",
+              "description": "Cooler evenings by the water."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Bay Calm",
+          "description": "Warm seas, fewer visitors, and a relaxed atmosphere.",
+          "ideas": [
+            {
+              "name": "Late-Season Swimming",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4285%2C18.7698",
+              "description": "Sea remains warm into autumn."
+            },
+            {
+              "name": "Hiking Above Kotor",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4325%2C18.7805",
+              "description": "Clear skies and cooler temperatures."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4250%2C18.7720",
+              "description": "Seasonal seafood and wines."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Quiet Winter in Kotor",
+          "description": "Winter is mild and peaceful, with fewer tourists and a local feel.",
+          "ideas": [
+            {
+              "name": "Empty Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4247%2C18.7712",
+              "description": "Atmospheric streets and squares."
+            },
+            {
+              "name": "Bay Viewpoints",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4305%2C18.7700",
+              "description": "Dramatic winter scenery."
+            },
+            {
+              "name": "Cafés Inside the Walls",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4250%2C18.7720",
+              "description": "Warm drinks during cooler days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses connect Kotor with Budva, Herceg Novi, and Podgorica.",
+          "link": "https://www.busticket4.me"
+        },
+        {
+          "tip": "The Old Town is pedestrian-only and best explored on foot.",
+          "link": "https://www.visit-montenegro.com"
+        },
+        {
+          "tip": "Boat tours operate around the bay during the warmer months.",
+          "link": "https://www.visit-montenegro.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Kotor Summer Carnival",
+          "season": "Summer",
+          "description": "Parades, music, and festivities in the Old Town.",
+          "website": "https://www.kotor.travel",
+          "dates": "July–August (annual)"
+        },
+        {
+          "name": "Boka Night",
+          "season": "Summer",
+          "description": "A traditional maritime festival with decorated boats in the bay.",
+          "website": "https://www.kotor.travel",
+          "dates": "August (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "St. Tryphon Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4249%2C18.7717",
+          "description": "A Romanesque cathedral dating back to the 12th century, one of Kotor’s main landmarks."
+        },
+        {
+          "name": "Lovćen Serpentine Road Viewpoints",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4325%2C18.7805",
+          "description": "Famous switchback road offering dramatic views over the Bay of Kotor."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "St. John’s Fortress Viewpoints",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4288%2C18.7758",
+          "description": "Cliffside viewpoints partway up the fortress hike, with fewer crowds than the summit."
+        },
+        {
+          "name": "Quiet Squares in the Old Town",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4245%2C18.7728",
+          "description": "Small squares away from the main routes, perfect for a calm break."
+        }
+      ]
+    },
+
+    {
+      "name": "Podgorica",
+      "interests": [
+        {
+          "name": "Millennium Bridge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4446%2C19.2567",
+          "description": "A modern cable-stayed bridge and one of Podgorica’s main landmarks, spanning the Morača River."
+        },
+        {
+          "name": "Ribnica Bridge (Old Bridge)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4419%2C19.2591",
+          "description": "A historic stone bridge from the Ottoman period located near the confluence of the Ribnica and Morača rivers."
+        },
+        {
+          "name": "Gorica Hill",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4405%2C19.2470",
+          "description": "A green hill and park area offering walking paths and views over the city."
+        }
+      ],
+      "local_food_tip": "Try Montenegrin grilled meats, kačamak, or fresh pastries at local bakeries, and enjoy strong Balkan-style coffee.",
+      "full_day": {
+        "morning": "Begin with a walk across the <a href=\"https://www.google.com/maps/search/?api=1&query=42.4446%2C19.2567\" target=\"_blank\" rel=\"noopener\">Millennium Bridge</a> 🌉 and along the Morača River.",
+        "afternoon": "Explore the old center near the <a href=\"https://www.google.com/maps/search/?api=1&query=42.4419%2C19.2591\" target=\"_blank\" rel=\"noopener\">Ribnica Bridge</a> 🏛️, then enjoy lunch in a nearby café.",
+        "sunset": "Head up to <a href=\"https://www.google.com/maps/search/?api=1&query=42.4405%2C19.2470\" target=\"_blank\" rel=\"noopener\">Gorica Hill</a> 🌅 for views over Podgorica.",
+        "night": "Dine in the city center 🍽️ or enjoy a relaxed evening walk along the riverbanks."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring City Walk Season",
+          "description": "Spring brings mild temperatures and blooming greenery along the rivers.",
+          "ideas": [
+            {
+              "name": "River Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4435%2C19.2575",
+              "description": "Comfortable weather for exploring outdoors."
+            },
+            {
+              "name": "City Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4428%2C19.2610",
+              "description": "Outdoor seating returns across the city."
+            },
+            {
+              "name": "Gorica Park Paths",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4405%2C19.2470",
+              "description": "Fresh greenery and shaded trails."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Podgorica Summer Evenings",
+          "description": "Summer is hot, with lively evenings and nightlife along the rivers.",
+          "ideas": [
+            {
+              "name": "Evening Riverbanks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4440%2C19.2585",
+              "description": "Cooler air by the water."
+            },
+            {
+              "name": "City Nightlife",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4425%2C19.2625",
+              "description": "Popular bars and cafés after sunset."
+            },
+            {
+              "name": "Day Trips Nearby",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.3650%2C19.1360",
+              "description": "Easy access to Lake Skadar."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Cultural Season",
+          "description": "Autumn offers pleasant temperatures and a relaxed city atmosphere.",
+          "ideas": [
+            {
+              "name": "Old Town Area (Stara Varoš)",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4398%2C19.2618",
+              "description": "Historic streets and local life."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4431%2C19.2589",
+              "description": "Comfortable season for indoor culture."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4425%2C19.2625",
+              "description": "Seasonal Montenegrin dishes."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Quiet Winter in Podgorica",
+          "description": "Winter is mild compared to the coast, with a calm, local feel.",
+          "ideas": [
+            {
+              "name": "City Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4446%2C19.2567",
+              "description": "Comfortable winter temperatures."
+            },
+            {
+              "name": "Cafés and Bakeries",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4428%2C19.2610",
+              "description": "Warm drinks and local pastries."
+            },
+            {
+              "name": "River Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.4435%2C19.2575",
+              "description": "Quiet winter scenery."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses connect Podgorica with coastal cities and northern Montenegro.",
+          "link": "https://www.busticket4.me"
+        },
+        {
+          "tip": "The train station offers scenic rail routes, including to the coast.",
+          "link": "https://www.zcg-prevoz.me"
+        },
+        {
+          "tip": "The city center is compact and walkable.",
+          "link": "https://www.visit-montenegro.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Podgorica Cultural Summer",
+          "season": "Summer",
+          "description": "Concerts, open-air cinema, and cultural events across the city.",
+          "website": "https://www.podgorica.me",
+          "dates": "June–August (annual)"
+        },
+        {
+          "name": "New Year Celebrations",
+          "season": "Winter",
+          "description": "Outdoor concerts and festivities welcoming the New Year.",
+          "website": "https://www.podgorica.me",
+          "dates": "December–January (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Cathedral of the Resurrection of Christ",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4466%2C19.2489",
+          "description": "A large modern Orthodox cathedral and one of the city’s most impressive buildings."
+        },
+        {
+          "name": "Stara Varoš",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4398%2C19.2618",
+          "description": "The old Ottoman-era district with mosques and historic streets."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Morača River Cliffs",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4505%2C19.2505",
+          "description": "Natural viewpoints just outside the center with dramatic river scenery."
+        },
+        {
+          "name": "Local Wine Bars",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.4425%2C19.2625",
+          "description": "Relaxed spots to try Montenegrin wines and chat with locals."
+        }
+      ]
+    },
+
+    {
+      "name": "Sveti Stefan",
+      "interests": [
+        {
+          "name": "Sveti Stefan Islet",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2563%2C18.8969",
+          "description": "An iconic fortified island connected to the mainland by a narrow causeway, once a medieval village and now a luxury resort."
+        },
+        {
+          "name": "Sveti Stefan Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2568%2C18.8978",
+          "description": "A distinctive pink-pebble beach split by the causeway, offering postcard views of the island."
+        },
+        {
+          "name": "Miločer Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2545%2C18.9008",
+          "description": "A former royal park with walking paths, Mediterranean plants, and access to a sheltered beach."
+        }
+      ],
+      "local_food_tip": "Enjoy fresh seafood, grilled fish, and simple Mediterranean dishes in nearby Pržno or along the Budva Riviera.",
+      "full_day": {
+        "morning": "Start with views of the <a href=\"https://www.google.com/maps/search/?api=1&query=42.2563%2C18.8969\" target=\"_blank\" rel=\"noopener\">Sveti Stefan Islet</a> 🌊 from the mainland viewpoints.",
+        "afternoon": "Relax on <a href=\"https://www.google.com/maps/search/?api=1&query=42.2568%2C18.8978\" target=\"_blank\" rel=\"noopener\">Sveti Stefan Beach</a> 🏖️ or walk through <a href=\"https://www.google.com/maps/search/?api=1&query=42.2545%2C18.9008\" target=\"_blank\" rel=\"noopener\">Miločer Park</a> 🌳.",
+        "sunset": "Watch the sunset from the coastal path overlooking the island 🌅.",
+        "night": "Have dinner in Pržno 🍽️ or enjoy a quiet evening stroll along the coast."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Coastal Walk Season",
+          "description": "Spring brings mild weather, blooming greenery, and fewer visitors.",
+          "ideas": [
+            {
+              "name": "Coastal Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2575%2C18.8990",
+              "description": "Comfortable temperatures and clear views."
+            },
+            {
+              "name": "Miločer Park Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2545%2C18.9008",
+              "description": "Peaceful paths among Mediterranean plants."
+            },
+            {
+              "name": "Photography Viewpoints",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2585%2C18.8945",
+              "description": "Soft spring light over the island."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Peak Riviera Season",
+          "description": "Summer is sunny and vibrant, with warm seas and beach life.",
+          "ideas": [
+            {
+              "name": "Beach Time",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2568%2C18.8978",
+              "description": "Swimming and sunbathing."
+            },
+            {
+              "name": "Early Morning Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2575%2C18.8990",
+              "description": "Avoid midday heat."
+            },
+            {
+              "name": "Evening Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2518%2C18.9025",
+              "description": "Cooler evenings by the sea."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Seaside Calm",
+          "description": "Warm water and fewer crowds make autumn ideal for relaxation.",
+          "ideas": [
+            {
+              "name": "Late-Season Swimming",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2568%2C18.8978",
+              "description": "Sea stays warm into autumn."
+            },
+            {
+              "name": "Scenic Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2575%2C18.8990",
+              "description": "Clear skies and soft light."
+            },
+            {
+              "name": "Local Dining in Pržno",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2518%2C18.9025",
+              "description": "Seasonal seafood specialties."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Quiet Winter by the Adriatic",
+          "description": "Winter is mild and peaceful, ideal for photography and walks.",
+          "ideas": [
+            {
+              "name": "Viewpoint Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2585%2C18.8945",
+              "description": "Dramatic seas and clear air."
+            },
+            {
+              "name": "Miločer Park Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2545%2C18.9008",
+              "description": "Quiet paths and greenery."
+            },
+            {
+              "name": "Cafés Nearby",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=42.2518%2C18.9025",
+              "description": "Warm drinks during cooler days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses connect Sveti Stefan with Budva and Petrovac.",
+          "link": "https://www.busticket4.me"
+        },
+        {
+          "tip": "The area is best explored on foot once you arrive.",
+          "link": "https://www.visit-montenegro.com"
+        },
+        {
+          "tip": "Taxis are convenient for short coastal trips.",
+          "link": "https://www.visit-montenegro.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Budva Riviera Summer Events",
+          "season": "Summer",
+          "description": "Cultural and music events held across nearby coastal towns.",
+          "website": "https://www.visitbudva.com",
+          "dates": "June–August (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Pržno Village",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2518%2C18.9025",
+          "description": "A nearby fishing village with restaurants and a relaxed beach atmosphere."
+        },
+        {
+          "name": "Coastal Viewpoints Above Sveti Stefan",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2585%2C18.8945",
+          "description": "Elevated spots offering the classic postcard view of the island."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Miločer Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2538%2C18.9015",
+          "description": "A sheltered beach near the park, quieter than the main area."
+        },
+        {
+          "name": "Coastal Path Toward Pržno",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.2548%2C18.9038",
+          "description": "A scenic seaside walk connecting Sveti Stefan and Pržno."
+        }
+      ]
+    }
+
+  ]
+}

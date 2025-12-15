@@ -1,0 +1,845 @@
+{
+  "name": "Slovakia",
+  "cities": [
+    {
+      "name": "Banská Štiavnica",
+      "interests": [
+        {
+          "name": "Old Castle (Starý zámok)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.4575%2C18.8945",
+          "description": "A medieval fortress transformed over centuries, offering museums and views over the historic mining town."
+        },
+        {
+          "name": "New Castle (Nový zámok)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.4585%2C18.8935",
+          "description": "A Renaissance-era lookout tower built to defend against Ottoman raids, with panoramic views of Banská Štiavnica."
+        },
+        {
+          "name": "Holy Trinity Square (Námestie svätej Trojice)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.4578%2C18.8958",
+          "description": "The heart of the town, dominated by the Baroque Plague Column and surrounded by colorful historic buildings."
+        }
+      ],
+      "local_food_tip": "Try Slovak specialties such as bryndzové halušky, hearty soups, local pastries, and regional wines from central Slovakia.",
+      "full_day": {
+        "morning": "Start at <a href=\"https://www.google.com/maps/search/?api=1&query=48.4578%2C18.8958\" target=\"_blank\" rel=\"noopener\">Holy Trinity Square</a> ☀️, exploring cafés and Baroque architecture.",
+        "afternoon": "Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=48.4575%2C18.8945\" target=\"_blank\" rel=\"noopener\">Old Castle</a> 🏰 and learn about the town’s mining history.",
+        "sunset": "Climb to the <a href=\"https://www.google.com/maps/search/?api=1&query=48.4585%2C18.8935\" target=\"_blank\" rel=\"noopener\">New Castle</a> 🌅 for views over red rooftops and surrounding hills.",
+        "night": "Enjoy dinner 🍽️ in the Old Town and a quiet evening walk through lantern-lit streets."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Cultural Season",
+          "description": "Mild weather and blooming hills make walking the steep streets especially pleasant.",
+          "ideas": [
+            {
+              "name": "Historic Center Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4578%2C18.8958",
+              "description": "Comfortable sightseeing and café stops."
+            },
+            {
+              "name": "Mining Trails",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4605%2C18.9005",
+              "description": "Educational paths around old mining areas."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4575%2C18.8945",
+              "description": "Balanced indoor and outdoor culture."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Salamander Days (Salamandrové dni)",
+          "description": "The town’s biggest festival celebrating mining heritage with parades and performances.",
+          "ideas": [
+            {
+              "name": "Festival Parades",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4578%2C18.8958",
+              "description": "Traditional costumes and music."
+            },
+            {
+              "name": "Tajchy Lakes Swimming",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4685%2C18.8850",
+              "description": "Historic artificial lakes used for swimming."
+            },
+            {
+              "name": "Evening Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4570%2C18.8965",
+              "description": "Cooler evenings and lively atmosphere."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Colors of Štiavnica Hills",
+          "description": "Golden forests and crisp air make autumn highly photogenic.",
+          "ideas": [
+            {
+              "name": "Hiking Above the Town",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4635%2C18.9020",
+              "description": "Scenic viewpoints over the Old Town."
+            },
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4585%2C18.8935",
+              "description": "Warm light on historic roofs."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4578%2C18.8958",
+              "description": "Hearty Slovak comfort food."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Quiet Winter Old Town",
+          "description": "Snow-dusted streets and a peaceful, storybook atmosphere.",
+          "ideas": [
+            {
+              "name": "Snowy Castle Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4585%2C18.8935",
+              "description": "Romantic winter scenery."
+            },
+            {
+              "name": "Museum Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4575%2C18.8945",
+              "description": "Warm indoor history."
+            },
+            {
+              "name": "Cozy Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.4578%2C18.8958",
+              "description": "Hot drinks and local desserts."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Trains connect Banská Štiavnica with Zvolen and central Slovakia.",
+          "link": "https://www.zssk.sk"
+        },
+        {
+          "tip": "The historic center is compact but hilly—comfortable shoes are essential.",
+          "link": "https://www.banskastiavnica.sk"
+        },
+        {
+          "tip": "Local buses reach nearby tajchy lakes and villages.",
+          "link": "https://www.sadbb.sk"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Salamander Days",
+          "season": "Summer",
+          "description": "A UNESCO-recognized festival celebrating the town’s mining traditions.",
+          "website": "https://www.banskastiavnica.sk",
+          "dates": "September (annual)"
+        },
+        {
+          "name": "Banská Štiavnica Christmas Market",
+          "season": "Winter",
+          "description": "Festive market with crafts, food, and holiday atmosphere.",
+          "website": "https://www.banskastiavnica.sk",
+          "dates": "December (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Slovak Mining Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.4565%2C18.8970",
+          "description": "A museum complex including underground mine tours and mining history exhibits."
+        },
+        {
+          "name": "Kammerhof",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.4570%2C18.8965",
+          "description": "A former mining administration building, now part of the mining museum."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Tajchy (Artificial Lakes)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.4685%2C18.8850",
+          "description": "Historic reservoirs built for mining, now used for swimming and relaxation."
+        },
+        {
+          "name": "Calvary of Banská Štiavnica",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.4630%2C18.8885",
+          "description": "A Baroque hilltop complex with chapels and sweeping views."
+        }
+      ]
+    },
+
+    {
+      "name": "Bratislava",
+      "interests": [
+        {
+          "name": "Bratislava Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.1421%2C17.1006",
+          "description": "An iconic hilltop castle overlooking the Danube, offering panoramic views and exhibitions on Slovak history."
+        },
+        {
+          "name": "Old Town (Staré Mesto)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.1445%2C17.1090",
+          "description": "A charming historic center with medieval streets, colorful buildings, cafés, and lively squares."
+        },
+        {
+          "name": "St. Martin’s Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.1432%2C17.1038",
+          "description": "A Gothic cathedral where Hungarian kings and queens were crowned for centuries."
+        }
+      ],
+      "local_food_tip": "Try bryndzové halušky, kapustnica (cabbage soup), roasted duck with red cabbage, and Slovak pastries.",
+      "full_day": {
+        "morning": "Start at <a href=\"https://www.google.com/maps/search/?api=1&query=48.1421%2C17.1006\" target=\"_blank\" rel=\"noopener\">Bratislava Castle</a> ☀️ for views over the Danube and Old Town.",
+        "afternoon": "Explore the streets of <a href=\"https://www.google.com/maps/search/?api=1&query=48.1445%2C17.1090\" target=\"_blank\" rel=\"noopener\">Old Town</a> ☕, stopping for lunch and local sights.",
+        "sunset": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=48.1432%2C17.1038\" target=\"_blank\" rel=\"noopener\">St. Martin’s Cathedral</a> 🌅 and walk along the Danube promenade.",
+        "night": "Enjoy dinner 🍽️ in the Old Town and a relaxed evening by the river."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Bratislava Spring Music Festival",
+          "description": "Mild weather and cultural events bring life to the historic center.",
+          "ideas": [
+            {
+              "name": "Castle Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1421%2C17.1006",
+              "description": "Blooming gardens and clear views."
+            },
+            {
+              "name": "Old Town Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1445%2C17.1090",
+              "description": "Outdoor terraces reopen."
+            },
+            {
+              "name": "Danube Promenade",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1415%2C17.1115",
+              "description": "Fresh air and riverside walks."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Bratislava Summer Cultural Season",
+          "description": "Warm days, festivals, and open-air concerts across the city.",
+          "ideas": [
+            {
+              "name": "River Cruises",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1408%2C17.1105",
+              "description": "Boat trips on the Danube."
+            },
+            {
+              "name": "Evening Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1440%2C17.1095",
+              "description": "Lively summer atmosphere."
+            },
+            {
+              "name": "Outdoor Events",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1435%2C17.1080",
+              "description": "Concerts and festivals."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Wine Season",
+          "description": "Harvest time in nearby vineyards with pleasant sightseeing weather.",
+          "ideas": [
+            {
+              "name": "Wine Tastings",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1655%2C17.0985",
+              "description": "Small Carpathian wine region nearby."
+            },
+            {
+              "name": "Historic Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1445%2C17.1090",
+              "description": "Golden light in the Old Town."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1438%2C17.1075",
+              "description": "Comfortable indoor culture."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Bratislava Christmas Markets",
+          "description": "Festive stalls, lights, and traditional food fill the Old Town.",
+          "ideas": [
+            {
+              "name": "Christmas Markets",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1445%2C17.1090",
+              "description": "Seasonal treats and crafts."
+            },
+            {
+              "name": "Museum Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1438%2C17.1075",
+              "description": "Warm indoor sightseeing."
+            },
+            {
+              "name": "Cozy Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.1448%2C17.1088",
+              "description": "Hot drinks and desserts."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Trams and buses efficiently cover the city and suburbs.",
+          "link": "https://imhd.sk/ba"
+        },
+        {
+          "tip": "The Old Town and castle area are best explored on foot.",
+          "link": "https://www.visitbratislava.com"
+        },
+        {
+          "tip": "Bratislava is well connected by train to Vienna and Budapest.",
+          "link": "https://www.zssk.sk"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Bratislava Spring Music Festival",
+          "season": "Spring",
+          "description": "An international classical music festival held across city venues.",
+          "website": "https://www.bhsfestival.sk",
+          "dates": "April–May (annual)"
+        },
+        {
+          "name": "Bratislava Christmas Markets",
+          "season": "Winter",
+          "description": "Traditional markets with food, crafts, and festive atmosphere.",
+          "website": "https://www.visitbratislava.com",
+          "dates": "Late November–December (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Michael’s Gate",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.1450%2C17.1075",
+          "description": "The only preserved medieval city gate in Bratislava."
+        },
+        {
+          "name": "Danube River Promenade",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.1415%2C17.1115",
+          "description": "A popular riverside area for walks and views."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Slavin Memorial",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.1540%2C17.0935",
+          "description": "A hilltop memorial with one of the best panoramic views of the city."
+        },
+        {
+          "name": "Blue Church (Church of St. Elizabeth)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.1495%2C17.1205",
+          "description": "A unique Art Nouveau church known for its pastel-blue façade."
+        }
+      ]
+    },
+
+    {
+      "name": "Košice",
+      "interests": [
+        {
+          "name": "St. Elisabeth Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.7209%2C21.2578",
+          "description": "The largest Gothic cathedral in Slovakia and the spiritual heart of Košice, dominating the main square."
+        },
+        {
+          "name": "Hlavná Street",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.7215%2C21.2585",
+          "description": "A long, elegant main street lined with historic buildings, cafés, fountains, and cultural institutions."
+        },
+        {
+          "name": "Urban Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.7212%2C21.2575",
+          "description": "A historic bell tower next to the cathedral, offering insight into Košice’s medieval past."
+        }
+      ],
+      "local_food_tip": "Try eastern Slovak dishes such as pirohy, kapustnica, roasted meats, and local pastries paired with Slovak beer or wine.",
+      "full_day": {
+        "morning": "Begin at <a href=\"https://www.google.com/maps/search/?api=1&query=48.7209%2C21.2578\" target=\"_blank\" rel=\"noopener\">St. Elisabeth Cathedral</a> ☀️, exploring its interior and surrounding square.",
+        "afternoon": "Stroll along <a href=\"https://www.google.com/maps/search/?api=1&query=48.7215%2C21.2585\" target=\"_blank\" rel=\"noopener\">Hlavná Street</a> ☕ for lunch, museums, and cafés.",
+        "sunset": "Relax near the <a href=\"https://www.google.com/maps/search/?api=1&query=48.7212%2C21.2575\" target=\"_blank\" rel=\"noopener\">Urban Tower</a> 🌅 and enjoy the singing fountain.",
+        "night": "Have dinner 🍽️ in the Old Town and enjoy Košice’s calm but lively evening atmosphere."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Košice Spring Cultural Season",
+          "description": "Blooming parks and mild weather bring life to the historic center.",
+          "ideas": [
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7215%2C21.2585",
+              "description": "Comfortable sightseeing along Hlavná Street."
+            },
+            {
+              "name": "City Parks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7195%2C21.2555",
+              "description": "Green spaces ideal for relaxation."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7220%2C21.2595",
+              "description": "Cultural balance of indoor and outdoor activities."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Košice Cultural Summer",
+          "description": "Warm days filled with festivals, open-air concerts, and events.",
+          "ideas": [
+            {
+              "name": "Open-Air Performances",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7210%2C21.2580",
+              "description": "Concerts and theatre on the main square."
+            },
+            {
+              "name": "Evening Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7218%2C21.2590",
+              "description": "Lively summer terraces."
+            },
+            {
+              "name": "City Walks at Night",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7215%2C21.2585",
+              "description": "Pleasant temperatures after sunset."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Arts Season",
+          "description": "Golden colors and cooler air create a relaxed cultural atmosphere.",
+          "ideas": [
+            {
+              "name": "Historic Center Photography",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7209%2C21.2578",
+              "description": "Warm autumn light on Gothic architecture."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7218%2C21.2590",
+              "description": "Hearty eastern Slovak cuisine."
+            },
+            {
+              "name": "Gallery Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7225%2C21.2600",
+              "description": "Ideal season for exhibitions."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Košice Christmas Markets",
+          "description": "Festive lights and stalls transform the main street into a winter village.",
+          "ideas": [
+            {
+              "name": "Christmas Markets",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7215%2C21.2585",
+              "description": "Seasonal food, crafts, and music."
+            },
+            {
+              "name": "Museum Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7220%2C21.2595",
+              "description": "Warm indoor culture."
+            },
+            {
+              "name": "Cozy Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.7218%2C21.2590",
+              "description": "Hot drinks and desserts."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Trams and buses efficiently cover the city and suburbs.",
+          "link": "https://www.dpmk.sk"
+        },
+        {
+          "tip": "The historic center is flat and best explored on foot.",
+          "link": "https://www.visitkosice.org"
+        },
+        {
+          "tip": "Košice is well connected by train to Bratislava and eastern Slovakia.",
+          "link": "https://www.zssk.sk"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Košice Cultural Summer",
+          "season": "Summer",
+          "description": "A series of open-air concerts, theatre, and cultural events.",
+          "website": "https://www.visitkosice.org",
+          "dates": "June–August (annual)"
+        },
+        {
+          "name": "Košice Christmas Markets",
+          "season": "Winter",
+          "description": "Traditional markets with festive food and crafts.",
+          "website": "https://www.visitkosice.org",
+          "dates": "December (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "East Slovak Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.7260%2C21.2555",
+          "description": "A museum showcasing regional history, archaeology, and the famous Košice Gold Treasure."
+        },
+        {
+          "name": "Singing Fountain",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.7210%2C21.2582",
+          "description": "A popular fountain with music and light shows near the cathedral."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Jakab Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.7265%2C21.2545",
+          "description": "A fairy-tale-like neo-Gothic palace inspired by French castles."
+        },
+        {
+          "name": "Bankov Forest Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.7425%2C21.2255",
+          "description": "A peaceful forest area just outside the city, popular with locals."
+        }
+      ]
+    },
+
+    {
+      "name": "Poprad",
+      "interests": [
+        {
+          "name": "Popradské námestie (City Center)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=49.0595%2C20.2975",
+          "description": "The central area of Poprad with cafés, shops, and easy access to transport connections toward the High Tatras."
+        },
+        {
+          "name": "Spišská Sobota Historic Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=49.0608%2C20.3145",
+          "description": "A beautifully preserved medieval square with colorful burgher houses and a calm, historic atmosphere."
+        },
+        {
+          "name": "AquaCity Poprad",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=49.0535%2C20.3030",
+          "description": "A modern thermal water and wellness complex, popular year-round for relaxation with mountain views."
+        }
+      ],
+      "local_food_tip": "Try Slovak classics like bryndzové halušky, kapustnica, grilled cheeses, and warming mountain soups after hiking.",
+      "full_day": {
+        "morning": "Start with a walk around <a href=\"https://www.google.com/maps/search/?api=1&query=49.0608%2C20.3145\" target=\"_blank\" rel=\"noopener\">Spišská Sobota</a> ☀️, enjoying its historic charm.",
+        "afternoon": "Relax at <a href=\"https://www.google.com/maps/search/?api=1&query=49.0535%2C20.3030\" target=\"_blank\" rel=\"noopener\">AquaCity Poprad</a> ♨️ or have lunch in the city center.",
+        "sunset": "Take a short trip toward the High Tatras for mountain views 🌅.",
+        "night": "Enjoy dinner 🍽️ in Poprad and prepare for an early mountain adventure."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring in the Tatras",
+          "description": "Melting snow and fresh greenery mark the start of hiking season.",
+          "ideas": [
+            {
+              "name": "Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.0595%2C20.2975",
+              "description": "Mild weather and calm streets."
+            },
+            {
+              "name": "Historic Spišská Sobota",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.0608%2C20.3145",
+              "description": "Comfortable sightseeing conditions."
+            },
+            {
+              "name": "Easy Tatra Trails",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.1405%2C20.2255",
+              "description": "Lower-altitude walks as snow recedes."
+            }
+          ]
+        },
+        "summer": {
+          "event": "High Tatras Hiking Season",
+          "description": "Warm days and clear skies make Poprad the main gateway to mountain adventures.",
+          "ideas": [
+            {
+              "name": "Day Trips to the High Tatras",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.1405%2C20.2255",
+              "description": "Lakes, peaks, and alpine trails."
+            },
+            {
+              "name": "AquaCity Relaxation",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.0535%2C20.3030",
+              "description": "Perfect after hiking."
+            },
+            {
+              "name": "Evening Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.0595%2C20.2975",
+              "description": "Outdoor terraces in town."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Colors in the Tatras",
+          "description": "Golden forests and crisp air create stunning scenery.",
+          "ideas": [
+            {
+              "name": "Autumn Hiking",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.1405%2C20.2255",
+              "description": "Clear views and fewer crowds."
+            },
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.0608%2C20.3145",
+              "description": "Historic town and mountain backdrops."
+            },
+            {
+              "name": "Local Cuisine",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.0595%2C20.2975",
+              "description": "Hearty seasonal dishes."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Tatra Ski Season",
+          "description": "Snow transforms Poprad into a winter sports base.",
+          "ideas": [
+            {
+              "name": "Ski Resorts in the Tatras",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.1405%2C20.2255",
+              "description": "Downhill and cross-country skiing."
+            },
+            {
+              "name": "Thermal Pools",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.0535%2C20.3030",
+              "description": "Warm relaxation after cold days."
+            },
+            {
+              "name": "Winter Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=49.0608%2C20.3145",
+              "description": "Snowy historic streets."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Poprad-Tatry railway station is a major hub for reaching the High Tatras.",
+          "link": "https://www.zssk.sk"
+        },
+        {
+          "tip": "Electric trains connect Poprad with Tatra resorts like Štrbské Pleso.",
+          "link": "https://www.zssk.sk"
+        },
+        {
+          "tip": "Local buses cover the city and nearby districts efficiently.",
+          "link": "https://www.poprad.sk"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Tatry Ice Master",
+          "season": "Winter",
+          "description": "International ice sculpture competition held in the High Tatras.",
+          "website": "https://www.vt.sk",
+          "dates": "January (annual)"
+        },
+        {
+          "name": "Poprad Cultural Summer",
+          "season": "Summer",
+          "description": "Concerts and cultural events in the city and nearby resorts.",
+          "website": "https://www.poprad.sk",
+          "dates": "July–August (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "High Tatras National Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=49.1405%2C20.2255",
+          "description": "Slovakia’s highest mountain range, offering hiking, skiing, and alpine lakes."
+        },
+        {
+          "name": "Poprad-Tatry Airport",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=49.0735%2C20.2415",
+          "description": "A small international airport serving the Tatra region."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Velická Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=49.0585%2C20.3225",
+          "description": "A lesser-visited historic part of Poprad with local charm."
+        },
+        {
+          "name": "River Poprad Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=49.0615%2C20.2905",
+          "description": "Quiet riverside paths popular with locals."
+        }
+      ]
+    },
+
+    {
+      "name": "Trenčín",
+      "interests": [
+        {
+          "name": "Trenčín Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.8956%2C18.0416",
+          "description": "A dramatic medieval castle towering above the city, offering panoramic views and exhibitions on regional history."
+        },
+        {
+          "name": "Mierové námestie (Peace Square)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.8945%2C18.0428",
+          "description": "The lively main square of Trenčín, lined with colorful historic houses, cafés, and shops."
+        },
+        {
+          "name": "Roman Inscription on Castle Rock",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.8952%2C18.0412",
+          "description": "A rare Roman inscription from 179 AD, marking the northernmost evidence of Roman military presence in Central Europe."
+        }
+      ],
+      "local_food_tip": "Try Slovak dishes like bryndzové halušky, roast pork with cabbage, local sausages, and traditional desserts.",
+      "full_day": {
+        "morning": "Start with a climb to <a href=\"https://www.google.com/maps/search/?api=1&query=48.8956%2C18.0416\" target=\"_blank\" rel=\"noopener\">Trenčín Castle</a> ☀️ for history and sweeping city views.",
+        "afternoon": "Descend to <a href=\"https://www.google.com/maps/search/?api=1&query=48.8945%2C18.0428\" target=\"_blank\" rel=\"noopener\">Mierové námestie</a> ☕ for lunch, cafés, and Old Town exploration.",
+        "sunset": "Walk along the Váh River promenade 🌅 and enjoy views back toward the castle.",
+        "night": "Have dinner 🍽️ in the historic center or attend a cultural event if available."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Cultural Season",
+          "description": "Mild weather and blooming greenery make castle walks especially pleasant.",
+          "ideas": [
+            {
+              "name": "Castle & Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8956%2C18.0416",
+              "description": "Comfortable sightseeing with fresh spring air."
+            },
+            {
+              "name": "Váh River Paths",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8925%2C18.0455",
+              "description": "Easy riverside walks."
+            },
+            {
+              "name": "Café Terraces",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8945%2C18.0428",
+              "description": "Outdoor seating returns to the square."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Pohoda Festival",
+          "description": "One of Central Europe’s most respected music and arts festivals, held at Trenčín Airport.",
+          "ideas": [
+            {
+              "name": "Festival Experience",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8665%2C18.0315",
+              "description": "Music, art, and international atmosphere."
+            },
+            {
+              "name": "Evening Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8945%2C18.0428",
+              "description": "Warm evenings and lively streets."
+            },
+            {
+              "name": "River Relaxation",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8925%2C18.0455",
+              "description": "Cooling off near the Váh River."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Castle Season",
+          "description": "Golden colors and crisp air highlight the castle and surrounding hills.",
+          "ideas": [
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8956%2C18.0416",
+              "description": "Warm light on stone walls."
+            },
+            {
+              "name": "Historic Center Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8945%2C18.0428",
+              "description": "Pleasant temperatures and fewer crowds."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8948%2C18.0435",
+              "description": "Seasonal Slovak comfort food."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Trenčín Christmas Market",
+          "description": "Festive lights and stalls bring warmth to the historic square.",
+          "ideas": [
+            {
+              "name": "Christmas Markets",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8945%2C18.0428",
+              "description": "Seasonal food, crafts, and music."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8950%2C18.0410",
+              "description": "Indoor culture during colder days."
+            },
+            {
+              "name": "Cozy Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=48.8948%2C18.0435",
+              "description": "Hot drinks and desserts."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Trains connect Trenčín with Bratislava, Žilina, and the Czech Republic.",
+          "link": "https://www.zssk.sk"
+        },
+        {
+          "tip": "The Old Town and castle area are compact and walkable.",
+          "link": "https://www.trencin.sk"
+        },
+        {
+          "tip": "Local buses serve residential areas and the train station.",
+          "link": "https://www.mhdtrencin.sk"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Pohoda Festival",
+          "season": "Summer",
+          "description": "Internationally acclaimed music and arts festival.",
+          "website": "https://www.pohodafestival.sk",
+          "dates": "July (annual)"
+        },
+        {
+          "name": "Trenčín Christmas Markets",
+          "season": "Winter",
+          "description": "Traditional holiday markets in the main square.",
+          "website": "https://www.trencin.sk",
+          "dates": "December (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Váh River Promenade",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.8925%2C18.0455",
+          "description": "A pleasant riverside path popular for walking and cycling."
+        },
+        {
+          "name": "Katov dom (Executioner’s House)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.8950%2C18.0405",
+          "description": "A small historic house near the castle linked to medieval justice."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Brezina Forest Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.9035%2C18.0405",
+          "description": "A wooded hill above the city with quiet trails and viewpoints."
+        },
+        {
+          "name": "Castle Viewpoints from the South Bank",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.8895%2C18.0465",
+          "description": "Less-crowded spots for photographing Trenčín Castle."
+        }
+      ]
+    }
+
+  ]
+}

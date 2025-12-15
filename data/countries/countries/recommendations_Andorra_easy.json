@@ -1,0 +1,525 @@
+{
+  "name": "Andorra",
+  "cities": [
+    {
+  "name": "Andorra la Vella",
+  "interests": [
+    {
+      "name": "Casa de la Vall",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5077%2C1.5211",
+      "description": "Historic 16th-century house that served as Andorra’s parliament for centuries, symbolizing the country’s unique political history."
+    },
+    {
+      "name": "Barri Antic (Old Town)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5079%2C1.5206",
+      "description": "Charming old quarter with stone houses, narrow streets, small squares, and a quiet mountain-town atmosphere."
+    },
+    {
+      "name": "Sant Esteve Church",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5073%2C1.5215",
+      "description": "Romanesque church with later Baroque additions, located in the historic center near Casa de la Vall."
+    },
+    {
+      "name": "Caldea Spa Complex",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5103%2C1.5386",
+      "description": "Iconic glass spa building offering thermal baths, indoor and outdoor pools, and mountain views."
+    },
+    {
+      "name": "Meritxell Avenue",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5063%2C1.5238",
+      "description": "Main shopping street of Andorra la Vella, famous for duty-free shops and lively city energy."
+    }
+  ],
+  "local_food_tip": "Try traditional Andorran mountain dishes such as escudella (hearty stew), trinxat (potato and cabbage dish), cured meats, and local cheeses—perfect after a day in the mountains.",
+  "full_day": {
+    "Morning": "Start in the <a href=\"https://www.google.com/maps/search/?api=1&query=42.5079%2C1.5206\" target=\"_blank\" rel=\"noopener\">Barri Antic</a> 🏘️, visit <a href=\"https://www.google.com/maps/search/?api=1&query=42.5077%2C1.5211\" target=\"_blank\" rel=\"noopener\">Casa de la Vall</a> 🏛️, and step into <a href=\"https://www.google.com/maps/search/?api=1&query=42.5073%2C1.5215\" target=\"_blank\" rel=\"noopener\">Sant Esteve Church</a> ⛪ for a calm introduction to the city.",
+    "Afternoon": "Walk down <a href=\"https://www.google.com/maps/search/?api=1&query=42.5063%2C1.5238\" target=\"_blank\" rel=\"noopener\">Meritxell Avenue</a> 🛍️ for duty-free shopping and lunch, then relax at the <a href=\"https://www.google.com/maps/search/?api=1&query=42.5103%2C1.5386\" target=\"_blank\" rel=\"noopener\">Caldea Spa</a> ♨️.",
+    "Sunset": "Enjoy views from the river Valira area 🌄 as the mountains glow in evening light.",
+    "Night": "Dinner in the old town 🍽️ followed by a quiet evening stroll through the illuminated center."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Mountain Spring Awakening",
+      "description": "Snow melts in the valleys, flowers bloom, and hiking trails reopen around the capital.",
+      "ideas": [
+        {
+          "name": "Old Town walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5079%2C1.5206",
+          "description": "Comfortable weather for sightseeing."
+        },
+        {
+          "name": "River Valira paths",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5068%2C1.5260",
+          "description": "Easy walks with mountain scenery."
+        },
+        {
+          "name": "Light hiking near the city",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5088%2C1.5325",
+          "description": "Short trails with fresh alpine air."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Mountain & Outdoor Season",
+      "description": "Cooler temperatures than surrounding regions make Andorra la Vella ideal for hiking and outdoor activities.",
+      "ideas": [
+        {
+          "name": "High-altitude hikes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5088%2C1.5325",
+          "description": "Accessible trails near the capital."
+        },
+        {
+          "name": "Open-air cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5063%2C1.5238",
+          "description": "Relax on terraces along Meritxell Avenue."
+        },
+        {
+          "name": "Caldea outdoor pools",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5103%2C1.5386",
+          "description": "Enjoy warm water with mountain views."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Autumn Colors in the Pyrenees",
+      "description": "Forests turn gold and red, with crisp air and fewer visitors.",
+      "ideas": [
+        {
+          "name": "Scenic viewpoints",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5095%2C1.5310",
+          "description": "Best season for photography."
+        },
+        {
+          "name": "Cultural visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5077%2C1.5211",
+          "description": "Museums and historic buildings."
+        },
+        {
+          "name": "Local cuisine tasting",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5079%2C1.5206",
+          "description": "Hearty dishes as temperatures cool."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Ski Season in Andorra",
+      "description": "Snowy mountains, festive atmosphere, and easy access to major ski resorts.",
+      "ideas": [
+        {
+          "name": "Ski resorts day trips",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5563%2C1.5330",
+          "description": "Grandvalira and Vallnord are nearby."
+        },
+        {
+          "name": "Caldea winter spa",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5103%2C1.5386",
+          "description": "Perfect après-ski relaxation."
+        },
+        {
+          "name": "Christmas shopping",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5063%2C1.5238",
+          "description": "Festive lights and duty-free stores."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Andorra has no trains; buses are the main form of public transport within the country.",
+      "link": "https://www.andorrabus.com/"
+    },
+    {
+      "tip": "Regular bus connections link Andorra la Vella with Barcelona and Toulouse.",
+      "link": "https://www.visitandorra.com/en/transport/"
+    },
+    {
+      "tip": "The city center is compact and walkable.",
+      "link": "https://www.visitandorra.com/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Andorra Shopping Festival",
+      "season": "autumn",
+      "description": "Seasonal promotions, events, and entertainment across the capital.",
+      "website": "https://www.visitandorra.com/",
+      "dates": "October–November"
+    },
+    {
+      "name": "Christmas in Andorra la Vella",
+      "season": "winter",
+      "description": "Festive lights, markets, and winter atmosphere in the city center.",
+      "website": "https://www.visitandorra.com/",
+      "dates": "December"
+    }
+  ],
+  "places": [
+    {
+      "name": "Government Building of Andorra",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5074%2C1.5221",
+      "description": "Modern seat of government near the historic center."
+    },
+    {
+      "name": "Central Park (Parc Central)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5047%2C1.5249",
+      "description": "Green urban park with walking paths and mountain views."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Rec del Solà Walk",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5109%2C1.5269",
+      "description": "Scenic hillside path above the city with panoramic views."
+    },
+    {
+      "name": "Old stone houses near Sant Esteve",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5073%2C1.5215",
+      "description": "Quiet corners showing traditional Pyrenean architecture."
+    }
+  ]
+}
+,
+    {
+  "name": "Escaldes-Engordany",
+  "interests": [
+    {
+      "name": "Caldea Spa Complex",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5103%2C1.5386",
+      "description": "Iconic glass thermal spa and wellness complex offering indoor and outdoor lagoons, saunas, and mountain views—symbol of the city."
+    },
+    {
+      "name": "Inúu Wellness Center",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5108%2C1.5389",
+      "description": "Adults-focused extension of Caldea designed for deeper relaxation and thermal treatments."
+    },
+    {
+      "name": "Engolasters Lake",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5117%2C1.5676",
+      "description": "Peaceful mountain lake above the city with walking paths, picnic areas, and panoramic views."
+    },
+    {
+      "name": "Carmen Thyssen Andorra Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5097%2C1.5381",
+      "description": "Compact modern art museum with rotating exhibitions from the Thyssen-Bornemisza collection."
+    },
+    {
+      "name": "Avinguda Carlemany",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5087%2C1.5360",
+      "description": "Main commercial avenue connecting Escaldes-Engordany with Andorra la Vella, known for shopping and cafés."
+    }
+  ],
+  "local_food_tip": "After spa time, try escudella (traditional mountain stew), trinxat (potato–cabbage dish), cured meats, and local cheeses—comfort food that fits the alpine setting.",
+  "full_day": {
+    "Morning": "Begin with a relaxed walk along <a href=\"https://www.google.com/maps/search/?api=1&query=42.5087%2C1.5360\" target=\"_blank\" rel=\"noopener\">Avinguda Carlemany</a> ☀️, stopping for coffee and light shopping. Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=42.5097%2C1.5381\" target=\"_blank\" rel=\"noopener\">Carmen Thyssen Andorra Museum</a> 🎨 for a cultural start.",
+    "Afternoon": "Spend several hours unwinding at <a href=\"https://www.google.com/maps/search/?api=1&query=42.5103%2C1.5386\" target=\"_blank\" rel=\"noopener\">Caldea</a> ♨️ or the quieter <a href=\"https://www.google.com/maps/search/?api=1&query=42.5108%2C1.5389\" target=\"_blank\" rel=\"noopener\">Inúu</a>—thermal pools, saunas, and relaxation areas.",
+    "Sunset": "Head up toward <a href=\"https://www.google.com/maps/search/?api=1&query=42.5117%2C1.5676\" target=\"_blank\" rel=\"noopener\">Engolasters Lake</a> 🌄 for cool air and mountain reflections as the light fades.",
+    "Night": "Dinner back in town 🍽️ followed by an evening stroll between Escaldes-Engordany and Andorra la Vella under city lights."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Mountain Spring Reopening",
+      "description": "Melting snow and fresh greenery make lakes and hillside paths accessible again.",
+      "ideas": [
+        {
+          "name": "Engolasters Lake walk",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5117%2C1.5676",
+          "description": "Crisp air and calm scenery."
+        },
+        {
+          "name": "Museum visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5097%2C1.5381",
+          "description": "Comfortable indoor culture."
+        },
+        {
+          "name": "Carlemany café terraces",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5087%2C1.5360",
+          "description": "First sunny outdoor seating of the year."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Cool Alpine Summer",
+      "description": "Pleasant temperatures compared to nearby regions—ideal for hiking and spa breaks.",
+      "ideas": [
+        {
+          "name": "High-altitude walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5128%2C1.5590",
+          "description": "Short hikes above the city."
+        },
+        {
+          "name": "Outdoor Caldea lagoon",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5103%2C1.5386",
+          "description": "Warm water with mountain air."
+        },
+        {
+          "name": "Evening shopping strolls",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5087%2C1.5360",
+          "description": "Lively but relaxed nights."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Pyrenees Autumn Colors",
+      "description": "Forests turn gold and red; fewer visitors and crisp light.",
+      "ideas": [
+        {
+          "name": "Autumn lake photography",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5117%2C1.5676",
+          "description": "Reflections and fall foliage."
+        },
+        {
+          "name": "Spa & wellness days",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5103%2C1.5386",
+          "description": "Perfect season for thermal relaxation."
+        },
+        {
+          "name": "Art exhibitions",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5097%2C1.5381",
+          "description": "Quiet museum visits."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Ski & Spa Season",
+      "description": "Snowy mountains nearby and a cozy après-ski atmosphere in town.",
+      "ideas": [
+        {
+          "name": "Ski day trips",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5563%2C1.5330",
+          "description": "Grandvalira resorts within easy reach."
+        },
+        {
+          "name": "Caldea winter evenings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5103%2C1.5386",
+          "description": "Warm water contrast with cold air."
+        },
+        {
+          "name": "Festive shopping",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5087%2C1.5360",
+          "description": "Holiday lights along Carlemany Avenue."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Local buses connect Escaldes-Engordany with Andorra la Vella and surrounding parishes.",
+      "link": "https://www.andorrabus.com/"
+    },
+    {
+      "tip": "The city is compact—walking between Escaldes-Engordany and Andorra la Vella is easy.",
+      "link": "https://www.visitandorra.com/"
+    },
+    {
+      "tip": "Intercity buses link Andorra with Barcelona and Toulouse.",
+      "link": "https://www.visitandorra.com/en/transport/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Escaldes-Engordany Cultural Program",
+      "season": "year-round",
+      "description": "Exhibitions, concerts, and cultural events organized by the parish.",
+      "website": "https://www.e-e.ad/",
+      "dates": "Various dates"
+    }
+  ],
+  "places": [
+    {
+      "name": "Madriu-Perafita-Claror Valley (access point)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.4858%2C1.5667",
+      "description": "UNESCO-listed cultural landscape accessible from the parish, ideal for hiking."
+    },
+    {
+      "name": "Parc de la Mola",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5101%2C1.5408",
+      "description": "Small urban park near Caldea with river views."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Rec del Solà extension paths",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5121%2C1.5315",
+      "description": "Scenic hillside paths connecting viewpoints above the city."
+    },
+    {
+      "name": "Quiet Valira river corners",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5079%2C1.5402",
+      "description": "Less-crowded riverbank spots for short breaks."
+    }
+  ]
+}
+,
+    {
+  "name": "La Massana & Canillo (Mountain Areas)",
+  "interests": [
+    {
+      "name": "Vallnord – Pal Arinsal",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5556%2C1.4897",
+      "description": "Major mountain and ski area above La Massana, popular year-round for skiing, hiking, biking, and panoramic views."
+    },
+    {
+      "name": "Grandvalira – Canillo Sector",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5664%2C1.5984",
+      "description": "One of the largest ski areas in Europe, with Canillo as a key access point for winter sports and summer mountain activities."
+    },
+    {
+      "name": "Sanctuary of Meritxell",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5569%2C1.5996",
+      "description": "Modern basilica dedicated to Andorra’s patron saint, blending contemporary architecture with spiritual significance."
+    },
+    {
+      "name": "Coma Pedrosa Natural Park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5916%2C1.4390",
+      "description": "Protected alpine park near La Massana, home to Andorra’s highest peak and scenic hiking trails."
+    },
+    {
+      "name": "Tibetan Bridge of Canillo",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5797%2C1.6016",
+      "description": "Suspension bridge high above a mountain valley, offering dramatic views and a light adventure experience."
+    }
+  ],
+  "local_food_tip": "Mountain restaurants serve hearty Andorran dishes like escudella, trinxat, grilled meats, and local cheeses—perfect after outdoor activities.",
+  "full_day": {
+    "Morning": "Start in <a href=\"https://www.google.com/maps/search/?api=1&query=42.5556%2C1.4897\" target=\"_blank\" rel=\"noopener\">La Massana</a> ☀️ and head up to <a href=\"https://www.google.com/maps/search/?api=1&query=42.5556%2C1.4897\" target=\"_blank\" rel=\"noopener\">Vallnord – Pal Arinsal</a> 🏔️ for hiking trails or ski slopes depending on the season.",
+    "Afternoon": "Drive toward <a href=\"https://www.google.com/maps/search/?api=1&query=42.5569%2C1.5996\" target=\"_blank\" rel=\"noopener\">Meritxell Sanctuary</a> ⛪, then continue to Canillo for mountain walks or access to <a href=\"https://www.google.com/maps/search/?api=1&query=42.5664%2C1.5984\" target=\"_blank\" rel=\"noopener\">Grandvalira</a> activities.",
+    "Sunset": "Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=42.5797%2C1.6016\" target=\"_blank\" rel=\"noopener\">Tibetan Bridge of Canillo</a> 🌄 for dramatic valley views as the light fades.",
+    "Night": "Dinner in a mountain village 🍽️—quiet evenings, cool air, and starry skies."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Mountain Trails Reopen",
+      "description": "Snow melts at lower altitudes, opening scenic hiking routes and valleys.",
+      "ideas": [
+        {
+          "name": "Lower-altitude hikes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5556%2C1.4897",
+          "description": "Gentle trails near La Massana."
+        },
+        {
+          "name": "Meritxell Sanctuary visit",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5569%2C1.5996",
+          "description": "Quiet and reflective spring atmosphere."
+        },
+        {
+          "name": "Mountain photography",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5916%2C1.4390",
+          "description": "Fresh greenery and snow-capped peaks."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Peak Hiking & Outdoor Season",
+      "description": "Cool alpine air, open lifts, and active mountain villages.",
+      "ideas": [
+        {
+          "name": "Coma Pedrosa hikes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5916%2C1.4390",
+          "description": "Trails to Andorra’s highest summit."
+        },
+        {
+          "name": "Mountain biking",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5556%2C1.4897",
+          "description": "Downhill and cross-country routes."
+        },
+        {
+          "name": "Tibetan Bridge crossing",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5797%2C1.6016",
+          "description": "Unique summer attraction."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Pyrenees Autumn Colors",
+      "description": "Golden forests, crisp air, and quieter trails.",
+      "ideas": [
+        {
+          "name": "Forest walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5916%2C1.4390",
+          "description": "Colorful mountain scenery."
+        },
+        {
+          "name": "Village exploration",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5664%2C1.5984",
+          "description": "Calm atmosphere in Canillo."
+        },
+        {
+          "name": "Mountain viewpoints",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5556%2C1.4897",
+          "description": "Clear autumn light."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Ski Season",
+      "description": "Snow-covered peaks, busy resorts, and classic alpine winter scenes.",
+      "ideas": [
+        {
+          "name": "Skiing at Grandvalira",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5664%2C1.5984",
+          "description": "Extensive slopes for all levels."
+        },
+        {
+          "name": "Vallnord ski areas",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5556%2C1.4897",
+          "description": "Family-friendly and varied terrain."
+        },
+        {
+          "name": "Mountain après-ski",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=42.5556%2C1.4897",
+          "description": "Warm food and cozy lodges."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Regular buses connect La Massana and Canillo with Andorra la Vella.",
+      "link": "https://www.andorrabus.com/"
+    },
+    {
+      "tip": "Cable cars provide easy access to ski and hiking areas from both towns.",
+      "link": "https://www.visitandorra.com/"
+    },
+    {
+      "tip": "In winter, check weather and road conditions before mountain travel.",
+      "link": "https://www.mobilitat.ad/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Meritxell National Day",
+      "season": "autumn",
+      "description": "Religious and national celebrations honoring Andorra’s patron saint.",
+      "website": "https://www.visitandorra.com/",
+      "dates": "September 8"
+    }
+  ],
+  "places": [
+    {
+      "name": "Canillo Village Center",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5664%2C1.5984",
+      "description": "Traditional mountain village atmosphere with shops and cafés."
+    },
+    {
+      "name": "La Massana Village Center",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5556%2C1.4897",
+      "description": "Lively base town for Vallnord activities."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Quiet forest trails near Pal",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5669%2C1.4752",
+      "description": "Less-traveled paths with mountain views."
+    },
+    {
+      "name": "High-altitude picnic spots",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=42.5880%2C1.4520",
+      "description": "Peaceful places surrounded by alpine scenery."
+    }
+  ]
+}
+
+  ]
+}

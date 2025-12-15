@@ -1,0 +1,845 @@
+{
+  "name": "Russia (European Part)",
+  "cities": [
+    {
+      "name": "Kazan",
+      "interests": [
+        {
+          "name": "Kazan Kremlin",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7980%2C49.1055",
+          "description": "A UNESCO World Heritage Site combining Russian Orthodox and Tatar Muslim heritage, featuring historic walls, towers, and museums."
+        },
+        {
+          "name": "Kul Sharif Mosque",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7984%2C49.1059",
+          "description": "One of the largest mosques in Russia, symbolizing the revival of Tatar culture and Islam in the region."
+        },
+        {
+          "name": "Bauman Street",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7887%2C49.1221",
+          "description": "Kazan’s main pedestrian street, lined with shops, cafés, historic buildings, and street performers."
+        }
+      ],
+      "local_food_tip": "Try Tatar dishes such as echpochmak (meat-filled pastry), chak-chak (honey dessert), kystybyi, and hearty soups influenced by Volga traditions.",
+      "full_day": {
+        "morning": "Begin at the <a href=\"https://www.google.com/maps/search/?api=1&query=55.7980%2C49.1055\" target=\"_blank\" rel=\"noopener\">Kazan Kremlin</a> 🏰, exploring its walls, museums, and viewpoints.",
+        "afternoon": "Visit the impressive <a href=\"https://www.google.com/maps/search/?api=1&query=55.7984%2C49.1059\" target=\"_blank\" rel=\"noopener\">Kul Sharif Mosque</a> 🕌, then have lunch nearby.",
+        "sunset": "Walk along <a href=\"https://www.google.com/maps/search/?api=1&query=55.7887%2C49.1221\" target=\"_blank\" rel=\"noopener\">Bauman Street</a> 🌅, enjoying city life and street performances.",
+        "night": "Enjoy dinner 🍽️ with local Tatar cuisine or take an evening stroll along the Kazanka River."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring City Festival Season",
+          "description": "Melting snow and warming temperatures bring parks and streets back to life.",
+          "ideas": [
+            {
+              "name": "Kremlin Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7980%2C49.1055",
+              "description": "Comfortable weather for historic exploration."
+            },
+            {
+              "name": "City Parks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.8120%2C49.1275",
+              "description": "Fresh greenery and relaxed walks."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7970%2C49.1070",
+              "description": "Cultural highlights around the Kremlin."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Sabantuy",
+          "description": "Summer is lively with festivals celebrating Tatar culture, music, and traditional games.",
+          "ideas": [
+            {
+              "name": "Sabantuy Celebrations",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.8200%2C49.1600",
+              "description": "Traditional dances, sports, and food."
+            },
+            {
+              "name": "River Cruises",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.8005%2C49.1205",
+              "description": "Boat trips on the Volga and Kazanka rivers."
+            },
+            {
+              "name": "Evening Bauman Street",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7887%2C49.1221",
+              "description": "Warm nights and lively terraces."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Cultural Season",
+          "description": "Cooler air and golden colors create a calm, scenic atmosphere.",
+          "ideas": [
+            {
+              "name": "Kremlin Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7980%2C49.1055",
+              "description": "Clear skies and autumn light."
+            },
+            {
+              "name": "Historic Center Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7895%2C49.1210",
+              "description": "Pleasant temperatures for sightseeing."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7890%2C49.1230",
+              "description": "Seasonal Tatar comfort food."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Kazan Winter Festivities",
+          "description": "Snowy streets and festive lights give the city a magical winter feel.",
+          "ideas": [
+            {
+              "name": "Snowy Kremlin Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7980%2C49.1055",
+              "description": "Historic scenery under snow."
+            },
+            {
+              "name": "Ice Skating",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.8065%2C49.1335",
+              "description": "Seasonal outdoor rinks."
+            },
+            {
+              "name": "Cozy Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7890%2C49.1225",
+              "description": "Warm drinks during cold days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "The metro is fast and convenient for reaching major areas.",
+          "link": "https://kazanmetro.ru"
+        },
+        {
+          "tip": "Buses and trams cover districts beyond the metro lines.",
+          "link": "https://transport.kzn.ru"
+        },
+        {
+          "tip": "The historic center and Bauman Street are best explored on foot.",
+          "link": "https://visit-tatarstan.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Sabantuy",
+          "season": "Summer",
+          "description": "A traditional Tatar festival celebrating the end of spring fieldwork.",
+          "website": "https://visit-tatarstan.com",
+          "dates": "June (annual)"
+        },
+        {
+          "name": "Kazan City Day",
+          "season": "Summer",
+          "description": "City-wide celebrations with concerts and fireworks.",
+          "website": "https://kzn.ru",
+          "dates": "August (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Temple of All Religions",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7905%2C49.0705",
+          "description": "A unique architectural complex symbolizing harmony between world religions."
+        },
+        {
+          "name": "Millennium Bridge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.8115%2C49.1330",
+          "description": "A modern bridge offering panoramic views over the Kazanka River."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Old Tatar Sloboda",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7765%2C49.1115",
+          "description": "A historic district with traditional wooden houses and mosques."
+        },
+        {
+          "name": "Black Lake Park (Chernoe Ozero)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7965%2C49.1145",
+          "description": "A central park popular with locals for walks and winter skating."
+        }
+      ]
+    },
+
+    {
+      "name": "Moscow",
+      "interests": [
+        {
+          "name": "Red Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7539%2C37.6208",
+          "description": "The historic heart of Moscow and a UNESCO World Heritage Site, surrounded by iconic landmarks and grand architecture."
+        },
+        {
+          "name": "Kremlin",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7520%2C37.6175",
+          "description": "A fortified complex of palaces, cathedrals, and towers that has served as the center of Russian power for centuries."
+        },
+        {
+          "name": "St. Basil’s Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7525%2C37.6231",
+          "description": "Moscow’s most recognizable landmark, famous for its colorful onion domes and 16th-century design."
+        }
+      ],
+      "local_food_tip": "Try borscht, pelmeni (dumplings), blini with toppings, syrniki, and traditional soups in classic Russian cafés.",
+      "full_day": {
+        "morning": "Start at <a href=\"https://www.google.com/maps/search/?api=1&query=55.7539%2C37.6208\" target=\"_blank\" rel=\"noopener\">Red Square</a> ☀️, taking time to admire its scale and surroundings.",
+        "afternoon": "Explore the historic <a href=\"https://www.google.com/maps/search/?api=1&query=55.7520%2C37.6175\" target=\"_blank\" rel=\"noopener\">Kremlin</a> 🏰 and its cathedral squares.",
+        "sunset": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=55.7525%2C37.6231\" target=\"_blank\" rel=\"noopener\">St. Basil’s Cathedral</a> 🌅 for memorable views.",
+        "night": "Enjoy dinner 🍽️ in central Moscow or stroll along illuminated streets near the river."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring City Walk Season",
+          "description": "Melting snow and blooming parks bring the city back to life.",
+          "ideas": [
+            {
+              "name": "Alexander Garden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7535%2C37.6165",
+              "description": "A historic garden beside the Kremlin."
+            },
+            {
+              "name": "Old Arbat Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7495%2C37.5920",
+              "description": "Pedestrian street with cafés and street artists."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7530%2C37.6200",
+              "description": "Comfortable mix of indoor and outdoor sightseeing."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Moscow City Day Preparations",
+          "description": "Long days, festivals, and outdoor life across parks and boulevards.",
+          "ideas": [
+            {
+              "name": "Gorky Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7305%2C37.6015",
+              "description": "Popular park with river views and activities."
+            },
+            {
+              "name": "Moscow River Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7415%2C37.6085",
+              "description": "Evening strolls along the embankments."
+            },
+            {
+              "name": "Outdoor Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7495%2C37.5920",
+              "description": "Lively summer terraces."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Cultural Season",
+          "description": "Golden parks and cooler air create a relaxed sightseeing atmosphere.",
+          "ideas": [
+            {
+              "name": "Kolomenskoye Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.6685%2C37.6705",
+              "description": "Historic park with autumn colors."
+            },
+            {
+              "name": "Historic Center Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7539%2C37.6208",
+              "description": "Comfortable temperatures and fewer crowds."
+            },
+            {
+              "name": "Theatre Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7605%2C37.6185",
+              "description": "Start of the cultural season."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Moscow Winter Festival",
+          "description": "Snowy streets, festive lights, and ice skating rinks across the city.",
+          "ideas": [
+            {
+              "name": "Red Square Winter Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7539%2C37.6208",
+              "description": "Festive decorations and seasonal food."
+            },
+            {
+              "name": "Ice Skating in Gorky Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7305%2C37.6015",
+              "description": "One of the city’s largest outdoor rinks."
+            },
+            {
+              "name": "Museum Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=55.7410%2C37.6205",
+              "description": "Warm indoor cultural experiences."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "The Moscow Metro is fast, efficient, and itself an architectural attraction.",
+          "link": "https://mosmetro.ru"
+        },
+        {
+          "tip": "Troika cards work across metro, buses, and trams.",
+          "link": "https://transport.mos.ru"
+        },
+        {
+          "tip": "Central areas like Red Square and Arbat are very walkable.",
+          "link": "https://discover.moscow"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Moscow City Day",
+          "season": "Autumn",
+          "description": "City-wide celebrations with concerts and events.",
+          "website": "https://www.mos.ru",
+          "dates": "September (annual)"
+        },
+        {
+          "name": "Spasskaya Tower Military Music Festival",
+          "season": "Summer",
+          "description": "International military music festival held near Red Square.",
+          "website": "https://spasstower.ru",
+          "dates": "August (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Bolshoi Theatre",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7602%2C37.6186",
+          "description": "World-famous theatre known for ballet and opera performances."
+        },
+        {
+          "name": "Tretyakov Gallery",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7415%2C37.6205",
+          "description": "Russia’s premier museum of national fine art."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Zaryadye Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7515%2C37.6275",
+          "description": "A modern park near the Kremlin with a floating bridge over the river."
+        },
+        {
+          "name": "Patriarch’s Ponds",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=55.7645%2C37.5925",
+          "description": "A calm, elegant neighborhood popular for walks and cafés."
+        }
+      ]
+    },
+
+    {
+      "name": "Nizhny Novgorod",
+      "interests": [
+        {
+          "name": "Nizhny Novgorod Kremlin",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=56.3287%2C44.0020",
+          "description": "A well-preserved 16th-century fortress overlooking the Volga and Oka rivers, symbol of the city and a major historical site."
+        },
+        {
+          "name": "Chkalov Staircase",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=56.3295%2C44.0065",
+          "description": "A monumental staircase with panoramic views over the Volga River, one of the city’s most iconic landmarks."
+        },
+        {
+          "name": "Bolshaya Pokrovskaya Street",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=56.3218%2C44.0045",
+          "description": "The main pedestrian street filled with historic buildings, cafés, shops, and street performers."
+        }
+      ],
+      "local_food_tip": "Try pelmeni, borscht, shchi cabbage soup, syrniki, and Volga-region pastries in traditional Russian cafés.",
+      "full_day": {
+        "morning": "Begin at the <a href=\"https://www.google.com/maps/search/?api=1&query=56.3287%2C44.0020\" target=\"_blank\" rel=\"noopener\">Nizhny Novgorod Kremlin</a> 🏰, walking along the fortress walls and viewpoints.",
+        "afternoon": "Head down to the <a href=\"https://www.google.com/maps/search/?api=1&query=56.3295%2C44.0065\" target=\"_blank\" rel=\"noopener\">Chkalov Staircase</a> ⛪ for river views, then enjoy lunch nearby.",
+        "sunset": "Stroll along <a href=\"https://www.google.com/maps/search/?api=1&query=56.3218%2C44.0045\" target=\"_blank\" rel=\"noopener\">Bolshaya Pokrovskaya Street</a> 🌅, enjoying the lively atmosphere.",
+        "night": "Have dinner 🍽️ in the city center or take an evening walk along the Volga embankment."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Volga Season",
+          "description": "Melting snow and blooming parks make spring ideal for sightseeing.",
+          "ideas": [
+            {
+              "name": "Kremlin Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3287%2C44.0020",
+              "description": "Comfortable weather and clear river views."
+            },
+            {
+              "name": "City Parks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3195%2C44.0205",
+              "description": "Fresh greenery and calm walks."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3275%2C44.0035",
+              "description": "Balanced indoor and outdoor culture."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Volga River Summer",
+          "description": "Warm days, festivals, and river cruises define summer.",
+          "ideas": [
+            {
+              "name": "Volga River Cruises",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3315%2C44.0150",
+              "description": "Boat trips along the Volga."
+            },
+            {
+              "name": "Evening Embankment Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3310%2C44.0100",
+              "description": "Cool breezes and sunset views."
+            },
+            {
+              "name": "Outdoor Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3225%2C44.0050",
+              "description": "Lively street life."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Cultural Season",
+          "description": "Golden foliage and crisp air create a scenic atmosphere.",
+          "ideas": [
+            {
+              "name": "Kremlin Viewpoints",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3287%2C44.0020",
+              "description": "Clear autumn light over the rivers."
+            },
+            {
+              "name": "Historic Center Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3218%2C44.0045",
+              "description": "Comfortable temperatures for sightseeing."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3220%2C44.0060",
+              "description": "Seasonal Russian comfort food."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Nizhny Novgorod Winter Festivities",
+          "description": "Snowy landscapes and festive lights give the city a fairytale feel.",
+          "ideas": [
+            {
+              "name": "Snowy Kremlin Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3287%2C44.0020",
+              "description": "Historic scenery under snow."
+            },
+            {
+              "name": "Ice Skating",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3205%2C44.0185",
+              "description": "Seasonal outdoor rinks."
+            },
+            {
+              "name": "Cozy Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=56.3220%2C44.0055",
+              "description": "Warm drinks during cold days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "The metro is efficient for reaching key districts.",
+          "link": "https://metro.nnov.ru"
+        },
+        {
+          "tip": "Buses and trams cover areas beyond the metro lines.",
+          "link": "https://transport52.ru"
+        },
+        {
+          "tip": "The historic center and pedestrian streets are easy to explore on foot.",
+          "link": "https://visitnizhny.ru"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Nizhny Novgorod City Day",
+          "season": "Summer",
+          "description": "City-wide celebrations with concerts, fairs, and fireworks.",
+          "website": "https://www.admgor.nnov.ru",
+          "dates": "August (annual)"
+        },
+        {
+          "name": "VolgaFest",
+          "season": "Summer",
+          "description": "Cultural festival celebrating the Volga River with art and music.",
+          "website": "https://volgafest.ru",
+          "dates": "June (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Alexander Nevsky Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=56.3335%2C44.0320",
+          "description": "A grand cathedral located near the confluence of the Volga and Oka rivers."
+        },
+        {
+          "name": "Rozhdestvenskaya Street",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=56.3300%2C44.0165",
+          "description": "A historic street with merchant houses and riverside charm."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Fedorovsky Embankment",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=56.3270%2C44.0125",
+          "description": "A scenic promenade offering sweeping views over the Volga and Oka rivers."
+        },
+        {
+          "name": "Museum of Wooden Architecture (Shchelokovsky Khutor)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=56.2875%2C44.0180",
+          "description": "An open-air museum showcasing traditional Russian wooden houses."
+        }
+      ]
+    },
+
+    {
+      "name": "Saint Petersburg",
+      "interests": [
+        {
+          "name": "Hermitage Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=59.9398%2C30.3146",
+          "description": "One of the world’s largest and most famous art museums, housed in the Winter Palace with masterpieces from across centuries."
+        },
+        {
+          "name": "Nevsky Prospekt",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=59.9343%2C30.3351",
+          "description": "The city’s main avenue, lined with historic buildings, shops, cafés, churches, and cultural landmarks."
+        },
+        {
+          "name": "Peter and Paul Fortress",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=59.9506%2C30.3165",
+          "description": "The original fortress of Saint Petersburg, featuring a cathedral with golden spire and views over the Neva River."
+        }
+      ],
+      "local_food_tip": "Try borscht, pelmeni, beef stroganoff, blini, and traditional pastries in classic Russian cafés and canteens.",
+      "full_day": {
+        "morning": "Begin at the magnificent <a href=\"https://www.google.com/maps/search/?api=1&query=59.9398%2C30.3146\" target=\"_blank\" rel=\"noopener\">Hermitage Museum</a> 🖼️, exploring its grand halls and art collections.",
+        "afternoon": "Walk along <a href=\"https://www.google.com/maps/search/?api=1&query=59.9343%2C30.3351\" target=\"_blank\" rel=\"noopener\">Nevsky Prospekt</a> ☕, stopping for lunch and sightseeing.",
+        "sunset": "Visit the historic <a href=\"https://www.google.com/maps/search/?api=1&query=59.9506%2C30.3165\" target=\"_blank\" rel=\"noopener\">Peter and Paul Fortress</a> 🌅 by the Neva River.",
+        "night": "Enjoy dinner 🍽️ by the canals or take an evening stroll across illuminated bridges."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Cultural Season",
+          "description": "Melting ice and blooming parks signal the return of outdoor life and sightseeing.",
+          "ideas": [
+            {
+              "name": "Summer Garden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9450%2C30.3320",
+              "description": "Historic gardens reopening after winter."
+            },
+            {
+              "name": "Canal Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9385%2C30.3255",
+              "description": "Quiet walks along rivers and canals."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9398%2C30.3146",
+              "description": "Comfortable indoor exploration."
+            }
+          ]
+        },
+        "summer": {
+          "event": "White Nights Festival",
+          "description": "Famous long days with almost no darkness, filled with festivals and cultural events.",
+          "ideas": [
+            {
+              "name": "White Nights Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9430%2C30.3205",
+              "description": "Late-night strolls under glowing skies."
+            },
+            {
+              "name": "River Cruises",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9415%2C30.3085",
+              "description": "Boat trips on the Neva River."
+            },
+            {
+              "name": "Outdoor Performances",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9343%2C30.3351",
+              "description": "Street concerts and festivals."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Cultural Season",
+          "description": "Golden parks and quieter streets create a reflective, elegant atmosphere.",
+          "ideas": [
+            {
+              "name": "Park Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9500%2C30.3000",
+              "description": "Autumn colors in historic parks."
+            },
+            {
+              "name": "Theatre Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9348%2C30.3335",
+              "description": "Opera and ballet season begins."
+            },
+            {
+              "name": "Historic Center Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9395%2C30.3155",
+              "description": "Cool, pleasant sightseeing weather."
+            }
+          ]
+        },
+        "winter": {
+          "event": "St. Petersburg Winter Festival",
+          "description": "Snow-covered streets, festive lights, and cozy interiors define winter.",
+          "ideas": [
+            {
+              "name": "Snowy Palace Square",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9398%2C30.3146",
+              "description": "Grand winter scenery."
+            },
+            {
+              "name": "Museum Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9398%2C30.3146",
+              "description": "Warm indoor cultural experiences."
+            },
+            {
+              "name": "Historic Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=59.9340%2C30.3355",
+              "description": "Traditional cafés during cold days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "The metro is fast and features beautifully decorated stations.",
+          "link": "https://www.metro.spb.ru"
+        },
+        {
+          "tip": "Buses and trams reach areas outside the metro network.",
+          "link": "https://transport.spb.ru"
+        },
+        {
+          "tip": "The historic center is walkable, especially around canals and squares.",
+          "link": "https://visit-petersburg.ru"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "White Nights Festival",
+          "season": "Summer",
+          "description": "A series of cultural events celebrating the city’s famous light nights.",
+          "website": "https://visit-petersburg.ru",
+          "dates": "June–July (annual)"
+        },
+        {
+          "name": "Scarlet Sails",
+          "season": "Summer",
+          "description": "A spectacular celebration with fireworks and a sailing ship on the Neva.",
+          "website": "https://www.gov.spb.ru",
+          "dates": "June (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Church of the Savior on Spilled Blood",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=59.9400%2C30.3285",
+          "description": "A richly decorated church famous for its colorful mosaics."
+        },
+        {
+          "name": "Isaac’s Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=59.9343%2C30.3060",
+          "description": "A monumental cathedral with a golden dome and panoramic views from its colonnade."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "New Holland Island",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=59.9295%2C30.2875",
+          "description": "A revitalized island with creative spaces, cafés, and events."
+        },
+        {
+          "name": "Vasilievsky Island Embankment",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=59.9480%2C30.3075",
+          "description": "Scenic river views and classic city panoramas."
+        }
+      ]
+    },
+
+    {
+      "name": "Sochi",
+      "interests": [
+        {
+          "name": "Sochi Olympic Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=43.4048%2C39.9566",
+          "description": "A large modern complex built for the 2014 Winter Olympics, featuring stadiums, fountains, and wide promenades."
+        },
+        {
+          "name": "Sochi Arboretum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=43.5655%2C39.7515",
+          "description": "A beautiful botanical garden with subtropical plants, sea views, and walking paths."
+        },
+        {
+          "name": "Riviera Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=43.5875%2C39.7205",
+          "description": "A historic seaside park with attractions, cafés, and access to the beach."
+        }
+      ],
+      "local_food_tip": "Try Black Sea fish, khachapuri, shashlik, fresh fruits, and Caucasian-influenced dishes common in Sochi.",
+      "full_day": {
+        "morning": "Start with a walk through <a href=\"https://www.google.com/maps/search/?api=1&query=43.5655%2C39.7515\" target=\"_blank\" rel=\"noopener\">Sochi Arboretum</a> 🌴, enjoying sea views and subtropical greenery.",
+        "afternoon": "Head to <a href=\"https://www.google.com/maps/search/?api=1&query=43.5875%2C39.7205\" target=\"_blank\" rel=\"noopener\">Riviera Park</a> ☀️ for lunch and a relaxed seaside stroll.",
+        "sunset": "Visit <a href=\"https://www.google.com/maps/search/?api=1&query=43.4048%2C39.9566\" target=\"_blank\" rel=\"noopener\">Sochi Olympic Park</a> 🌅 and watch the evening fountain show.",
+        "night": "Enjoy dinner 🍽️ along the seafront promenade or relax at a beach café."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring Bloom in Sochi",
+          "description": "Warm temperatures and flowering plants make spring ideal for outdoor walks.",
+          "ideas": [
+            {
+              "name": "Botanical Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.5655%2C39.7515",
+              "description": "Blooming gardens and mild weather."
+            },
+            {
+              "name": "Seafront Promenade",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.5805%2C39.7200",
+              "description": "Comfortable seaside strolls."
+            },
+            {
+              "name": "City Parks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.5875%2C39.7205",
+              "description": "Green spaces coming back to life."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Sochi Beach Season",
+          "description": "Hot days, swimming, and lively nightlife dominate the summer months.",
+          "ideas": [
+            {
+              "name": "Beach Time",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.5795%2C39.7175",
+              "description": "Swimming and sunbathing along the Black Sea."
+            },
+            {
+              "name": "Boat Trips",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.5750%2C39.7150",
+              "description": "Short cruises along the coast."
+            },
+            {
+              "name": "Evening Promenade",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.5805%2C39.7200",
+              "description": "Cool evenings by the sea."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn on the Black Sea",
+          "description": "Warm sea temperatures and fewer crowds create a relaxed atmosphere.",
+          "ideas": [
+            {
+              "name": "Seaside Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.5805%2C39.7200",
+              "description": "Golden light and calm beaches."
+            },
+            {
+              "name": "Mountain Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.6600%2C40.3000",
+              "description": "Clear views toward the Caucasus Mountains."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.5835%2C39.7220",
+              "description": "Seasonal Caucasian cuisine."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Krasnaya Polyana Ski Season",
+          "description": "Mild coastal winters contrast with snowy mountains nearby.",
+          "ideas": [
+            {
+              "name": "Krasnaya Polyana Ski Resort",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.6825%2C40.2645",
+              "description": "Popular winter sports destination in the Caucasus."
+            },
+            {
+              "name": "Winter Seafront Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.5805%2C39.7200",
+              "description": "Quiet promenades and fresh air."
+            },
+            {
+              "name": "Indoor Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=43.5850%2C39.7230",
+              "description": "Relaxing spots during cooler days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses and minibuses connect the city center, beaches, and suburbs.",
+          "link": "https://transport.sochi.ru"
+        },
+        {
+          "tip": "Trains run along the coast and to Krasnaya Polyana.",
+          "link": "https://www.rzd.ru"
+        },
+        {
+          "tip": "The central seafront area is easy to explore on foot.",
+          "link": "https://visit-sochi.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Sochi Winter Theatre Festival",
+          "season": "Winter",
+          "description": "Cultural performances held in historic venues.",
+          "website": "https://www.winterfest.ru",
+          "dates": "February (annual)"
+        },
+        {
+          "name": "Sochi City Day",
+          "season": "Summer",
+          "description": "City-wide celebrations with concerts and fireworks.",
+          "website": "https://sochi.ru",
+          "dates": "May (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Sochi Sea Port",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=43.5815%2C39.7170",
+          "description": "A historic port building and promenade with cafés and boat tours."
+        },
+        {
+          "name": "Winter Theatre",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=43.5695%2C39.7325",
+          "description": "A neoclassical theatre hosting concerts and performances."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Agura Waterfalls",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=43.5580%2C39.8570",
+          "description": "A scenic hiking area with waterfalls just outside the city."
+        },
+        {
+          "name": "Matsesta Valley",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=43.5685%2C39.8075",
+          "description": "A green valley known for nature walks and mineral springs."
+        }
+      ]
+    }
+
+  ]
+}

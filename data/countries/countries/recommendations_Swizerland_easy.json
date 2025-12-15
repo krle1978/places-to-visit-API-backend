@@ -1,0 +1,935 @@
+{
+  "name": "Switzerland",
+  "cities": [
+    {
+      "name": "Bern",
+      "interests": [
+        {
+          "name": "Bern Old Town (UNESCO)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.9479%2C7.4474",
+          "description": "A beautifully preserved medieval old town with sandstone buildings, arcades, and fountains, listed as a UNESCO World Heritage Site."
+        },
+        {
+          "name": "Zytglogge (Clock Tower)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.9476%2C7.4479",
+          "description": "Bern’s iconic medieval clock tower with an animated astronomical clock dating back to the 15th century."
+        },
+        {
+          "name": "Federal Palace of Switzerland (Bundeshaus)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.9466%2C7.4446",
+          "description": "The seat of the Swiss Federal Assembly and Federal Council, symbolizing Switzerland’s democracy."
+        }
+      ],
+      "local_food_tip": "Try Bernese specialties like rösti, Bernese platter (meats and sausages), alpine cheeses, and Swiss chocolate.",
+      "full_day": {
+        "morning": "Start your day in the <a href=\"https://www.google.com/maps/search/?api=1&query=46.9479%2C7.4474\" target=\"_blank\" rel=\"noopener\">Bern Old Town</a> ☀️, strolling under its famous arcades.",
+        "afternoon": "Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=46.9476%2C7.4479\" target=\"_blank\" rel=\"noopener\">Zytglogge</a> 🕰️ and explore nearby museums and cafés.",
+        "sunset": "Walk to the <a href=\"https://www.google.com/maps/search/?api=1&query=46.9466%2C7.4446\" target=\"_blank\" rel=\"noopener\">Federal Palace</a> 🌅 and enjoy views over the Aare River.",
+        "night": "Have dinner 🍽️ in the Old Town and enjoy a peaceful evening walk along the river."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring in the Capital",
+          "description": "Flowers bloom along the Aare and café terraces fill the Old Town.",
+          "ideas": [
+            {
+              "name": "Rose Garden (Rosengarten)",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9499%2C7.4599",
+              "description": "City views with blooming roses."
+            },
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9479%2C7.4474",
+              "description": "Mild temperatures for sightseeing."
+            },
+            {
+              "name": "River Promenades",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9485%2C7.4515",
+              "description": "Fresh spring air along the Aare."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Aare Swimming Season",
+          "description": "Locals float down the Aare River during warm summer days.",
+          "ideas": [
+            {
+              "name": "Aare River Swim",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9515%2C7.4590",
+              "description": "A unique Bern summer tradition."
+            },
+            {
+              "name": "Outdoor Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9470%2C7.4455",
+              "description": "Terraces under historic arcades."
+            },
+            {
+              "name": "City Cycling",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9490%2C7.4525",
+              "description": "Easy cycling routes along the river."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Bern Cultural Autumn",
+          "description": "Golden leaves and a calm atmosphere make autumn ideal for culture.",
+          "ideas": [
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9435%2C7.4465",
+              "description": "World-class museums in cooler weather."
+            },
+            {
+              "name": "Autumn Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9499%2C7.4599",
+              "description": "Colorful views from Rosengarten."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9470%2C7.4455",
+              "description": "Hearty Swiss cuisine."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Bern Christmas Markets",
+          "description": "Festive lights and markets create a cozy winter capital.",
+          "ideas": [
+            {
+              "name": "Christmas Markets",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9476%2C7.4479",
+              "description": "Seasonal food and crafts."
+            },
+            {
+              "name": "Museum Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9435%2C7.4465",
+              "description": "Warm indoor culture."
+            },
+            {
+              "name": "Winter Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9470%2C7.4455",
+              "description": "Hot chocolate and pastries."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Bern’s trams and buses cover the entire city efficiently.",
+          "link": "https://www.bernmobil.ch"
+        },
+        {
+          "tip": "Many hotels provide a free public transport ticket for guests.",
+          "link": "https://www.bern.com"
+        },
+        {
+          "tip": "Trains connect Bern quickly with Zurich, Geneva, and Basel.",
+          "link": "https://www.sbb.ch"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Gurtenfestival",
+          "season": "Summer",
+          "description": "Major open-air music festival on Gurten Hill overlooking the city.",
+          "website": "https://www.gurtenfestival.ch",
+          "dates": "July (annual)"
+        },
+        {
+          "name": "Bern Christmas Markets",
+          "season": "Winter",
+          "description": "Traditional markets in the Old Town squares.",
+          "website": "https://www.bern.com",
+          "dates": "December (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Rose Garden (Rosengarten)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.9499%2C7.4599",
+          "description": "A peaceful park with panoramic views over Bern’s Old Town."
+        },
+        {
+          "name": "Bear Park (BärenPark)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.9490%2C7.4595",
+          "description": "A modern park home to Bern’s symbolic bears along the Aare River."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Gurten Hill",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.9365%2C7.4295",
+          "description": "A local recreation area with city views, reachable by funicular."
+        },
+        {
+          "name": "Einsteinhaus",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.9482%2C7.4479",
+          "description": "Albert Einstein’s former residence, now a small museum."
+        }
+      ]
+    },
+
+    {
+      "name": "Geneva",
+      "interests": [
+        {
+          "name": "Lake Geneva (Lac Léman)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.2065%2C6.1535",
+          "description": "A vast alpine lake shared with France, famous for its clear waters, promenades, and mountain views."
+        },
+        {
+          "name": "Jet d’Eau",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.2075%2C6.1555",
+          "description": "Geneva’s iconic water fountain shooting 140 meters into the air, visible from across the city."
+        },
+        {
+          "name": "Old Town (Vieille Ville)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.2015%2C6.1485",
+          "description": "A historic hilltop quarter with cobbled streets, cafés, and Geneva’s most important landmarks."
+        }
+      ],
+      "local_food_tip": "Try Swiss fondue, raclette, perch fillets from the lake, chocolate, and local white wines from nearby vineyards.",
+      "full_day": {
+        "morning": "Start with a lakeside walk along <a href=\"https://www.google.com/maps/search/?api=1&query=46.2065%2C6.1535\" target=\"_blank\" rel=\"noopener\">Lake Geneva</a> ☀️ and admire the Alps in the distance.",
+        "afternoon": "Explore the charming streets of the <a href=\"https://www.google.com/maps/search/?api=1&query=46.2015%2C6.1485\" target=\"_blank\" rel=\"noopener\">Old Town</a> ☕ and visit St. Pierre Cathedral.",
+        "sunset": "Stop by the <a href=\"https://www.google.com/maps/search/?api=1&query=46.2075%2C6.1555\" target=\"_blank\" rel=\"noopener\">Jet d’Eau</a> 🌅 as the light reflects on the water.",
+        "night": "Enjoy dinner 🍽️ near the lake or in Carouge, followed by a calm evening stroll."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring on Lake Geneva",
+          "description": "Flowering parks and longer days bring outdoor life back to the city.",
+          "ideas": [
+            {
+              "name": "English Garden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2055%2C6.1525",
+              "description": "Blooming gardens by the lake."
+            },
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2015%2C6.1485",
+              "description": "Comfortable sightseeing weather."
+            },
+            {
+              "name": "Outdoor Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2045%2C6.1495",
+              "description": "Terraces reopening across the city."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Lake Swimming Season",
+          "description": "Warm days are perfect for swimming and boat trips.",
+          "ideas": [
+            {
+              "name": "Lake Swimming",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2095%2C6.1615",
+              "description": "Popular swimming spots along the shore."
+            },
+            {
+              "name": "Boat Cruises",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2065%2C6.1535",
+              "description": "Scenic cruises on Lake Geneva."
+            },
+            {
+              "name": "Evening Promenades",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2070%2C6.1545",
+              "description": "Late sunsets by the water."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Wine Season",
+          "description": "Nearby vineyards turn golden and the city feels calmer.",
+          "ideas": [
+            {
+              "name": "Vineyard Excursions",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2145%2C6.1185",
+              "description": "Short trips to local wine regions."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2035%2C6.1475",
+              "description": "Cultural highlights indoors."
+            },
+            {
+              "name": "Autumn Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2055%2C6.1525",
+              "description": "Colorful lakeside scenery."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Geneva Christmas Season",
+          "description": "Festive lights, markets, and a cozy winter atmosphere.",
+          "ideas": [
+            {
+              "name": "Christmas Markets",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2045%2C6.1495",
+              "description": "Seasonal food and crafts."
+            },
+            {
+              "name": "Fondue Evenings",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2025%2C6.1475",
+              "description": "Classic Swiss winter dining."
+            },
+            {
+              "name": "Museum Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.2035%2C6.1475",
+              "description": "Warm indoor culture."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Trams and buses make it easy to move around the city.",
+          "link": "https://www.tpg.ch"
+        },
+        {
+          "tip": "Many hotels provide free public transport cards to guests.",
+          "link": "https://www.geneve.com"
+        },
+        {
+          "tip": "Trains connect Geneva with Lausanne, Bern, and France.",
+          "link": "https://www.sbb.ch"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Fête de l’Escalade",
+          "season": "Winter",
+          "description": "Historic celebration with costumes, parades, and chocolate cauldrons.",
+          "website": "https://www.geneve.com",
+          "dates": "December (annual)"
+        },
+        {
+          "name": "Geneva Music Festival (Fête de la Musique)",
+          "season": "Summer",
+          "description": "Free concerts across the city in multiple genres.",
+          "website": "https://www.geneve.com",
+          "dates": "June (annual)"
+        }
+      ],
+      "places": [
+        {
+          "name": "St. Pierre Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.2018%2C6.1489",
+          "description": "A historic cathedral with archaeological remains and tower views."
+        },
+        {
+          "name": "United Nations Office at Geneva",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.2265%2C6.1405",
+          "description": "One of Europe’s main UN headquarters with guided tours."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Carouge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.1885%2C6.1405",
+          "description": "A bohemian district with Mediterranean-style streets, cafés, and boutiques."
+        },
+        {
+          "name": "Bains des Pâquis",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.2105%2C6.1555",
+          "description": "A beloved lakeside spot for swimming, saunas, and fondue."
+        }
+      ]
+    },
+
+    {
+      "name": "Interlaken, Switzerland",
+      "interests": [
+        {
+          "name": "Harder Kulm",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6833%2C7.8671",
+          "description": "Iconic viewpoint above Interlaken with panoramic views of Lakes Thun & Brienz and the Bernese Alps; reachable by funicular or scenic hikes. :contentReference[oaicite:0]{index=0}"
+        },
+        {
+          "name": "Lake Thun",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.7450%2C7.6226",
+          "description": "Beautiful lake west of Interlaken perfect for boat cruises, swimming, or sunset strolls. :contentReference[oaicite:1]{index=1}"
+        },
+        {
+          "name": "Lake Brienz",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.8443%2C7.2606",
+          "description": "Turquoise glacial lake east of town great for kayaking, paddleboarding, or lakeside walks. :contentReference[oaicite:2]{index=2}"
+        },
+        {
+          "name": "Lauterbrunnen & Trümmelbach Falls",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.5756%2C7.9080",
+          "description": "Picturesque alpine valley with dramatic waterfalls inside the mountain — the Trümmelbach Falls. :contentReference[oaicite:3]{index=3}"
+        },
+        {
+          "name": "Grindelwald Village",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6240%2C8.0416",
+          "description": "Alpine village and hub for hiking, gondola rides, and mountain adventures. :contentReference[oaicite:4]{index=4}"
+        },
+        {
+          "name": "Heimwehfluh",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6838%2C7.8345",
+          "description": "Historic funicular and lookout spot with views over Interlaken, lakes, and mountains. :contentReference[oaicite:5]{index=5}"
+        },
+        {
+          "name": "Unspunnen Castle Ruins",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6796%2C7.8739",
+          "description": "Ancient castle site above Wilderswil with historical significance and views of the Alps, often linked to the traditional Unspunnenfest. :contentReference[oaicite:6]{index=6}"
+        }
+      ],
+      "local_food_tip": "Try Swiss fondue or raclette paired with local Bernese Oberland cheese, and don’t miss artisan chocolate shops in town. :contentReference[oaicite:7]{index=7}",
+      "full_day": {
+        "Morning": "🌄 Start at <a href=\"https://www.google.com/maps/search/?api=1&query=46.6833%2C7.8671\" target=\"_blank\" rel=\"noopener\">Harder Kulm</a> for sunrise over the lakes and Alps. Take the funicular or hike up for incredible vistas. :contentReference[oaicite:8]{index=8}",
+        "Afternoon": "🚤 Head to <a href=\"https://www.google.com/maps/search/?api=1&query=46.7450%2C7.6226\" target=\"_blank\" rel=\"noopener\">Lake Thun</a> or <a href=\"https://www.google.com/maps/search/?api=1&query=46.8443%2C7.2606\" target=\"_blank\" rel=\"noopener\">Lake Brienz</a> for a boat cruise, kayaking, or lakeside lunch. :contentReference[oaicite:9]{index=9}",
+        "Sunset": "🗻 Visit <a href=\"https://www.google.com/maps/search/?api=1&query=46.5756%2C7.9080\" target=\"_blank\" rel=\"noopener\">Lauterbrunnen Valley</a> or the Trümmelbach Falls for atmospheric light and waterfall views. :contentReference[oaicite:10]{index=10}",
+        "Night": "🍫 Stroll Interlaken town center for dinner and Swiss chocolate treats in local shops."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Greenfield Festival",
+          "description": "Annual rock & alternative music festival held in mid‑June with a lively atmosphere and big acts. :contentReference[oaicite:11]{index=11}",
+          "ideas": [
+            {
+              "name": "Harder Kulm Spring Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.6833%2C7.8671",
+              "description": "Wildflowers and panoramic spring vistas from the viewpoint. :contentReference[oaicite:12]{index=12}"
+            },
+            {
+              "name": "Lake Brienz Boat Cruise",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.8443%2C7.2606",
+              "description": "Calm cruise with alpine reflections on the turquoise lake. :contentReference[oaicite:13]{index=13}"
+            },
+            {
+              "name": "Local Alpine Hikes",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.6240%2C8.0416",
+              "description": "Snow‑melt hikes around Grindelwald or Lauterbrunnen. :contentReference[oaicite:14]{index=14}"
+            }
+          ]
+        },
+        "summer": {
+          "event": "Adventure Sports Season",
+          "description": "Peak season for paragliding, canyoning, rafting, and outdoor activities in the Bernese Alps. :contentReference[oaicite:15]{index=15}",
+          "ideas": [
+            {
+              "name": "Paragliding Over Interlaken",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.6833%2C7.8671",
+              "description": "Thrilling aerial views over lakes and mountains. :contentReference[oaicite:16]{index=16}"
+            },
+            {
+              "name": "Kayaking on Lake Brienz",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.8443%2C7.2606",
+              "description": "Crystal waters offer refreshing summer paddles. :contentReference[oaicite:17]{index=17}"
+            },
+            {
+              "name": "Explore Trümmelbach Falls",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.5756%2C7.9080",
+              "description": "Glacier‑fed waterfalls inside the mountain cavern. :contentReference[oaicite:18]{index=18}"
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Alpine Colors & Hiking",
+          "description": "Fall foliage season with cooler hikes and fewer crowds amid dramatic landscapes. :contentReference[oaicite:19]{index=19}",
+          "ideas": [
+            {
+              "name": "Schynige Platte Panorama Trail",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.6786%2C7.8932",
+              "description": "Scenic autumn trail with mountain views. :contentReference[oaicite:20]{index=20}"
+            },
+            {
+              "name": "Village Stroll in Unterseen",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.6778%2C7.8529",
+              "description": "Charming old town streets with cafes. :contentReference[oaicite:21]{index=21}"
+            },
+            {
+              "name": "Lake Thun Sunset Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.7450%2C7.6226",
+              "description": "Golden hour stroll along the lakeshore. :contentReference[oaicite:22]{index=22}"
+            }
+          ]
+        },
+        "winter": {
+          "event": "Winter Sports Season",
+          "description": "Snow season with skiing, snowboarding, and winter landscapes near Jungfrau alpine resorts. :contentReference[oaicite:23]{index=23}",
+          "ideas": [
+            {
+              "name": "Skiing in Jungfrau Region",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.6240%2C8.0416",
+              "description": "Access slopes via train to Grindelwald or Wengen. :contentReference[oaicite:24]{index=24}"
+            },
+            {
+              "name": "Winter Lakeside Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.7450%2C7.6226",
+              "description": "Snow‑topped lake vistas. :contentReference[oaicite:25]{index=25}"
+            },
+            {
+              "name": "Snowshoe Hikes",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.6786%2C7.8932",
+              "description": "Quiet alpine trails around Interlaken. :contentReference[oaicite:26]{index=26}"
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use Interlaken’s efficient train connections to visit nearby alpine villages like Grindelwald and Lauterbrunnen.",
+          "link": "https://www.sbb.ch/en"
+        },
+        {
+          "tip": "Take the local buses around town and lakeshore for easy short hops.",
+          "link": "https://www.interlakentourism.ch/en"
+        },
+        {
+          "tip": "For mountain destinations like Harder Kulm, check funicular and cogwheel train schedules in advance.",
+          "link": "https://www.jungfrau.ch/en-gb"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Greenfield Festival",
+          "season": "Summer",
+          "description": "Annual rock music festival in mid‑June near Interlaken featuring big international acts. :contentReference[oaicite:27]{index=27}",
+          "website": "https://www.greenfieldfestival.ch",
+          "dates": "Mid‑June"
+        },
+        {
+          "name": "Unspunnenfest",
+          "season": "Spring/Autumn (infrequent)",
+          "description": "Traditional Swiss cultural festival with stone throwing and wrestling, held roughly every 12 years – next in 2029. :contentReference[oaicite:28]{index=28}",
+          "website": "",
+          "dates": "2029 (expected)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Interlaken Höhenweg",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6800%2C7.8570",
+          "description": "Scenic walking path through town with alpine views. :contentReference[oaicite:29]{index=29}"
+        },
+        {
+          "name": "St. Beatus Caves",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.7800%2C7.7930",
+          "description": "Ancient limestone caves with waterfalls and lake views. :contentReference[oaicite:30]{index=30}"
+        },
+        {
+          "name": "Unterseen Old Town",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6778%2C7.8529",
+          "description": "Historic interlinked streets with cafes and shops. :contentReference[oaicite:31]{index=31}"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Iseltwald Village",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.7745%2C7.8802",
+          "description": "Quiet lakeside village with postcard views away from the main crowds. :contentReference[oaicite:32]{index=32}"
+        },
+        {
+          "name": "Local Cheese Farms",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6500%2C7.9000",
+          "description": "Small family farms offering traditional cheeses and tastings. :contentReference[oaicite:33]{index=33}"
+        },
+        {
+          "name": "Trümmelbach Falls",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.5756%2C7.9080",
+          "description": "Hidden gorge waterfalls inside the mountain — a dramatic natural wonder. :contentReference[oaicite:34]{index=34}"
+        }
+      ]
+    },
+
+    {
+      "name": "Lucerne, Switzerland",
+      "interests": [
+        {
+          "name": "Chapel Bridge (Kapellbrücke)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0502%2C8.3070",
+          "description": "Historic covered wooden bridge dating back to 1332, an iconic Lucerne landmark spanning the Reuss River with views of the Water Tower and city. :contentReference[oaicite:0]{index=0}"
+        },
+        {
+          "name": "Lion Monument (Löwendenkmal)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0497%2C8.3132",
+          "description": "A moving sandstone memorial to Swiss Guards killed during the French Revolution, described by Mark Twain as deeply poignant. :contentReference[oaicite:1]{index=1}"
+        },
+        {
+          "name": "Old Town (Altstadt)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0508%2C8.3077",
+          "description": "Charming historic centre of narrow streets, frescoed buildings, squares, and cafés — perfect for strolling and soaking up local culture. :contentReference[oaicite:2]{index=2}"
+        },
+        {
+          "name": "Lake Lucerne (Vierwaldstättersee)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0539%2C8.3054",
+          "description": "Scenic lake surrounded by mountains where you can take boat cruises, paddleboard, or enjoy waterfront walks. :contentReference[oaicite:3]{index=3}"
+        },
+        {
+          "name": "Mount Pilatus",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.9797%2C8.2465",
+          "description": "Famous mountain near Lucerne with impressive views, reachable by steep cogwheel railway, cable car, or hiking. :contentReference[oaicite:4]{index=4}"
+        },
+        {
+          "name": "Mount Rigi",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0546%2C8.4728",
+          "description": "The “Queen of the Mountains” with panoramic views, accessible by boat and cogwheel train — ideal for day trips. :contentReference[oaicite:5]{index=5}"
+        },
+        {
+          "name": "Musegg Wall (Museggmauer)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0551%2C8.3016",
+          "description": "Medieval city ramparts with nine towers offering views over Lucerne’s rooftops and lake. :contentReference[oaicite:6]{index=6}"
+        }
+      ],
+      "local_food_tip": "Try Swiss classics like raclette, rösti, and local pastries — plus rich Swiss chocolate; there are excellent chocolatiers near Old Town. :contentReference[oaicite:7]{index=7}",
+      "full_day": {
+        "Morning": "☀️ Start at the <a href=\"https://www.google.com/maps/search/?api=1&query=47.0502%2C8.3070\" target=\"_blank\" rel=\"noopener\">Chapel Bridge</a> and stroll across the Reuss River, then explore the intricate streets of <a href=\"https://www.google.com/maps/search/?api=1&query=47.0508%2C8.3077\" target=\"_blank\" rel=\"noopener\">Old Town</a>, admiring frescoed buildings and historic squares. :contentReference[oaicite:8]{index=8}",
+        "Afternoon": "🚤 Walk down to the waterfront and take a scenic boat cruise on <a href=\"https://www.google.com/maps/search/?api=1&query=47.0539%2C8.3054\" target=\"_blank\" rel=\"noopener\">Lake Lucerne</a>, or head out on a day trip to <a href=\"https://www.google.com/maps/search/?api=1&query=46.9797%2C8.2465\" target=\"_blank\" rel=\"noopener\">Mount Pilatus</a> or <a href=\"https://www.google.com/maps/search/?api=1&query=47.0546%2C8.4728\" target=\"_blank\" rel=\"noopener\">Mount Rigi</a> for panoramic views. :contentReference[oaicite:9]{index=9}",
+        "Sunset": "🌅 Visit the evocative <a href=\"https://www.google.com/maps/search/?api=1&query=47.0497%2C8.3132\" target=\"_blank\" rel=\"noopener\">Lion Monument</a> followed by a gentle sunset stroll along the lake promenade. :contentReference[oaicite:10]{index=10}",
+        "Night": "🍷 Enjoy dinner in Old Town with Swiss cuisine and finish with a digestif or Swiss chocolate dessert."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Lucerne Spring Market",
+          "description": "Spring blossoms and markets fill the city with vibrant colors, plus outdoor cafés reopen along the lake and old town. :contentReference[oaicite:11]{index=11}",
+          "ideas": [
+            {
+              "name": "Lake Lucerne Promenade",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0539%2C8.3054",
+              "description": "Enjoy warmer weather with an easy lakeside walk and ice cream stops. :contentReference[oaicite:12]{index=12}"
+            },
+            {
+              "name": "Musegg Wall Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0551%2C8.3016",
+              "description": "Explore the medieval ramparts in spring sunshine. :contentReference[oaicite:13]{index=13}"
+            },
+            {
+              "name": "Boat Cruise on Lake Lucerne",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0539%2C8.3054",
+              "description": "Peaceful spring cruise with snow-capped peaks in the background. :contentReference[oaicite:14]{index=14}"
+            }
+          ]
+        },
+        "summer": {
+          "event": "Lucerne Summer Festivals",
+          "description": "Warm weather, festivals, and outdoor concerts around the lake and in city squares. :contentReference[oaicite:15]{index=15}",
+          "ideas": [
+            {
+              "name": "Mount Pilatus Adventure",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=46.9797%2C8.2465",
+              "description": "Take the steep cogwheel railway and enjoy hiking and views. :contentReference[oaicite:16]{index=16}"
+            },
+            {
+              "name": "Swimming in Lake Lucerne",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0539%2C8.3054",
+              "description": "Cool off in the clear lake waters. :contentReference[oaicite:17]{index=17}"
+            },
+            {
+              "name": "Open‑air Concerts",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0502%2C8.3070",
+              "description": "Enjoy summer music around Chapel Bridge and city parks. :contentReference[oaicite:18]{index=18}"
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Lucerne Autumn Colours",
+          "description": "Crisp autumn air, golden foliage around the lake and hills, plus seasonal markets. :contentReference[oaicite:19]{index=19}",
+          "ideas": [
+            {
+              "name": "Old Town Walking Tour",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0508%2C8.3077",
+              "description": "Enjoy autumn hues and historic architecture. :contentReference[oaicite:20]{index=20}"
+            },
+            {
+              "name": "Glacier Garden Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0517%2C8.3130",
+              "description": "Discover ancient glacial formations and museum exhibits. :contentReference[oaicite:21]{index=21}"
+            },
+            {
+              "name": "Lake Views from Bürgenstock",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0790%2C8.4425",
+              "description": "Day trip for dramatic autumn panoramas. :contentReference[oaicite:22]{index=22}"
+            }
+          ]
+        },
+        "winter": {
+          "event": "Lucerne Winter Lights & Christmas Markets",
+          "description": "Festive markets, lights, and snowy alpine views make winter magical. :contentReference[oaicite:23]{index=23}",
+          "ideas": [
+            {
+              "name": "Christmas Markets in Old Town",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0508%2C8.3077",
+              "description": "Browse handcrafted goods and seasonal treats. :contentReference[oaicite:24]{index=24}"
+            },
+            {
+              "name": "Winter Walk along Lake Lucerne",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0539%2C8.3054",
+              "description": "Crisp lakeside stroll with snowy mountain backdrops. :contentReference[oaicite:25]{index=25}"
+            },
+            {
+              "name": "Swiss Museum of Transport",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.0288%2C8.3416",
+              "description": "Interactive museum ideal for colder days. :contentReference[oaicite:26]{index=26}"
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use Lucerne’s efficient trains for easy connections to Zurich, Zurich Airport, and Swiss mountain excursions.",
+          "link": "https://www.sbb.ch/en"
+        },
+        {
+          "tip": "Local buses and ferries around Lake Lucerne make short hops scenic and simple.",
+          "link": "https://www.luzern.com/en/transport"
+        },
+        {
+          "tip": "For mountain trips (e.g., Pilatus or Rigi), check combined ticket options including boat + cogwheel railway for best value.",
+          "link": "https://www.luzern.com/en/transport/mountain-excursions"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Lucerne Festival",
+          "season": "Summer",
+          "description": "World‑renowned classical music festival featuring top orchestras and performers. :contentReference[oaicite:27]{index=27}",
+          "website": "https://www.lucernefestival.ch",
+          "dates": "Summer (June–September)"
+        },
+        {
+          "name": "Lucerne Christmas Markets",
+          "season": "Winter",
+          "description": "Festive seasonal markets with local crafts and treats in Old Town. :contentReference[oaicite:28]{index=28}",
+          "website": "https://www.lucerne.com/en/events/christmas-markets",
+          "dates": "Late Nov–Dec"
+        }
+      ],
+      "places": [
+        {
+          "name": "Jesuit Church",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0479%2C8.3053",
+          "description": "Striking Baroque church on the Reuss with ornate interior. :contentReference[oaicite:29]{index=29}"
+        },
+        {
+          "name": "Glacier Garden Lucerne",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0517%2C8.3130",
+          "description": "Geological park showing glacial fossil formations and mirror maze. :contentReference[oaicite:30]{index=30}"
+        },
+        {
+          "name": "Swiss Museum of Transport",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0288%2C8.3416",
+          "description": "Interactive museum on transport, aviation, and space for all ages. :contentReference[oaicite:31]{index=31}"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Bourbaki Panorama",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0501%2C8.3155",
+          "description": "Massive circular painting depicting the Franco‑Prussian War — an immersive historical artwork. :contentReference[oaicite:32]{index=32}"
+        },
+        {
+          "name": "Meggenhorn Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0350%2C8.3800",
+          "description": "Lakeside castle with parkland offering quiet views and picnics. :contentReference[oaicite:33]{index=33}"
+        },
+        {
+          "name": "Spreuer Bridge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0510%2C8.3071",
+          "description": "Less‑visited covered timber bridge with historic paint panels. :contentReference[oaicite:34]{index=34}"
+        }
+      ]
+    },
+
+    {
+      "name": "Zurich, Switzerland",
+      "interests": [
+        {
+          "name": "Old Town (Altstadt)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3769%2C8.5417",
+          "description": "Historic heart of Zurich with charming cobblestone lanes, medieval buildings, and cafés — perfect for a wander through centuries of history and culture. :contentReference[oaicite:0]{index=0}"
+        },
+        {
+          "name": "Lake Zurich (Zürichsee)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3700%2C8.5500",
+          "description": "Iconic lakeside destination for scenic strolls, swimming, boat cruises and relaxation with Alpine views. :contentReference[oaicite:1]{index=1}"
+        },
+        {
+          "name": "Grossmünster Church",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3694%2C8.5425",
+          "description": "Zurich’s most famous Romanesque church with twin towers and panoramic views from the top. :contentReference[oaicite:2]{index=2}"
+        },
+        {
+          "name": "Fraumünster Church",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3700%2C8.5400",
+          "description": "Historic abbey church featuring beautiful stained glass windows by Marc Chagall. :contentReference[oaicite:3]{index=3}"
+        },
+        {
+          "name": "Uetliberg Mountain",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3480%2C8.5435",
+          "description": "Zurich’s “home mountain” with spectacular panoramic views over the city, lake and Alps; reachable by train and short hike. :contentReference[oaicite:4]{index=4}"
+        },
+        {
+          "name": "Bahnhofstrasse",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3721%2C8.5388",
+          "description": "One of the world’s most famous shopping streets lined with luxury boutiques and flagship stores. :contentReference[oaicite:5]{index=5}"
+        },
+        {
+          "name": "Sechseläutenplatz",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3698%2C8.5444",
+          "description": "Zurich’s largest urban square on the lakefront, hosting the traditional Sechseläuten spring festival and cultural events. :contentReference[oaicite:6]{index=6}"
+        }
+      ],
+      "local_food_tip": "Try classic Swiss dishes like *Zürcher Geschnetzeltes* (veal in creamy mushroom sauce with rösti), artisanal Swiss chocolate including Luxemburgerli, and local wines from the Zurich Gold Coast region. :contentReference[oaicite:7]{index=7}",
+      "full_day": {
+        "Morning": "☀️ Begin at Zurich’s historic <a href=\"https://www.google.com/maps/search/?api=1&query=47.3769%2C8.5417\" target=\"_blank\" rel=\"noopener\">Old Town</a>, exploring medieval alleys, boutique shops, and the iconic <a href=\"https://www.google.com/maps/search/?api=1&query=47.3694%2C8.5425\" target=\"_blank\" rel=\"noopener\">Grossmünster Church</a>. :contentReference[oaicite:8]{index=8}",
+        "Afternoon": "🚤 Walk to the waterfront and enjoy a scenic stroll or boat cruise on <a href=\"https://www.google.com/maps/search/?api=1&query=47.3700%2C8.5500\" target=\"_blank\" rel=\"noopener\">Lake Zurich</a>. Later, browse shops along <a href=\"https://www.google.com/maps/search/?api=1&query=47.3721%2C8.5388\" target=\"_blank\" rel=\"noopener\">Bahnhofstrasse</a>. :contentReference[oaicite:9]{index=9}",
+        "Sunset": "🌄 Catch a panoramic sunset from <a href=\"https://www.google.com/maps/search/?api=1&query=47.3480%2C8.5435\" target=\"_blank\" rel=\"noopener\">Uetliberg Mountain</a>, offering sweeping views over the city, lake and Alps. :contentReference[oaicite:10]{index=10}",
+        "Night": "🍷 Dine on Swiss specialties in the Old Town or lakeside restaurants, then enjoy the city’s vibrant nightlife with cocktail bars or cozy pubs. :contentReference[oaicite:11]{index=11}"
+      },
+      "seasons": {
+        "spring": {
+          "event": "Sechseläuten Festival",
+          "description": "Traditional Zurich spring festival with parades and the symbolic burning of the Böögg snowman, bringing the city to life in April. :contentReference[oaicite:12]{index=12}",
+          "ideas": [
+            {
+              "name": "Lake Zurich Promenade Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3700%2C8.5500",
+              "description": "Enjoy blossoms and lakeside views as the city warms up. :contentReference[oaicite:13]{index=13}"
+            },
+            {
+              "name": "Fraumünster Stained Glass",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3700%2C8.5400",
+              "description": "Admire Marc Chagall’s artistic stained glass. :contentReference[oaicite:14]{index=14}"
+            },
+            {
+              "name": "Old Town Café Hopping",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3769%2C8.5417",
+              "description": "Relax at lakeside cafés and sample spring specialties. :contentReference[oaicite:15]{index=15}"
+            }
+          ]
+        },
+        "summer": {
+          "event": "Lake Zurich Boat Cruises & Festivals",
+          "description": "Summer on the lake means boat cruises, outdoor swimming and lakeside festivals celebrating food and music. :contentReference[oaicite:16]{index=16}",
+          "ideas": [
+            {
+              "name": "Swimming at Mythenquai",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3570%2C8.5540",
+              "description": "Popular lake swimming area in summer. :contentReference[oaicite:17]{index=17}"
+            },
+            {
+              "name": "Uetliberg Hikes",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3480%2C8.5435",
+              "description": "Scenic trails and panoramic lookout. :contentReference[oaicite:18]{index=18}"
+            },
+            {
+              "name": "Open‑air Concerts",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3698%2C8.5444",
+              "description": "Live music and cultural events at Sechseläutenplatz. :contentReference[oaicite:19]{index=19}"
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Expovina Wine Ships Festival",
+          "description": "Annual wine tasting event on Lake Zurich’s pleasure boats, offering local and international wines against an autumn backdrop. :contentReference[oaicite:20]{index=20}",
+          "ideas": [
+            {
+              "name": "Lindenhof Hill Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3710%2C8.5430",
+              "description": "Peaceful park and viewpoint over the Old Town. :contentReference[oaicite:21]{index=21}"
+            },
+            {
+              "name": "Museum Day (Kunsthaus & National Museum)",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3779%2C8.5419",
+              "description": "Explore Zurich’s top art and history museums. :contentReference[oaicite:22]{index=22}"
+            },
+            {
+              "name": "Lakeside Autumn Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3700%2C8.5500",
+              "description": "Lakeshore stroll with fall colors. :contentReference[oaicite:23]{index=23}"
+            }
+          ]
+        },
+        "winter": {
+          "event": "Zurich Christmas Markets",
+          "description": "Festive markets with mulled wine, lights and handcrafted gifts across the Old Town each winter. :contentReference[oaicite:24]{index=24}",
+          "ideas": [
+            {
+              "name": "Ice Skating at Dolder Kunsteisbahn",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3450%2C8.5590",
+              "description": "Large open‑air ice rink in winter. :contentReference[oaicite:25]{index=25}"
+            },
+            {
+              "name": "Lake Zurich Winter Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3700%2C8.5500",
+              "description": "Crisp lakeside stroll with snowy views. :contentReference[oaicite:26]{index=26}"
+            },
+            {
+              "name": "Opera House Concerts",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=47.3695%2C8.5419",
+              "description": "Classical music evenings at Zurich Opera House. :contentReference[oaicite:27]{index=27}"
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use Zurich’s efficient tram and bus network for city travel; it’s frequent and easy to navigate.",
+          "link": "https://www.zuerich.com/en/transport"
+        },
+        {
+          "tip": "Take boat ferries and cruises on Lake Zurich for scenic transport options in summer. :contentReference[oaicite:28]{index=28}",
+          "link": "https://www.zuerich.com/en/transport/ferries"
+        },
+        {
+          "tip": "Consider the Zurich Card for unlimited public transport and discounts on attractions. :contentReference[oaicite:29]{index=29}",
+          "link": "https://www.zuerich.com/en/zurichcard"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Sechseläuten Festival",
+          "season": "Spring",
+          "description": "Zurich’s traditional spring celebration in April with parades and the symbolic Böögg snowman burning. :contentReference[oaicite:30]{index=30}",
+          "website": "https://www.zuerich.com/en/events/sechselaeuten",
+          "dates": "April"
+        },
+        {
+          "name": "Zurich Christmas Markets",
+          "season": "Winter",
+          "description": "Festive markets with lights, mulled wine, crafts and events in the Old Town. :contentReference[oaicite:31]{index=31}",
+          "website": "https://www.zuerich.com/en/events/christmas-markets",
+          "dates": "Nov–Dec"
+        }
+      ],
+      "places": [
+        {
+          "name": "Lindenhof Hill",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3710%2C8.5430",
+          "description": "Scenic park and viewpoint overlooking the Old Town and Limmat River. :contentReference[oaicite:32]{index=32}"
+        },
+        {
+          "name": "Swiss National Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3771%2C8.5406",
+          "description": "Museum exploring Swiss cultural history from ancient times to present. :contentReference[oaicite:33]{index=33}"
+        },
+        {
+          "name": "Chinagarten Zürich",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3653%2C8.5436",
+          "description": "Tranquil Chinese garden for peaceful relaxation. :contentReference[oaicite:34]{index=34}"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Lindt Home of Chocolate",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3765%2C8.5397",
+          "description": "Interactive chocolate museum and tasting experience near Lake Zurich. :contentReference[oaicite:35]{index=35}"
+        },
+        {
+          "name": "Quaibrücke & Bürkliplatz",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.3710%2C8.5440",
+          "description": "Historic lakeside bridge and square with views of Lake Zurich and easy tram access. :contentReference[oaicite:36]{index=36}"
+        },
+        {
+          "name": "Bachtel Tower (Zürcher Oberland)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2735%2C8.8825",
+          "description": "Observation tower in the Zurich hinterland offering wide panoramas from Lake Zurich to the Black Forest. :contentReference[oaicite:37]{index=37}"
+        }
+      ]
+    }
+
+  ]
+}

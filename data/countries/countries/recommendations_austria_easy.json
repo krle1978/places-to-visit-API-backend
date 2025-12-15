@@ -1,0 +1,2326 @@
+{
+  "name": "Austria",
+  "cities": [
+    {
+  "name": "Vienna",
+  "interests": [
+    {
+      "name": "St. Stephen’s Cathedral (Stephansdom)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.208580%2C16.373090",
+      "description": "The heart of Vienna and a masterpiece of Gothic architecture. Climb the tower for incredible city views or explore the catacombs for a bit of history."
+    },
+    {
+      "name": "Schönbrunn Palace & Gardens",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.184500%2C16.312200",
+      "description": "A grand Baroque palace with lavish rooms, sprawling gardens, and the famous Gloriette viewpoint. It’s Vienna’s most visited landmark."
+    },
+    {
+      "name": "Belvedere Palace",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.191400%2C16.380900",
+      "description": "A stunning palace complex that houses Klimt’s ‘The Kiss’. The gardens and fountains create an elegant Baroque landscape."
+    },
+    {
+      "name": "Naschmarkt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.198700%2C16.361100",
+      "description": "Vienna’s most popular market offering a mix of street food, fresh produce, and international cuisine. Great for budget travelers."
+    },
+    {
+      "name": "Prater & Giant Ferris Wheel",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.216700%2C16.395200",
+      "description": "An old-fashioned amusement park and green area. The Ferris Wheel ride gives an iconic view of the city skyline."
+    }
+  ],
+  "local_food_tip": "Don’t miss Wiener Schnitzel, Sachertorte, and local coffee specialties like the Melange. For authentic Viennese dining, try Figlmüller or Café Sperl.",
+  "full_day": "Morning: 🏰 <a href=\"https://www.google.com/maps/search/?api=1&query=48.185000%2C16.312222\" target=\"_blank\" rel=\"noopener\">Schönbrunn Palace</a>: Begin your day in imperial style. → 🌳 <a href=\"https://www.google.com/maps/search/?api=1&query=48.184330%2C16.303140\" target=\"_blank\" rel=\"noopener\">Gloriette</a>: Climb up for the city’s best panoramic view. → ☕ <a href=\"https://www.google.com/maps/search/?api=1&query=48.186040%2C16.313210\" target=\"_blank\" rel=\"noopener\">Schönbrunn Café</a>: Relax with apple strudel and coffee before heading downtown.\n\nAfternoon: 🕍 <a href=\"https://www.google.com/maps/search/?api=1&query=48.208268%2C16.373058\" target=\"_blank\" rel=\"noopener\">St. Stephen’s Cathedral</a>: Marvel at Vienna’s Gothic centerpiece. → 🛍️ <a href=\"https://www.google.com/maps/search/?api=1&query=48.208400%2C16.369800\" target=\"_blank\" rel=\"noopener\">Graben</a> & Kohlmarkt: Explore elegant shopping streets. → 🍽️ Lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=48.198700%2C16.361100\" target=\"_blank\" rel=\"noopener\">Naschmarkt</a>: Enjoy international flavors and Viennese classics.\n\nSunset: 🌅 <a href=\"https://www.google.com/maps/search/?api=1&query=48.191320%2C16.380050\" target=\"_blank\" rel=\"noopener\">Belvedere Gardens</a>: Watch the sunset over fountains and sculptures.\n\nNight: 🌃 <a href=\"https://www.google.com/maps/search/?api=1&query=48.202020%2C16.358000\" target=\"_blank\" rel=\"noopener\">MuseumsQuartier</a>: End your evening surrounded by art, cafés, and music in a lively, youth-friendly atmosphere.",
+  "seasons": {
+    "spring": {
+      "event": "Vienna City Marathon (mid-April)",
+      "description": "Vienna blossoms with tulips and open-air cafés. The city is lively but calm, perfect for walking tours and photo spots.",
+      "ideas": [
+        {
+          "name": "Stadtpark picnic",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.204700%2C16.380500",
+          "description": "Enjoy green lawns, fountains, and the famous Johann Strauss statue surrounded by spring blooms."
+        },
+        {
+          "name": "Belvedere Gardens spring flowers",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.191400%2C16.380900",
+          "description": "A colorful bloom of tulips and roses surrounds the baroque palace — ideal for morning strolls."
+        },
+        {
+          "name": "Danube Canal walk",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.212200%2C16.379900",
+          "description": "Graffiti art, riverside cafés, and open-air bars make the Danube Canal a trendy spring hangout."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Donauinselfest (late June)",
+      "description": "Vienna’s summer is filled with outdoor concerts, long evenings, and riverside adventures.",
+      "ideas": [
+        {
+          "name": "Donauinsel swimming & biking",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.240600%2C16.411000",
+          "description": "Cool off in the Danube, rent a bike, or enjoy the open green areas — it’s like a natural park in the city."
+        },
+        {
+          "name": "Film Festival at Rathausplatz",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.210000%2C16.357000",
+          "description": "Watch free open-air films and concerts under Vienna’s illuminated City Hall."
+        },
+        {
+          "name": "Kahlenberg viewpoint golden hour",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.270600%2C16.336500",
+          "description": "A scenic hill offering panoramic sunset views over the vineyards and city rooftops."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Vienna Design Week (September–October)",
+      "description": "Autumn brings warm colors, art festivals, and the grape harvest — a cozy season for culture and food lovers.",
+      "ideas": [
+        {
+          "name": "Heuriger harvest season in Grinzing",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.259500%2C16.333400",
+          "description": "Relax with locals at a wine tavern, tasting young wines and regional snacks among vineyards."
+        },
+        {
+          "name": "MuseumsQuartier art day",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.202500%2C16.359200",
+          "description": "Spend a cozy day exploring the Leopold Museum and mumok with coffee breaks between exhibits."
+        },
+        {
+          "name": "Augarten morning walk",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.224600%2C16.370700",
+          "description": "Enjoy quiet alleys, baroque gardens, and views of the porcelain factory in one of Vienna’s oldest parks."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Christmas Markets (mid-November–December)",
+      "description": "Vienna turns into a winter wonderland filled with lights, music, and warm drinks. Perfect for festive vibes and cozy moments.",
+      "ideas": [
+        {
+          "name": "Rathausplatz Christkindlmarkt",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.210000%2C16.357000",
+          "description": "The main Christmas market filled with stalls, lights, and ice skating — pure magic at night."
+        },
+        {
+          "name": "Schönbrunn Palace Christmas Market",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.184500%2C16.312200",
+          "description": "Elegant market backdrop with crafts and warm punch in front of the imperial palace."
+        },
+        {
+          "name": "Ice skating at Wiener Eistraum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.210000%2C16.357000",
+          "description": "Huge ice rink in front of City Hall with glowing lights and festive music."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Buy a 24/48/72-hour ticket for unlimited metro, tram, and bus rides.",
+      "link": "https://www.wienerlinien.at"
+    },
+    {
+      "tip": "Use tram lines 1 and 2 to loop around the historic Ringstrasse for sightseeing.",
+      "link": "https://www.google.com/maps/search/?api=1&query=48.202400%2C16.369900"
+    },
+    {
+      "tip": "From Vienna Airport, take the S7 for a low-cost ride or CAT express for a fast option.",
+      "link": "https://www.oebb.at"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Vienna City Marathon",
+      "season": "spring",
+      "description": "Austria’s biggest running event with thousands of participants and live music stages along the route.",
+      "website": "https://www.vienna-marathon.com",
+      "dates": "Annually, mid-April"
+    },
+    {
+      "name": "Donauinselfest",
+      "season": "summer",
+      "description": "Europe’s largest free outdoor music festival on Danube Island, featuring pop, rock, and electronic artists.",
+      "website": "https://donauinselfest.at",
+      "dates": "Annually, late June"
+    },
+    {
+      "name": "Vienna Design Week",
+      "season": "autumn",
+      "description": "Creative design installations and exhibitions across the city, blending innovation and tradition.",
+      "website": "https://www.viennadesignweek.at",
+      "dates": "Annually, late September–October"
+    },
+    {
+      "name": "Vienna Christmas Markets",
+      "season": "winter",
+      "description": "Festive markets with local crafts, carols, and mulled wine spread across the city squares.",
+      "website": "https://www.wien.info/en/christmas-markets",
+      "dates": "Annually, mid-November to December"
+    }
+  ],
+  "places": [
+    {
+      "name": "Vienna State Opera",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.202600%2C16.368600",
+      "description": "One of the world's premier opera houses. Catch a live performance or a budget-friendly standing ticket."
+    },
+    {
+      "name": "Karlskirche",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.198900%2C16.371600",
+      "description": "Baroque church with reflections in its pond and occasional classical concerts inside."
+    },
+    {
+      "name": "Kunsthistorisches Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.203600%2C16.361500",
+      "description": "An art museum displaying masterpieces from Rubens, Rembrandt, and Raphael."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Otto Wagner Church",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.214900%2C16.284700",
+      "description": "A golden-domed Art Nouveau church on a quiet hill — stunning at sunset."
+    },
+    {
+      "name": "Setagayapark",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.241500%2C16.355200",
+      "description": "Japanese-style garden with cherry blossoms and koi ponds — peaceful and photogenic."
+    },
+    {
+      "name": "Ferstel Passage",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.210800%2C16.365200",
+      "description": "Hidden passageway with boutique shops and cafés — perfect for a coffee break or photos."
+    }
+  ]
+},
+    {
+  "name": "Bregenz",
+  "interests": [
+    {
+      "name": "Oberstadt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Oberstadt+Bregenz",
+      "description": "Historic upper town with narrow streets, old shops, and great views over the city and lake."
+    },
+    {
+      "name": "Kunsthaus Bregenz",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Kunsthaus+Bregenz",
+      "description": "Contemporary art museum in a striking architectural landmark by Peter Zumthor showcasing international exhibitions." 
+    },
+    {
+      "name": "Seepromenade & Harbour",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Seepromenade+Bregenz",
+      "description": "Scenic lakeside promenade with views of Lake Constance — perfect for a stroll, sunset, or café visit." 
+    },
+    {
+      "name": "Pfänder & Pfänderbahn",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Pfänder+Bregenz",
+      "description": "Take the Pfänderbahn cable car up to Pfänder mountain for panoramic views, hiking, and an alpine wildlife park. :contentReference[oaicite:0]{index=0}"
+    },
+    {
+      "name": "Vorarlberg Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Vorarlberg+Museum+Bregenz",
+      "description": "Modern museum displaying local history, art, and archaeology with immersive exhibits. :contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "name": "Martinsturm",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Martinsturm+Bregenz",
+      "description": "Iconic city tower offering great photo opportunities and historical architecture in the old town."
+    },
+    {
+      "name": "Steg über Bregenzer Ach",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Steg+ueber+Bregenzer+Ach",
+      "description": "Picturesque footbridge over the Bregenzer Ach river — ideal for scenic walks and photos."
+    },
+    {
+      "name": "Uferkunst Bregenz",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Uferkunst+Bregenz",
+      "description": "Lakeside art installations and nature paths blending culture with outdoors."
+    }
+  ],
+  "local_food_tip": "Try regional Vorarlberg specialties like Käsknöpfle (cheese noodles) and fresh fish from Lake Constance, or enjoy lakeside dining with local wines and seasonal produce. :contentReference[oaicite:2]{index=2}",
+  "full_day": {
+    "Morning": "Start with a walk through the old town (<a href=\"https://www.google.com/maps/search/?api=1&query=Oberstadt+Bregenz\" target=\"_blank\" rel=\"noopener\">Oberstadt</a>), then visit the art at <a href=\"https://www.google.com/maps/search/?api=1&query=Kunsthaus+Bregenz\" target=\"_blank\" rel=\"noopener\">Kunsthaus Bregenz</a> and coffee nearby.",
+    "Afternoon": "Stroll along the <a href=\"https://www.google.com/maps/search/?api=1&query=Seepromenade+Bregenz\" target=\"_blank\" rel=\"noopener\">Seepromenade</a>, have lunch by the lake, then take the <a href=\"https://www.google.com/maps/search/?api=1&query=Pfänder+Bregenz\" target=\"_blank\" rel=\"noopener\">Pfänderbahn</a> cable car up for views and hiking.",
+    "Sunset": "Return to the lakeshore for a peaceful sunset walk and photos from the pier or promenade.",
+    "Night": "Dine at a lake-view restaurant such as <a href=\"https://www.google.com/maps/search/?api=1&query=Pier69+Hafenrestaurant+Bregenz\" target=\"_blank\" rel=\"noopener\">Pier69 Hafenrestaurant</a>, then explore local bars or cafés near the harbour."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Bregenzer Frühling Dance Festival",
+      "description": "Annual spring dance festival with international ensembles and performances. :contentReference[oaicite:3]{index=3}",
+      "ideas": [
+        {
+          "name": "Dance Performances",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bregenzer+Fruehling+Bregenz",
+          "description": "Enjoy contemporary dance shows in the Festival Hall."
+        },
+        {
+          "name": "Pfänder Spring Hikes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Pfänder+Bregenz",
+          "description": "Blossoming trails and views over Lake Constance."
+        },
+        {
+          "name": "Cafés by the Lake",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cafes+Bregenz+Seepromenade",
+          "description": "Relax outdoors with regional pastries and coffee."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Bregenz Festival",
+      "description": "World-famous summer music and opera festival on a floating lake stage. :contentReference[oaicite:4]{index=4}",
+      "ideas": [
+        {
+          "name": "Festival Performances",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bregenz+Festival+Lake+Constance",
+          "description": "Attend opera and music under the open sky on the lake stage."
+        },
+        {
+          "name": "Beach Time",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Constance+Bregenz+beach",
+          "description": "Swim, relax, or rent a paddleboard."
+        },
+        {
+          "name": "Outdoor Dining",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Seepromenade+restaurants+Bregenz",
+          "description": "Sample local summer menus with a lake view."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Harvest Activities",
+      "description": "Enjoy seasonal foods, wine tastings, and autumn foliage along the lake and mountain trails.",
+      "ideas": [
+        {
+          "name": "Lakewalks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Seepromenade+Bregenz",
+          "description": "Crisp air and colorful views along the lakeside."
+        },
+        {
+          "name": "Mountain Views",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Pfänder+Bregenz",
+          "description": "Clear autumn panoramas from above."
+        },
+        {
+          "name": "Local Wine Bars",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bregenz+wine+bar",
+          "description": "Taste Vorarlberg wines in cozy settings."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Winter Festivities & Markets",
+      "description": "Seasonal Christmas markets, lakeside walks with festive lights, and cozy indoor activities.",
+      "ideas": [
+        {
+          "name": "Christmas Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Christmas+market+Bregenz",
+          "description": "Holiday stalls and treats in the old town."
+        },
+        {
+          "name": "Indoor Museums",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Vorarlberg+Museum+Bregenz",
+          "description": "Explore the region’s history and art on a chilly day."
+        },
+        {
+          "name": "Cafés & Hot Chocolate",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cafes+Bregenz+Old+Town",
+          "description": "Warm up with drinks in scenic indoor spots."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Bregenz is very walkable and compact, with most major sights reachable on foot. :contentReference[oaicite:5]{index=5}",
+      "link": "https://www.google.com/search?q=Bregenz+public+transport"
+    },
+    {
+      "tip": "Use local buses and regional trains for excursions around Lake Constance and into the nearby Alps. :contentReference[oaicite:6]{index=6}",
+      "link": "https://www.vorarlberg-lines.at/"
+    },
+    {
+      "tip": "The Pfänderbahn cable car provides easy mountain access without a car — ideal for scenic day trips. :contentReference[oaicite:7]{index=7}",
+      "link": "https://www.pfaenderbahn.at/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Bregenz Festival",
+      "season": "summer",
+      "description": "International music and opera festival on Lake Constance’s floating stage. :contentReference[oaicite:8]{index=8}",
+      "website": "https://www.bregenzerfestspiele.com/",
+      "dates": "July–August"
+    },
+    {
+      "name": "Bregenzer Frühling (Spring Dance Festival)",
+      "season": "spring",
+      "description": "Contemporary dance festival with world ensembles. :contentReference[oaicite:9]{index=9}",
+      "website": "https://www.bregenzerfruehling.com/",
+      "dates": "March–June"
+    }
+  ],
+  "places": [
+    {
+      "name": "Roman Theatre (Thalbach)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Roman+Theatre+Thalbach+Bregenz",
+      "description": "Archaeological remains of the Roman-era theatre in historic Bregenz area. :contentReference[oaicite:10]{index=10}"
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Uferkunst Bregenz",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Uferkunst+Bregenz",
+      "description": "Lakeside art path blending nature with creative installations."
+    },
+    {
+      "name": "Steg über Bregenzer Ach",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=Steg+ueber+Bregenzer+Ach",
+      "description": "A quieter, photogenic walking bridge over the Bregenzer Ach river."
+    }
+  ]
+},
+    {
+  "name": "Eisenstadt",
+  "interests": [
+    {
+      "name": "Schloss Esterházy (Esterházy Palace)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8459%2C16.5336",
+      "description": "Magnificent Baroque palace and former seat of the Esterházy family, closely associated with composer Joseph Haydn."
+    },
+    {
+      "name": "Haydnkirche (Bergkirche)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8476%2C16.5355",
+      "description": "Historic church containing the Haydn Mausoleum, an important pilgrimage site for classical music lovers."
+    },
+    {
+      "name": "Altstadt Eisenstadt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8453%2C16.5330",
+      "description": "Charming old town with pastel houses, small squares, cafés, and local shops."
+    },
+    {
+      "name": "Landesmuseum Burgenland",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8446%2C16.5318",
+      "description": "Museum presenting the history, culture, and archaeology of the Burgenland region."
+    },
+    {
+      "name": "Schlosspark Eisenstadt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8465%2C16.5310",
+      "description": "Large landscaped park surrounding the palace, ideal for relaxed walks and picnics."
+    }
+  ],
+  "local_food_tip": "Try Burgenland specialties such as Pannonian fish dishes, goulash, and local wines from nearby vineyards, especially Blaufränkisch.",
+  "full_day": {
+    "Morning": "Begin your day at <a href=\"https://www.google.com/maps/search/?api=1&query=47.8459%2C16.5336\" target=\"_blank\" rel=\"noopener\">Schloss Esterházy</a> 🏰, exploring the palace rooms and Haydn Hall, then stroll through the nearby old town for coffee ☕.",
+    "Afternoon": "Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=47.8446%2C16.5318\" target=\"_blank\" rel=\"noopener\">Landesmuseum Burgenland</a> 🏛️, followed by a peaceful walk in the <a href=\"https://www.google.com/maps/search/?api=1&query=47.8465%2C16.5310\" target=\"_blank\" rel=\"noopener\">Schlosspark</a> 🌳.",
+    "Sunset": "Head to the vineyards on the edge of town 🍇 to enjoy soft evening light and views over Eisenstadt and the surrounding plains.",
+    "Night": "Have dinner in the Altstadt 🍽️ and, if available, attend a classical concert or cultural event connected to Joseph Haydn 🎶."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Haydn Festival (Frühjahr)",
+      "description": "Springtime classical concerts celebrating Joseph Haydn’s music in historic venues.",
+      "ideas": [
+        {
+          "name": "Palace Concerts",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8459%2C16.5336",
+          "description": "Attend orchestral and chamber concerts inside Esterházy Palace."
+        },
+        {
+          "name": "Spring Walks in Schlosspark",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8465%2C16.5310",
+          "description": "Enjoy blooming trees and quiet garden paths."
+        },
+        {
+          "name": "Old Town Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8453%2C16.5330",
+          "description": "Relax outdoors as café terraces reopen."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Oper im Steinbruch (St. Margarethen)",
+      "description": "Large open-air opera performances held nearby in a dramatic quarry setting.",
+      "ideas": [
+        {
+          "name": "Evening Opera Trip",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8039%2C16.6006",
+          "description": "Attend a world-class opera performance under the stars."
+        },
+        {
+          "name": "Wine Tavern Visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8450%2C16.5200",
+          "description": "Enjoy local wines at traditional Heuriger taverns."
+        },
+        {
+          "name": "Cycling in Burgenland",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8400%2C16.5300",
+          "description": "Flat landscapes make summer cycling easy and scenic."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Wine Harvest Season",
+      "description": "Vineyards around Eisenstadt come alive with harvest activities and tastings.",
+      "ideas": [
+        {
+          "name": "Wine Tastings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8450%2C16.5200",
+          "description": "Sample fresh vintages directly from local producers."
+        },
+        {
+          "name": "Autumn Palace Park Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8465%2C16.5310",
+          "description": "Golden foliage surrounds the historic gardens."
+        },
+        {
+          "name": "Local Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8453%2C16.5330",
+          "description": "Discover regional food and crafts."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Advent Markets",
+      "description": "Festive Christmas markets with lights, music, and seasonal treats.",
+      "ideas": [
+        {
+          "name": "Christmas Market at Esterházy Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8459%2C16.5336",
+          "description": "Holiday stalls set against a Baroque backdrop."
+        },
+        {
+          "name": "Haydnkirche Visit",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8476%2C16.5355",
+          "description": "Quiet winter atmosphere and sacred music traditions."
+        },
+        {
+          "name": "Cozy Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8453%2C16.5330",
+          "description": "Warm up with hot drinks in the old town."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Eisenstadt is compact, and most attractions can be reached on foot.",
+      "link": "https://www.eisenstadt.gv.at/"
+    },
+    {
+      "tip": "Regional trains connect Eisenstadt with Vienna and other Burgenland towns.",
+      "link": "https://www.oebb.at/"
+    },
+    {
+      "tip": "Local buses are useful for reaching nearby vineyards and neighboring villages.",
+      "link": "https://www.vor.at/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Haydn Festival",
+      "season": "spring",
+      "description": "Series of classical concerts dedicated to Joseph Haydn.",
+      "website": "https://www.haydnfestival.at/",
+      "dates": "April–May"
+    },
+    {
+      "name": "Oper im Steinbruch",
+      "season": "summer",
+      "description": "Spectacular open-air opera performances in a nearby quarry.",
+      "website": "https://www.operimsteinbruch.at/",
+      "dates": "July–August"
+    }
+  ],
+  "places": [
+    {
+      "name": "Haydn House",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8469%2C16.5366",
+      "description": "Former residence of Joseph Haydn, now a museum dedicated to his life and work."
+    },
+    {
+      "name": "Dom St. Martin",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8458%2C16.5347",
+      "description": "Main cathedral of Eisenstadt with Gothic and Baroque elements."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Kalvarienberg Eisenstadt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8492%2C16.5358",
+      "description": "Hilltop complex with chapels and viewpoints, offering quiet walks and city views."
+    },
+    {
+      "name": "Leopoldinentempel",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8481%2C16.5287",
+      "description": "Small classical pavilion hidden in the palace park, perfect for a peaceful break."
+    }
+  ]
+},
+    {
+  "name": "Graz",
+  "interests": [
+    {
+      "name": "Schlossberg & Uhrturm",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.0767%2C15.4376",
+      "description": "The historic hill in the city center topped by the iconic Clock Tower, offering panoramic views over Graz."
+    },
+    {
+      "name": "Grazer Altstadt (Old Town)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.0707%2C15.4386",
+      "description": "UNESCO-listed old town with medieval streets, colorful courtyards, and Renaissance architecture."
+    },
+    {
+      "name": "Kunsthaus Graz",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.0716%2C15.4330",
+      "description": "Futuristic contemporary art museum known as the 'Friendly Alien', hosting modern exhibitions."
+    },
+    {
+      "name": "Murinsel",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.0729%2C15.4339",
+      "description": "Artificial island bridge on the Mur River with a café and event space."
+    },
+    {
+      "name": "Schloss Eggenberg",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.0705%2C15.3973",
+      "description": "Baroque palace with formal gardens and museums, part of the UNESCO World Heritage Site."
+    }
+  ],
+  "local_food_tip": "Try Styrian classics like pumpkin seed oil dishes, Backhendl (fried chicken), and local white wines from southern Styria.",
+  "full_day": {
+    "Morning": "Start with a walk through the <a href=\"https://www.google.com/maps/search/?api=1&query=47.0707%2C15.4386\" target=\"_blank\" rel=\"noopener\">Old Town</a> 🏘️, then take the funicular or stairs up the <a href=\"https://www.google.com/maps/search/?api=1&query=47.0767%2C15.4376\" target=\"_blank\" rel=\"noopener\">Schlossberg</a> for views and photos 📸.",
+    "Afternoon": "Visit the modern <a href=\"https://www.google.com/maps/search/?api=1&query=47.0716%2C15.4330\" target=\"_blank\" rel=\"noopener\">Kunsthaus Graz</a> 🎨, cross the <a href=\"https://www.google.com/maps/search/?api=1&query=47.0729%2C15.4339\" target=\"_blank\" rel=\"noopener\">Murinsel</a>, and enjoy lunch nearby.",
+    "Sunset": "Relax along the Mur riverbanks 🌅 or return to Schlossberg for sunset over the red rooftops.",
+    "Night": "Have dinner in the old town 🍽️ and explore Graz’s lively student cafés or attend a small concert or theater show 🎶."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Diagonale Film Festival",
+      "description": "Austria’s major festival for national film productions, creating a creative city atmosphere.",
+      "ideas": [
+        {
+          "name": "Film Screenings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0716%2C15.4330",
+          "description": "Watch Austrian films at cinemas across Graz."
+        },
+        {
+          "name": "City Garden Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0705%2C15.3973",
+          "description": "Spring blooms in palace gardens and parks."
+        },
+        {
+          "name": "Café Terraces",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0707%2C15.4386",
+          "description": "Enjoy mild weather in outdoor cafés."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Styriarte Music Festival",
+      "description": "Classical and early music concerts held in historic venues around Graz.",
+      "ideas": [
+        {
+          "name": "Open-Air Concerts",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0767%2C15.4376",
+          "description": "Music performances on Schlossberg and city squares."
+        },
+        {
+          "name": "Swimming in the Mur Area",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0900%2C15.4200",
+          "description": "Cool off at nearby river and outdoor pools."
+        },
+        {
+          "name": "Evening Old Town Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0707%2C15.4386",
+          "description": "Warm nights and lively streets."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Styrian Wine Autumn",
+      "description": "Season celebrating wine harvests with tastings and regional food.",
+      "ideas": [
+        {
+          "name": "Wine Tastings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0707%2C15.4386",
+          "description": "Sample Styrian wines in city wine bars."
+        },
+        {
+          "name": "Autumn Schlossberg Hikes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0767%2C15.4376",
+          "description": "Golden foliage and crisp views."
+        },
+        {
+          "name": "Local Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0720%2C15.4390",
+          "description": "Fresh produce and seasonal specialties."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Advent in Graz",
+      "description": "Festive Christmas markets across the city with lights and music.",
+      "ideas": [
+        {
+          "name": "Main Square Christmas Market",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0709%2C15.4382",
+          "description": "Holiday stalls in front of historic buildings."
+        },
+        {
+          "name": "Museum Visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0716%2C15.4330",
+          "description": "Warm indoor culture during cold days."
+        },
+        {
+          "name": "Cozy Coffee Houses",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.0707%2C15.4386",
+          "description": "Traditional cafés with winter treats."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Graz has an extensive tram and bus network that covers all major neighborhoods.",
+      "link": "https://www.holding-graz.at/"
+    },
+    {
+      "tip": "The old town is largely walkable, making walking the best way to explore central sights.",
+      "link": "https://www.graztourismus.at/"
+    },
+    {
+      "tip": "Regional trains connect Graz with Vienna, Salzburg, and Slovenia.",
+      "link": "https://www.oebb.at/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Diagonale Film Festival",
+      "season": "spring",
+      "description": "Austria’s leading festival for national cinema.",
+      "website": "https://www.diagonale.at/",
+      "dates": "March–April"
+    },
+    {
+      "name": "Styriarte Festival",
+      "season": "summer",
+      "description": "Renowned classical music festival founded by Nikolaus Harnoncourt.",
+      "website": "https://www.styriarte.com/",
+      "dates": "June–July"
+    }
+  ],
+  "places": [
+    {
+      "name": "Graz Cathedral",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.0713%2C15.4398",
+      "description": "Gothic cathedral with Baroque interior near the old town."
+    },
+    {
+      "name": "Landeszeughaus (Armoury)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.0706%2C15.4397",
+      "description": "World’s largest historic weapons collection with over 30,000 items."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Kaiser-Josef-Markt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.0702%2C15.4419",
+      "description": "Local farmers’ market popular with residents for fresh food."
+    },
+    {
+      "name": "Leechwald",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.0906%2C15.4563",
+      "description": "Large forest park on the city edge with quiet trails and nature."
+    }
+  ]
+},
+    {
+  "name": "Hallstatt",
+  "interests": [
+    {
+      "name": "Hallstatt Old Town",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5616%2C13.6493",
+      "description": "Picture-perfect lakeside village with pastel houses, narrow alleys, and mountain backdrops."
+    },
+    {
+      "name": "Hallstatt Skywalk (Welterbeblick)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5589%2C13.6506",
+      "description": "Viewing platform high above the village offering dramatic panoramas of Lake Hallstatt and the Dachstein Alps."
+    },
+    {
+      "name": "Salzwelten Hallstatt (Salt Mine)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5577%2C13.6482",
+      "description": "Historic salt mine showcasing 7,000 years of salt mining with guided tours and underground slides."
+    },
+    {
+      "name": "Marktplatz Hallstatt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5613%2C13.6499",
+      "description": "Central square surrounded by traditional houses, cafés, and lake views."
+    },
+    {
+      "name": "Beinhaus (Bone House)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5619%2C13.6498",
+      "description": "Unique chapel displaying painted skulls, reflecting local burial traditions."
+    }
+  ],
+  "local_food_tip": "Try freshly caught fish from Lake Hallstatt, traditional Austrian soups, and apple strudel at small family-run lakeside restaurants.",
+  "full_day": {
+    "Morning": "Arrive early and walk through the <a href=\"https://www.google.com/maps/search/?api=1&query=47.5616%2C13.6493\" target=\"_blank\" rel=\"noopener\">Old Town</a> 🌄, stopping at the <a href=\"https://www.google.com/maps/search/?api=1&query=47.5613%2C13.6499\" target=\"_blank\" rel=\"noopener\">Marktplatz</a> for photos and coffee ☕.",
+    "Afternoon": "Take the funicular to the <a href=\"https://www.google.com/maps/search/?api=1&query=47.5577%2C13.6482\" target=\"_blank\" rel=\"noopener\">Salt Mine</a> 🧂 and walk to the <a href=\"https://www.google.com/maps/search/?api=1&query=47.5589%2C13.6506\" target=\"_blank\" rel=\"noopener\">Skywalk</a> for unforgettable views.",
+    "Sunset": "Return to the village and enjoy a lakeside stroll 🚶‍♀️ as the mountains reflect in the water.",
+    "Night": "Have a relaxed dinner by the lake 🍽️ and enjoy the quiet evening atmosphere once day visitors leave."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Spring Lake Season",
+      "description": "Melting snow fills the lake and flowers begin to bloom, creating calm and colorful scenery.",
+      "ideas": [
+        {
+          "name": "Lakeside Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5616%2C13.6493",
+          "description": "Peaceful walks with fresh alpine air."
+        },
+        {
+          "name": "Boat Photography",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5608%2C13.6502",
+          "description": "Capture reflections of houses and mountains."
+        },
+        {
+          "name": "Village Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5613%2C13.6499",
+          "description": "Enjoy the first outdoor seating of the year."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Peak Visiting Season",
+      "description": "Warm weather brings boat rides, hiking, and vibrant village life.",
+      "ideas": [
+        {
+          "name": "Boat Rentals",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5608%2C13.6502",
+          "description": "Explore the lake from the water."
+        },
+        {
+          "name": "Mountain Hiking",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5589%2C13.6506",
+          "description": "Trails around the Skywalk and salt mine."
+        },
+        {
+          "name": "Swimming Areas",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5630%2C13.6520",
+          "description": "Cool off in designated lake spots."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Autumn Colors",
+      "description": "Golden forests and fewer crowds create a calm, scenic experience.",
+      "ideas": [
+        {
+          "name": "Autumn Photography",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5616%2C13.6493",
+          "description": "Colorful foliage around the lake."
+        },
+        {
+          "name": "Salt Mine Tours",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5577%2C13.6482",
+          "description": "Comfortable indoor-outdoor activity."
+        },
+        {
+          "name": "Quiet Lake Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5608%2C13.6502",
+          "description": "Enjoy peaceful paths with crisp air."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Winter Village Atmosphere",
+      "description": "Snow transforms Hallstatt into a storybook village with a quiet, magical feel.",
+      "ideas": [
+        {
+          "name": "Snowy Old Town Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5616%2C13.6493",
+          "description": "Snow-covered rooftops and calm streets."
+        },
+        {
+          "name": "Winter Photography",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5613%2C13.6499",
+          "description": "Mist, snow, and reflections create unique scenes."
+        },
+        {
+          "name": "Warm Inns",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5610%2C13.6495",
+          "description": "Cozy indoor dining during cold evenings."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Hallstatt can be reached by train to Hallstatt station followed by a short boat ride across the lake.",
+      "link": "https://www.oebb.at/"
+    },
+    {
+      "tip": "The village is car-restricted; walking is the best way to explore.",
+      "link": "https://www.hallstatt.net/"
+    },
+    {
+      "tip": "Local boats and ferries connect viewpoints and arrival points efficiently.",
+      "link": "https://www.hallstatt.net/anreise/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Hallstatt Cultural Summer",
+      "season": "summer",
+      "description": "Small concerts and cultural evenings in historic settings.",
+      "website": "https://www.hallstatt.net/",
+      "dates": "June–August"
+    }
+  ],
+  "places": [
+    {
+      "name": "Evangelical Church of Hallstatt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5620%2C13.6497",
+      "description": "Iconic lakeside church often featured in photographs of Hallstatt."
+    },
+    {
+      "name": "Hallstatt Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5615%2C13.6496",
+      "description": "Small museum explaining the village’s history and prehistoric salt culture."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Gosaumühlstraße Viewpoint",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5640%2C13.6468",
+      "description": "Less-visited spot with beautiful views back toward the village."
+    },
+    {
+      "name": "Lake Shore Path to Obertraun",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5585%2C13.6570",
+      "description": "Quiet walking path along the lake away from crowds."
+    }
+  ]
+},
+{
+  "name": "Hallstatt",
+  "interests": [
+    {
+      "name": "Hallstatt Old Town",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5616%2C13.6493",
+      "description": "Picture-perfect lakeside village with pastel houses, narrow alleys, and mountain backdrops."
+    },
+    {
+      "name": "Hallstatt Skywalk (Welterbeblick)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5589%2C13.6506",
+      "description": "Viewing platform high above the village offering dramatic panoramas of Lake Hallstatt and the Dachstein Alps."
+    },
+    {
+      "name": "Salzwelten Hallstatt (Salt Mine)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5577%2C13.6482",
+      "description": "Historic salt mine showcasing 7,000 years of salt mining with guided tours and underground slides."
+    },
+    {
+      "name": "Marktplatz Hallstatt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5613%2C13.6499",
+      "description": "Central square surrounded by traditional houses, cafés, and lake views."
+    },
+    {
+      "name": "Beinhaus (Bone House)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5619%2C13.6498",
+      "description": "Unique chapel displaying painted skulls, reflecting local burial traditions."
+    }
+  ],
+  "local_food_tip": "Try freshly caught fish from Lake Hallstatt, traditional Austrian soups, and apple strudel at small family-run lakeside restaurants.",
+  "full_day": {
+    "Morning": "Arrive early and walk through the <a href=\"https://www.google.com/maps/search/?api=1&query=47.5616%2C13.6493\" target=\"_blank\" rel=\"noopener\">Old Town</a> 🌄, stopping at the <a href=\"https://www.google.com/maps/search/?api=1&query=47.5613%2C13.6499\" target=\"_blank\" rel=\"noopener\">Marktplatz</a> for photos and coffee ☕.",
+    "Afternoon": "Take the funicular to the <a href=\"https://www.google.com/maps/search/?api=1&query=47.5577%2C13.6482\" target=\"_blank\" rel=\"noopener\">Salt Mine</a> 🧂 and walk to the <a href=\"https://www.google.com/maps/search/?api=1&query=47.5589%2C13.6506\" target=\"_blank\" rel=\"noopener\">Skywalk</a> for unforgettable views.",
+    "Sunset": "Return to the village and enjoy a lakeside stroll 🚶‍♀️ as the mountains reflect in the water.",
+    "Night": "Have a relaxed dinner by the lake 🍽️ and enjoy the quiet evening atmosphere once day visitors leave."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Spring Lake Season",
+      "description": "Melting snow fills the lake and flowers begin to bloom, creating calm and colorful scenery.",
+      "ideas": [
+        {
+          "name": "Lakeside Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5616%2C13.6493",
+          "description": "Peaceful walks with fresh alpine air."
+        },
+        {
+          "name": "Boat Photography",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5608%2C13.6502",
+          "description": "Capture reflections of houses and mountains."
+        },
+        {
+          "name": "Village Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5613%2C13.6499",
+          "description": "Enjoy the first outdoor seating of the year."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Peak Visiting Season",
+      "description": "Warm weather brings boat rides, hiking, and vibrant village life.",
+      "ideas": [
+        {
+          "name": "Boat Rentals",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5608%2C13.6502",
+          "description": "Explore the lake from the water."
+        },
+        {
+          "name": "Mountain Hiking",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5589%2C13.6506",
+          "description": "Trails around the Skywalk and salt mine."
+        },
+        {
+          "name": "Swimming Areas",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5630%2C13.6520",
+          "description": "Cool off in designated lake spots."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Autumn Colors",
+      "description": "Golden forests and fewer crowds create a calm, scenic experience.",
+      "ideas": [
+        {
+          "name": "Autumn Photography",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5616%2C13.6493",
+          "description": "Colorful foliage around the lake."
+        },
+        {
+          "name": "Salt Mine Tours",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5577%2C13.6482",
+          "description": "Comfortable indoor-outdoor activity."
+        },
+        {
+          "name": "Quiet Lake Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5608%2C13.6502",
+          "description": "Enjoy peaceful paths with crisp air."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Winter Village Atmosphere",
+      "description": "Snow transforms Hallstatt into a storybook village with a quiet, magical feel.",
+      "ideas": [
+        {
+          "name": "Snowy Old Town Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5616%2C13.6493",
+          "description": "Snow-covered rooftops and calm streets."
+        },
+        {
+          "name": "Winter Photography",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5613%2C13.6499",
+          "description": "Mist, snow, and reflections create unique scenes."
+        },
+        {
+          "name": "Warm Inns",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.5610%2C13.6495",
+          "description": "Cozy indoor dining during cold evenings."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Hallstatt can be reached by train to Hallstatt station followed by a short boat ride across the lake.",
+      "link": "https://www.oebb.at/"
+    },
+    {
+      "tip": "The village is car-restricted; walking is the best way to explore.",
+      "link": "https://www.hallstatt.net/"
+    },
+    {
+      "tip": "Local boats and ferries connect viewpoints and arrival points efficiently.",
+      "link": "https://www.hallstatt.net/anreise/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Hallstatt Cultural Summer",
+      "season": "summer",
+      "description": "Small concerts and cultural evenings in historic settings.",
+      "website": "https://www.hallstatt.net/",
+      "dates": "June–August"
+    }
+  ],
+  "places": [
+    {
+      "name": "Evangelical Church of Hallstatt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5620%2C13.6497",
+      "description": "Iconic lakeside church often featured in photographs of Hallstatt."
+    },
+    {
+      "name": "Hallstatt Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5615%2C13.6496",
+      "description": "Small museum explaining the village’s history and prehistoric salt culture."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Gosaumühlstraße Viewpoint",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5640%2C13.6468",
+      "description": "Less-visited spot with beautiful views back toward the village."
+    },
+    {
+      "name": "Lake Shore Path to Obertraun",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5585%2C13.6570",
+      "description": "Quiet walking path along the lake away from crowds."
+    }
+  ]
+}
+,
+    {
+  "name": "Innsbruck",
+  "interests": [
+    {
+      "name": "Altstadt Innsbruck (Old Town)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2689%2C11.3933",
+      "description": "Historic heart of Innsbruck with medieval streets, colorful houses, and lively squares."
+    },
+    {
+      "name": "Golden Roof (Goldenes Dachl)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2687%2C11.3935",
+      "description": "Innsbruck’s most famous landmark, a late-Gothic balcony decorated with 2,657 gilded copper tiles."
+    },
+    {
+      "name": "Nordkette Cable Car",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2698%2C11.4041",
+      "description": "Modern cable car system taking visitors directly from the city center into the Nordkette mountains."
+    },
+    {
+      "name": "Hofburg Imperial Palace",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2693%2C11.3946",
+      "description": "Former imperial residence showcasing Habsburg history and elegant state rooms."
+    },
+    {
+      "name": "Bergisel Ski Jump",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2528%2C11.3983",
+      "description": "Olympic ski jump designed by Zaha Hadid with a viewing platform and café overlooking the city."
+    }
+  ],
+  "local_food_tip": "Try Tyrolean dishes such as Tiroler Gröstl, Kasspatzln (cheese noodles), and apple strudel in traditional inns.",
+  "full_day": {
+    "Morning": "Start in the <a href=\"https://www.google.com/maps/search/?api=1&query=47.2689%2C11.3933\" target=\"_blank\" rel=\"noopener\">Old Town</a> 🏘️, visiting the <a href=\"https://www.google.com/maps/search/?api=1&query=47.2687%2C11.3935\" target=\"_blank\" rel=\"noopener\">Golden Roof</a> and nearby cafés ☕.",
+    "Afternoon": "Explore the <a href=\"https://www.google.com/maps/search/?api=1&query=47.2693%2C11.3946\" target=\"_blank\" rel=\"noopener\">Hofburg</a> 🏰, then take the <a href=\"https://www.google.com/maps/search/?api=1&query=47.2698%2C11.4041\" target=\"_blank\" rel=\"noopener\">Nordkette Cable Car</a> 🚠 up into the mountains for views and short hikes.",
+    "Sunset": "Enjoy sunset from the Nordkette viewpoints 🌄 or return to the river Inn for golden-hour photos.",
+    "Night": "Have dinner in the old town 🍽️ and enjoy Innsbruck’s relaxed nightlife with student bars and live music 🎶."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Easter Markets",
+      "description": "Seasonal markets and mild weather bring life back to the old town squares.",
+      "ideas": [
+        {
+          "name": "Old Town Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2689%2C11.3933",
+          "description": "Pleasant temperatures for sightseeing."
+        },
+        {
+          "name": "Hofgarten",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2710%2C11.3968",
+          "description": "Spring blossoms in the historic city park."
+        },
+        {
+          "name": "Museum Visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2693%2C11.3946",
+          "description": "Indoor culture during changeable weather."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Innsbruck Promenade Concerts",
+      "description": "Free open-air classical concerts held in the old town.",
+      "ideas": [
+        {
+          "name": "Mountain Hiking",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2698%2C11.4041",
+          "description": "High-alpine trails directly accessible from the city."
+        },
+        {
+          "name": "Cycling Along the Inn",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2700%2C11.3900",
+          "description": "Flat cycling paths with mountain views."
+        },
+        {
+          "name": "Outdoor Dining",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2687%2C11.3935",
+          "description": "Terraces and beer gardens in warm evenings."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Almabtrieb (Cattle Drive)",
+      "description": "Decorated cows return from mountain pastures, celebrated with music and food.",
+      "ideas": [
+        {
+          "name": "Autumn Mountain Views",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2698%2C11.4041",
+          "description": "Clear air and colorful alpine landscapes."
+        },
+        {
+          "name": "Traditional Inns",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2689%2C11.3933",
+          "description": "Seasonal Tyrolean dishes."
+        },
+        {
+          "name": "Local Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2695%2C11.3920",
+          "description": "Regional produce and crafts."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Winter Sports Season",
+      "description": "Skiing, snowboarding, and festive city atmosphere.",
+      "ideas": [
+        {
+          "name": "Skiing Near Innsbruck",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2698%2C11.4041",
+          "description": "Multiple ski areas reachable by public transport."
+        },
+        {
+          "name": "Christmas Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2687%2C11.3935",
+          "description": "Traditional markets in the old town."
+        },
+        {
+          "name": "Indoor Museums",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2693%2C11.3946",
+          "description": "Warm cultural stops during cold days."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Innsbruck has an efficient tram and bus network covering the entire city.",
+      "link": "https://www.ivb.at/"
+    },
+    {
+      "tip": "The Nordkette cable car starts close to the old town and requires no car.",
+      "link": "https://www.nordkette.com/"
+    },
+    {
+      "tip": "Trains connect Innsbruck directly with Vienna, Munich, and Italy.",
+      "link": "https://www.oebb.at/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Innsbruck Promenade Concerts",
+      "season": "summer",
+      "description": "Daily open-air classical concerts by international orchestras.",
+      "website": "https://www.promenadenkonzerte.at/",
+      "dates": "July"
+    },
+    {
+      "name": "Bergisel Ski Jump Tournament",
+      "season": "winter",
+      "description": "Part of the famous Four Hills Tournament in ski jumping.",
+      "website": "https://www.bergiselspringen.at/",
+      "dates": "Late December–Early January"
+    }
+  ],
+  "places": [
+    {
+      "name": "Hofkirche (Court Church)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2690%2C11.3940",
+      "description": "Gothic church known for Emperor Maximilian I’s elaborate tomb monument."
+    },
+    {
+      "name": "Ambras Castle",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2465%2C11.4165",
+      "description": "Renaissance castle with art collections and landscaped gardens south of the city."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Hungerburg Viewpoint",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2785%2C11.4019",
+      "description": "Less crowded viewpoint easily reached by funicular."
+    },
+    {
+      "name": "St. Nikolaus District",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2708%2C11.3859",
+      "description": "Local neighborhood across the Inn with cafés and river views."
+    }
+  ]
+},
+    {
+  "name": "Klagenfurt",
+  "interests": [
+    {
+      "name": "Wörthersee Promenade",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6236%2C14.2626",
+      "description": "Lakeside promenade along Lake Wörthersee, popular for walking, swimming, and relaxing with alpine views."
+    },
+    {
+      "name": "Altstadt Klagenfurt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6249%2C14.3050",
+      "description": "Well-preserved Renaissance old town with arcaded courtyards, cafés, and historic squares."
+    },
+    {
+      "name": "Lindwurmbrunnen",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6243%2C14.3058",
+      "description": "Iconic dragon fountain and symbol of Klagenfurt, located on Neuer Platz."
+    },
+    {
+      "name": "Minimundus",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6241%2C14.2621",
+      "description": "Outdoor miniature park featuring famous landmarks from around the world at a 1:25 scale."
+    },
+    {
+      "name": "Kreuzbergl",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6315%2C14.2954",
+      "description": "Forested hill with walking trails, viewpoints, and a small observatory overlooking the city."
+    }
+  ],
+  "local_food_tip": "Try Carinthian specialties like Kärntner Kasnudeln (cheese-filled pasta), lake fish from Wörthersee, and light Alpine-Adriatic cuisine.",
+  "full_day": {
+    "Morning": "Start in the <a href=\"https://www.google.com/maps/search/?api=1&query=46.6249%2C14.3050\" target=\"_blank\" rel=\"noopener\">Old Town</a> 🏛️, visit the <a href=\"https://www.google.com/maps/search/?api=1&query=46.6243%2C14.3058\" target=\"_blank\" rel=\"noopener\">Lindwurm Fountain</a> 🐉, and enjoy breakfast in a café.",
+    "Afternoon": "Head to <a href=\"https://www.google.com/maps/search/?api=1&query=46.6241%2C14.2621\" target=\"_blank\" rel=\"noopener\">Minimundus</a> 🌍, then relax by the <a href=\"https://www.google.com/maps/search/?api=1&query=46.6236%2C14.2626\" target=\"_blank\" rel=\"noopener\">Wörthersee Promenade</a> for swimming or a lakeside lunch.",
+    "Sunset": "Walk up the <a href=\"https://www.google.com/maps/search/?api=1&query=46.6315%2C14.2954\" target=\"_blank\" rel=\"noopener\">Kreuzbergl</a> 🌄 to enjoy sunset views over the city and lake.",
+    "Night": "Dine in the old town 🍽️ and enjoy a relaxed evening atmosphere with bars and ice cream shops."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Spring Awakening at Wörthersee",
+      "description": "Mild temperatures, blooming parks, and the start of the outdoor café season.",
+      "ideas": [
+        {
+          "name": "City Park Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6261%2C14.3041",
+          "description": "Green spaces come alive with flowers."
+        },
+        {
+          "name": "Cycling by the Lake",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6236%2C14.2626",
+          "description": "Easy cycling routes along the shore."
+        },
+        {
+          "name": "Open-Air Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6249%2C14.3050",
+          "description": "Enjoy sunny terraces in the old town."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Wörthersee Lake Festival",
+      "description": "Peak season with swimming, boating, and open-air events around the lake.",
+      "ideas": [
+        {
+          "name": "Swimming Areas",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6208%2C14.2607",
+          "description": "Clear, warm lake water at public lidos."
+        },
+        {
+          "name": "Boat Rides",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6225%2C14.2635",
+          "description": "Explore Wörthersee from the water."
+        },
+        {
+          "name": "Evening Promenade Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6236%2C14.2626",
+          "description": "Warm evenings with lake reflections."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Carinthian Harvest Season",
+      "description": "Golden colors, local food festivals, and fewer visitors.",
+      "ideas": [
+        {
+          "name": "Autumn Kreuzbergl Hikes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6315%2C14.2954",
+          "description": "Colorful forests and crisp air."
+        },
+        {
+          "name": "Local Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6253%2C14.3046",
+          "description": "Seasonal produce and regional products."
+        },
+        {
+          "name": "Wine & Food Taverns",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6249%2C14.3050",
+          "description": "Taste Carinthian and Alpine-Adriatic dishes."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Advent in Klagenfurt",
+      "description": "Christmas markets and festive lights in the historic center.",
+      "ideas": [
+        {
+          "name": "Christmas Market at Neuer Platz",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6243%2C14.3058",
+          "description": "Holiday stalls around the Lindwurm fountain."
+        },
+        {
+          "name": "Indoor Museums",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6259%2C14.3066",
+          "description": "Cultural visits during cold days."
+        },
+        {
+          "name": "Winter Lakeside Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6236%2C14.2626",
+          "description": "Quiet atmosphere by the lake."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Klagenfurt’s city buses make it easy to reach the old town, lake, and Minimundus.",
+      "link": "https://www.stw.at/"
+    },
+    {
+      "tip": "The city center is compact and ideal for walking.",
+      "link": "https://www.klagenfurt.at/"
+    },
+    {
+      "tip": "Trains connect Klagenfurt with Vienna, Salzburg, and Italy.",
+      "link": "https://www.oebb.at/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Wörthersee Lake Festival",
+      "season": "summer",
+      "description": "Cultural and leisure events celebrating lake life.",
+      "website": "https://www.woerthersee.com/",
+      "dates": "June–August"
+    },
+    {
+      "name": "Advent in Klagenfurt",
+      "season": "winter",
+      "description": "Festive Christmas markets and concerts.",
+      "website": "https://www.visitklagenfurt.at/",
+      "dates": "Late November–December"
+    }
+  ],
+  "places": [
+    {
+      "name": "Klagenfurt Cathedral",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6258%2C14.3067",
+      "description": "Baroque cathedral originally built as a Protestant church."
+    },
+    {
+      "name": "Landhaus Klagenfurt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6254%2C14.3034",
+      "description": "Historic government building with the famous Great Coat of Arms Hall."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Botanical Garden Klagenfurt",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6360%2C14.3017",
+      "description": "Small but diverse alpine and Mediterranean plant garden at the foot of Kreuzbergl."
+    },
+    {
+      "name": "Lendkanal",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6220%2C14.2778",
+      "description": "Quiet canal connecting the city to Lake Wörthersee, ideal for peaceful walks."
+    }
+  ]
+},
+    {
+  "name": "Linz",
+  "interests": [
+    {
+      "name": "Ars Electronica Center",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.3076%2C14.2858",
+      "description": "Futuristic museum and cultural center exploring digital art, technology, and society with interactive exhibits."
+    },
+    {
+      "name": "Linz Old Town (Altstadt)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.3054%2C14.2866",
+      "description": "Historic core with baroque façades, narrow streets, and lively squares near the Danube."
+    },
+    {
+      "name": "Pöstlingberg & Pöstlingbergbahn",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.3256%2C14.2585",
+      "description": "Hilltop viewpoint reached by one of the world’s steepest adhesion railways, offering sweeping city views."
+    },
+    {
+      "name": "Lentos Art Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.3071%2C14.2895",
+      "description": "Modern art museum on the Danube with notable 20th- and 21st-century collections."
+    },
+    {
+      "name": "Hauptplatz Linz",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.3061%2C14.2851",
+      "description": "One of Austria’s largest main squares, surrounded by historic buildings and cafés."
+    }
+  ],
+  "local_food_tip": "Don’t miss the original Linzer Torte, plus Upper Austrian classics like dumplings and Danube fish in traditional inns.",
+  "full_day": {
+    "Morning": "Begin at the <a href=\"https://www.google.com/maps/search/?api=1&query=48.3061%2C14.2851\" target=\"_blank\" rel=\"noopener\">Hauptplatz</a> ☀️, explore the <a href=\"https://www.google.com/maps/search/?api=1&query=48.3054%2C14.2866\" target=\"_blank\" rel=\"noopener\">Old Town</a>, and enjoy coffee with a slice of Linzer Torte ☕🍰.",
+    "Afternoon": "Cross the Danube to the <a href=\"https://www.google.com/maps/search/?api=1&query=48.3076%2C14.2858\" target=\"_blank\" rel=\"noopener\">Ars Electronica Center</a> 🤖, then visit the nearby <a href=\"https://www.google.com/maps/search/?api=1&query=48.3071%2C14.2895\" target=\"_blank\" rel=\"noopener\">Lentos Art Museum</a> 🎨.",
+    "Sunset": "Ride the <a href=\"https://www.google.com/maps/search/?api=1&query=48.3256%2C14.2585\" target=\"_blank\" rel=\"noopener\">Pöstlingbergbahn</a> 🚋 up to Pöstlingberg for sunset views over the Danube and city rooftops 🌄.",
+    "Night": "Have dinner along the river 🍽️ and take an evening walk on the illuminated Danube promenade ✨."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Crossing Europe Film Festival",
+      "description": "International film festival focusing on European cinema and young filmmakers.",
+      "ideas": [
+        {
+          "name": "Film Screenings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3076%2C14.2858",
+          "description": "Watch films at venues across the city."
+        },
+        {
+          "name": "Danube Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3070%2C14.2870",
+          "description": "Mild weather for riverside strolls."
+        },
+        {
+          "name": "City Parks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3036%2C14.2878",
+          "description": "Green spaces start to bloom."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Ars Electronica Festival",
+      "description": "World-renowned festival for art, technology, and digital culture.",
+      "ideas": [
+        {
+          "name": "Festival Exhibitions",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3076%2C14.2858",
+          "description": "Interactive shows and talks across Linz."
+        },
+        {
+          "name": "Danube Cycling",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3090%2C14.2900",
+          "description": "Flat, scenic bike paths along the river."
+        },
+        {
+          "name": "Outdoor Dining",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3061%2C14.2851",
+          "description": "Warm evenings on café terraces."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Upper Austria Cultural Autumn",
+      "description": "Season of concerts, exhibitions, and theater performances.",
+      "ideas": [
+        {
+          "name": "Museum Visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3071%2C14.2895",
+          "description": "Perfect weather for indoor culture."
+        },
+        {
+          "name": "Autumn Pöstlingberg Views",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3256%2C14.2585",
+          "description": "Clear air and colorful landscapes."
+        },
+        {
+          "name": "Local Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3061%2C14.2851",
+          "description": "Seasonal produce and regional food."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Christmas Markets in Linz",
+      "description": "Festive markets on Hauptplatz and along the Danube.",
+      "ideas": [
+        {
+          "name": "Hauptplatz Christmas Market",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3061%2C14.2851",
+          "description": "Holiday stalls and lights."
+        },
+        {
+          "name": "Pöstlingberg Christmas World",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3256%2C14.2585",
+          "description": "Traditional winter village atmosphere."
+        },
+        {
+          "name": "Museum Afternoons",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.3076%2C14.2858",
+          "description": "Warm indoor attractions during cold days."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Linz has an efficient tram and bus network covering the city and suburbs.",
+      "link": "https://www.linzag.at/"
+    },
+    {
+      "tip": "The Pöstlingbergbahn is part of the public transport system and easily reached from the center.",
+      "link": "https://www.linzag.at/portal/de/privatkunden/mobilitaet/linzaglinien/poestlingbergbahn"
+    },
+    {
+      "tip": "Trains connect Linz directly with Vienna, Salzburg, and Germany.",
+      "link": "https://www.oebb.at/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Ars Electronica Festival",
+      "season": "summer",
+      "description": "International festival for digital art, innovation, and technology.",
+      "website": "https://ars.electronica.art/festival/",
+      "dates": "September"
+    },
+    {
+      "name": "Crossing Europe Film Festival",
+      "season": "spring",
+      "description": "European film festival with screenings and talks.",
+      "website": "https://www.crossingeurope.at/",
+      "dates": "April–May"
+    }
+  ],
+  "places": [
+    {
+      "name": "Linz Castle Museum",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.3079%2C14.2818",
+      "description": "Museum covering Upper Austrian history with views over the Danube."
+    },
+    {
+      "name": "Mariendom (New Cathedral)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.3009%2C14.2890",
+      "description": "Austria’s largest cathedral, known for its neo-Gothic architecture."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Mural Harbor",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.3146%2C14.3047",
+      "description": "Street art gallery along the industrial harbor with colorful murals."
+    },
+    {
+      "name": "Freinberg Viewpoint",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.3002%2C14.2739",
+      "description": "Quiet hill with panoramic views over Linz and the Danube."
+    }
+  ]
+}
+,
+    {
+  "name": "Salzburg",
+  "interests": [
+    {
+      "name": "Salzburg Old Town (Altstadt)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.7980%2C13.0469",
+      "description": "UNESCO World Heritage old town with Baroque architecture, narrow streets, and historic squares."
+    },
+    {
+      "name": "Hohensalzburg Fortress",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.7964%2C13.0477",
+      "description": "One of Europe’s largest medieval fortresses, towering above the city with panoramic views."
+    },
+    {
+      "name": "Mirabell Palace & Gardens",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8065%2C13.0418",
+      "description": "Elegant palace gardens famous for their symmetry, sculptures, and Sound of Music filming locations."
+    },
+    {
+      "name": "Mozart’s Birthplace",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8006%2C13.0438",
+      "description": "Historic house on Getreidegasse where Wolfgang Amadeus Mozart was born, now a museum."
+    },
+    {
+      "name": "Salzach River Promenade",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8015%2C13.0449",
+      "description": "Scenic riverside walk offering views of the old town skyline and surrounding hills."
+    }
+  ],
+  "local_food_tip": "Try Salzburger Nockerl (sweet soufflé), Wiener Schnitzel, and traditional pastries in classic coffee houses.",
+  "full_day": {
+    "Morning": "Start in the <a href=\"https://www.google.com/maps/search/?api=1&query=47.7980%2C13.0469\" target=\"_blank\" rel=\"noopener\">Old Town</a> 🏛️, walk along Getreidegasse, and visit <a href=\"https://www.google.com/maps/search/?api=1&query=47.8006%2C13.0438\" target=\"_blank\" rel=\"noopener\">Mozart’s Birthplace</a> 🎼.",
+    "Afternoon": "Take the funicular up to <a href=\"https://www.google.com/maps/search/?api=1&query=47.7964%2C13.0477\" target=\"_blank\" rel=\"noopener\">Hohensalzburg Fortress</a> 🏰, then stroll through the <a href=\"https://www.google.com/maps/search/?api=1&query=47.8065%2C13.0418\" target=\"_blank\" rel=\"noopener\">Mirabell Gardens</a> 🌸.",
+    "Sunset": "Walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=47.8015%2C13.0449\" target=\"_blank\" rel=\"noopener\">Salzach River</a> 🌅 for golden-hour views of the fortress.",
+    "Night": "Enjoy dinner in the old town 🍽️ and attend a classical concert or evening performance 🎶."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Salzburg Easter Festival",
+      "description": "Prestigious classical music festival attracting international performers.",
+      "ideas": [
+        {
+          "name": "Garden Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8065%2C13.0418",
+          "description": "Blooming flowers in Mirabell Gardens."
+        },
+        {
+          "name": "Old Town Sightseeing",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.7980%2C13.0469",
+          "description": "Mild weather for exploring historic streets."
+        },
+        {
+          "name": "River Promenade Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8015%2C13.0449",
+          "description": "Fresh spring air along the Salzach."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Salzburg Festival",
+      "description": "World-famous festival of opera, music, and drama held across the city.",
+      "ideas": [
+        {
+          "name": "Festival Performances",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.7980%2C13.0469",
+          "description": "Attend opera and theater in historic venues."
+        },
+        {
+          "name": "Fortress Views",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.7964%2C13.0477",
+          "description": "Clear summer panoramas over Salzburg."
+        },
+        {
+          "name": "Outdoor Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8000%2C13.0445",
+          "description": "Enjoy warm evenings in old town squares."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Harvest & Cultural Season",
+      "description": "Golden foliage, quieter streets, and ongoing concerts.",
+      "ideas": [
+        {
+          "name": "Autumn Fortress Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.7964%2C13.0477",
+          "description": "Crisp air and colorful views."
+        },
+        {
+          "name": "Museum Visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8006%2C13.0438",
+          "description": "Explore Mozart-related museums."
+        },
+        {
+          "name": "Local Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.7990%2C13.0460",
+          "description": "Seasonal food and regional products."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Salzburg Christmas Markets",
+      "description": "Traditional Advent markets with lights, music, and alpine treats.",
+      "ideas": [
+        {
+          "name": "Christmas Market at Domplatz",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.7985%2C13.0463",
+          "description": "Festive stalls in front of Salzburg Cathedral."
+        },
+        {
+          "name": "Winter Old Town Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.7980%2C13.0469",
+          "description": "Storybook atmosphere with lights."
+        },
+        {
+          "name": "Coffee Houses",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.8000%2C13.0445",
+          "description": "Warm up with pastries and hot drinks."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Salzburg has an efficient bus network covering the city and nearby attractions.",
+      "link": "https://www.salzburg-verkehr.at/"
+    },
+    {
+      "tip": "The old town is compact and best explored on foot.",
+      "link": "https://www.salzburg.info/"
+    },
+    {
+      "tip": "Trains connect Salzburg easily with Vienna, Munich, and Innsbruck.",
+      "link": "https://www.oebb.at/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Salzburg Festival",
+      "season": "summer",
+      "description": "Internationally renowned opera, music, and drama festival.",
+      "website": "https://www.salzburgerfestspiele.at/",
+      "dates": "July–August"
+    },
+    {
+      "name": "Salzburg Easter Festival",
+      "season": "spring",
+      "description": "High-profile classical music festival founded by Herbert von Karajan.",
+      "website": "https://www.osterfestspiele-salzburg.at/",
+      "dates": "March–April"
+    }
+  ],
+  "places": [
+    {
+      "name": "Salzburg Cathedral",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.7985%2C13.0463",
+      "description": "Baroque cathedral at the heart of the old town."
+    },
+    {
+      "name": "St. Peter’s Abbey",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.7974%2C13.0456",
+      "description": "Historic monastery with catacombs and cemetery dating back centuries."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Kapuzinerberg Viewpoints",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8038%2C13.0499",
+      "description": "Quiet hill paths offering alternative views of the old town and fortress."
+    },
+    {
+      "name": "Augustiner Bräu Mülln",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.8086%2C13.0347",
+      "description": "Historic monastery brewery popular with locals for its beer garden atmosphere."
+    }
+  ]
+},
+    {
+  "name": "St. Pölten",
+  "interests": [
+    {
+      "name": "Dom zu St. Pölten (Cathedral of the Assumption)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.2036%2C15.6257",
+      "description": "Baroque cathedral with twin towers, originally part of a former Augustinian monastery and the city’s spiritual center."
+    },
+    {
+      "name": "Landhausviertel (Government District)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.2075%2C15.6326",
+      "description": "Modern administrative quarter with contemporary architecture, plazas, and cultural venues."
+    },
+    {
+      "name": "Museum Niederösterreich",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.2079%2C15.6335",
+      "description": "Interactive museum focusing on nature, history, and regional culture of Lower Austria."
+    },
+    {
+      "name": "St. Pölten Old Town",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.2039%2C15.6269",
+      "description": "Compact historic center with Baroque townhouses, cafés, and pedestrian streets."
+    },
+    {
+      "name": "Klangturm (Sound Tower)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.2069%2C15.6329",
+      "description": "Iconic observation tower offering views over the city and the Alpine foothills."
+    }
+  ],
+  "local_food_tip": "Try Lower Austrian classics such as roast pork with dumplings, seasonal asparagus dishes, and wines from the nearby Wachau and Traisental regions.",
+  "full_day": {
+    "Morning": "Begin in the <a href=\"https://www.google.com/maps/search/?api=1&query=48.2039%2C15.6269\" target=\"_blank\" rel=\"noopener\">Old Town</a> ☀️, visit the <a href=\"https://www.google.com/maps/search/?api=1&query=48.2036%2C15.6257\" target=\"_blank\" rel=\"noopener\">Cathedral</a>, and enjoy coffee at a local café ☕.",
+    "Afternoon": "Explore the <a href=\"https://www.google.com/maps/search/?api=1&query=48.2079%2C15.6335\" target=\"_blank\" rel=\"noopener\">Museum Niederösterreich</a> 🏛️, then walk through the modern <a href=\"https://www.google.com/maps/search/?api=1&query=48.2075%2C15.6326\" target=\"_blank\" rel=\"noopener\">Landhausviertel</a>.",
+    "Sunset": "Take the elevator up the <a href=\"https://www.google.com/maps/search/?api=1&query=48.2069%2C15.6329\" target=\"_blank\" rel=\"noopener\">Klangturm</a> 🌄 for sunset views across the city.",
+    "Night": "Have dinner in the city center 🍽️ and enjoy a relaxed evening walk through illuminated streets."
+  },
+  "seasons": {
+    "spring": {
+      "event": "St. Pölten Festival Spring Concerts",
+      "description": "Classical and contemporary music performances welcoming the warmer season.",
+      "ideas": [
+        {
+          "name": "City Park Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2049%2C15.6305",
+          "description": "Fresh greenery and blooming trees."
+        },
+        {
+          "name": "Museum Visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2079%2C15.6335",
+          "description": "Indoor culture during mild spring days."
+        },
+        {
+          "name": "Café Terraces",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2039%2C15.6269",
+          "description": "Outdoor seating in the old town."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Frequency Festival (nearby Green Park)",
+      "description": "Major open-air music festival attracting international artists and visitors.",
+      "ideas": [
+        {
+          "name": "Open-Air Events",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2075%2C15.6326",
+          "description": "Concerts and performances in the cultural district."
+        },
+        {
+          "name": "Traisen River Cycling",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2100%2C15.6400",
+          "description": "Easy cycling paths along the river."
+        },
+        {
+          "name": "Evening Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2039%2C15.6269",
+          "description": "Warm summer nights in the city center."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Wine & Harvest Season",
+      "description": "Local wine tastings and seasonal food from surrounding vineyards.",
+      "ideas": [
+        {
+          "name": "Wine Taverns",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2050%2C15.6200",
+          "description": "Taste regional Traisental wines."
+        },
+        {
+          "name": "Autumn City Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2039%2C15.6269",
+          "description": "Golden leaves in streets and parks."
+        },
+        {
+          "name": "Museum Afternoons",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2079%2C15.6335",
+          "description": "Cultural visits on cooler days."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Advent in St. Pölten",
+      "description": "Christmas markets and festive lights in the historic center.",
+      "ideas": [
+        {
+          "name": "Christmas Market",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2036%2C15.6257",
+          "description": "Holiday stalls near the cathedral."
+        },
+        {
+          "name": "Concert Evenings",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2075%2C15.6326",
+          "description": "Seasonal music performances."
+        },
+        {
+          "name": "Cozy Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=48.2039%2C15.6269",
+          "description": "Warm drinks and winter desserts."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "St. Pölten’s compact center is easy to explore on foot.",
+      "link": "https://www.st-poelten.at/"
+    },
+    {
+      "tip": "Frequent trains connect St. Pölten with Vienna in under 30 minutes.",
+      "link": "https://www.oebb.at/"
+    },
+    {
+      "tip": "Local buses link the old town with the government district and suburbs.",
+      "link": "https://www.vor.at/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Frequency Festival",
+      "season": "summer",
+      "description": "One of Austria’s largest open-air music festivals held near St. Pölten.",
+      "website": "https://www.frequency.at/",
+      "dates": "August"
+    },
+    {
+      "name": "Advent in St. Pölten",
+      "season": "winter",
+      "description": "Traditional Christmas markets and cultural events.",
+      "website": "https://www.st-poelten.at/",
+      "dates": "Late November–December"
+    }
+  ],
+  "places": [
+    {
+      "name": "City Hall (Rathaus)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.2038%2C15.6278",
+      "description": "Historic town hall with a colorful façade in the old town."
+    },
+    {
+      "name": "Festspielhaus St. Pölten",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.2073%2C15.6338",
+      "description": "Major cultural venue hosting concerts, opera, and dance performances."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Traisen Riverside Path",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.2100%2C15.6400",
+      "description": "Quiet walking and cycling path along the Traisen river."
+    },
+    {
+      "name": "Lower Austrian Government Courtyards",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=48.2075%2C15.6326",
+      "description": "Modern courtyards and art installations away from tourist crowds."
+    }
+  ]
+}
+,
+    {
+  "name": "Tyrol",
+  "interests": [
+    {
+      "name": "Innsbruck Old Town",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2689%2C11.3933",
+      "description": "Historic heart of Tyrol’s capital with medieval streets, the Golden Roof, and Alpine scenery."
+    },
+    {
+      "name": "Nordkette Mountains",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2698%2C11.4041",
+      "description": "Dramatic mountain range rising directly above Innsbruck, accessible by cable car."
+    },
+    {
+      "name": "Zillertal Valley",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2333%2C11.8667",
+      "description": "Popular alpine valley known for hiking, skiing, traditional villages, and mountain railways."
+    },
+    {
+      "name": "Achensee",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.4442%2C11.7050",
+      "description": "Tyrol’s largest lake with turquoise waters, surrounded by mountains and walking paths."
+    },
+    {
+      "name": "Kitzbühel Old Town",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.4465%2C12.3921",
+      "description": "Charming alpine town famous for winter sports, colorful houses, and upscale atmosphere."
+    }
+  ],
+  "local_food_tip": "Try Tyrolean classics such as Tiroler Gröstl, Kasspatzln (cheese noodles), Speck dumplings, and apple strudel in mountain huts.",
+  "full_day": {
+    "Morning": "Start in <a href=\"https://www.google.com/maps/search/?api=1&query=47.2689%2C11.3933\" target=\"_blank\" rel=\"noopener\">Innsbruck Old Town</a> 🏘️ with breakfast and sightseeing.",
+    "Afternoon": "Ride the cable car up to the <a href=\"https://www.google.com/maps/search/?api=1&query=47.2698%2C11.4041\" target=\"_blank\" rel=\"noopener\">Nordkette</a> 🚠 for mountain views and easy hikes.",
+    "Sunset": "Travel to <a href=\"https://www.google.com/maps/search/?api=1&query=47.4442%2C11.7050\" target=\"_blank\" rel=\"noopener\">Achensee</a> 🌅 to enjoy lakeside scenery and sunset reflections.",
+    "Night": "Return to a Tyrolean village or city for dinner 🍽️ in a traditional alpine inn."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Alpine Spring Bloom",
+      "description": "Snow melts in the valleys while alpine meadows begin to bloom.",
+      "ideas": [
+        {
+          "name": "Valley Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2689%2C11.3933",
+          "description": "Gentle walks around Innsbruck and nearby villages."
+        },
+        {
+          "name": "Achensee Promenade",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.4442%2C11.7050",
+          "description": "Fresh air and quiet lakeside paths."
+        },
+        {
+          "name": "City Museums",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2693%2C11.3946",
+          "description": "Cultural visits during changeable weather."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Alpine Hiking & Festival Season",
+      "description": "Peak season for hiking, mountain lakes, and open-air cultural events.",
+      "ideas": [
+        {
+          "name": "Zillertal Hiking",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2333%2C11.8667",
+          "description": "High alpine trails and cable-car access."
+        },
+        {
+          "name": "Mountain Lakes Swimming",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.4442%2C11.7050",
+          "description": "Clear, refreshing alpine waters."
+        },
+        {
+          "name": "Village Festivals",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.4465%2C12.3921",
+          "description": "Music, food, and local traditions."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Almabtrieb (Cattle Drive)",
+      "description": "Decorated cows return from mountain pastures, celebrated with music and markets.",
+      "ideas": [
+        {
+          "name": "Autumn Mountain Views",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2698%2C11.4041",
+          "description": "Clear air and golden landscapes."
+        },
+        {
+          "name": "Traditional Inns",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2689%2C11.3933",
+          "description": "Hearty seasonal dishes."
+        },
+        {
+          "name": "Harvest Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.4465%2C12.3921",
+          "description": "Local produce and crafts."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Ski & Winter Sports Season",
+      "description": "World-famous skiing, snowboarding, and festive alpine villages.",
+      "ideas": [
+        {
+          "name": "Skiing in Zillertal",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2333%2C11.8667",
+          "description": "Large interconnected ski areas."
+        },
+        {
+          "name": "Christmas Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.2687%2C11.3935",
+          "description": "Traditional markets in Innsbruck."
+        },
+        {
+          "name": "Winter Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=47.4442%2C11.7050",
+          "description": "Snowy paths by lakes and villages."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Trains connect Innsbruck with valleys and neighboring regions efficiently.",
+      "link": "https://www.oebb.at/"
+    },
+    {
+      "tip": "Regional buses reach mountain villages and hiking areas.",
+      "link": "https://www.vvt.at/"
+    },
+    {
+      "tip": "Cable cars provide easy access to high alpine areas without a car.",
+      "link": "https://www.tyrol.com/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Almabtrieb",
+      "season": "autumn",
+      "description": "Traditional cattle drives celebrated across Tyrol’s valleys.",
+      "website": "https://www.tyrol.com/",
+      "dates": "September–October"
+    },
+    {
+      "name": "Innsbruck Promenade Concerts",
+      "season": "summer",
+      "description": "Open-air classical concerts in Innsbruck’s old town.",
+      "website": "https://www.promenadenkonzerte.at/",
+      "dates": "July"
+    }
+  ],
+  "places": [
+    {
+      "name": "Ambras Castle",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2465%2C11.4165",
+      "description": "Renaissance castle near Innsbruck with art collections and gardens."
+    },
+    {
+      "name": "Bergisel Ski Jump",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.2528%2C11.3983",
+      "description": "Iconic ski jump with viewing platform overlooking Innsbruck."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Gnadenwald Plateau",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.3167%2C11.5667",
+      "description": "Quiet plateau with panoramic views and walking trails."
+    },
+    {
+      "name": "Pillersee Valley",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=47.5100%2C12.3800",
+      "description": "Less-visited alpine valley with lakes and hiking routes."
+    }
+  ]
+}
+,
+    {
+  "name": "Villach",
+  "interests": [
+    {
+      "name": "Villach Old Town (Altstadt)",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6103%2C13.8558",
+      "description": "Colorful historic center with Italian-influenced architecture, cafés, and pedestrian streets."
+    },
+    {
+      "name": "Drau River Promenade",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6116%2C13.8542",
+      "description": "Scenic riverside path ideal for walking, cycling, and relaxing near the water."
+    },
+    {
+      "name": "Hauptplatz Villach",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6101%2C13.8553",
+      "description": "Main square of Villach surrounded by pastel buildings, shops, and restaurants."
+    },
+    {
+      "name": "Warmbad-Villach Thermal Spa",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.5909%2C13.8329",
+      "description": "Well-known thermal spa complex offering relaxation and wellness year-round."
+    },
+    {
+      "name": "Dobratsch Nature Park",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6036%2C13.6756",
+      "description": "Protected alpine area near Villach with hiking trails, viewpoints, and nature experiences."
+    }
+  ],
+  "local_food_tip": "Try Carinthian specialties such as Kärntner Kasnudeln (filled pasta), local lake fish, and desserts influenced by Alpine–Adriatic cuisine.",
+  "full_day": {
+    "Morning": "Start your day in the <a href=\"https://www.google.com/maps/search/?api=1&query=46.6103%2C13.8558\" target=\"_blank\" rel=\"noopener\">Old Town</a> ☀️, enjoy breakfast on the <a href=\"https://www.google.com/maps/search/?api=1&query=46.6101%2C13.8553\" target=\"_blank\" rel=\"noopener\">Hauptplatz</a>, and explore nearby streets.",
+    "Afternoon": "Walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=46.6116%2C13.8542\" target=\"_blank\" rel=\"noopener\">Drau River Promenade</a> 🚶‍♂️, then relax at <a href=\"https://www.google.com/maps/search/?api=1&query=46.5909%2C13.8329\" target=\"_blank\" rel=\"noopener\">Warmbad-Villach</a> 💧.",
+    "Sunset": "Head toward viewpoints near Villach or enjoy golden-hour reflections by the river 🌅.",
+    "Night": "Have dinner in the old town 🍽️ and enjoy Villach’s friendly evening atmosphere with local bars and cafés."
+  },
+  "seasons": {
+    "spring": {
+      "event": "Spring City Markets",
+      "description": "Mild temperatures, blooming parks, and the return of outdoor cafés.",
+      "ideas": [
+        {
+          "name": "Old Town Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6103%2C13.8558",
+          "description": "Comfortable sightseeing weather."
+        },
+        {
+          "name": "River Promenade Cycling",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6116%2C13.8542",
+          "description": "Flat paths perfect for spring rides."
+        },
+        {
+          "name": "City Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6101%2C13.8553",
+          "description": "Sunny terraces reopen."
+        }
+      ]
+    },
+    "summer": {
+      "event": "Villach Kirchtag",
+      "description": "Austria’s largest traditional folk festival with music, costumes, and food.",
+      "ideas": [
+        {
+          "name": "Festival Streets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6101%2C13.8553",
+          "description": "Experience Carinthian traditions."
+        },
+        {
+          "name": "Lake Trips (Faaker See)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.5594%2C13.8996",
+          "description": "Swimming and relaxation at nearby turquoise lakes."
+        },
+        {
+          "name": "Evening River Walks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6116%2C13.8542",
+          "description": "Warm summer nights by the Drau."
+        }
+      ]
+    },
+    "autumn": {
+      "event": "Carinthian Harvest Season",
+      "description": "Seasonal food, wine, and colorful landscapes in surrounding hills.",
+      "ideas": [
+        {
+          "name": "Dobratsch Hikes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6036%2C13.6756",
+          "description": "Autumn colors and panoramic views."
+        },
+        {
+          "name": "Local Markets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6101%2C13.8553",
+          "description": "Regional produce and specialties."
+        },
+        {
+          "name": "Thermal Spa Visits",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.5909%2C13.8329",
+          "description": "Relaxation on cooler days."
+        }
+      ]
+    },
+    "winter": {
+      "event": "Advent in Villach",
+      "description": "Christmas markets and festive lights in the old town.",
+      "ideas": [
+        {
+          "name": "Christmas Market",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.6101%2C13.8553",
+          "description": "Holiday stalls and music."
+        },
+        {
+          "name": "Winter Spa Time",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.5909%2C13.8329",
+          "description": "Warm thermal waters in winter."
+        },
+        {
+          "name": "Nearby Ski Areas",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=46.5583%2C13.8044",
+          "description": "Easy access to Carinthian ski resorts."
+        }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    {
+      "tip": "Villach’s compact center is easy to explore on foot.",
+      "link": "https://www.villach.at/"
+    },
+    {
+      "tip": "Villach Hauptbahnhof is a major rail hub with connections to Italy and Slovenia.",
+      "link": "https://www.oebb.at/"
+    },
+    {
+      "tip": "Regional buses reach lakes, spas, and nearby mountains.",
+      "link": "https://www.kaerntner-linien.at/"
+    }
+  ],
+  "city_events": [
+    {
+      "name": "Villach Kirchtag",
+      "season": "summer",
+      "description": "Large folk festival celebrating Carinthian culture, music, and cuisine.",
+      "website": "https://www.villacherkirchtag.at/",
+      "dates": "Late July–Early August"
+    },
+    {
+      "name": "Advent in Villach",
+      "season": "winter",
+      "description": "Christmas markets and festive cultural events.",
+      "website": "https://www.visitvillach.at/",
+      "dates": "Late November–December"
+    }
+  ],
+  "places": [
+    {
+      "name": "Parish Church of St. Jakob",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6099%2C13.8556",
+      "description": "Gothic church with a tower offering views over Villach."
+    },
+    {
+      "name": "Congress Center Villach",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6121%2C13.8537",
+      "description": "Modern venue hosting concerts, conferences, and cultural events."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "name": "Villach Alpen Arena",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.5898%2C13.8338",
+      "description": "Scenic riverside area with walking paths and nature spots."
+    },
+    {
+      "name": "St. Martin’s Church Hill",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=46.6080%2C13.8447",
+      "description": "Quiet hill with views over the old town and Drau river."
+    }
+  ]
+}
+
+  ]
+}
