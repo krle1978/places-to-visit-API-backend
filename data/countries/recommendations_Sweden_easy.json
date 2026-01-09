@@ -1,0 +1,905 @@
+{
+  "name": "Sweden",
+  "cities": [
+    {
+      "name": "Gothenburg",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Gothenburg Museum of Art",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gothenburg+Museum+of+Art",
+            "description": "One of Sweden’s top art museums with over 70,000 works from the Nordic region to international masters — a paradise for art lovers 🖼️."  
+          },
+          {
+            "name": "Röhsska Museum of Design & Craft",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Röhsska+Museum+Gothenburg",
+            "description": "Design lovers’ dream with fashion, craft and contemporary exhibits celebrating Nordic creativity and global influences ✨."  
+          },
+          {
+            "name": "Museum of World Culture",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+of+World+Culture+Gothenburg",
+            "description": "Explore global stories, art and cultural connections in engaging exhibitions that spark curiosity 🌍."  
+          },
+          {
+            "name": "Feskekörka (Fish Church)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Feskekörka+Gothenburg",
+            "description": "Historic fish market inside a church-like hall where Scandinavia’s freshest seafood and local life meet 🐟."  
+          },
+          {
+            "name": "Volvo Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Volvo+Museum+Gothenburg",
+            "description": "Dive into Swedish automotive history with classic cars, trucks and interactive displays 🚗."  
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Plaza of Götaplatsen & Poseidon Statue",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Götaplatsen+Poseidon+Gothenburg",
+            "description": "Grand square with fountains, sculptures and the iconic Poseidon — perfect for city skyline shots 📸."  
+          },
+          {
+            "name": "Liseberg Amusement Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Liseberg+Amusement+Park+Gothenburg",
+            "description": "Thrilling rides, blooming gardens and lights make every photo here unforgettable 🌟."  
+          },
+          {
+            "name": "Haga District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Haga+District+Gothenburg",
+            "description": "Cobblestone streets, cozy cafés and vintage wooden houses — a timeless backdrop for pics ☕."  
+          },
+          {
+            "name": "Göta älv Riverbank",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Göta+älv+Riverbank+Gothenburg",
+            "description": "Bridge views, boats and reflections by the water — especially beautiful at golden hour 🌅."  
+          },
+          {
+            "name": "Gothenburg Archipelago Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gothenburg+Archipelago",
+            "description": "Hop on a ferry and capture postcard islands, lighthouses and sea vistas 🚤."  
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "El Tubo Tapas District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=El+Tubo+Gothenburg",
+            "description": "Lively streets filled with tapas bars, quirky murals and Swedish snacks 🍷🍢."  
+          },
+          {
+            "name": "Andra Långgatan Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Andra+Långgatan+Gothenburg",
+            "description": "A vibrant nightlife strip with laid-back bars, food, live music and quiz nights 🍸🎶."  
+          },
+          {
+            "name": "Bar Bruno",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bar+Bruno+Gothenburg",
+            "description": "Highly rated cocktail bar with cozy vibes and creative drinks 🍹."  
+          },
+          {
+            "name": "Nefertiti Jazz Club",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nefertiti+Jazz+Club+Gothenburg",
+            "description": "Classic club for live jazz and soulful nights 🎷."  
+          },
+          {
+            "name": "Horchata & Fika Spots",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=cafes+in+Gothenburg",
+            "description": "Chill cafés serving Swedish fika — cinnamon buns, coffee and relaxed vibes ☕🍰."  
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Slottsskogen Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Slottsskogen+Park+Gothenburg",
+            "description": "Gothenburg’s huge urban park with walking paths, zoo enclosures and picnic spots 🌳."  
+          },
+          {
+            "name": "Botanical Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gothenburg+Botanical+Garden",
+            "description": "One of Northern Europe’s largest gardens — flowers, greenhouses and peaceful paths 🌺."  
+          },
+          {
+            "name": "Marina Walk at Lilla Bommen",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lilla+Bommen+Gothenburg",
+            "description": "Scenic marina area with yachts, cafés and river views 🚤."  
+          },
+          {
+            "name": "Parque del Agua Luis Buñuel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parque+del+Agua+Luis+Buñuel+Gothenburg",
+            "description": "Fun open park with water features, bike rentals and shady green spots 🌊."  
+          },
+          {
+            "name": "Gothenburg Archipelago Beaches",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gothenburg+Archipelago+beaches",
+            "description": "Island beaches perfect for summer swims, sea breezes and coastal relaxation 🏖️."  
+          }
+        ]
+      },
+      "local_food_tip": "Dive into Swedish seafood classics at local fish markets like Feskekörka, try ‘fika’ — coffee with cinnamon buns, and sample tapas in El Tubo. Pair with a local ale or aquavit for that authentic Gothenburg vibe 🐟☕🍷.",
+      "full_day": {
+        "morning": "☀️ Start your day with cinnamon buns and coffee in the historic <a href=\"https://www.google.com/maps/search/?api=1&query=Haga+District+Gothenburg\">Haga District</a>, then explore the art at the <a href=\"https://www.google.com/maps/search/?api=1&query=Gothenburg+Museum+of+Art\">Gothenburg Museum of Art</a> and stroll through the nearby botanical gardens.",
+        "afternoon": "🚤 Enjoy a seafood lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Feskekörka+Gothenburg\">Feskekörka Fish Market</a>, take a scenic boat ride through canals or head out to the <a href=\"https://www.google.com/maps/search/?api=1&query=Gothenburg+Archipelago\">archipelago islands</a> for coastal views.",
+        "evening": "🌇 Catch the sunset at <a href=\"https://www.google.com/maps/search/?api=1&query=Liseberg+Amusement+Park+Gothenburg\">Liseberg Amusement Park</a> or along the <a href=\"https://www.google.com/maps/search/?api=1&query=Göta+älv+Riverbank+Gothenburg\">Göta älv Riverbank</a>, then have dinner in the lively <a href=\"https://www.google.com/maps/search/?api=1&query=Andra+Långgatan+Gothenburg\">Andra Långgatan</a> nightlife area.",
+        "night": "🌃 Enjoy live music or jazz at spots like <a href=\"https://www.google.com/maps/search/?api=1&query=Nefertiti+Jazz+Club+Gothenburg\">Nefertiti Jazz Club</a> or cozy cocktails at <a href=\"https://www.google.com/maps/search/?api=1&query=Bar+Bruno+Gothenburg\">Bar Bruno</a> before strolling the lit river paths."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoms in parks and cafes opening terraces make Gothenburg extra charming 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Walk in Slottsskogen",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Slottsskogen+Park+Gothenburg",
+              "description": "Enjoy the fresh air and blooming gardens with a picnic under Swedish skies 🌿."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Long days, archipelago trips and open-air festivals fill the city ☀️.",
+          "ideas": [
+            {
+              "name": "Boat Trip to Archipelago",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gothenburg+Archipelago",
+              "description": "Hop on a ferry for sunny island hopping and sea swims 🚤."  
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves, harvest markets and cozy cafés 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Photos at Plaza of Götaplatsen",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Götaplatsen+Poseidon+Gothenburg",
+              "description": "Capture the autumn hues against iconic sculptures and fountains 🍂."  
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Winter lights, cozy fika and festive markets ❄️.",
+          "ideas": [
+            {
+              "name": "Winter at Liseberg",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Liseberg+Amusement+Park+Gothenburg",
+              "description": "Experience the park’s magical winter atmosphere with lights, rides and warm treats 🎄."  
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Gothenburg’s trams and buses are easy to use — get a Gothenburg Card for unlimited rides 🚊.",
+          "link": "https://www.vasttrafik.se/en/"
+        },
+        {
+          "tip": "The city center is very walkable with great bike lanes — rent a bike for Turia-style ease 🚴‍♂️.",
+          "link": "https://www.vasttrafik.se/en/cycling"
+        },
+        {
+          "tip": "Ferries to the archipelago leave from Saltholmen — a scenic way to explore coastal islands ⛴️.",
+          "link": "https://www.vasttrafik.se/en/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Summer+in+Gothenburg+Sweden",
+          "description": "Summer festivals, concerts and open-air markets fill the squares and parks 🎶."  
+        },
+        {
+          "season": "Autumn",
+          "dates": "September–October",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Autumn+in+Gothenburg+Sweden",
+          "description": "Harvest markets, art walks and cultural fairs brighten cooler days 🍂."  
+        }
+      ],
+      "places": [
+        {
+          "name": "Liseberg Amusement Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Liseberg+Amusement+Park+Gothenburg",
+          "description": "Scandinavia’s largest theme park with rides, concerts and gardens 🌟."  
+        },
+        {
+          "name": "Haga District",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Haga+District+Gothenburg",
+          "description": "Historic neighborhood full of quaint cafés and vintage charm ☕."  
+        },
+        {
+          "name": "Göteborgs Botaniska Trädgård",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Gothenburg+Botanical+Garden",
+          "description": "One of Europe’s largest botanical gardens with thousands of plant species 🌷."  
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Masthugg Church",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Masthugg+Church+Gothenburg",
+          "description": "Romantic hilltop church with Nordic architectural flair and panoramic city views 🏞️."  
+        },
+        {
+          "name": "Upper House Spa",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Upper+House+Spa+Gothenburg",
+          "description": "Hidden luxury spa perched above the city — unwind with sauna and skyline views 🌆."  
+        },
+        {
+          "name": "Göta älv Canal Boat Tours",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Paddan+Boat+Tour+Gothenburg",
+          "description": "Classic open-boat tour winding through Gothenburg’s canals and history 🚤."  
+        }
+      ]
+    },
+
+    {
+      "name": "Malmö",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Malmöhus Castle",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Malmöhus+Castle",
+            "description": "Historic fortress turned museum complex — home to art, natural history, and a glimpse of medieval Sweden 🏰."
+          },
+          {
+            "name": "Moderna Museet Malmö",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Moderna+Museet+Malmö",
+            "description": "Branch of Stockholm’s famous modern art museum featuring bold installations and international exhibits 🎨."
+          },
+          {
+            "name": "St. Peter’s Church",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Peter’s+Church+Malmö",
+            "description": "Beautiful Gothic brick church dating back to the 14th century — known for its tall spire and serene interior ⛪."
+          },
+          {
+            "name": "Malmö Konsthall",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Malmö+Konsthall",
+            "description": "One of Europe’s largest contemporary art galleries — known for light, space and avant-garde exhibitions 🖼️."
+          },
+          {
+            "name": "Ebbas Hus",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ebbas+Hus+Malmö",
+            "description": "Malmö’s tiniest museum — a preserved 1910s home offering a glimpse into everyday life a century ago 🕰️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Turning Torso",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Turning+Torso+Malmö",
+            "description": "Iconic twisting skyscraper and symbol of modern Malmö — perfect for skyline photos 🌆."
+          },
+          {
+            "name": "Öresund Bridge Viewpoint",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Öresund+Bridge+Malmö",
+            "description": "Capture the massive bridge connecting Sweden and Denmark — stunning at sunset 🌉."
+          },
+          {
+            "name": "Lilla Torg Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lilla+Torg+Malmö",
+            "description": "Colorful old town square with cobblestones, cafés and vibrant nightlife 📸."
+          },
+          {
+            "name": "Slottsparken Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Slottsparken+Malmö",
+            "description": "Lush park around Malmöhus Castle with bridges, ponds and peaceful greenery 🌿."
+          },
+          {
+            "name": "Västra Hamnen Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Västra+Hamnen+Malmö",
+            "description": "Seaside walkway with modern architecture, colorful sunsets and sea breeze 🌅."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Lilla Torg Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lilla+Torg+restaurants+Malmö",
+            "description": "Trendy restaurants and outdoor patios — great for dinner or people-watching 🍽️."
+          },
+          {
+            "name": "Saltimporten Canteen",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Saltimporten+Canteen+Malmö",
+            "description": "Creative Nordic cuisine in a minimalist waterside setting — local flavors with a modern twist 🍲."
+          },
+          {
+            "name": "Bastard Malmö",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bastard+Restaurant+Malmö",
+            "description": "Casual yet refined bistro offering nose-to-tail dining and regional ingredients 🍷."
+          },
+          {
+            "name": "Far i Hatten",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Far+i+Hatten+Malmö",
+            "description": "Cool bar-restaurant in Folkets Park known for wood-fired pizza, indie music and summer vibes 🍕🎶."
+          },
+          {
+            "name": "Fika Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=cafes+Malmö",
+            "description": "Cozy coffee spots for a classic Swedish fika — try kanelbulle (cinnamon bun) and chat with locals ☕🍰."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Kungsparken",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kungsparken+Malmö",
+            "description": "Malmö’s oldest park — ponds, fountains and flowers make it perfect for a chill afternoon 🌺."
+          },
+          {
+            "name": "Ribersborg Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ribersborg+Beach+Malmö",
+            "description": "Popular sandy beach with jogging paths, a pier and the iconic Kallbadhuset bathhouse 🏖️."
+          },
+          {
+            "name": "Folkets Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Folkets+Park+Malmö",
+            "description": "One of Europe’s oldest public parks — home to events, food trucks and relaxed summer energy 🌳."
+          },
+          {
+            "name": "Pildammsparken",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pildammsparken+Malmö",
+            "description": "Large urban park with lakes, gardens and plenty of space for cycling or picnicking 🚴‍♂️."
+          },
+          {
+            "name": "Västra Hamnen Boardwalk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Västra+Hamnen+Boardwalk+Malmö",
+            "description": "Modern seaside district with clean design, calm waters and fantastic sunset walks 🌅."
+          }
+        ]
+      },
+      "local_food_tip": "Try ‘spettekaka’ (crispy tower cake) and fresh seafood from Malmö’s markets. Don’t forget Swedish fika — coffee with cinnamon buns is practically mandatory ☕🍰.",
+      "full_day": {
+        "morning": "☀️ Start your day at <a href=\"https://www.google.com/maps/search/?api=1&query=Lilla+Torg+Malmö\">Lilla Torg</a> with a coffee and pastry, then explore <a href=\"https://www.google.com/maps/search/?api=1&query=Malmöhus+Castle\">Malmöhus Castle</a> and stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=Kungsparken+Malmö\">Kungsparken</a>.",
+        "afternoon": "🍽️ Enjoy lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Saltimporten+Canteen+Malmö\">Saltimporten Canteen</a>, then head to <a href=\"https://www.google.com/maps/search/?api=1&query=Västra+Hamnen+Malmö\">Västra Hamnen</a> for seaside walks and photos by <a href=\"https://www.google.com/maps/search/?api=1&query=Turning+Torso+Malmö\">Turning Torso</a>.",
+        "evening": "🌇 Have dinner at <a href=\"https://www.google.com/maps/search/?api=1&query=Bastard+Restaurant+Malmö\">Bastard</a> or enjoy pizza and music at <a href=\"https://www.google.com/maps/search/?api=1&query=Far+i+Hatten+Malmö\">Far i Hatten</a> in Folkets Park.",
+        "night": "🌃 End the night with a stroll along <a href=\"https://www.google.com/maps/search/?api=1&query=Ribersborg+Beach+Malmö\">Ribersborg Beach</a> or grab a drink at a cozy bar in the old town."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Cherry blossoms and outdoor cafés come alive — Malmö blooms in pastel colors 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Walk in Slottsparken",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Slottsparken+Malmö",
+              "description": "Watch flowers bloom and ducks glide along castle ponds 🌼."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Long sunny days, open-air concerts and beach life ☀️.",
+          "ideas": [
+            {
+              "name": "Swim at Ribersborg Beach",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ribersborg+Beach+Malmö",
+              "description": "Cool off by the sea and enjoy views of the Öresund Bridge 🏖️."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden trees and cozy cafés — perfect for a fika season 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Café Crawl in Gamla Staden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gamla+Staden+Malmö",
+              "description": "Warm up with hot drinks and cinnamon buns in historic cafés ☕."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, ice skating and hygge vibes ❄️.",
+          "ideas": [
+            {
+              "name": "Christmas Market at Gustav Adolfs Torg",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Christmas+Market+Malmö",
+              "description": "Browse crafts, sip glögg and enjoy Swedish winter cheer 🎄."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Malmö’s buses and trains are efficient — use Skånetrafiken app for tickets and schedules 🚍.",
+          "link": "https://www.skanetrafiken.se/"
+        },
+        {
+          "tip": "Rent a bike or e-scooter to explore parks and the coast like a local 🚴.",
+          "link": "https://malmo.se/Uppleva-och-gora/Cykla.html"
+        },
+        {
+          "tip": "Trains from Malmö Central Station connect easily to Copenhagen and Lund 🚆.",
+          "link": "https://www.skanetrafiken.se/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Malmö+Festival",
+          "description": "Malmö Festival — Sweden’s biggest free city festival with food, art, music and performances 🎉."
+        },
+        {
+          "season": "Winter",
+          "dates": "December (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Christmas+Market+Malmö",
+          "description": "Holiday lights and markets transform the city center into a festive wonderland 🎄."
+        }
+      ],
+      "places": [
+        {
+          "name": "Turning Torso",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Turning+Torso+Malmö",
+          "description": "Scandinavia’s tallest skyscraper — a symbol of Malmö’s modern spirit 🌆."
+        },
+        {
+          "name": "Malmöhus Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Malmöhus+Castle",
+          "description": "Historic fortress with museums, gardens and canals 🏰."
+        },
+        {
+          "name": "Ribersborg Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Ribersborg+Beach+Malmö",
+          "description": "Relaxing beach near the city center with beautiful sunsets over the Öresund 🌅."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "St. Knut’s Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Knut’s+Square+Malmö",
+          "description": "Colorful local square full of indie shops, vegan cafés and chill vibes 🌿."
+        },
+        {
+          "name": "Form/Design Center",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Form+Design+Center+Malmö",
+          "description": "Hidden inside an old warehouse — creative exhibitions and Scandinavian design inspiration 🪑."
+        },
+        {
+          "name": "Kallbadhuset",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kallbadhuset+Malmö",
+          "description": "Historic open-air bathhouse offering saunas and sea dips year-round 🌊."
+        }
+      ]
+    },
+
+    {
+      "name": "Stockholm",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Vasa Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vasa+Museum+Stockholm",
+            "description": "Home to a perfectly preserved 17th-century warship that sank on its maiden voyage — one of Sweden’s most fascinating museums ⚓."
+          },
+          {
+            "name": "Royal Palace (Kungliga Slottet)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Palace+Stockholm",
+            "description": "Magnificent baroque palace with royal apartments, treasures, and the daily changing of the guard 👑."
+          },
+          {
+            "name": "Skansen Open-Air Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Skansen+Stockholm",
+            "description": "World’s oldest open-air museum — see traditional Swedish houses, crafts, and even Nordic animals 🦌."
+          },
+          {
+            "name": "ABBA The Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=ABBA+The+Museum+Stockholm",
+            "description": "Interactive museum celebrating Sweden’s pop icons — sing, dance and relive the ABBA magic 🎤."
+          },
+          {
+            "name": "Fotografiska",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fotografiska+Stockholm",
+            "description": "Modern photography museum with stunning exhibits, sea views and a great rooftop café 📷."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Gamla Stan (Old Town)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gamla+Stan+Stockholm",
+            "description": "Narrow cobblestone streets, colorful facades and cozy corners — Stockholm’s most photogenic area 🏘️."
+          },
+          {
+            "name": "Monteliusvägen Viewpoint",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monteliusvägen+Stockholm",
+            "description": "Panoramic city views over Lake Mälaren and the skyline — especially beautiful at sunset 🌇."
+          },
+          {
+            "name": "Stadshuset (City Hall)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stadshuset+Stockholm",
+            "description": "Elegant brick tower where Nobel banquets are held — climb up for breathtaking views 🏰."
+          },
+          {
+            "name": "Djurgården Island",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Djurgården+Stockholm",
+            "description": "Lush green island with museums, boats and peaceful walking paths 🌿."
+          },
+          {
+            "name": "Södermalm Street Murals",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Södermalm+Street+Art+Stockholm",
+            "description": "Trendy neighborhood filled with street art, vintage stores and colorful corners 🎨."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Östermalm Saluhall",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Östermalm+Saluhall+Stockholm",
+            "description": "Historic food hall with Swedish delicacies — salmon, herring, cheese and local desserts 🍽️."
+          },
+          {
+            "name": "Västerlånggatan Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Västerlånggatan+Stockholm",
+            "description": "Classic restaurants and cafés in the heart of Gamla Stan — cozy and full of charm 🍷."
+          },
+          {
+            "name": "Kajsas Fisk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kajsas+Fisk+Stockholm",
+            "description": "Locals’ favorite for creamy fish soup and fresh seafood at Hötorget Market 🐟."
+          },
+          {
+            "name": "Urban Deli Nytorget",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Urban+Deli+Nytorget+Stockholm",
+            "description": "Trendy deli and restaurant with chill vibes, rooftop bar and great food 🌆."
+          },
+          {
+            "name": "ICEBAR by Hotel C",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=ICEBAR+Stockholm",
+            "description": "Experience a bar made entirely of ice — including the glasses! ❄️🥶."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Djurgården Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Djurgården+Park+Stockholm",
+            "description": "Peaceful green oasis filled with trails, museums and waterfront cafés 🌳."
+          },
+          {
+            "name": "Hammarbybacken",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hammarbybacken+Stockholm",
+            "description": "Hill offering hiking in summer and skiing in winter — with panoramic city views 🏞️."
+          },
+          {
+            "name": "Rålambshovsparken",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rålambshovsparken+Stockholm",
+            "description": "Large urban park by the water — perfect for picnics, frisbee or outdoor cinema nights 🎬."
+          },
+          {
+            "name": "Tantolunden Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tantolunden+Park+Stockholm",
+            "description": "Relaxing area with gardens, beaches and local allotments — a true city escape 🌼."
+          },
+          {
+            "name": "Archipelago Day Trip",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stockholm+Archipelago",
+            "description": "Hop on a ferry to explore thousands of islands, from cliffs to cozy fishing villages 🏝️."
+          }
+        ]
+      },
+      "local_food_tip": "Try classic Swedish dishes like meatballs with lingonberries, gravlax salmon, or toast Skagen. For dessert, have a ‘kanelbulle’ (cinnamon bun) with coffee — the true Swedish fika experience ☕🍰.",
+      "full_day": {
+        "morning": "☀️ Start your day with fika at a café in <a href=\"https://www.google.com/maps/search/?api=1&query=Gamla+Stan+Stockholm\">Gamla Stan</a>, then visit <a href=\"https://www.google.com/maps/search/?api=1&query=Vasa+Museum+Stockholm\">the Vasa Museum</a> on <a href=\"https://www.google.com/maps/search/?api=1&query=Djurgården+Stockholm\">Djurgården Island</a>.",
+        "afternoon": "🍽️ Have lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Östermalm+Saluhall+Stockholm\">Östermalm Saluhall</a>, stroll through the <a href=\"https://www.google.com/maps/search/?api=1&query=Royal+Palace+Stockholm\">Royal Palace</a> and explore the streets of <a href=\"https://www.google.com/maps/search/?api=1&query=Gamla+Stan+Stockholm\">Gamla Stan</a>.",
+        "evening": "🌇 Take in the sunset at <a href=\"https://www.google.com/maps/search/?api=1&query=Monteliusvägen+Stockholm\">Monteliusvägen</a> and dine at <a href=\"https://www.google.com/maps/search/?api=1&query=Urban+Deli+Nytorget+Stockholm\">Urban Deli</a> in Södermalm.",
+        "night": "🌃 Enjoy a late-night drink at <a href=\"https://www.google.com/maps/search/?api=1&query=ICEBAR+Stockholm\">ICEBAR</a> or walk along the beautifully lit waterfront 🌉."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Cherry blossoms bloom across the city — perfect for outdoor fika 🌸.",
+          "ideas": [
+            {
+              "name": "Kungsträdgården Blossoms",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Kungsträdgården+Stockholm",
+              "description": "See the famous cherry trees in bloom — a pink tunnel of spring beauty 🌷."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, open-air concerts and island hopping ☀️.",
+          "ideas": [
+            {
+              "name": "Archipelago Ferry Ride",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Stockholm+Archipelago",
+              "description": "Sail to nearby islands for swimming, kayaking and seafood feasts 🚤."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden parks and cozy cafés — perfect for warm fika breaks 🍁.",
+          "ideas": [
+            {
+              "name": "Stroll through Djurgården",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Djurgården+Park+Stockholm",
+              "description": "Walk under colorful leaves and stop for coffee by the water ☕."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Frosty mornings, festive lights and skating rinks ❄️.",
+          "ideas": [
+            {
+              "name": "Christmas Market in Gamla Stan",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gamla+Stan+Christmas+Market",
+              "description": "Browse handmade crafts, sip warm glögg and enjoy the holiday magic 🎄."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use SL public transport — buses, trams, ferries and the metro are all included in one ticket 🚆.",
+          "link": "https://sl.se/en/"
+        },
+        {
+          "tip": "Stockholm is bike-friendly — rent an e-bike to explore the islands and waterfront 🚴.",
+          "link": "https://www.citybikes.se/"
+        },
+        {
+          "tip": "Take ferries between islands for scenic views and easy connections ⛴️.",
+          "link": "https://www.waxholmsbolaget.se/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Stockholm+Marathon",
+          "description": "Stockholm Marathon — thousands of runners race through the city’s scenic streets 🏃."
+        },
+        {
+          "season": "Winter",
+          "dates": "December (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St+Lucia+Day+Stockholm",
+          "description": "St. Lucia celebrations fill churches with candles and choral songs 🕯️."
+        }
+      ],
+      "places": [
+        {
+          "name": "Vasa Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Vasa+Museum+Stockholm",
+          "description": "A stunning 17th-century warship preserved in all its glory — Sweden’s pride ⚓."
+        },
+        {
+          "name": "Gamla Stan",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Gamla+Stan+Stockholm",
+          "description": "Stockholm’s charming old town — colorful streets, historic charm and cozy cafés 🏘️."
+        },
+        {
+          "name": "Royal Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Palace+Stockholm",
+          "description": "One of Europe’s largest palaces — the heart of Sweden’s royal heritage 👑."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Riddarholmen Island",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Riddarholmen+Stockholm",
+          "description": "Quiet island next to Gamla Stan — medieval church and perfect waterfront views 🌅."
+        },
+        {
+          "name": "Skinnarviksberget Hill",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Skinnarviksberget+Stockholm",
+          "description": "Popular local hangout with the best free panoramic view of Stockholm 🌇."
+        },
+        {
+          "name": "Rosendals Trädgård",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Rosendals+Trädgård+Stockholm",
+          "description": "Organic garden café on Djurgården serving pastries and home-grown meals 🌿."
+        }
+      ]
+    },
+
+    {
+      "name": "Uppsala",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Uppsala Cathedral (Domkyrkan)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Uppsala+Cathedral",
+            "description": "Sweden’s largest and tallest cathedral — Gothic architecture, royal tombs, and centuries of history ⛪."
+          },
+          {
+            "name": "Uppsala University Museum Gustavianum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gustavianum+Museum+Uppsala",
+            "description": "Fascinating university museum featuring ancient artifacts, Viking relics, and the unique Anatomical Theatre 🧠."
+          },
+          {
+            "name": "Uppsala Castle",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Uppsala+Castle",
+            "description": "Pink-hued castle overlooking the city with art galleries and stories of Swedish royalty 🏰."
+          },
+          {
+            "name": "Carolina Rediviva Library",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Carolina+Rediviva+Library+Uppsala",
+            "description": "Historic library of Uppsala University, home to the Silver Bible and rare manuscripts 📜."
+          },
+          {
+            "name": "Bror Hjorth’s House",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bror+Hjorths+Hus+Uppsala",
+            "description": "Colorful home and studio of Swedish sculptor Bror Hjorth — filled with art, energy, and folk motifs 🎨."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Uppsala Cathedral from the River Fyrisån",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fyrisån+Uppsala",
+            "description": "Best view of the twin cathedral towers mirrored in the calm river waters 🌉."
+          },
+          {
+            "name": "Uppsala Castle Viewpoint",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Uppsala+Castle+Viewpoint",
+            "description": "Panoramic cityscape with pastel rooftops and the cathedral rising above 🌇."
+          },
+          {
+            "name": "Botanical Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Uppsala",
+            "description": "Elegant gardens designed by Carl Linnaeus — perfect for nature photos 🌺."
+          },
+          {
+            "name": "Old Uppsala (Gamla Uppsala)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gamla+Uppsala",
+            "description": "Ancient royal burial mounds and open fields full of Viking mystery ⚔️."
+          },
+          {
+            "name": "Carolina Hill (Carolinabacken)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Carolinabacken+Uppsala",
+            "description": "Popular student spot with great sunset views over the cathedral and the city 🏞️."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Domtrappkällaren",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Domtrappkällaren+Uppsala",
+            "description": "Historic cellar restaurant serving traditional Swedish cuisine in a cozy, candlelit setting 🍽️."
+          },
+          {
+            "name": "Stationen",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stationen+Uppsala",
+            "description": "Trendy bistro located in a renovated train station — elegant, lively and local favorite 🚉."
+          },
+          {
+            "name": "Guntherska Hovkonditori",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Guntherska+Hovkonditori+Uppsala",
+            "description": "Classic pastry café by the river — try their princess cake or cardamom bun ☕🍰."
+          },
+          {
+            "name": "O’Connor’s Irish Pub",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=O'Connor’s+Irish+Pub+Uppsala",
+            "description": "Lively bar in the city center with music, burgers and a friendly crowd 🍺."
+          },
+          {
+            "name": "Värdshuset Liljan",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Värdshuset+Liljan+Uppsala",
+            "description": "Restaurant offering Nordic dishes with seasonal ingredients — elegant and relaxed 🌿."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "The Botanical Garden (Botaniska Trädgården)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Uppsala",
+            "description": "Beautiful gardens with greenhouses, fountains and peaceful lawns for picnics 🌸."
+          },
+          {
+            "name": "Fyrisån River Walk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fyrisån+Uppsala",
+            "description": "Stroll along the scenic river lined with cafés, bridges and willow trees 🌊."
+          },
+          {
+            "name": "Linnaeus Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Linnaeus+Garden+Uppsala",
+            "description": "Historic garden where botanist Carl Linnaeus taught — a peaceful place full of plant life 🌿."
+          },
+          {
+            "name": "Gamla Uppsala Fields",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gamla+Uppsala+Fields",
+            "description": "Open green area with Viking burial mounds and walking paths — full of ancient atmosphere ⚔️."
+          },
+          {
+            "name": "Stadsträdgården Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stadsträdgården+Uppsala",
+            "description": "Riverside park perfect for summer picnics and evening walks 🌳."
+          }
+        ]
+      },
+      "local_food_tip": "Uppsala’s food scene blends Swedish tradition and modern taste — try local salmon, Västerbotten cheese pie, and finish with fika at a riverside café ☕🍰.",
+      "full_day": {
+        "morning": "☀️ Begin with breakfast at <a href=\"https://www.google.com/maps/search/?api=1&query=Guntherska+Hovkonditori+Uppsala\">Guntherska Café</a>, then visit <a href=\"https://www.google.com/maps/search/?api=1&query=Uppsala+Cathedral\">Uppsala Cathedral</a> and explore the <a href=\"https://www.google.com/maps/search/?api=1&query=Gustavianum+Museum+Uppsala\">Gustavianum Museum</a>.",
+        "afternoon": "🍽️ Have lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Stationen+Uppsala\">Stationen</a>, stroll through the <a href=\"https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Uppsala\">Botanical Garden</a> and visit <a href=\"https://www.google.com/maps/search/?api=1&query=Uppsala+Castle\">Uppsala Castle</a>.",
+        "evening": "🌇 Capture the sunset from <a href=\"https://www.google.com/maps/search/?api=1&query=Carolinabacken+Uppsala\">Carolina Hill</a> and enjoy dinner at <a href=\"https://www.google.com/maps/search/?api=1&query=Domtrappkällaren+Uppsala\">Domtrappkällaren</a>.",
+        "night": "🌃 End your day with a relaxed riverside walk along <a href=\"https://www.google.com/maps/search/?api=1&query=Fyrisån+Uppsala\">Fyrisån River</a> or a drink at <a href=\"https://www.google.com/maps/search/?api=1&query=O'Connor’s+Irish+Pub+Uppsala\">O’Connor’s Pub</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Cherry blossoms along the river and lively student celebrations 🌸.",
+          "ideas": [
+            {
+              "name": "Valborg Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Valborg+Uppsala",
+              "description": "Sweden’s biggest student celebration — river raft race, songs and spring festivities 🎉."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny riverbanks and picnics in lush parks ☀️.",
+          "ideas": [
+            {
+              "name": "Kayaking on the Fyrisån River",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Fyrisån+Uppsala",
+              "description": "Paddle through the heart of Uppsala and see the city from the water 🚣."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves and cozy university vibes 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Walk at Linnaeus Garden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Linnaeus+Garden+Uppsala",
+              "description": "Peaceful stroll among colorful plants and historical charm 🌿."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snowy rooftops, candles and cozy cafés ❄️.",
+          "ideas": [
+            {
+              "name": "Christmas Market at Gamla Uppsala",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gamla+Uppsala+Christmas+Market",
+              "description": "Traditional market with crafts, mulled wine and Swedish treats 🎄."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use UL buses for easy travel around Uppsala — tickets can be bought via the UL app 🚍.",
+          "link": "https://www.ul.se/en/"
+        },
+        {
+          "tip": "Trains from Uppsala connect quickly to Stockholm and Arlanda Airport 🚆.",
+          "link": "https://www.sj.se/en/home.html"
+        },
+        {
+          "tip": "The city is very walkable and bike-friendly — rent a bike for easy sightseeing 🚴.",
+          "link": "https://www.destinationuppsala.se/en/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Spring",
+          "dates": "April 30 (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Valborg+Uppsala",
+          "description": "Valborg — Sweden’s most famous student festival with river rafting, singing and fireworks 🎆."
+        },
+        {
+          "season": "Winter",
+          "dates": "December (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Uppsala+Christmas+Market",
+          "description": "Charming Christmas market with lights, crafts and warm drinks 🎄."
+        }
+      ],
+      "places": [
+        {
+          "name": "Uppsala Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Uppsala+Cathedral",
+          "description": "Majestic Gothic cathedral and Sweden’s most important religious building ⛪."
+        },
+        {
+          "name": "Uppsala Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Uppsala+Castle",
+          "description": "Historic pink castle overlooking the city — now housing museums and exhibitions 🏰."
+        },
+        {
+          "name": "Gamla Uppsala",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Gamla+Uppsala",
+          "description": "Ancient burial mounds and Viking heritage — where Swedish legends were born ⚔️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Cafe Linne Hörnan",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cafe+Linne+Hörnan+Uppsala",
+          "description": "Charming vintage café with delicious pastries and retro décor ☕."
+        },
+        {
+          "name": "Linnés Sävja",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Linnés+Sävja+Uppsala",
+          "description": "Former summer home of Carl Linnaeus — peaceful countryside museum 🌻."
+        },
+        {
+          "name": "Fyrishov Baths",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Fyrishov+Uppsala",
+          "description": "Relaxing local pool complex with saunas and slides — fun and chill 🏊."
+        }
+      ]
+    }
+
+  ]
+}

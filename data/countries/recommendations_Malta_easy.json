@@ -1,0 +1,1030 @@
+{
+  "name": "Malta",
+  "cities": [
+    {
+      "name": "Mdina",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Mdina Old City Walls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+Old+City+Walls",
+            "description": "The ancient fortified walls that encircle Mdina — walk the ramparts for history and dramatic views over the island 🛡️."
+          },
+          {
+            "name": "St. Paul’s Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Paul’s+Cathedral+Mdina",
+            "description": "Baroque cathedral with ornate interior, treasures and a striking façade — the spiritual heart of Mdina’s heritage ⛪."
+          },
+          {
+            "name": "Mdina Dungeons Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+Dungeons+Museum",
+            "description": "Explore medieval holding cells and exhibits that reveal the harsher side of Mdina’s past — atmospheric and historical 🗝️."
+          },
+          {
+            "name": "Palazzo Falson Historic House Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Palazzo+Falson+Historic+House+Museum",
+            "description": "Well-preserved medieval townhouse with period furnishings, art and curios — a window into noble Maltese life 🎨."
+          },
+          {
+            "name": "Cathedral Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+Cathedral+Museum",
+            "description": "Adjacent to St. Paul’s Cathedral, this museum houses religious art, relics and cultural artefacts — ideal for history buffs 📜."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Mdina Gate",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+Gate",
+            "description": "The iconic grand entrance to Mdina — perfect for classic Maltese stone architecture shots 📸."
+          },
+          {
+            "name": "Bastion Square Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bastion+Square+Mdina",
+            "description": "Wide panoramic outlooks over Malta’s countryside — stunning at golden hour or sunset 🌅."
+          },
+          {
+            "name": "Narrow Mdina Lanes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+narrow+streets",
+            "description": "Medieval alleys, arches and textured limestone — dream setting for timeless European photos 🏘️."
+          },
+          {
+            "name": "St. Paul’s Cathedral Exterior",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Paul’s+Cathedral+Mdina+exterior",
+            "description": "Baroque façade and church square make a striking focal point for architecture photography 📷."
+          },
+          {
+            "name": "View from Mdina Walls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+walls+view",
+            "description": "Lookouts along the walls over plains and distant sea — peaceful and atmospheric vantage points 🌄."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Fontanella Tea Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fontanella+Tea+Garden+Mdina",
+            "description": "Famous café overlooking the countryside — delicious cakes, teas and relaxed atmosphere with views 🫖🍰."
+          },
+          {
+            "name": "Palazzo de Piro Café",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Palazzo+de+Piro+Caf%C3%A9+Mdina",
+            "description": "Charming café in a historic building — great for coffee, light bites and people-watching ☕."
+          },
+          {
+            "name": "Local Maltese Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Maltese+food+Mdina",
+            "description": "Traditional Maltese cuisine with dishes like rabbit stew, bragioli and local wine in cosy settings 🍽️."
+          },
+          {
+            "name": "Night Stroll & Gelato",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Mdina",
+            "description": "Warm evenings call for gelato while exploring the silent city’s lit lanes 🍨."
+          },
+          {
+            "name": "Mdina by Night Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+night+views",
+            "description": "See Mdina’s walls and silhouettes aglow after dusk — romantic and atmospheric 🍷."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Mdina Bastions and Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+Bastions+gardens",
+            "description": "Peaceful gardens and green nooks tucked along the bastions — perfect for quiet rest and reflection 🌿."
+          },
+          {
+            "name": "Countryside Walks Around Mdina",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=countryside+walks+Mdina",
+            "description": "Gentle paths around fields and olive groves — a nature break beyond the old city walls 🚶‍♂️."
+          },
+          {
+            "name": "Viewpoint at Mdina Walls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+walls+viewpoint",
+            "description": "Quiet lookout spots with sweeping views — perfect for serene sunrise or sunset moments 🌄."
+          },
+          {
+            "name": "Quiet Squares & Bench Spots",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+squares+Mdina",
+            "description": "Small shaded squares and benches tucked off main lanes — great for reading, coffee and calm 🪑."
+          }
+        ]
+      },
+      "local_food_tip": "In Mdina, enjoy traditional Maltese fare like rabbit stew, lampuki pie and bragioli paired with local wine. Don’t miss a slice of Maltese ftira or a refreshing gelato enjoyed from a scenic café terrace 🍷🍨.",
+      "full_day": {
+        "morning": "☀️ Begin at <a href=\"https://www.google.com/maps/search/?api=1&query=Mdina+Gate\">Mdina Gate</a>, wander the medieval lanes of <a href=\"https://www.google.com/maps/search/?api=1&query=Mdina+Old+City+Walls\">Mdina Old City Walls</a> and visit <a href=\"https://www.google.com/maps/search/?api=1&query=St.+Paul’s+Cathedral+Mdina\">St. Paul’s Cathedral</a> for history and architecture.",
+        "afternoon": "🍽️ Relax with lunch at a traditional restaurant, then explore treasures at <a href=\"https://www.google.com/maps/search/?api=1&query=Palazzo+Falson+Historic+House+Museum\">Palazzo Falson</a> and sip tea with views at <a href=\"https://www.google.com/maps/search/?api=1&query=Fontanella+Tea+Garden+Mdina\">Fontanella Tea Garden</a>.",
+        "evening": "🌇 Take in countryside views from <a href=\"https://www.google.com/maps/search/?api=1&query=Bastion+Square+Mdina\">Bastion Square</a> at sunset, then enjoy coffee or gelato amid the quiet lanes.",
+        "night": "🌃 End with a relaxed night stroll under soft lights and soak up Mdina’s serene, historic atmosphere."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild weather and blooming countryside — perfect for scenic walks and historic exploration 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Countryside Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=countryside+walks+Mdina",
+              "description": "Enjoy blossoms, fields and gentle paths around the old city walls."
+            },
+            {
+              "name": "Bastion Views at Sunrise",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Bastion+Square+Mdina",
+              "description": "Capture golden light over Malta’s plains from the bastion lookout."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm Mediterranean days for lazy terrace meals and sunset views ☀️.",
+          "ideas": [
+            {
+              "name": "Sunset from Mdina Walls",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+walls+view",
+              "description": "Watch the sun dip over the countryside for dramatic colour and calm breezes."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Cooler air and soft evening light — great for architecture and walks 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Lanes Photography",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+narrow+streets",
+              "description": "Capture textured stone and shadows in the mellower autumn sun."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Quieter streets, cosier cafés and gentle sunshine ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Stop",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Palazzo+de+Piro+Caf%C3%A9+Mdina",
+              "description": "Warm up with coffee and local pastries in a cosy historic café."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Mdina is best explored on foot — the narrow lanes and ramparts are not accessible by car, so arrive early and enjoy the walkable town 🚶‍♂️.",
+          "link": "https://www.visitmalta.com/en/a/where-to-go-mdina"
+        },
+        {
+          "tip": "Buses from nearby Rabat, Valletta and other Maltese towns run regularly — check local timetables for easy connections 🚌.",
+          "link": "https://www.publictransport.com.mt/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+festival+Mdina",
+          "description": "Cultural events, outdoor concerts and local celebrations animate Mdina’s squares and ramparts under warm Mediterranean skies."
+        }
+      ],
+      "places": [
+        {
+          "name": "Mdina Gate",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+Gate",
+          "description": "Grand entrance to the silent city — iconic Maltese stonework and photo favourite."
+        },
+        {
+          "name": "Palazzo Falson Historic House Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Palazzo+Falson+Historic+House+Museum",
+          "description": "Medieval townhouse museum full of period art, furnishings and curios."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Bastion Garden Nook",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Mdina+Bastion+gardens",
+          "description": "Tucked-away garden spot along the ramparts — perfect for a peaceful pause 🌿."
+        },
+        {
+          "name": "Secret Alley Views",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alleys+Mdina",
+          "description": "Find serene narrow alleys off the main path for unique photo frames and calm exploration 📷."
+        }
+      ]
+    },
+
+    {
+      "name": "Mellieħa",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Parish Church of Mellieħa",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parish+Church+of+Mellieħa",
+            "description": "Main parish church with classic Maltese architecture and rich local history — a peaceful cultural stop in the heart of the town ⛪."
+          },
+          {
+            "name": "Red Tower (St. Agatha’s Tower)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Agatha’s+Tower+Mellieħa",
+            "description": "Iconic 17th-century red watchtower overlooking the sea — historic military architecture with unbeatable views 🌊."
+          },
+          {
+            "name": "Mellieħa Air Raid Shelters",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mellieħa+Air+Raid+Shelters",
+            "description": "Extensive WWII tunnels and shelters under the town — atmospheric and informative insight into Malta’s wartime past 🪖."
+          },
+          {
+            "name": "Mellieħa Heritage Trail",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mellieħa+Heritage+Trail",
+            "description": "Self-guided cultural walk through historic sites, chapels and old stone lanes — a relaxed way to explore local heritage 🚶‍♂️."
+          },
+          {
+            "name": "Mellieħa Village Museums",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mellieħa+museums",
+            "description": "Small local museums showcasing traditional Maltese life, crafts and community history 🎨."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Mellieħa Bay Viewpoints",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mellieħa+Bay+viewpoint",
+            "description": "Panoramic lookout points over Mellieħa Bay — perfect for sunrise and sweeping seaside shots 📸."
+          },
+          {
+            "name": "Għadira Nature Reserve",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=G%C7%8Badira+Nature+Reserve",
+            "description": "Wetlands haven with water reflections, birdlife and scenic paths — great for landscape photography 🌿."
+          },
+          {
+            "name": "Red Tower from the Cliffs",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Agatha’s+Tower+cliff+view",
+            "description": "Photo-worthy rocky cliff shot framing the Red Tower against sea and sky 🌅."
+          },
+          {
+            "name": "Mellieħa Village Lanes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mellieħa+narrow+streets",
+            "description": "Charming limestone alleys, textured stone facades and quiet corners — perfect for timeless European photos 🏘️."
+          },
+          {
+            "name": "Popeye Village Sunset",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Popeye+Village+Mellieħa",
+            "description": "Colourful wooden set village with sea backdrop — especially photogenic at golden hour 🎨."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Mellieħa Bay Cafés & Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mellieħa+Bay+caf%C3%A9s+and+bars",
+            "description": "Relax with midday coffee or seaside drinks overlooking the bay — chilled and scenic 🍹."
+          },
+          {
+            "name": "Local Maltese Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Maltese+food+Mellieħa",
+            "description": "Try Maltese specialities like rabbit stew, bragioli and fresh seafood with local wine in cosy eateries 🍽️."
+          },
+          {
+            "name": "Popeye Village Dining",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Popeye+Village+restaurants",
+            "description": "Family-friendly spots with views over Anchor Bay and playful ambience 🍔."
+          },
+          {
+            "name": "Night Gelato & Stroll",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Mellieħa",
+            "description": "Evening gelato while walking under soft lights — simple and delightful 🍨."
+          },
+          {
+            "name": "Sunset Terrace Drinks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=terrace+bar+Mellieħa",
+            "description": "Terrace bars perfect for sunset spritzes and Mediterranean vibes 🍷."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Għadira Bay Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=G%C7%8Badira+Bay+Beach",
+            "description": "Wide sandy beach with shallow waters — ideal for swimming, sunbathing and relaxed seaside days 🏖️."
+          },
+          {
+            "name": "Popeye Village & Anchor Bay",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Popeye+Village+Anchor+Bay",
+            "description": "Scenic bay with clear water and rocky surroundings — great for snorkelling, boat rides and photo moments 🌊."
+          },
+          {
+            "name": "Simar Nature Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Simar+Nature+Walks+Mellieħa",
+            "description": "Quiet walking paths, rocky coastal trails and peaceful spots to enjoy fresh air 🌿."
+          },
+          {
+            "name": "Red Tower Coastal Path",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Red+Tower+coastal+path",
+            "description": "Cliffside trail with sea views, nature and birdsong — perfect for serenity and exploration 🚶‍♂️."
+          }
+        ]
+      },
+      "local_food_tip": "In Mellieħa, savour Maltese classics like rabbit stew, bragioli, fresh grilled fish and local wine or craft beer. Pair meals with sea views or a gelato while watching the sunset for a true Mediterranean treat 🍷🍨.",
+      "full_day": {
+        "morning": "☀️ Start with a beach walk at <a href=\"https://www.google.com/maps/search/?api=1&query=G%C7%8Badira+Bay+Beach\">Għadira Bay Beach</a>, then explore the historic <a href=\"https://www.google.com/maps/search/?api=1&query=Parish+Church+of+Mellieħa\">Parish Church</a> and wandering lanes of Mellieħa Village.",
+        "afternoon": "🍽️ Have lunch at a local restaurant, discover the <a href=\"https://www.google.com/maps/search/?api=1&query=Mellieħa+Air+Raid+Shelters\">Mellieħa Air Raid Shelters</a>, then head to the viewpoint at <a href=\"https://www.google.com/maps/search/?api=1&query=St.+Agatha’s+Tower+Mellieħa\">Red Tower</a> for sea panoramas.",
+        "evening": "🌅 Enjoy sunset drinks on a terrace or stroll along the <a href=\"https://www.google.com/maps/search/?api=1&query=Red+Tower+coastal+path\">Red Tower Coastal Path</a>, then relax with gelato near the bay.",
+        "night": "🌃 Cap the night with a gentle stroll along the promenade and soft lights of Mellieħa Village before calling it a day."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Warm breezes, blooming hills and perfect beach walks 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Beach Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=G%C7%8Badira+Bay+Beach",
+              "description": "Pack local treats and enjoy a seaside picnic as wildflowers bloom."
+            },
+            {
+              "name": "Coastal Trail Blossoms",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Red+Tower+coastal+path",
+              "description": "Take in fragrant air and coastal views along the Red Tower trail."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny days for swimming, snorkelling and beach fun ☀️.",
+          "ideas": [
+            {
+              "name": "Snorkel & Swim in Anchor Bay",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Popeye+Village+Anchor+Bay",
+              "description": "Crystal water and rocky coves make this a favourite summer adventure 🌊."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Milder temperatures and calm sea breezes 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Sunset Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Mellieħa+Bay+viewpoint",
+              "description": "Golden light over the bay and coastline makes stunning photos."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Quiet beaches, cosy cafés and mild Maltese days ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Cafe Stop",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Fontanella+Tea+Garden+Mellieħa",
+              "description": "Warm up with tea or coffee in a cosy café while watching winter sea views."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Mellieħa is easily reached by Malta’s public buses from Valletta, Sliema and other towns — ideal for a day trip without a car 🚌.",
+          "link": "https://www.publictransport.com.mt/"
+        },
+        {
+          "tip": "Once in Mellieħa, most attractions and beaches are walkable or short bus/taxi rides apart — comfortable shoes are recommended 🚶‍♂️.",
+          "link": "https://www.visitmalta.com/en/a/where-to-go-mellie%C4%ABa"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–September (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Mellieħa+summer+events",
+          "description": "Beach concerts, local festas and open-air markets energize the town under sunny Mediterranean skies 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Għadira Bay Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=G%C7%8Badira+Bay+Beach",
+          "description": "Popular sandy beach with shallow, clear waters — great for families and swimmers 🏖️."
+        },
+        {
+          "name": "St. Agatha’s Tower (Red Tower)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Agatha’s+Tower+Mellieħa",
+          "description": "Historic fortification offering panoramic views over the north coast and sea 🌅."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Simar Nature Walk",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Simar+Nature+Walks+Mellieħa",
+          "description": "Quiet rocky coastal paths with peaceful views away from the main tourist spots 🌿."
+        },
+        {
+          "name": "Anchor Bay Cliffs",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Anchor+Bay+cliffs+Mellieħa",
+          "description": "Hidden cliff spots offering dramatic sea views and serene ambience 🌄."
+        }
+      ]
+    },
+
+    {
+      "name": "Sliema",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Sliema Seafront Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+Seafront+Promenade",
+            "description": "Elegant seaside promenade lined with statues, benches and lookout points — a cultural walk that blends history with sea views 🌊."
+          },
+          {
+            "name": "Fort Tigné & Tigné Point",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fort+Tign%C3%A9+Sliema",
+            "description": "Historic fort at the tip of Tigné Point — explore military history while enjoying views of Valletta and Marsamxett Harbour 🏰."
+          },
+          {
+            "name": "St. Julian’s & Balluta Bay Historic Churches",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Balluta+Bay+churches+Sliema",
+            "description": "Beautiful local churches like Stella Maris and Our Lady of Mount Carmel offering architecture and cultural insight ⛪."
+          },
+          {
+            "name": "Sliema Heritage Trail",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+Heritage+Trail",
+            "description": "Self-guided cultural stroll highlighting historic villas, old chapels and traditional Maltese neighborhoods 🚶‍♂️."
+          },
+          {
+            "name": "The Point Shopping & Arts",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Point+Shopping+Sliema",
+            "description": "Modern cultural hub mixing shopping, design and occasional exhibits — great for contemporary Maltese style 🛍️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Sliema Waterfront Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+waterfront+views",
+            "description": "Capture sweeping photos along the waterfront with Valletta in the distance — particularly beautiful at golden hour 📸."
+          },
+          {
+            "name": "Balluta Bay & Church",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Balluta+Bay+Sliema",
+            "description": "Charming bay setting with colourful façades, clear waters and elegant church — ideal for scenic shots 🌅."
+          },
+          {
+            "name": "Tigné Point Panoramas",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tign%C3%A9+Point+Sliema",
+            "description": "Rocky headland with clear sea vistas and striking lines — perfect for landscape photography 📷."
+          },
+          {
+            "name": "St. Julian’s Harbour Reflections",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+Harbour+Sliema",
+            "description": "Harbour scenes with boats, reflections and coastal life — relaxed and picturesque 🌊."
+          },
+          {
+            "name": "Sliema Cityscape from Valletta Ferry",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ferry+Valletta+Sliema+views",
+            "description": "Unique perspective of Sliema’s buildings and coastline from the sea — especially striking at sunrise 🌇."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Sliema Promenade Cafés & Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+promenade+caf%C3%A9s+and+bars",
+            "description": "Terraced cafés and bars along the promenade — perfect for coffee, cocktails and people-watching with sea breezes 🍸."
+          },
+          {
+            "name": "Traditional Maltese Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Maltese+food+Sliema",
+            "description": "Try Maltese specialities like rabbit stew, ftira and bragioli in welcoming eateries 🍽️."
+          },
+          {
+            "name": "Marina Dining & Seafood",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+marina+restaurants",
+            "description": "Seafood and Mediterranean menus with marina views — fresh flavours and salty air 🐟."
+          },
+          {
+            "name": "Nightlife on Tower Road",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tower+Road+Sliema+bars",
+            "description": "Lively stretch of bars and lounges with music and evening buzz — great for social nights 🎶."
+          },
+          {
+            "name": "Gelato & Dessert Strolls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Sliema",
+            "description": "Cap off your evening with gelato as you wander lit streets and seawall paths 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Sliema Seafront & Sunbathing Spots",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+seafront+sunbathing",
+            "description": "Rocky coves and flat terraces for sunbathing, swimming and seaside relaxation 🏖️."
+          },
+          {
+            "name": "Balluta Bay Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Balluta+Bay+Beach",
+            "description": "Small sandy area and tranquil waters — ideal for a swim or gentle paddling 🌊."
+          },
+          {
+            "name": "Sunset Ferry Rides",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Valletta+Sliema+ferry",
+            "description": "Hop on a ferry to Valletta or back — scenic sea ride with fresh breeze and views 🚤."
+          },
+          {
+            "name": "Ghar Lapsi Coastal Path",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=G%C4%A7ar+Lapsi+coastal+path",
+            "description": "Nearby scenic rocky coastal trail with clear waters and peaceful nature walks 🌿."
+          }
+        ]
+      },
+      "local_food_tip": "Sliema’s dining shines with Maltese and Mediterranean flavours — enjoy fresh seafood, ftira sandwiches, rabbit stew and local wine. Pair with sunset drinks by the promenade and a gelato while watching ferries glide past 🍷🍨.",
+      "full_day": {
+        "morning": "☀️ Start with a seafront stroll on the <a href=\"https://www.google.com/maps/search/?api=1&query=Sliema+Seafront+Promenade\">Sliema Seafront Promenade</a>, stop for espresso and pastries at a café with sea views, then visit the historic <a href=\"https://www.google.com/maps/search/?api=1&query=Fort+Tign%C3%A9+Sliema\">Fort Tigné</a>.",
+        "afternoon": "🍴 Enjoy a seafood lunch at the marina, explore the <a href=\"https://www.google.com/maps/search/?api=1&query=Sliema+Heritage+Trail\">Mellieħa Heritage Trail</a> and relax on a sunny terrace near <a href=\"https://www.google.com/maps/search/?api=1&query=Balluta+Bay+Beach\">Balluta Bay</a>.",
+        "evening": "🌅 Take a ferry ride to Valletta for sunset views, then return for drinks on <a href=\"https://www.google.com/maps/search/?api=1&query=Tower+Road+Sliema+bars\">Tower Road</a> or a gelato promenade stroll.",
+        "night": "🌃 Cap the night with chilled cocktails at a waterfront bar and gentle seafront walk under starlit skies."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild breezes and blooming sea views — perfect for promenade walks and outdoor cafés 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Seafront Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+seafront+sunbathing",
+              "description": "Enjoy a picnic by the sea as the breeze warms and cafés bustle."
+            },
+            {
+              "name": "Sunrise Ferry Ride",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Valletta+Sliema+ferry",
+              "description": "Early ferry ride for calm waters, soft light and fresh sea air 🚤."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny days perfect for swimming, waterfront dining and lively nights ☀️.",
+          "ideas": [
+            {
+              "name": "Sunset Promenade Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+Seafront+Promenade",
+              "description": "Golden hour along the promenade with Gelato in hand and calm waves lapping."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Calmer seas, clear skies and gentle breezes 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Harbour Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+Harbour+Sliema",
+              "description": "Enjoy quiet harbour paths with amber hues and reflections."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Fewer crowds, cosy cafés and crisp sea air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Stop",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+promenade+caf%C3%A9s+and+bars",
+              "description": "Warm up with a coffee in a seaside café as winter waves roll in."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use Malta’s bus network for easy connections to Valletta, St. Julian’s, and other coastal towns — frequent routes make exploring without a car simple 🚌.",
+          "link": "https://www.publictransport.com.mt/"
+        },
+        {
+          "tip": "Take the Valletta-Sliema ferry for scenic sea transport and beautiful views of both harbour cities 🚤.",
+          "link": "https://www.vallettaferries.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–September (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+summer+events",
+          "description": "Open-air concerts, beach parties and seaside festivals bring lively coastal energy to Sliema’s promenade."
+        }
+      ],
+      "places": [
+        {
+          "name": "Fort Tigné",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Fort+Tign%C3%A9+Sliema",
+          "description": "Historic fort at the tip of town offering rich history and great views over harbour waters."
+        },
+        {
+          "name": "Balluta Bay Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Balluta+Bay+Beach",
+          "description": "Scenic small beach and bayside locale perfect for photos and gentle swims."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Secret Sliema Lanes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+lanes+Sliema",
+          "description": "Discover narrow hidden paths away from the seafront for quiet exploration 🚶‍♀️."
+        },
+        {
+          "name": "Viewpoint Near Tigné Steps",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tign%C3%A9+steps+viewpoint",
+          "description": "A quieter lookout next to the steps at Tigné Point — great for peaceful sunrise or sunset snaps 🌄."
+        }
+      ]
+    },
+
+    {
+      "name": "St. Julian’s",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Balluta Bay Churches",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Balluta+Bay+churches+St.+Julian%27s",
+            "description": "Beautiful church buildings near Balluta Bay like Stella Maris that showcase Maltese religious architecture and local heritage ⛪."
+          },
+          {
+            "name": "Paceville Street Art & Murals",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Paceville+street+art+St.+Julian%27s",
+            "description": "Explore vibrant murals and expressive urban art tucked among night-life streets — a mix of modern creativity 🎨."
+          },
+          {
+            "name": "Spinola Bay Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Spinola+Bay+promenade+St.+Julian%27s",
+            "description": "Seaside cultural walk with historical buildings, cafés and fishing boats — feel local life beside the water 🌊."
+          },
+          {
+            "name": "St. Julian’s Heritage Trail",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+heritage+trail",
+            "description": "Self-guided cultural route through historic squares, gardens and points of interest — relaxed and informative 🚶‍♂️."
+          },
+          {
+            "name": "Local Galleries & Exhibits",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=art+galleries+St.+Julian%27s",
+            "description": "Small art spaces and pop-up exhibits showcasing contemporary Maltese artists and cultural events 🖼️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Spinola Bay & Luzzu Boats",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Spinola+Bay+St.+Julian%27s",
+            "description": "Iconic rocky pier, colourful boats (luzzu) and water reflections make for classic Maltese coastal shots 📸."
+          },
+          {
+            "name": "St. Julian’s Waterfront",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+waterfront+views",
+            "description": "Photogenic coastal walk with sea, skyline and sunset views — perfect for relaxed seaside photography 🌅."
+          },
+          {
+            "name": "Paceville Streets at Night",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Paceville+St.+Julian%27s+night",
+            "description": "Vibrant streets lit up after dark — great for low-light photography of nightlife and energy 🌃."
+          },
+          {
+            "name": "Balluta Bay & Church Reflections",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Balluta+Bay+St.+Julian%27s",
+            "description": "Reflective waters and coastal architecture — especially beautiful in the soft morning light 🌄."
+          },
+          {
+            "name": "Spinola Point Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Spinola+Point+St.+Julian%27s",
+            "description": "Cliffside outlooks and harbor scenes ideal for wide scenic shots 📷."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "St. George’s Bay Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+George%27s+Bay+restaurants+St.+Julian%27s",
+            "description": "Seaside eateries with Mediterranean cuisine and seafood — perfect for lunch or dinner with a view 🍽️."
+          },
+          {
+            "name": "Paceville Nightlife District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Paceville+St.+Julian%27s+bars+clubs",
+            "description": "Malta’s most famous nightlife hub — bars, clubs and live music for dancing until late 🎶."
+          },
+          {
+            "name": "Spinola Bay Dining Terrace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Spinola+Bay+terrace+restaurants",
+            "description": "Terrace dining with sea breeze — great for seafood, pizza and relaxed Mediterranean plates 🍷."
+          },
+          {
+            "name": "Sunset Cocktail Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+cocktail+bars",
+            "description": "Sip spritz, gin or local beer while watching the sun dip over the bay 🍹."
+          },
+          {
+            "name": "Gelato & Evening Stroll",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+St.+Julian%27s",
+            "description": "Cap off your evening with creamy gelato as you wander waterfront paths 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "St. George’s Bay Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+George%27s+Bay+Beach+St.+Julian%27s",
+            "description": "Small sandy stretch in the heart of the bay — ideal for a quick swim or sunbathing 🏖️."
+          },
+          {
+            "name": "Spinola Bay Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Spinola+Bay+promenade+St.+Julian%27s",
+            "description": "Peaceful seaside walk with benches and sea breezes — a perfect escape for relaxation 🌊."
+          },
+          {
+            "name": "Balluta Bay Beach & Rocks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Balluta+Bay+Beach+St.+Julian%27s",
+            "description": "Calm rocks and shallow water ideal for dipping, picnics and gentle seaside moments 🐚."
+          },
+          {
+            "name": "Coastal Sunset Spots",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+coastal+sunset+view",
+            "description": "Choose a bench or terrace facing west for striking sunset views — serenity and colour 🌇."
+          }
+        ]
+      },
+      "local_food_tip": "St. Julian’s offers a vibrant mix of Mediterranean and Maltese flavours — try fresh seafood, ftira sandwiches, local rabbit stew and seasonal salads. Pair your meal with a chilled local wine or craft beer, followed by gelato by the bay for the full seaside experience 🍷🍨.",
+      "full_day": {
+        "morning": "☀️ Start with a coffee by <a href=\"https://www.google.com/maps/search/?api=1&query=Spinola+Bay+promenade+St.+Julian%27s\">Spinola Bay Promenade</a>, stroll the waterfront and visit the historic <a href=\"https://www.google.com/maps/search/?api=1&query=Balluta+Bay+churches+St.+Julian%27s\">Balluta Bay churches</a>.",
+        "afternoon": "🍽️ Lunch at a terrace restaurant overlooking <a href=\"https://www.google.com/maps/search/?api=1&query=St.+George%27s+Bay+restaurants+St.+Julian%27s\">St. George’s Bay</a>, then relax at the bay beach or take a scenic coastal walk.",
+        "evening": "🌅 Enjoy sunset cocktails on a terrace, then wander the lively streets of <a href=\"https://www.google.com/maps/search/?api=1&query=Paceville+St.+Julian%27s+bars+clubs\">Paceville nightlife district</a> for drinks and music.",
+        "night": "🌃 Cap your night with gelato and a gentle seafront promenade walk under soft lights before heading back to your accommodation."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild breezes, blooming seaside paths and perfect walking weather 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Waterfront Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+waterfront+views",
+              "description": "Enjoy a gentle stroll along the bay as flowers bloom and sea breezes warm."
+            },
+            {
+              "name": "Sunny Morning Swim",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=St.+George%27s+Bay+Beach+St.+Julian%27s",
+              "description": "Quick refreshing dip in the calm waters to start the day."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Bright beach days, lively night scenes and coastal energy ☀️.",
+          "ideas": [
+            {
+              "name": "Sunset Promenade Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+coastal+sunset+view",
+              "description": "Golden hour by the water with sea colours and vibrant skies."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Clear skies, mild sea breezes and calm seaside 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Harbour Photos",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+waterfront+views",
+              "description": "Capture reflective waters and soft light over the bay."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Quiet promenades, cosy cafés and crisp seaside air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Stop",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sliema+promenade+caf%C3%A9s+and+bars",
+              "description": "Warm up with coffee or hot chocolate near the sea after a brisk walk."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Public buses connect St. Julian’s with Sliema, Valletta and the northern coastal towns — frequent and easy for day trips 🚌.",
+          "link": "https://www.publictransport.com.mt/"
+        },
+        {
+          "tip": "Taxis and ride-shares are plentiful for after-dark transport and hopping between nightlife spots 🚕.",
+          "link": "https://www.maltaairbnb.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–September (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+summer+events",
+          "description": "Beach parties, open-air concerts and seaside festivals energise the bay and nightlife streets under warm Mediterranean skies 🎉."
+        }
+      ],
+      "places": [
+        {
+          "name": "Spinola Bay",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Spinola+Bay+St.+Julian%27s",
+          "description": "Picturesque bay with colourful boats, cafés and sea views — quintessential St. Julian’s scenery."
+        },
+        {
+          "name": "St. George’s Bay Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+George%27s+Bay+Beach+St.+Julian%27s",
+          "description": "Popular sandy bay with shallow waters perfect for a cooling swim 🏖️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Spinola Side Lanes",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+lanes+Spinola+Bay",
+          "description": "Hidden alleys away from the main waterfront with charming corners and local character 🏘️."
+        },
+        {
+          "name": "Harbour View Bench Spot",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Julian%27s+harbour+bench+view",
+          "description": "Peaceful bench overlooking the harbour — perfect for sunset and reflective moments 🌇."
+        }
+      ]
+    },
+
+    {
+      "name": "Valletta",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "St. John’s Co-Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+John%27s+Co-Cathedral+Valletta",
+            "description": "Masterpiece of Baroque art and architecture — home to Caravaggio’s famous paintings and ornate chapels that dazzle visitors ⛪."
+          },
+          {
+            "name": "Upper Barrakka Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Upper+Barrakka+Gardens+Valletta",
+            "description": "Iconic terraced gardens with sweeping views of the Grand Harbour — historic cannons, monuments and scenic tranquility 🌺."
+          },
+          {
+            "name": "Fort St. Elmo & National War Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fort+St.+Elmo+Valletta",
+            "description": "Strategic star-shaped fortress guarding the harbour — explore military history, artefacts and stunning battlements 🛡️."
+          },
+          {
+            "name": "Grandmaster’s Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Grandmaster%27s+Palace+Valletta",
+            "description": "Lavish seat of the Knights of St John — historic state rooms, armoury and ornate halls reflect centuries of Maltese heritage 🏛️."
+          },
+          {
+            "name": "National Museum of Archaeology",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Museum+of+Archaeology+Valletta",
+            "description": "Treasures from Malta’s prehistoric past — ancient artefacts, temple relics and deep island stories 🗿."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Lower Barrakka Gardens & Saluting Battery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lower+Barrakka+Gardens+Valletta",
+            "description": "Panoramic lookout over the Three Cities and harbour — perfect for sunrise or sunset photography 📸."
+          },
+          {
+            "name": "Republic Street & Old Town Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Republic+Street+Valletta",
+            "description": "Historic limestone streets, colourful balconies and grand façades — quintessential Maltese doorways and lanes 🌆."
+          },
+          {
+            "name": "Grand Harbour Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Grand+Harbour+Valletta+views",
+            "description": "Sweeping views from ramparts and gardens — timber boats, blue waters and city silhouettes combine for gorgeous shots 📷."
+          },
+          {
+            "name": "Valletta Waterfront",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Valletta+Waterfront",
+            "description": "Colourful historic warehouses and harbour scenes — lively reflections and scenic backdrops 🌅."
+          },
+          {
+            "name": "Castille Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Castille+Square+Valletta",
+            "description": "Elegant square with grand buildings and statues — perfect for architectural compositions 📍."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Republic Street Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Republic+Street+Valletta+restaurants",
+            "description": "Bustling street lined with eateries offering Maltese and Mediterranean cuisine — from traditional plates to modern menus 🍷."
+          },
+          {
+            "name": "Harbour Dining & Seafood",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Valletta+harbour+restaurants",
+            "description": "Fresh seafood and waterfront views — ideal for lunch or dinner overlooking the blue Mediterranean 🐟."
+          },
+          {
+            "name": "Cafés in Merchant Street",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Merchant+Street+caf%C3%A9s+Valletta",
+            "description": "Quaint cafés tucked along historic lanes — perfect for coffee, gelato or casual brunch ☕🍨."
+          },
+          {
+            "name": "Pjazza Teatru Rjal Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pjazza+Teatru+Rjal+Valletta+bars",
+            "description": "Vibrant bar scene near the theatre — great for evening drinks and social vibes 🍸."
+          },
+          {
+            "name": "Night Stroll & Gelato",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Valletta",
+            "description": "Cap your night with gelato as you wander Valletta’s historic streets under soft lighting 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Upper Barrakka Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Upper+Barrakka+Gardens+Valletta",
+            "description": "Terraced gardens with shaded benches, fountains and broad harbour views — perfect for a restful break 🌿."
+          },
+          {
+            "name": "Lower Barrakka Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lower+Barrakka+Gardens+Valletta",
+            "description": "Quiet green spaces tucked within historic walls — ideal for relaxation and reflective moments 🌳."
+          },
+          {
+            "name": "Valletta Waterfront Walk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Valletta+Waterfront+walk",
+            "description": "Leisurely stroll along the harbour with breezes, views and gentle waves laps — simple seaside calm 🚶‍♂️."
+          },
+          {
+            "name": "Fortifications & Rampart Paths",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Valletta+fortifications+walk",
+            "description": "Historic walls and footpaths with sea vistas — perfect for gentle walks and sweeping horizons 🌅."
+          }
+        ]
+      },
+      "local_food_tip": "Valletta blends Maltese tradition with Mediterranean flair — try rabbit stew, lampuki pie, ftira sandwiches, fresh seafood and Maltese wine. Finish meals with local pastries or gelato while overlooking the harbour 🌊🍷.",
+      "full_day": {
+        "morning": "☀️ Start at <a href=\"https://www.google.com/maps/search/?api=1&query=St.+John%27s+Co-Cathedral+Valletta\">St. John’s Co-Cathedral</a>, then wander the historic lanes of <a href=\"https://www.google.com/maps/search/?api=1&query=Republic+Street+Valletta\">Republic Street</a> with coffee and local shops.",
+        "afternoon": "🍽️ Have lunch with harbour views, explore the <a href=\"https://www.google.com/maps/search/?api=1&query=Fort+St.+Elmo+Valletta\">Fort St. Elmo & National War Museum</a>, then relax in the <a href=\"https://www.google.com/maps/search/?api=1&query=Upper+Barrakka+Gardens+Valletta\">Upper Barrakka Gardens</a> overlooking the bay.",
+        "evening": "🌇 Dine near the waterfront, then take in views from <a href=\"https://www.google.com/maps/search/?api=1&query=Lower+Barrakka+Gardens+Valletta\">Lower Barrakka Gardens</a> at sunset.",
+        "night": "🌃 Cap your night with gelato and a gentle stroll through lit historic streets before settling in for drinks near <a href=\"https://www.google.com/maps/search/?api=1&query=Pjazza+Teatru+Rjal+Valletta+bars\">Pjazza Teatru Rjal</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild temperatures and blooming terraces — perfect for exploring gardens and outdoor cafés 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Harbour Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Valletta+Waterfront+walk",
+              "description": "Enjoy fresh breezes and seaside paths as flowers bloom along the ramparts."
+            },
+            {
+              "name": "Barrakka Gardens Blossoms",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Upper+Barrakka+Gardens+Valletta",
+              "description": "Terraced gardens come alive with colour and calm spring air 🌷."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny days, open-air concerts and lively harbour buzz 🌞.",
+          "ideas": [
+            {
+              "name": "Sunset Harbour Photos",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Grand+Harbour+Valletta+views",
+              "description": "Capture the sun dipping over shimmering waters for dramatic seaside shots 📸."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Crisp air and golden light — ideal for architecture and sunset strolls 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Rampart Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Valletta+fortifications+walk",
+              "description": "Historic walls bathed in warm autumn tones make gorgeous scenic walks."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Quiet streets, cosy cafés and mild Maltese days ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Merchant+Street+caf%C3%A9s+Valletta",
+              "description": "Warm up with local pastries and coffee in historic cafés on cooler days ☕."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Valletta is walkable and compact with most attractions close together — comfortable shoes make exploring easy 🚶‍♂️.",
+          "link": "https://www.visitmalta.com/"
+        },
+        {
+          "tip": "Use Malta’s public buses or the ferry from Sliema for scenic transport to and from Valletta 🚌🚤.",
+          "link": "https://www.publictransport.com.mt/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–September (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Valletta+summer+events",
+          "description": "Open-air concerts, cultural festivals and harbour celebrations bring Valletta’s historic squares and gardens alive 🌞."
+        }
+      ],
+      "places": [
+        {
+          "name": "St. John’s Co-Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+John%27s+Co-Cathedral+Valletta",
+          "description": "Showcase of Baroque art and Caravaggio masterpieces — a cultural and spiritual highlight."
+        },
+        {
+          "name": "Upper Barrakka Gardens",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Upper+Barrakka+Gardens+Valletta",
+          "description": "Terraced gardens with panoramic harbour views and shaded relaxation spots."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "St. Ursula Street Courtyards",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Ursula+Street+Valletta",
+          "description": "Hidden courtyard spots off the main streets — peaceful and picturesque away from crowds 🪑."
+        },
+        {
+          "name": "Valletta Bastion Nooks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Valletta+bastion+nooks",
+          "description": "Secluded lookout spots along the ancient walls — perfect for quiet sea gazing 🌊."
+        }
+      ]
+    }
+
+  ]
+}

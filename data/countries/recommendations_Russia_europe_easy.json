@@ -1,0 +1,1024 @@
+{
+  "name": "Russia (European Part)",
+  "cities": [
+    {
+      "name": "Kazan",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Kazan Kremlin",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kazan+Kremlin",
+            "description": "UNESCO World Heritage site with centuries of history — fortified walls, monuments, and the iconic Söyembikä Tower 🏰."
+          },
+          {
+            "name": "Kul Sharif Mosque",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kul+Sharif+Mosque+Kazan",
+            "description": "A grand mosque inside the Kazan Kremlin — soaring minarets, glittering domes and rich cultural heritage 🕌."
+          },
+          {
+            "name": "Annunciation Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Annunciation+Cathedral+Kazan",
+            "description": "Striking Russian Orthodox cathedral within the Kremlin — beautiful frescoes and golden domes 🎨."
+          },
+          {
+            "name": "Bauman Street",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bauman+Street+Kazan",
+            "description": "Pedestrian-friendly historic street filled with architecture, cafés and street performers 🛍️."
+          },
+          {
+            "name": "National Museum of the Republic of Tatarstan",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Museum+of+the+Republic+of+Tatarstan+Kazan",
+            "description": "Explore the rich history, culture and traditions of Tatarstan from ancient times to today 🧠."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Kazan Kremlin Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kazan+Kremlin+views",
+            "description": "Capture the skyline of Kazan with the Kremlin’s walls, minarets and cathedrals — especially magical at sunrise 📸."
+          },
+          {
+            "name": "Lake Kaban Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Kaban+Kazan",
+            "description": "Lakeside paths with reflections, bridges and serene scenery — perfect for relaxed photos 🌅."
+          },
+          {
+            "name": "Temple of All Religions",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Temple+of+All+Religions+Kazan",
+            "description": "Eclectic and colourful architecture combining sacred symbols from multiple faiths — unique snapshots 📷."
+          },
+          {
+            "name": "Bauman Street Scenes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bauman+Street+Kazan",
+            "description": "Historic façades, lively crowds and vibrant murals — great for urban photography 🌇."
+          },
+          {
+            "name": "Millennium Bridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Millennium+Bridge+Kazan",
+            "description": "Sleek modern bridge over the Kazanka River — dramatic shapes and golden hour light 🌉."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Tatar Cuisine Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tatar+cuisine+restaurants+Kazan",
+            "description": "Savor local dishes like echpochmak, chak-chak and peremech in cozy traditional settings 🍽️."
+          },
+          {
+            "name": "Bauman Street Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bauman+Street+cafes+Kazan",
+            "description": "Street cafés perfect for tea, pastries and people-watching ☕🍰."
+          },
+          {
+            "name": "Kazan Nightclubs",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=nightclubs+Kazan",
+            "description": "Vibrant nightlife scene with DJs, dance floors and late-night energy 🎶🕺."
+          },
+          {
+            "name": "Rooftop Bars with Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=rooftop+bars+Kazan",
+            "description": "Sip cocktails above the city with lights, skyline and river scenery 🍸."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Kazan",
+            "description": "Cap your night with gelato while wandering the illuminated streets 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Lake Kaban Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Kaban+Park+Kazan",
+            "description": "Green parkland by the lake with walking paths, benches and water views 🌳."
+          },
+          {
+            "name": "Gorky Central Park of Culture and Leisure",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gorky+Central+Park+Kazan",
+            "description": "Expansive park with rides, shaded paths and picnic spots — ideal for relaxed afternoons 🚶‍♀️."
+          },
+          {
+            "name": "Botanical Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Kazan",
+            "description": "Peaceful gardens showcasing diverse plants and floral displays 🌷."
+          },
+          {
+            "name": "Volga Riverbank Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Volga+River+Kazan",
+            "description": "Scenic riverside paths with gentle breezes, views and green spots 🚶‍♂️."
+          }
+        ]
+      },
+      "local_food_tip": "In Kazan, try Tatar specialties like echpochmak (savory pastries), chak-chak (sweet honey dessert), peremech (fried meat pies), and pilaf. Pair meals with local tea or Kvass while soaking up culture 🍷🍖.",
+      "full_day": {
+        "morning": "☀️ Start with tea and sweets at a café on <a href=\"https://www.google.com/maps/search/?api=1&query=Bauman+Street+Kazan\">Bauman Street</a>, then explore the historic <a href=\"https://www.google.com/maps/search/?api=1&query=Kazan+Kremlin\">Kazan Kremlin</a> and grand <a href=\"https://www.google.com/maps/search/?api=1&query=Kul+Sharif+Mosque+Kazan\">Kul Sharif Mosque</a>.",
+        "afternoon": "🍽️ Enjoy Tatar cuisine for lunch, visit the <a href=\"https://www.google.com/maps/search/?api=1&query=National+Museum+of+the+Republic+of+Tatarstan+Kazan\">National Museum</a>, and stroll along <a href=\"https://www.google.com/maps/search/?api=1&query=Lake+Kaban+Kazan\">Lake Kaban</a> paths.",
+        "evening": "🌇 Capture sunset from the <a href=\"https://www.google.com/maps/search/?api=1&query=Millennium+Bridge+Kazan\">Millennium Bridge</a>, dine at a rooftop bar, and explore nightlife spots.",
+        "night": "🌃 Cap your night with gelato and a relaxed walk through the illuminated streets of the city centre."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoming parks, mild breezes and vibrant street life 🌸.",
+          "ideas": [
+            {
+              "name": "Lake Kaban Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Kaban+Kazan",
+              "description": "Enjoy fresh blooms and reflections along the water."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, outdoor concerts and river breezes ☀️.",
+          "ideas": [
+            {
+              "name": "Volga River Leisure",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Volga+River+Kazan",
+              "description": "Relax by the water with scenic views and sunshine."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves, cosy cafés and historic colours 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Kremlin Photos",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Kazan+Kremlin",
+              "description": "Capture warm hues on ancient walls and towers."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snowy streets, festive lights and warm tea spots ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Market Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Kazan+winter+market",
+              "description": "Enjoy festive stalls, local treats and seasonal vibes."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Kazan’s metro lines and buses connect key districts including the Kremlin, Bauman Street and parks 🚇.",
+          "link": "https://www.kazanskytransport.ru/"
+        },
+        {
+          "tip": "River cruises on the Volga offer scenic ways to explore Kazan’s waterfront 🚤.",
+          "link": "https://www.visitkazan.com/"
+        },
+        {
+          "tip": "Taxis and ride-shares make short city hops quick and convenient 🚖.",
+          "link": "https://www.kazan.ru/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kazan+summer+events",
+          "description": "Open-air concerts, cultural festivals and riverfront celebrations fill parks and squares with music and joy 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Kazan Kremlin",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kazan+Kremlin",
+          "description": "UNESCO fortress with mosques, cathedrals and historic heritage 🏰."
+        },
+        {
+          "name": "Bauman Street",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bauman+Street+Kazan",
+          "description": "Historic pedestrian promenade full of shops, cafés and culture 🛍️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Temple of All Religions Nook",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Temple+of+All+Religions+Kazan",
+          "description": "Unique multi-faith architectural gem — peaceful and colourful 🕊️."
+        },
+        {
+          "name": "Quiet Lakeside Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Kaban+Park+Kazan",
+          "description": "Secluded seat by the lake with gentle views 🌊."
+        }
+      ]
+    },
+
+    {
+      "name": "Moscow",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Red Square & Kremlin",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Red+Square+Kremlin+Moscow",
+            "description": "The heart of Moscow — iconic UNESCO site with grand cathedrals, Kremlin walls and centuries of Russian history 🏛️."
+          },
+          {
+            "name": "Saint Basil’s Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Saint+Basil's+Cathedral+Moscow",
+            "description": "Famous for its colorful onion domes and fairy-tale architecture — a masterpiece of medieval Russian design ⛪."
+          },
+          {
+            "name": "The State Tretyakov Gallery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=State+Tretyakov+Gallery+Moscow",
+            "description": "Russia’s premier art museum with masterpieces from icons to modern Russian painters 🎨."
+          },
+          {
+            "name": "Bolshoi Theatre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bolshoi+Theatre+Moscow",
+            "description": "World-renowned opera and ballet house — elegant interiors and unforgettable performances 🎭."
+          },
+          {
+            "name": "Cosmonautics Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cosmonautics+Museum+Moscow",
+            "description": "Dive into Russia’s space age story — rockets, exhibits and astronaut history 🚀."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Red Square Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Red+Square+Moscow",
+            "description": "Capture Moscow’s iconic skyline with Saint Basil’s and the Kremlin walls — perfect day or night 📸."
+          },
+          {
+            "name": "Zaryadye Park Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Zaryadye+Park+Moscow",
+            "description": "Modern park with floating bridge and panoramic city views 🌇."
+          },
+          {
+            "name": "Moscow Metro Stations",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Moscow+Metro+stations",
+            "description": "Grandiose underground halls like Mayakovskaya — spectacular architectural shots 🚇."
+          },
+          {
+            "name": "Gorky Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gorky+Park+Moscow",
+            "description": "Green central park with river views, art installations and relaxed scenery 🌳."
+          },
+          {
+            "name": "Christ the Savior Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cathedral+of+Christ+the+Savior+Moscow",
+            "description": "Massive white cathedral with golden domes — great for dramatic photos 📷."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Arbat Street Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Arbat+Street+Moscow+restaurants",
+            "description": "Historic pedestrian street lined with eateries, cafés and Russian classics 🍽️."
+          },
+          {
+            "name": "GUM Food Hall",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=GUM+Food+Hall+Moscow",
+            "description": "Upscale food court in the historic GUM with diverse global and local options 🍷."
+          },
+          {
+            "name": "Tverskaya Nightlife",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tverskaya+nightlife+Moscow",
+            "description": "Bars, lounges and clubs along Moscow’s main avenue — lively nights 🍸🎶."
+          },
+          {
+            "name": "Patriarch Ponds Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Patriarch+Ponds+Moscow+cafes",
+            "description": "Charming pond-side cafés — perfect for coffee, pastries and people-watching ☕."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Moscow",
+            "description": "Cap the night with gelato while wandering lit boulevards 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Gorky Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gorky+Park+Moscow",
+            "description": "Popular city park with riverside paths, art spots and cafes — ideal for a leisurely walk 🚶‍♂️."
+          },
+          {
+            "name": "VDNKh Park & Fountains",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=VDNKh+Moscow",
+            "description": "Massive exhibition park with gardens, lakes, fountains and space monuments 🌺."
+          },
+          {
+            "name": "Serebryany Bor Forest",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Serebryany+Bor+Moscow",
+            "description": "Large urban forest by the Moskva River — great for biking, picnics and nature time 🌲."
+          },
+          {
+            "name": "Kolomenskoye Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kolomenskoye+Park+Moscow",
+            "description": "Historic estate park with riverside views and wooded trails — perfect for relaxation 🌿."
+          }
+        ]
+      },
+      "local_food_tip": "In Moscow, taste blini, pelmeni, borscht, stroganoff and caviar — pair with Russian tea or kvass. Try local pastries like pirozhki and syrniki while exploring iconic squares 🍷🍖.",
+      "full_day": {
+        "morning": "☀️ Start with coffee and pastries near <a href=\"https://www.google.com/maps/search/?api=1&query=Arbat+Street+Moscow+restaurants\">Arbat Street</a>, then wander into <a href=\"https://www.google.com/maps/search/?api=1&query=Red+Square+Kremlin+Moscow\">Red Square & Kremlin</a> and visit <a href=\"https://www.google.com/maps/search/?api=1&query=Saint+Basil's+Cathedral+Moscow\">Saint Basil’s Cathedral</a>.",
+        "afternoon": "🍽️ Have lunch at the <a href=\"https://www.google.com/maps/search/?api=1&query=GUM+Food+Hall+Moscow\">GUM Food Hall</a>, explore the <a href=\"https://www.google.com/maps/search/?api=1&query=State+Tretyakov+Gallery+Moscow\">Tretyakov Gallery</a> and stroll along <a href=\"https://www.google.com/maps/search/?api=1&query=Lake+Kaban+Moscow\">Lake Kaban Park</a> paths (or a favorite local park).",
+        "evening": "🌇 Capture sunset from <a href=\"https://www.google.com/maps/search/?api=1&query=Millennium+Bridge+Moscow\">Zaryadye Park</a> and enjoy dinner in trendy Tverskaya nightlife spots.",
+        "night": "🌃 Cap your night with gelato near <a href=\"https://www.google.com/maps/search/?api=1&query=gelato+Moscow\">central boulevards</a> and a relaxed stroll through illuminated streets."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoming parks, cafés with terraces and mild walks 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Gorky Park Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gorky+Park+Moscow",
+              "description": "Enjoy fresh blooms and active riverside paths."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, outdoor concerts and riverside strolls ☀️.",
+          "ideas": [
+            {
+              "name": "Summer VDNKh Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=VDNKh+Moscow",
+              "description": "Explore fountains, gardens and summer exhibits."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden foliage and historic charm 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Kolomenskoye Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Kolomenskoye+Park+Moscow",
+              "description": "Capture warm hues and peaceful trails."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snowy squares, festive lights and cozy cafés ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Ice Skating",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ice+skating+Moscow+Red+Square",
+              "description": "Skate in iconic winter settings."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Moscow’s Metro is world-famous — beautiful stations and fast connections across the city 🚇.",
+          "link": "https://mosmetro.ru/en"
+        },
+        {
+          "tip": "Buses and trams supplement metro coverage — easy to use with contactless payment 🚍.",
+          "link": "https://transport.mos.ru/"
+        },
+        {
+          "tip": "River cruises on the Moskva River offer scenic transport and views 🚤.",
+          "link": "https://www.visitmoscow.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Moscow+summer+events",
+          "description": "Open-air concerts, street festivals and cultural celebrations across parks and squares 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Red Square & Kremlin",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Red+Square+Kremlin+Moscow",
+          "description": "Historic heart of Moscow with centuries of iconic sights 🏛️."
+        },
+        {
+          "name": "Saint Basil’s Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Saint+Basil's+Cathedral+Moscow",
+          "description": "Colorful architectural jewel and symbol of the city ⛪."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Garden by the Kremlin Wall",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kremlin+Garden+Moscow",
+          "description": "Secluded spot near historic walls — calm and green 🌿."
+        },
+        {
+          "name": "Hidden Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Moscow",
+          "description": "Cozy tucked-away café ideal for peaceful coffee moments ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Nizhny Novgorod",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Nizhny Novgorod Kremlin",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nizhny+Novgorod+Kremlin",
+            "description": "Historic fortress overlooking the Volga — towers, red brick walls and centuries of Russian history 🏰."
+          },
+          {
+            "name": "Chkalov Staircase",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Chkalov+Staircase+Nizhny+Novgorod",
+            "description": "Grand hillside staircase with views over the Volga River — an iconic architectural feat 📸."
+          },
+          {
+            "name": "Nizhny Novgorod State Art Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=State+Art+Museum+Nizhny+Novgorod",
+            "description": "Rich collections of Russian art and exhibitions located in elegant historic buildings 🎨."
+          },
+          {
+            "name": "Rukavishnikov Mansion",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rukavishnikov+Mansion+Nizhny+Novgorod",
+            "description": "19th-century merchant’s house with period interiors — a peek into provincial aristocratic life 🏛️."
+          },
+          {
+            "name": "Church of the Nativity of John the Baptist",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+the+Nativity+of+John+the+Baptist+Nizhny+Novgorod",
+            "description": "Colorful Russian Orthodox church with golden domes and intricate frescoes ⛪."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Volga River Embankment",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Volga+River+embankment+Nizhny+Novgorod",
+            "description": "Panoramic views of river life, bridges and cityscape — ideal at sunrise or sunset 🌅."
+          },
+          {
+            "name": "Chkalov Staircase Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Chkalov+Staircase+Nizhny+Novgorod",
+            "description": "Step perspectives and sweeping horizons make this a top photo spot 📷."
+          },
+          {
+            "name": "Nizhny Novgorod Fairgrounds",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nizhny+Novgorod+Fairgrounds",
+            "description": "Historic trade site with interesting architecture and cultural scenes 🏙️."
+          },
+          {
+            "name": "Old Kanavino District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Kanavino+District+Nizhny+Novgorod",
+            "description": "Quaint streets, historic façades and authentic local vibes for atmospheric shots 📸."
+          },
+          {
+            "name": "Alexander Nevsky Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Alexander+Nevsky+Cathedral+Nizhny+Novgorod",
+            "description": "Stunning cathedral on a hill with views over the city and river 📷."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Bolshaya Pokrovskaya Street Eateries",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bolshaya+Pokrovskaya+Street+Nizhny+Novgorod+restaurants",
+            "description": "Historic pedestrian street lined with restaurants, cafés and bars 🍽️."
+          },
+          {
+            "name": "Local Russian Cuisine Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=local+Russian+cuisine+Nizhny+Novgorod",
+            "description": "Try pelmeni, borscht, beef stroganoff and other hearty classics 🍷."
+          },
+          {
+            "name": "Cafés near Kremlin",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=cafes+near+Kremlin+Nizhny+Novgorod",
+            "description": "Relax with coffee and pastries in historic surroundings ☕🍰."
+          },
+          {
+            "name": "Nightclubs in Nizhny City Centre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=nightclubs+Nizhny+Novgorod",
+            "description": "Vibrant nightlife with music, dancing and late-night energy 🎶."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Nizhny+Novgorod",
+            "description": "Cap your night with gelato while exploring lit boulevards 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Strigino Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Strigino+Park+Nizhny+Novgorod",
+            "description": "Green park with shaded paths, lake views and picnic spots 🌳."
+          },
+          {
+            "name": "Sormovsky Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sormovsky+Park+Nizhny+Novgorod",
+            "description": "Large park with walking trails, ponds and recreation areas 🚶‍♂️."
+          },
+          {
+            "name": "Makarov Embankment",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Makarov+Embankment+Nizhny+Novgorod",
+            "description": "Scenic riverfront walk with views and benches — ideal for relaxation 🌅."
+          },
+          {
+            "name": "Pechersky Ascension Monastery Woods",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pechersky+Ascension+Monastery+Nizhny+Novgorod",
+            "description": "Forest paths near historic monastery — a peaceful nature escape 🌲."
+          }
+        ]
+      },
+      "local_food_tip": "Try Russian classics like pelmeni, borscht, solyanka and beef stroganoff in cozy local restaurants. Pair meals with local kvass or tea while exploring historic streets 🍷🍖.",
+      "full_day": {
+        "morning": "☀️ Start with coffee on <a href=\"https://www.google.com/maps/search/?api=1&query=Bolshaya+Pokrovskaya+Street+Nizhny+Novgorod+restaurants\">Bolshaya Pokrovskaya Street</a>, stroll to the <a href=\"https://www.google.com/maps/search/?api=1&query=Nizhny+Novgorod+Kremlin\">Nizhny Novgorod Kremlin</a> and explore its towers.",
+        "afternoon": "🍽️ Enjoy lunch with Russian classics, then capture panoramic views from the <a href=\"https://www.google.com/maps/search/?api=1&query=Chkalov+Staircase+Nizhny+Novgorod\">Chkalov Staircase</a> before relaxing by the <a href=\"https://www.google.com/maps/search/?api=1&query=Volga+River+embankment+Nizhny+Novgorod\">Volga River embankment</a>.",
+        "evening": "🌇 Sip wine or tea at a café near the Kremlin, wander historic lanes and watch sunset by the river.",
+        "night": "🌃 Cap your night with gelato and explore lively bars or a peaceful stroll through lit parks."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming parks and mild skies — ideal for walking 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Strigino Park Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Strigino+Park+Nizhny+Novgorod",
+              "description": "Enjoy fresh blooms and shaded paths."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm river breezes and open-air festivals ☀️.",
+          "ideas": [
+            {
+              "name": "Volga Embankment Chill",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Volga+River+embankment+Nizhny+Novgorod",
+              "description": "Relax by the river with scenic views."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves and gentle walks 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Cathedral Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Alexander+Nevsky+Cathedral+Nizhny+Novgorod",
+              "description": "Warm autumn tones around the cathedral."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, snowy scenes and cozy cafés ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Kremlin Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Nizhny+Novgorod+Kremlin",
+              "description": "Explore historic walls under soft snow."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Trams, buses and trolleybuses connect major squares, parks and cultural sites — convenient and easy 🚍.",
+          "link": "https://transport.nnov.ru/"
+        },
+        {
+          "tip": "Cable car over the Volga offers scenic crossings and views 🚡.",
+          "link": "https://volgacableway.com/"
+        },
+        {
+          "tip": "Taxis and ride-shares help hop between viewpoints and nightlife areas 🚖.",
+          "link": "https://www.nnov.ru/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Nizhny+Novgorod+summer+events",
+          "description": "Music festivals, cultural fairs and open-air performances animate parks and riverfronts 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Nizhny Novgorod Kremlin",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Nizhny+Novgorod+Kremlin",
+          "description": "Historic fortress with sweeping views and rich heritage 🏰."
+        },
+        {
+          "name": "Chkalov Staircase",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Chkalov+Staircase+Nizhny+Novgorod",
+          "description": "Grand riverside staircase with vistas over the Volga 📸."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Old Kanavino Alley",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Kanavino+District+Nizhny+Novgorod",
+          "description": "Quaint quiet alley with authentic historic character 🌙."
+        },
+        {
+          "name": "Secluded Volga Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Volga+River+Nizhny+Novgorod+bench",
+          "description": "Hidden bench by the river — serene and scenic 🌊."
+        }
+      ]
+    },
+
+    {
+      "name": "Saint Petersburg",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Hermitage Museum & Winter Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hermitage+Museum+Saint+Petersburg",
+            "description": "One of the world’s greatest art museums with vast collections, royal state rooms and masterpieces spanning centuries 🖼️."
+          },
+          {
+            "name": "Peter and Paul Fortress",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Peter+and+Paul+Fortress+Saint+Petersburg",
+            "description": "Historic citadel on Zayachy Island — cathedral of tsars and cradle of the city’s founding 🏰."
+          },
+          {
+            "name": "Church of the Savior on Spilled Blood",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+the+Savior+on+Spilled+Blood+Saint+Petersburg",
+            "description": "Striking mosaic-covered cathedral marking the site of Emperor Alexander II’s assassination — intricate art and colorful domes ⛪."
+          },
+          {
+            "name": "Russian Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Russian+Museum+Saint+Petersburg",
+            "description": "Largest collection of Russian art from icons to avant-garde — cultural treasure trove 🎨."
+          },
+          {
+            "name": "Mariinsky Theatre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mariinsky+Theatre+Saint+Petersburg",
+            "description": "Legendary opera and ballet house — elegant performances and historic grandeur 🎭."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Palace Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Palace+Square+Saint+Petersburg",
+            "description": "Impressive central square framed by Winter Palace and iconic architecture — perfect for dramatic photos 📸."
+          },
+          {
+            "name": "Nevsky Prospekt",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nevsky+Prospekt+Saint+Petersburg",
+            "description": "Vibrant main avenue full of historic buildings, lights, cafés and street scenes 🌆."
+          },
+          {
+            "name": "Saint Isaac’s Cathedral Dome",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Saint+Isaac’s+Cathedral+Saint+Petersburg",
+            "description": "Panoramic views from the colonnade — sweeping city vistas and golden domes 📷."
+          },
+          {
+            "name": "Church of the Savior on Spilled Blood Mosaic Walls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+the+Savior+on+Spilled+Blood+Saint+Petersburg",
+            "description": "Close-up shots of vibrant mosaics and stark contrasts under changing light 📸."
+          },
+          {
+            "name": "Fontanka River Embankment",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fontanka+River+Saint+Petersburg",
+            "description": "Elegant bridges and river reflections — ideal for early morning or twilight shots 🌉."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Nevsky Prospekt Cafés & Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nevsky+Prospekt+restaurants+Saint+Petersburg",
+            "description": "Historic artery lined with dining options — Russian classics, international cuisine and terrace views 🍽️."
+          },
+          {
+            "name": "Kazan Restaurant",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kazan+Restaurant+Saint+Petersburg",
+            "description": "Traditional Russian fare with elegant service and hearty portions 🍷."
+          },
+          {
+            "name": "Rooftop Bars with Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=rooftop+bars+Saint+Petersburg",
+            "description": "Sip cocktails above historic rooftops as sunset paints the city 🍸🌇."
+          },
+          {
+            "name": "Local Breweries & Pubs",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=breweries+Saint+Petersburg",
+            "description": "Craft beer scene with lively vibes and local brews 🍺."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Saint+Petersburg",
+            "description": "Cap your night with gelato while exploring illuminated boulevards 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Summer Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Summer+Garden+Saint+Petersburg",
+            "description": "Historic landscaped garden filled with statues, fountains and shaded paths 🌳."
+          },
+          {
+            "name": "Field of Mars (Marsovo Polye)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Field+of+Mars+Saint+Petersburg",
+            "description": "Sprawling green space near the city centre — perfect for picnics and quiet walks 🌿."
+          },
+          {
+            "name": "New Holland Island Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=New+Holland+Island+Park+Saint+Petersburg",
+            "description": "Trendy recreational space with cafés, art installations and riverside views 🚶‍♀️."
+          },
+          {
+            "name": "Peterhof Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Peterhof+Gardens+Saint+Petersburg",
+            "description": "Grand fountain gardens with palace views and lush greenery 🌺."
+          }
+        ]
+      },
+      "local_food_tip": "In Saint Petersburg, taste borscht, pelmeni, beef stroganoff and smoked fish. Pair meals with Russian tea or kvass, and don’t miss local pastries in historic cafés 🍷🍰.",
+      "full_day": {
+        "morning": "☀️ Start with breakfast at a café on <a href=\"https://www.google.com/maps/search/?api=1&query=Nevsky+Prospekt+Saint+Petersburg\">Nevsky Prospekt</a>, then explore the regal halls of the <a href=\"https://www.google.com/maps/search/?api=1&query=Hermitage+Museum+Saint+Petersburg\">Hermitage Museum</a> and the historic <a href=\"https://www.google.com/maps/search/?api=1&query=Peter+and+Paul+Fortress+Saint+Petersburg\">Peter and Paul Fortress</a>.",
+        "afternoon": "🍽️ Have lunch at a local restaurant, visit <a href=\"https://www.google.com/maps/search/?api=1&query=Saint+Isaac’s+Cathedral+Saint+Petersburg\">Saint Isaac’s Cathedral</a> for views over the city, and stroll along the <a href=\"https://www.google.com/maps/search/?api=1&query=Fontanka+River+Saint+Petersburg\">Fontanka River Embankment</a>.",
+        "evening": "🌇 Capture sunset photos near <a href=\"https://www.google.com/maps/search/?api=1&query=Church+of+the+Savior+on+Spilled+Blood+Saint+Petersburg\">Church of the Savior on Spilled Blood</a>, then enjoy cocktails at a rooftop bar.",
+        "night": "🌃 Cap your night with gelato and a leisurely walk through illuminated avenues."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoming gardens, milder temperatures and lively terraces 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Summer Garden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Summer+Garden+Saint+Petersburg",
+              "description": "Enjoy blooming flowers and gentle breezes."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "White nights, open-air festivals and late sunsets ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Palace Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Peterhof+Gardens+Saint+Petersburg",
+              "description": "Explore grand gardens and fountains under long daylight."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves and historic charm 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Nevsky Prospekt",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Nevsky+Prospekt+Saint+Petersburg",
+              "description": "Capture golden hues along this elegant avenue."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snow-covered spires, festive lights and cozy cafés ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Ice Skating",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=ice+skating+Saint+Petersburg",
+              "description": "Skate in iconic square settings."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Saint Petersburg’s metro is efficient and beautiful — quick access to major attractions 🚇.",
+          "link": "https://www.metro.spb.ru/en/"
+        },
+        {
+          "tip": "Buses and trams supplement metro routes for scenic neighbourhood links 🚍.",
+          "link": "https://transport.spb.ru/"
+        },
+        {
+          "tip": "River boats on the Neva offer scenic transport and views 🚤.",
+          "link": "https://www.visit-petersburg.ru/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–July (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=White+Nights+Festival+Saint+Petersburg",
+          "description": "White Nights Festival — music, ballet and midnight sun celebrations fill the city with culture 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Hermitage Museum & Winter Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hermitage+Museum+Saint+Petersburg",
+          "description": "World-class art collections, imperial rooms and architectural grandeur 🖼️."
+        },
+        {
+          "name": "Peter and Paul Fortress",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Peter+and+Paul+Fortress+Saint+Petersburg",
+          "description": "Historic fortress symbolizing the city’s founding 🏰."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Canal Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+canal+Saint+Petersburg",
+          "description": "Secluded bench along a quiet canal — perfect for reflection 🌊."
+        },
+        {
+          "name": "Hidden Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Saint+Petersburg",
+          "description": "Cozy tucked-away café ideal for peaceful coffee breaks ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Sochi",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Sochi Art Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sochi+Art+Museum",
+            "description": "Historic museum with a rich collection of Russian and international art — perfect for culture lovers 🎨."
+          },
+          {
+            "name": "Winter Theatre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Winter+Theatre+Sochi",
+            "description": "Elegant early 20th-century theatre hosting concerts and performances in a stunning historic venue 🎭."
+          },
+          {
+            "name": "Dendrarium Botanical Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dendrarium+Botanical+Garden+Sochi",
+            "description": "A cultural haven showcasing exotic trees, sculptures, and serene pathways — open all year 🌿."
+          },
+          {
+            "name": "Arboretum (Sochi Dendrarium Upper Park)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sochi+Dendrarium+Upper+Park",
+            "description": "Spectacular hillside gardens with terraced views, rare plants and peaceful spots — a blend of nature and culture 🌺."
+          },
+          {
+            "name": "Museum of Sochi History",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+of+Sochi+History",
+            "description": "Explore the evolution of Sochi from a small resort town to a modern city — great context for visitors 🗺️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Riviera Park Seaside Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Riviera+Park+Sochi",
+            "description": "Classic seaside park with fountains, gardens and beautiful Black Sea views — perfect for photos 📸."
+          },
+          {
+            "name": "Olympic Park Fountains",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Olympic+Park+Sochi+fountains",
+            "description": "Grand fountains and modern architecture — especially photogenic at sunset 🌇."
+          },
+          {
+            "name": "Sochi Embankment",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sochi+Embankment",
+            "description": "Vibrant promenade running along the Black Sea — great for day or night photography 🌊."
+          },
+          {
+            "name": "Agura Waterfalls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Agura+Waterfalls+Sochi",
+            "description": "Nature’s spectacle just outside the city — lush landscape and cascading waters 📷."
+          },
+          {
+            "name": "Cable Car Mountain Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sochi+cable+car",
+            "description": "Ride up into the mountains for sweeping panoramas over the city and sea 🌄."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Seaside Restaurants on Sochi Embankment",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=restaurants+Sochi+Embankment",
+            "description": "Enjoy fresh seafood and Russian classics with Black Sea views 🍽️."
+          },
+          {
+            "name": "Olympic Park Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Olympic+Park+Sochi+restaurants",
+            "description": "Modern eateries around Olympic venues — great for dinner after sightseeing 🍷."
+          },
+          {
+            "name": "Tsvetnoy Bulvar Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tsvetnoy+Bulvar+Sochi+cafes",
+            "description": "Bustling boulevard with cafés, ice cream and relaxed terrace vibes ☕🍰."
+          },
+          {
+            "name": "Bars near Riviera Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=bars+Riviera+Park+Sochi",
+            "description": "Lively bar scene near the park — perfect for evening drinks and laughs 🍸🎶."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Sochi",
+            "description": "Cap your night with gelato while strolling the lit embankment 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Black Sea Beaches",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Black+Sea+beaches+Sochi",
+            "description": "Long pebbly and sandy beaches — perfect for sunbathing, swimming or sunset walks 🏖️."
+          },
+          {
+            "name": "Agura Canyon Trails",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Agura+Canyon+Sochi",
+            "description": "Forest paths, waterfalls and fresh mountain air — ideal for nature lovers 🚶‍♂️."
+          },
+          {
+            "name": "Sochi National Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sochi+National+Park",
+            "description": "Expansive reserve with biodiversity, lakes and hiking routes — fresh air guaranteed 🌲."
+          },
+          {
+            "name": "Rosa Khutor Alpine Resort",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rosa+Khutor+Alpine+Resort",
+            "description": "Mountain resort with alpine scenery, skiing in winter and hiking in summer 🏔️."
+          }
+        ]
+      },
+      "local_food_tip": "In Sochi, enjoy fresh Black Sea seafood, shashlik (grilled skewers), khachapuri (cheesy bread) and local Russian pastries. Pair meals with chilled wine or kvass by the sea 🍷🐟.",
+      "full_day": {
+        "morning": "☀️ Start with coffee along the <a href=\"https://www.google.com/maps/search/?api=1&query=Sochi+Embankment\">Sochi Embankment</a>, stroll seaside views and explore <a href=\"https://www.google.com/maps/search/?api=1&query=Sochi+Art+Museum\">Sochi Art Museum</a>.",
+        "afternoon": "🍽️ Have lunch by the Black Sea, then wander through the historic <a href=\"https://www.google.com/maps/search/?api=1&query=Winter+Theatre+Sochi\">Winter Theatre</a> and ride the <a href=\"https://www.google.com/maps/search/?api=1&query=Sochi+cable+car\">cable car</a> for panoramic vistas.",
+        "evening": "🌇 Capture sunset at the <a href=\"https://www.google.com/maps/search/?api=1&query=Olympic+Park+Sochi+fountains\">Olympic Park Fountains</a>, stroll through Riviera Park and enjoy dinner at a seaside restaurant.",
+        "night": "🌃 Cap your night with gelato while walking the lit embankment or enjoying live music near bars 🍨🎶."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild sea breezes, blooming gardens and perfect promenade weather 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Riviera Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Riviera+Park+Sochi",
+              "description": "Enjoy fresh blooms and greenery near the Black Sea."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny beach days, seaside activities and open-air festivals ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Beach Chill",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Black+Sea+beaches+Sochi",
+              "description": "Soak up the sun and sea breeze on sandy shores."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden hues, quieter beaches and scenic walks 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Embankment Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sochi+Embankment",
+              "description": "Capture warm light over seaside paths."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snowy mountains, skiing and cozy cafés ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Rosa Khutor Adventure",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Rosa+Khutor+Alpine+Resort",
+              "description": "Hit the slopes or enjoy snowy mountain views."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Sochi’s buses and minibuses connect the embankment, parks and cultural sites — easy and affordable 🚍.",
+          "link": "https://sochi.ru/"
+        },
+        {
+          "tip": "Trains link Sochi with Adler and Krasnaya Polyana — great for mountain day trips 🚆.",
+          "link": "https://eng.rzd.ru/"
+        },
+        {
+          "tip": "Taxis and ride-shares make quick hops between beaches, museums and nightlife areas 🚖.",
+          "link": "https://sochi.ru/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sochi+summer+events",
+          "description": "Open-air concerts, seaside festivals and cultural celebrations light up parks and promenades 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Sochi Art Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sochi+Art+Museum",
+          "description": "Classic museum with Russian and international art collections 🎨."
+        },
+        {
+          "name": "Riviera Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Riviera+Park+Sochi",
+          "description": "Seaside park with gardens, fountains and Black Sea views 🌊."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Agura Waterfalls",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Agura+Waterfalls+Sochi",
+          "description": "Peaceful nature spot with cascading waterfalls and green trails 🌿."
+        },
+        {
+          "name": "Quiet Beach Corner",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+beach+Sochi",
+          "description": "Secluded seaside spot away from crowds — perfect for reflection 🏖️."
+        }
+      ]
+    }
+  ]
+}

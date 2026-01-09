@@ -1,0 +1,982 @@
+{
+  "name": "Belarus",
+  "cities": [
+    {
+      "name": "Brest",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Brest Hero-Fortress",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Brest+Fortress+Belarus",
+            "description": "A monumental 19th-century fortress turned into a national memorial, symbolizing Belarusian resistance during World War II."
+          },
+          {
+            "name": "Museum of the Defense of Brest Fortress",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+of+the+Defense+of+Brest+Fortress",
+            "description": "An impressive museum located within the fortress complex, detailing the siege of 1941 through photos, dioramas, and documents."
+          },
+          {
+            "name": "Brest Regional Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Brest+Regional+Museum",
+            "description": "A local museum exploring the city’s development, cultural heritage, and artifacts from different historical eras."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Courage Monument",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Courage+Monument+Brest",
+            "description": "A colossal stone sculpture representing the courage of the defenders of Brest Fortress — a must-see photo location."
+          },
+          {
+            "name": "Sovetskaya Street",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Brest",
+            "description": "The pedestrian heart of Brest, known for its evening lantern-lighting ceremony and cozy cafés."
+          },
+          {
+            "name": "Bug River Embankment",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bug+River+Embankment+Brest",
+            "description": "A peaceful walkway along the river offering scenic views at sunrise and sunset."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Times Café",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Times+Cafe+Brest+Belarus",
+            "description": "A trendy café serving great coffee, burgers, and local desserts in a relaxed setting."
+          },
+          {
+            "name": "Bellagio Restaurant",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bellagio+Restaurant+Brest+Belarus",
+            "description": "A stylish restaurant offering Belarusian and European dishes — ideal for lunch or dinner."
+          },
+          {
+            "name": "Coyote Bar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Coyote+Bar+Brest+Belarus",
+            "description": "A lively local bar known for music nights and mocktails — popular among younger visitors."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Brest City Park of Culture and Rest",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Brest+City+Park+of+Culture+and+Rest",
+            "description": "A large urban park filled with walking paths, fountains, and a small lake for paddle boating."
+          },
+          {
+            "name": "Belovezhskaya Pushcha National Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belovezhskaya+Pushcha+National+Park",
+            "description": "One of Europe’s oldest forests and a UNESCO World Heritage site, home to the European bison."
+          },
+          {
+            "name": "Mukhavets Riverbank",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mukhavets+River+Brest",
+            "description": "A quiet river promenade perfect for cycling, jogging, or evening strolls."
+          }
+        ]
+      },
+      "local_food_tip": "Try Belarusian classics like draniki (potato pancakes) with sour cream, machanka (pork stew), and borscht. For dessert, taste sweet syrniki or local honey cakes.",
+      "full_day": {
+        "Morning": "☀️ Begin your day at <a href=\"https://www.google.com/maps/search/?api=1&query=Brest+Fortress+Belarus\">Brest Fortress</a>, visiting the <a href=\"https://www.google.com/maps/search/?api=1&query=Museum+of+the+Defense+of+Brest+Fortress\">Museum of Defense</a> and the <a href=\"https://www.google.com/maps/search/?api=1&query=Courage+Monument+Brest\">Courage Monument</a>.",
+        "Afternoon": "🍽️ Have lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Bellagio+Restaurant+Brest+Belarus\">Bellagio Restaurant</a>, then take a walk down <a href=\"https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Brest\">Sovetskaya Street</a> to enjoy the local atmosphere and small shops.",
+        "Sunset": "🌇 Relax by the <a href=\"https://www.google.com/maps/search/?api=1&query=Bug+River+Embankment+Brest\">Bug River Embankment</a> with an ice cream or drink.",
+        "Night": "🌃 Dine or enjoy music at <a href=\"https://www.google.com/maps/search/?api=1&query=Coyote+Bar+Brest+Belarus\">Coyote Bar</a> or take a lantern-lit stroll through Sovetskaya Street."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Victory Day Celebrations",
+          "description": "In May, Brest hosts parades and flower ceremonies honoring World War II heroes.",
+          "ideas": [
+            {
+              "name": "Brest Fortress",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Brest+Fortress+Belarus",
+              "description": "See the fortress surrounded by spring greenery."
+            },
+            {
+              "name": "City Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Brest+City+Park+of+Culture+and+Rest",
+              "description": "Walk among blooming trees and enjoy the fairground."
+            },
+            {
+              "name": "Sovetskaya Street",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Brest",
+              "description": "Spring evenings bring musicians and outdoor cafés to life."
+            }
+          ]
+        },
+        "summer": {
+          "event": "City Day of Brest",
+          "description": "A vibrant weekend in July featuring open-air concerts, fireworks, and cultural fairs.",
+          "ideas": [
+            {
+              "name": "Bug River Embankment",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Bug+River+Embankment+Brest",
+              "description": "Perfect for a sunset picnic by the water."
+            },
+            {
+              "name": "Belovezhskaya Pushcha",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Belovezhskaya+Pushcha+National+Park",
+              "description": "A great day trip for hiking and nature exploration."
+            },
+            {
+              "name": "Sovetskaya Street Evenings",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Brest",
+              "description": "Street performers, music, and open-air dining."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Autumn Cultural Festival",
+          "description": "Local theaters and art groups perform throughout October in cozy indoor venues.",
+          "ideas": [
+            {
+              "name": "Brest Regional Museum",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Brest+Regional+Museum",
+              "description": "Discover local heritage and photography exhibitions."
+            },
+            {
+              "name": "Times Café",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Times+Cafe+Brest+Belarus",
+              "description": "Enjoy a warm drink as leaves fall outside."
+            },
+            {
+              "name": "City Park Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Brest+City+Park+of+Culture+and+Rest",
+              "description": "Golden foliage makes for stunning photos."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Christmas and New Year Market",
+          "description": "Festive decorations, music, and ice-skating transform Brest into a winter fairytale.",
+          "ideas": [
+            {
+              "name": "Sovetskaya Street Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Brest",
+              "description": "Try hot chocolate and traditional sweets."
+            },
+            {
+              "name": "Brest Fortress in Snow",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Brest+Fortress+Belarus",
+              "description": "See the fortress beautifully covered in snow."
+            },
+            {
+              "name": "Coyote Bar",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Coyote+Bar+Brest+Belarus",
+              "description": "Warm up indoors with live music and friendly locals."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use local buses and trolleybuses for easy city travel. Routes and timetables are listed on BrestTrans.",
+          "link": "https://bresttrans.by/"
+        },
+        {
+          "tip": "Taxis and Yandex Go app are convenient for quick rides across the city.",
+          "link": "https://go.yandex/en_uk/"
+        },
+        {
+          "tip": "For intercity travel, check Belarusian Railways for schedules and tickets.",
+          "link": "https://www.rw.by/en/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Brest City Day",
+          "season": "summer",
+          "description": "A city-wide celebration featuring concerts, fireworks, and open-air events.",
+          "website": "https://brest.gov.by/",
+          "dates": "Last weekend of July"
+        },
+        {
+          "name": "Victory Day Parade",
+          "season": "spring",
+          "description": "Military parades and memorial ceremonies at Brest Fortress.",
+          "website": "https://brest-fortress.by/",
+          "dates": "May 9 annually"
+        },
+        {
+          "name": "Christmas Market",
+          "season": "winter",
+          "description": "Holiday market with local crafts, food stalls, and performances.",
+          "website": "https://brestcity.com/",
+          "dates": "December to January"
+        }
+      ],
+      "places": [
+        {
+          "name": "Brest Fortress",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Brest+Fortress+Belarus",
+          "description": "An iconic war memorial and one of the most visited sites in Belarus."
+        },
+        {
+          "name": "Sovetskaya Street",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Brest",
+          "description": "A charming pedestrian street filled with lights, shops, and cafés."
+        },
+        {
+          "name": "Belovezhskaya Pushcha National Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Belovezhskaya+Pushcha+National+Park",
+          "description": "A primeval forest and national treasure, perfect for nature trips."
+        },
+        {
+          "name": "Museum of Railway Equipment",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+of+Railway+Equipment+Brest",
+          "description": "An outdoor museum featuring vintage trains and locomotives visitors can explore."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Lantern Lighting Ceremony",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Brest",
+          "description": "Every evening a city worker manually lights old-style lanterns along Sovetskaya Street."
+        },
+        {
+          "name": "Brest Hero-Fortress Riverbank",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bug+River+Brest",
+          "description": "A quiet area near the fortress where locals relax by the river."
+        },
+        {
+          "name": "Small Local Bookshops",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bookshop+Brest",
+          "description": "Independent bookshops hidden in side streets — perfect for souvenirs and reading in peace."
+        }
+      ]
+    },
+
+    {
+      "name": "Gomel",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Palace of the Rumyantsevs and the Paskeviches",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Palace+of+the+Rumyantsevs+and+the+Paskeviches+Gomel",
+            "description": "An elegant 18th–19th century palace complex and the main landmark of Gomel, featuring museum exhibits and panoramic views over the Sozh River."
+          },
+          {
+            "name": "Gomel Regional Drama Theatre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gomel+Regional+Drama+Theatre",
+            "description": "Historic theatre offering classical and modern performances — a centerpiece of local culture."
+          },
+          {
+            "name": "Art Gallery G. X. Vashchenko",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Art+Gallery+G.+X.+Vashchenko+Gomel",
+            "description": "Gallery presenting works of Belarusian artists and rotating modern exhibitions."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Gomel Embankment",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gomel+Embankment",
+            "description": "Beautiful riverside views of the Sozh River — ideal for sunset photos."
+          },
+          {
+            "name": "Observation Tower in Palace Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Observation+Tower+Gomel",
+            "description": "Offers panoramic city views surrounded by historic park scenery."
+          },
+          {
+            "name": "St. Peter and Paul Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Peter+and+Paul+Cathedral+Gomel",
+            "description": "A striking neoclassical cathedral near the palace, perfect for architecture lovers."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Café Coffeemania",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cafe+Coffeemania+Gomel",
+            "description": "Trendy spot known for desserts and coffee — favorite among young locals."
+          },
+          {
+            "name": "Restaurant Karchma",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Karchma+Restaurant+Gomel",
+            "description": "Traditional Belarusian restaurant with folk décor and hearty dishes like machanka and draniki."
+          },
+          {
+            "name": "Bar Mojito",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bar+Mojito+Gomel",
+            "description": "Popular hangout with non-alcoholic cocktails, music, and lively evening vibes."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Palace Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Palace+Park+Gomel",
+            "description": "A scenic park surrounding the palace with old trees, fountains, and shaded alleys."
+          },
+          {
+            "name": "Botanical Garden of Gomel State University",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Gomel+State+University",
+            "description": "Peaceful garden ideal for reading, studying, or relaxing among exotic plants."
+          },
+          {
+            "name": "Sozh River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sozh+River+Promenade+Gomel",
+            "description": "Lovely riverside walkways with benches and green zones for cycling and walking."
+          }
+        ]
+      },
+      "local_food_tip": "Try draniki (potato pancakes), machanka with pancakes, and local waffles from street vendors. For dessert, syrniki or honey cake are local favorites.",
+      "full_day": {
+        "Morning": "☀️ Begin with a stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=Palace+of+the+Rumyantsevs+and+the+Paskeviches+Gomel\">the Palace Complex</a> and nearby <a href=\"https://www.google.com/maps/search/?api=1&query=St.+Peter+and+Paul+Cathedral+Gomel\">Cathedral</a>.",
+        "Afternoon": "🍽️ Have lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Karchma+Restaurant+Gomel\">Karchma Restaurant</a>, then explore <a href=\"https://www.google.com/maps/search/?api=1&query=Gomel+Regional+Drama+Theatre\">the Drama Theatre</a> or relax in the <a href=\"https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Gomel+State+University\">Botanical Garden</a>.",
+        "Sunset": "🌇 Enjoy views from <a href=\"https://www.google.com/maps/search/?api=1&query=Observation+Tower+Gomel\">the Observation Tower</a> and take photos by the <a href=\"https://www.google.com/maps/search/?api=1&query=Gomel+Embankment\">Embankment</a>.",
+        "Night": "🌃 End your day with dessert at <a href=\"https://www.google.com/maps/search/?api=1&query=Cafe+Coffeemania+Gomel\">Café Coffeemania</a> or live music at <a href=\"https://www.google.com/maps/search/?api=1&query=Bar+Mojito+Gomel\">Bar Mojito</a>."
+      },
+      "seasons": {
+        "spring": {
+          "event": "City Blossoms Festival",
+          "description": "In April and May, Gomel’s parks bloom with flowers and weekend fairs appear in Palace Park.",
+          "ideas": [
+            {
+              "name": "Palace Park Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Palace+Park+Gomel",
+              "description": "Perfect for springtime strolls and outdoor photos."
+            },
+            {
+              "name": "Botanical Garden Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Gomel+State+University",
+              "description": "Blooming flowers and peaceful atmosphere."
+            },
+            {
+              "name": "City Fairs",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gomel+Palace+Square+fairs",
+              "description": "Weekend markets with local food and crafts."
+            }
+          ]
+        },
+        "summer": {
+          "event": "City Day Celebrations",
+          "description": "Festive concerts, parades, and fireworks in early June celebrate Gomel’s founding.",
+          "ideas": [
+            {
+              "name": "Sozh River Embankment",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gomel+Embankment",
+              "description": "Perfect for sunset photos and music nights."
+            },
+            {
+              "name": "Palace Park Evenings",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Palace+Park+Gomel",
+              "description": "Evening walks and open-air cinema events."
+            },
+            {
+              "name": "Outdoor Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cafe+Coffeemania+Gomel",
+              "description": "Try iced coffee and waffles with friends."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Golden Gomel",
+          "description": "October brings golden foliage, harvest fairs, and art events around the palace grounds.",
+          "ideas": [
+            {
+              "name": "Art Gallery G. X. Vashchenko",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Art+Gallery+G.+X.+Vashchenko+Gomel",
+              "description": "Autumn exhibitions by Belarusian painters."
+            },
+            {
+              "name": "Park Photography",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Palace+Park+Gomel",
+              "description": "Tree alleys filled with orange and yellow leaves."
+            },
+            {
+              "name": "Theatre Season Opening",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gomel+Regional+Drama+Theatre",
+              "description": "Catch a play at the start of the new season."
+            }
+          ]
+        },
+        "winter": {
+          "event": "New Year and Christmas Market",
+          "description": "Festive lights, skating rinks, and local food stands brighten up Palace Park and Sovetskaya Street.",
+          "ideas": [
+            {
+              "name": "Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gomel+Christmas+Market",
+              "description": "Handmade gifts and warm pastries."
+            },
+            {
+              "name": "Ice Rink at Palace Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ice+Rink+Palace+Park+Gomel",
+              "description": "Popular winter activity for families and friends."
+            },
+            {
+              "name": "Café Warm-Up",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cafe+Coffeemania+Gomel",
+              "description": "Warm up with hot chocolate or tea after skating."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Gomel city buses and trolleybuses are reliable and inexpensive for local travel.",
+          "link": "https://gomeltrans.by/"
+        },
+        {
+          "tip": "Taxi services and Yandex Go app are convenient for getting around quickly.",
+          "link": "https://go.yandex/en_uk/"
+        },
+        {
+          "tip": "For regional connections, use Belarusian Railways to reach Minsk or other cities.",
+          "link": "https://www.rw.by/en/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Gomel City Day",
+          "season": "summer",
+          "description": "Annual celebration featuring concerts, parades, and fireworks along the Sozh River.",
+          "website": "https://gomel.gov.by/",
+          "dates": "First weekend of June"
+        },
+        {
+          "name": "Golden Autumn Art Fair",
+          "season": "autumn",
+          "description": "Exhibitions, local crafts, and performances in the city center.",
+          "website": "https://culture.gomel.by/",
+          "dates": "October"
+        },
+        {
+          "name": "New Year’s Festivities",
+          "season": "winter",
+          "description": "Festive market, concerts, and ice shows at Palace Park.",
+          "website": "https://gomelcity.by/",
+          "dates": "December–January"
+        }
+      ],
+      "places": [
+        {
+          "name": "Palace of the Rumyantsevs and the Paskeviches",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Palace+of+the+Rumyantsevs+and+the+Paskeviches+Gomel",
+          "description": "A historic landmark with river views, museum halls, and landscaped gardens."
+        },
+        {
+          "name": "St. Peter and Paul Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Peter+and+Paul+Cathedral+Gomel",
+          "description": "Neoclassical cathedral and one of Gomel’s most recognizable buildings."
+        },
+        {
+          "name": "Gomel Regional Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Gomel+Regional+Museum",
+          "description": "Museum dedicated to local culture, archaeology, and natural history."
+        },
+        {
+          "name": "Observation Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Observation+Tower+Gomel",
+          "description": "Historic tower offering panoramic views of the city and the Sozh River."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Old Tram Tracks District",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Tram+Tracks+Gomel",
+          "description": "Quiet streets with remnants of old tram lines — great for atmospheric photos."
+        },
+        {
+          "name": "Small Bookshop Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=bookshop+cafe+Gomel",
+          "description": "A cozy café hidden in side streets, ideal for reading and meeting locals."
+        },
+        {
+          "name": "Wooden Architecture Neighborhood",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Wooden+Houses+Gomel",
+          "description": "Historic houses with carved details reflecting traditional Belarusian design."
+        }
+      ]
+    },
+
+    {
+      "name": "Grodno, Belarus",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Old Castle (Staryi Zamok)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Castle+Grodno",
+            "description": "A medieval castle overlooking the Neman River 🏰, once the residence of the Grand Dukes of Lithuania and Polish kings. It’s a symbol of Grodno’s long and rich history."
+          },
+          {
+            "name": "New Castle (Novi Zamok)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=New+Castle+Grodno",
+            "description": "An 18th-century royal residence built next to the Old Castle, featuring exhibitions about Grodno’s royal and political history."
+          },
+          {
+            "name": "Cathedral of St. Francis Xavier",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cathedral+of+St+Francis+Xavier+Grodno",
+            "description": "A magnificent baroque cathedral ⛪ located in the heart of Grodno, known for its ornate interior and tall twin towers."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Neman River Embankment",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Neman+River+Embankment+Grodno",
+            "description": "A picturesque riverside area 🌅 with scenic bridges and views of both the Old and New Castles."
+          },
+          {
+            "name": "Sovetskaya Street",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Grodno",
+            "description": "The main pedestrian street filled with colorful buildings, cafés ☕, and street performers — perfect for snapshots of local life."
+          },
+          {
+            "name": "Fire Observation Tower",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fire+Observation+Tower+Grodno",
+            "description": "An old fire tower 🔥 offering panoramic views of Grodno’s rooftops and the Neman River valley."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Neman Restaurant",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Neman+Restaurant+Grodno",
+            "description": "A popular local restaurant 🍽️ serving traditional Belarusian cuisine like draniki (potato pancakes) and borscht."
+          },
+          {
+            "name": "Kronon Park Hotel Restaurant",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kronon+Park+Hotel+Grodno",
+            "description": "Elegant dining surrounded by nature 🌳, perfect for evening meals and special occasions."
+          },
+          {
+            "name": "Beer House Grunwald",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Beer+House+Grunwald+Grodno",
+            "description": "A cozy pub 🍻 offering local craft beers and live music nights."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Zhiliber Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Zhiliber+Park+Grodno",
+            "description": "A peaceful park 🌸 in the city center with shady paths, fountains, and beautiful flowerbeds."
+          },
+          {
+            "name": "Botanical Garden of Grodno State University",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Grodno",
+            "description": "A green oasis 🌿 featuring plant species from around the world, ideal for relaxing walks."
+          },
+          {
+            "name": "Pyshki Forest",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pyshki+Forest+Grodno",
+            "description": "A large forested park 🌲 great for cycling, picnics, and fresh air."
+          }
+        ]
+      },
+      "local_food_tip": "Try traditional Belarusian dishes like draniki 🥔 (potato pancakes), kalduny (dumplings), and kisel (fruit dessert). Many cafés serve them with local honey 🍯 or sour cream.",
+      "full_day": {
+        "Morning": "☀️ Begin your day exploring <a href=\"https://www.google.com/maps/search/?api=1&query=Old+Castle+Grodno\">the Old Castle</a> and nearby <a href=\"https://www.google.com/maps/search/?api=1&query=Cathedral+of+St+Francis+Xavier+Grodno\">Cathedral of St. Francis Xavier</a>.",
+        "Afternoon": "🏰 Visit <a href=\"https://www.google.com/maps/search/?api=1&query=New+Castle+Grodno\">the New Castle</a> and have lunch along <a href=\"https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Grodno\">Sovetskaya Street</a>.",
+        "Sunset": "🌇 Walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=Neman+River+Embankment+Grodno\">Neman River embankment</a> for great photo opportunities.",
+        "Night": "🌃 Enjoy dinner at <a href=\"https://www.google.com/maps/search/?api=1&query=Neman+Restaurant+Grodno\">Neman Restaurant</a> or live music at <a href=\"https://www.google.com/maps/search/?api=1&query=Beer+House+Grunwald+Grodno\">Beer House Grunwald</a>."
+      },
+      "seasons": {
+        "spring": {
+          "event": "City Flower Festival",
+          "description": "Every May 🌼, the city fills with floral decorations and outdoor markets celebrating spring.",
+          "ideas": [
+            {
+              "name": "Botanical Garden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Grodno",
+              "description": "Perfect for spotting blooming flowers and enjoying nature."
+            },
+            {
+              "name": "Zhiliber Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Zhiliber+Park+Grodno",
+              "description": "A colorful spring walk through central Grodno’s greenery."
+            },
+            {
+              "name": "Old Castle Grounds",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Castle+Grodno",
+              "description": "The castle hill becomes especially beautiful with spring blossoms."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Neman River Music Nights",
+          "description": "Outdoor concerts 🎶 and festivals along the riverfront every July.",
+          "ideas": [
+            {
+              "name": "Neman River Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Neman+River+Embankment+Grodno",
+              "description": "Evening walks with live music and food stalls nearby."
+            },
+            {
+              "name": "Pyshki Forest",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pyshki+Forest+Grodno",
+              "description": "Great for cooling off in the shade or a picnic."
+            },
+            {
+              "name": "Sovetskaya Street",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Grodno",
+              "description": "Bustling with open-air cafés and summer markets."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Harvest Fair",
+          "description": "Local farmers sell seasonal produce 🧺 and handmade crafts in city squares.",
+          "ideas": [
+            {
+              "name": "City Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=City+Market+Grodno",
+              "description": "Taste local honey, apples, and homemade jams."
+            },
+            {
+              "name": "Cathedral Square",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cathedral+Square+Grodno",
+              "description": "Stunning fall colors 🍂 and cozy cafés all around."
+            },
+            {
+              "name": "Pyshki Forest",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pyshki+Forest+Grodno",
+              "description": "Vibrant autumn leaves and peaceful hiking trails."
+            }
+          ]
+        },
+        "winter": {
+          "event": "New Year’s Fair",
+          "description": "The city center turns into a winter wonderland ❄️ with markets, music, and lights.",
+          "ideas": [
+            {
+              "name": "Sovetskaya Street Lights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sovetskaya+Street+Grodno",
+              "description": "Beautiful decorations and warm drink stalls."
+            },
+            {
+              "name": "Cathedral of St. Francis Xavier",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cathedral+of+St+Francis+Xavier+Grodno",
+              "description": "Peaceful atmosphere with Christmas music and lights."
+            },
+            {
+              "name": "Grodno Drama Theater",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Drama+Theater+Grodno",
+              "description": "A cozy indoor escape 🎭 with seasonal performances."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use city trolleybuses and buses operated by GrodnoTrans for affordable travel.",
+          "link": "https://grodnotrans.by/"
+        },
+        {
+          "tip": "Check routes and schedules on the official Grodno Transport portal.",
+          "link": "https://grodnogorod.by/transport/"
+        },
+        {
+          "tip": "For intercity and train connections, visit the Belarusian Railway website.",
+          "link": "https://www.rw.by/en/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "City Flower Festival",
+          "season": "spring",
+          "description": "Annual celebration 🌷 of blooming flowers and gardens throughout Grodno.",
+          "website": "https://grodnonews.by/",
+          "dates": "May"
+        },
+        {
+          "name": "Neman River Music Nights",
+          "season": "summer",
+          "description": "Open-air concerts 🎵 and cultural shows near the river.",
+          "website": "https://grodno.by/",
+          "dates": "July"
+        },
+        {
+          "name": "Harvest Fair",
+          "season": "autumn",
+          "description": "Traditional fair with crafts, food, and performances.",
+          "website": "https://grodnonews.by/",
+          "dates": "September"
+        },
+        {
+          "name": "New Year’s Fair",
+          "season": "winter",
+          "description": "Festive market 🎄 with lights, food, and live shows.",
+          "website": "https://grodno.by/",
+          "dates": "December"
+        }
+      ],
+      "places": [
+        {
+          "name": "Old Castle (Staryi Zamok)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Castle+Grodno",
+          "description": "Historic fortress offering panoramic river views and a museum of medieval history."
+        },
+        {
+          "name": "New Castle (Novi Zamok)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=New+Castle+Grodno",
+          "description": "18th-century palace featuring exhibitions on Grodno’s royal past."
+        },
+        {
+          "name": "Cathedral of St. Francis Xavier",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cathedral+of+St+Francis+Xavier+Grodno",
+          "description": "Baroque cathedral with intricate interiors and a peaceful courtyard."
+        },
+        {
+          "name": "Kalozha Church of Sts. Boris and Gleb",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kalozha+Church+Grodno",
+          "description": "One of the oldest Orthodox churches in Belarus ⛪, dating to the 12th century."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Old Jewish Cemetery",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Jewish+Cemetery+Grodno",
+          "description": "A serene, historical site that tells stories of Grodno’s multicultural past."
+        },
+        {
+          "name": "Craft Courtyard",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Craft+Courtyard+Grodno",
+          "description": "Hidden artistic space 🎨 featuring local handmade goods and workshops."
+        },
+        {
+          "name": "Grodno Fire Tower Viewpoint",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Fire+Tower+Grodno",
+          "description": "Offers a lesser-known but stunning panoramic view over the old town."
+        },
+        {
+          "name": "Small Wooden Houses near Pyshki",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Pyshki+Grodno",
+          "description": "Quiet neighborhood with traditional wooden houses 🏡 and calm streets."
+        }
+      ]
+    },
+
+    {
+      "name": "Minsk",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "National Art Museum of the Republic of Belarus",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Art+Museum+of+the+Republic+of+Belarus+Minsk",
+            "description": "The largest art museum in Belarus, featuring collections of national and European art from the 12th to the 20th century."
+          },
+          {
+            "name": "Belarusian State Museum of the History of the Great Patriotic War",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belarusian+State+Museum+of+the+History+of+the+Great+Patriotic+War+Minsk",
+            "description": "A vast modern museum dedicated to World War II, with immersive exhibits and authentic military artifacts."
+          },
+          {
+            "name": "Yanka Kupala National Academic Theatre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Yanka+Kupala+National+Academic+Theatre+Minsk",
+            "description": "Belarus’s oldest theatre, offering classical and contemporary performances in a beautiful neoclassical building."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Trinity Suburb",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Trinity+Suburb+Minsk",
+            "description": "A charming riverside neighborhood with colorful houses, cobbled streets, and scenic views of the Svislach River."
+          },
+          {
+            "name": "Independence Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Independence+Square+Minsk",
+            "description": "One of Europe’s largest squares, framed by government buildings and the famous Red Church."
+          },
+          {
+            "name": "Island of Tears",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Island+of+Tears+Minsk",
+            "description": "A peaceful memorial island dedicated to soldiers who died in the Afghan war, featuring sculptures and a small chapel."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Local Cafés on Independence Avenue",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Independence+Avenue+Minsk",
+            "description": "Trendy cafés and patisseries line this main boulevard, perfect for coffee and people-watching."
+          },
+          {
+            "name": "Restaurant Vasilki",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vasilki+Restaurant+Minsk",
+            "description": "A cozy chain serving hearty Belarusian cuisine like draniki, machanka, and baked dumplings."
+          },
+          {
+            "name": "Nemiga District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nemiga+District+Minsk",
+            "description": "A lively nightlife area with bars, pubs, and street food spots along the river."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Gorky Central Children’s Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gorky+Central+Children’s+Park+Minsk",
+            "description": "One of the city’s oldest parks, featuring a Ferris wheel, pond, and tree-lined paths."
+          },
+          {
+            "name": "Victory Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Victory+Park+Minsk",
+            "description": "A spacious park with lakes, war memorials, and a picturesque embankment ideal for cycling and picnics."
+          },
+          {
+            "name": "Botanical Garden of the National Academy of Sciences",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Minsk",
+            "description": "The largest botanical garden in Belarus, home to thousands of plant species and seasonal flower exhibitions."
+          }
+        ]
+      },
+      "local_food_tip": "Try draniki (potato pancakes) with sour cream or mushroom sauce, and machanka, a creamy pork stew served with pancakes. For dessert, syrniki (cheese pancakes) are a local favorite.",
+      "full_day": {
+        "Morning": "☀️ Start your day at <a href=\"https://www.google.com/maps/search/?api=1&query=Independence+Square+Minsk\">Independence Square</a> and visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Red+Church+Minsk\">Red Church</a> before breakfast nearby.",
+        "Afternoon": "🎨 Explore the <a href=\"https://www.google.com/maps/search/?api=1&query=National+Art+Museum+of+the+Republic+of+Belarus+Minsk\">National Art Museum</a> and have lunch in the <a href=\"https://www.google.com/maps/search/?api=1&query=Nemiga+District+Minsk\">Nemiga District</a>.",
+        "Sunset": "🌇 Take a stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=Trinity+Suburb+Minsk\">Trinity Suburb</a> for beautiful river views.",
+        "Night": "🌃 Enjoy traditional dinner at <a href=\"https://www.google.com/maps/search/?api=1&query=Vasilki+Restaurant+Minsk\">Vasilki</a> or explore Minsk’s nightlife on <a href=\"https://www.google.com/maps/search/?api=1&query=Nemiga+District+Minsk\">Nemiga Street</a>."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Spring City Awakening",
+          "description": "As the snow melts, Minsk’s parks and cafés come to life with color and music.",
+          "ideas": [
+            {
+              "name": "Gorky Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gorky+Park+Minsk",
+              "description": "Perfect for a sunny walk and fresh air."
+            },
+            {
+              "name": "Trinity Suburb",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Trinity+Suburb+Minsk",
+              "description": "Enjoy spring blossoms along the river."
+            },
+            {
+              "name": "Botanical Garden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Minsk",
+              "description": "Blooming flowers and peaceful ponds."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Minsk City Day",
+          "description": "Festivals, open-air concerts, and fireworks take over the streets in warm weather.",
+          "ideas": [
+            {
+              "name": "Victory Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Victory+Park+Minsk",
+              "description": "Perfect for cycling and picnics."
+            },
+            {
+              "name": "Nemiga Riverwalk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Nemiga+District+Minsk",
+              "description": "Evening walks with music and lights."
+            },
+            {
+              "name": "Independence Avenue Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Independence+Avenue+Minsk",
+              "description": "Bustling summer atmosphere with outdoor seating."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Golden Autumn Festival",
+          "description": "Mild weather and golden leaves make the city perfect for sightseeing.",
+          "ideas": [
+            {
+              "name": "Upper Town",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Upper+Town+Minsk",
+              "description": "Historic streets look stunning under autumn light."
+            },
+            {
+              "name": "Victory Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Victory+Park+Minsk",
+              "description": "Tree-lined alleys turn golden."
+            },
+            {
+              "name": "City Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Komarovsky+Market+Minsk",
+              "description": "Taste fresh honey, apples, and local produce."
+            }
+          ]
+        },
+        "winter": {
+          "event": "New Year’s Celebration",
+          "description": "City lights, Christmas markets, and snow create a festive winter wonderland.",
+          "ideas": [
+            {
+              "name": "Independence Avenue Lights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Independence+Avenue+Minsk",
+              "description": "Beautifully decorated streets with holiday stalls."
+            },
+            {
+              "name": "Ice Skating Rinks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Victory+Park+Ice+Rink+Minsk",
+              "description": "Popular skating spots around the city."
+            },
+            {
+              "name": "National Library of Belarus",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=National+Library+of+Belarus+Minsk",
+              "description": "Observation deck offers snowy panoramic views."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use the Minsk Metro for quick travel between key districts.",
+          "link": "https://metropoliten.by/"
+        },
+        {
+          "tip": "Buses and trolleybuses operated by Minsktrans cover most routes.",
+          "link": "https://minsktrans.by/"
+        },
+        {
+          "tip": "Check long-distance train schedules on the Belarusian Railways website.",
+          "link": "https://www.rw.by/en/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Minsk City Day",
+          "season": "summer",
+          "description": "A grand citywide celebration with music, parades, and fireworks.",
+          "website": "https://minsk.gov.by/",
+          "dates": "September"
+        },
+        {
+          "name": "International Minsk Film Festival 'Listapad'",
+          "season": "autumn",
+          "description": "Renowned international film festival attracting filmmakers and cinema lovers from across Europe.",
+          "website": "https://listapad.com/",
+          "dates": "November"
+        }
+      ],
+      "places": [
+        {
+          "name": "Independence Avenue",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Independence+Avenue+Minsk",
+          "description": "Main city boulevard lined with shops, restaurants, and landmarks."
+        },
+        {
+          "name": "Trinity Suburb",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Trinity+Suburb+Minsk",
+          "description": "Picturesque old district with colorful houses by the river."
+        },
+        {
+          "name": "Victory Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Victory+Square+Minsk",
+          "description": "Famous war memorial with an eternal flame."
+        },
+        {
+          "name": "National Library of Belarus",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=National+Library+of+Belarus+Minsk",
+          "description": "A futuristic glass building offering panoramic views from its rooftop."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Losytsky Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Losytsky+Park+Minsk",
+          "description": "A peaceful riverside park with scenic trails and historical estates."
+        },
+        {
+          "name": "Kastrychnitskaya Street Murals",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kastrychnitskaya+Street+Minsk",
+          "description": "Vibrant street art district with trendy bars and creative studios."
+        },
+        {
+          "name": "Bookstore Lohvinau",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Lohvinau+Bookstore+Minsk",
+          "description": "Independent bookstore and café loved by locals for its artistic vibe."
+        }
+      ]
+    }
+
+  ]
+}

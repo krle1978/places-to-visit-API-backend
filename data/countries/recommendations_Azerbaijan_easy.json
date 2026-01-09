@@ -1,0 +1,960 @@
+{
+  "name": "Azerbaijan",
+  "cities": [
+    {
+      "name": "Baku",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Icherisheher (Old City)",
+            "map_link": "https://www.google.com/maps/search/Icherisheher+Baku",
+            "description": "A UNESCO-listed old town with narrow alleys, ancient walls, mosques, and historic caravanserais."
+          },
+          {
+            "name": "Heydar Aliyev Center",
+            "map_link": "https://www.google.com/maps/search/Heydar+Aliyev+Center+Baku",
+            "description": "A futuristic cultural center designed by Zaha Hadid, symbolizing modern Azerbaijan."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Flame Towers Viewpoints",
+            "map_link": "https://www.google.com/maps/search/Flame+Towers+Baku+viewpoint",
+            "description": "Iconic skyscrapers dominating Baku’s skyline, best photographed at night."
+          },
+          {
+            "name": "Baku Boulevard",
+            "map_link": "https://www.google.com/maps/search/Baku+Boulevard",
+            "description": "A long seaside promenade along the Caspian Sea with city and sunset views."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Traditional Azerbaijani Restaurants",
+            "map_link": "https://www.google.com/maps/search/Azerbaijani+restaurant+Baku",
+            "description": "Local eateries serving plov, dolma, kebabs, and fresh herbs in a cozy atmosphere."
+          },
+          {
+            "name": "Rooftop & Lounge Bars",
+            "map_link": "https://www.google.com/maps/search/Rooftop+bar+Baku",
+            "description": "Modern lounges offering city and Caspian Sea views, popular in the evenings."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Caspian Sea Promenade",
+            "map_link": "https://www.google.com/maps/search/Caspian+Sea+promenade+Baku",
+            "description": "Relaxed walking paths along the sea, ideal for evening strolls."
+          },
+          {
+            "name": "Highland Park (Dagustu Park)",
+            "map_link": "https://www.google.com/maps/search/Highland+Park+Baku",
+            "description": "An elevated park with panoramic views over the city and bay."
+          }
+        ]
+      },
+      "local_food_tip": "Order plov with dried fruits or chestnuts and pair it with black tea—meals are often shared and enjoyed slowly.",
+      "full_day": {
+        "Morning": "Explore <a href=\"https://www.google.com/maps/search/Icherisheher+Baku\">🏰 Icherisheher</a> and visit historic landmarks inside the old city walls.",
+        "Afternoon": "Visit the <a href=\"https://www.google.com/maps/search/Heydar+Aliyev+Center+Baku\">🏛️ Heydar Aliyev Center</a> and have lunch nearby.",
+        "Sunset": "Walk along <a href=\"https://www.google.com/maps/search/Baku+Boulevard\">🌅 Baku Boulevard</a> or head to <a href=\"https://www.google.com/maps/search/Highland+Park+Baku\">🌄 Highland Park</a>.",
+        "Night": "Enjoy dinner at a <a href=\"https://www.google.com/maps/search/Azerbaijani+restaurant+Baku\">🍽️ traditional restaurant</a> or relax at a rooftop bar."
+      },
+      "seasons": {
+        "spring": {
+          "main_event": "Spring City Season",
+          "description": "Mild temperatures and blooming parks make sightseeing ideal.",
+          "ideas": [
+            {
+              "name": "Old City Walks",
+              "map_link": "https://www.google.com/maps/search/Icherisheher+Baku",
+              "description": "Comfortable weather for exploration."
+            },
+            {
+              "name": "Seaside Walks",
+              "map_link": "https://www.google.com/maps/search/Baku+Boulevard",
+              "description": "Fresh air and calm sea views."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/Museums+Baku",
+              "description": "Balanced indoor and outdoor activities."
+            }
+          ]
+        },
+        "summer": {
+          "main_event": "Caspian Summer Season",
+          "description": "Hot weather with lively evenings along the sea.",
+          "ideas": [
+            {
+              "name": "Evening Promenades",
+              "map_link": "https://www.google.com/maps/search/Baku+Boulevard+evening",
+              "description": "Cooler temperatures after sunset."
+            },
+            {
+              "name": "Beach Trips",
+              "map_link": "https://www.google.com/maps/search/Beaches+near+Baku",
+              "description": "Short trips to Caspian Sea beaches."
+            },
+            {
+              "name": "Night Cafés",
+              "map_link": "https://www.google.com/maps/search/Cafes+Baku+night",
+              "description": "Active social life late into the night."
+            }
+          ]
+        },
+        "autumn": {
+          "main_event": "Autumn Culture Season",
+          "description": "Pleasant temperatures and cultural events across the city.",
+          "ideas": [
+            {
+              "name": "City Photography",
+              "map_link": "https://www.google.com/maps/search/Baku+autumn",
+              "description": "Soft light and clear skies."
+            },
+            {
+              "name": "Cultural Centers",
+              "map_link": "https://www.google.com/maps/search/Cultural+centers+Baku",
+              "description": "Comfortable weather for museums."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/Restaurants+Baku",
+              "description": "Seasonal Azerbaijani cuisine."
+            }
+          ]
+        },
+        "winter": {
+          "main_event": "Mild Caspian Winter",
+          "description": "Cool, windy days with fewer tourists.",
+          "ideas": [
+            {
+              "name": "Museum Time",
+              "map_link": "https://www.google.com/maps/search/Museums+Baku",
+              "description": "Indoor cultural exploration."
+            },
+            {
+              "name": "Old City Cafés",
+              "map_link": "https://www.google.com/maps/search/Cafes+Icherisheher",
+              "description": "Warm tea breaks."
+            },
+            {
+              "name": "City Walks",
+              "map_link": "https://www.google.com/maps/search/Baku+winter",
+              "description": "Quiet streets and sea views."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "The Baku Metro is clean, affordable, and useful for longer distances.",
+          "link": "https://www.metro.gov.az"
+        },
+        {
+          "tip": "Taxis and ride-hailing apps are widely used and inexpensive.",
+          "link": "https://www.visitbaku.travel"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Novruz Bayram",
+          "season": "spring",
+          "description": "Traditional New Year celebrations with music, fire rituals, and cultural performances.",
+          "website": "https://www.visitbaku.travel",
+          "dates": "March"
+        },
+        {
+          "name": "Formula 1 Azerbaijan Grand Prix",
+          "season": "summer",
+          "description": "International motorsport event held on Baku’s street circuit.",
+          "website": "https://www.formula1.com",
+          "dates": "April – June (varies)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Icherisheher",
+          "map_link": "https://www.google.com/maps/search/Icherisheher+Baku",
+          "description": "The historic core of Baku with ancient architecture and cultural heritage."
+        },
+        {
+          "name": "Baku Boulevard",
+          "map_link": "https://www.google.com/maps/search/Baku+Boulevard",
+          "description": "A central public space stretching along the Caspian Sea."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Little Venice",
+          "map_link": "https://www.google.com/maps/search/Little+Venice+Baku",
+          "description": "A small canal area within the boulevard offering boat rides and quiet corners."
+        },
+        {
+          "name": "Teze Bazaar",
+          "map_link": "https://www.google.com/maps/search/Teze+Bazaar+Baku",
+          "description": "A local food market where residents shop for fresh produce, spices, and nuts."
+        }
+      ]
+    },
+
+    {
+      "name": "Ganja",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Imamzadeh Complex",
+            "map_link": "https://www.google.com/maps/search/Imamzadeh+Complex+Ganja",
+            "description": "A major religious and architectural landmark with blue-tiled domes, important to Azerbaijan’s spiritual heritage."
+          },
+          {
+            "name": "Nizami Ganjavi Mausoleum",
+            "map_link": "https://www.google.com/maps/search/Nizami+Ganjavi+Mausoleum",
+            "description": "A monumental tribute to the famous Persian poet Nizami Ganjavi, symbol of the city’s literary legacy."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Khan Baghi (Khan Garden)",
+            "map_link": "https://www.google.com/maps/search/Khan+Baghi+Ganja",
+            "description": "A central green park with fountains and wide paths, popular for relaxed city photos."
+          },
+          {
+            "name": "Ganja City Center Streets",
+            "map_link": "https://www.google.com/maps/search/Ganja+city+center",
+            "description": "Wide boulevards, historic buildings, and a calm urban atmosphere."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Traditional Azerbaijani Restaurants",
+            "map_link": "https://www.google.com/maps/search/Azerbaijani+restaurant+Ganja",
+            "description": "Local spots serving plov, kebabs, dolma, and fresh herbs in generous portions."
+          },
+          {
+            "name": "Tea Houses & Cafés",
+            "map_link": "https://www.google.com/maps/search/Cafes+Ganja",
+            "description": "Relaxed tea houses where locals gather for conversation and sweets."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Lake Göygöl (Day Trip)",
+            "map_link": "https://www.google.com/maps/search/Goygol+Lake",
+            "description": "A stunning alpine lake near Ganja with turquoise water and forested mountain scenery."
+          },
+          {
+            "name": "Göygöl National Park",
+            "map_link": "https://www.google.com/maps/search/Goygol+National+Park",
+            "description": "Protected nature area ideal for hiking, photography, and fresh mountain air."
+          }
+        ]
+      },
+      "local_food_tip": "Try Ganja-style plov and local kebabs, followed by strong black tea with jam—meals are social and unhurried.",
+      "full_day": {
+        "Morning": "Visit the <a href=\"https://www.google.com/maps/search/Nizami+Ganjavi+Mausoleum\">📜 Nizami Ganjavi Mausoleum</a> and explore nearby monuments.",
+        "Afternoon": "Head to the <a href=\"https://www.google.com/maps/search/Imamzadeh+Complex+Ganja\">🕌 Imamzadeh Complex</a> and enjoy lunch in the city center.",
+        "Sunset": "Relax in <a href=\"https://www.google.com/maps/search/Khan+Baghi+Ganja\">🌳 Khan Garden</a> or walk along central boulevards.",
+        "Night": "Have dinner at a <a href=\"https://www.google.com/maps/search/Azerbaijani+restaurant+Ganja\">🍽️ traditional restaurant</a> and end with tea at a local café."
+      },
+      "seasons": {
+        "spring": {
+          "main_event": "Spring City Bloom",
+          "description": "Parks and gardens turn green with mild temperatures.",
+          "ideas": [
+            {
+              "name": "City Walks",
+              "map_link": "https://www.google.com/maps/search/Ganja+parks",
+              "description": "Comfortable weather for sightseeing."
+            },
+            {
+              "name": "Cultural Visits",
+              "map_link": "https://www.google.com/maps/search/Museums+Ganja",
+              "description": "Balanced indoor and outdoor activities."
+            },
+            {
+              "name": "Tea Gardens",
+              "map_link": "https://www.google.com/maps/search/Tea+house+Ganja",
+              "description": "Popular spring hangouts."
+            }
+          ]
+        },
+        "summer": {
+          "main_event": "Mountain Escape Season",
+          "description": "Warm city days make nearby mountains especially attractive.",
+          "ideas": [
+            {
+              "name": "Göygöl Trips",
+              "map_link": "https://www.google.com/maps/search/Goygol+Lake",
+              "description": "Cooler temperatures and nature."
+            },
+            {
+              "name": "Evening Walks",
+              "map_link": "https://www.google.com/maps/search/Ganja+evening",
+              "description": "Lively but relaxed nights."
+            },
+            {
+              "name": "Outdoor Cafés",
+              "map_link": "https://www.google.com/maps/search/Cafes+Ganja",
+              "description": "Social summer evenings."
+            }
+          ]
+        },
+        "autumn": {
+          "main_event": "Autumn Calm Season",
+          "description": "Pleasant temperatures and fewer visitors.",
+          "ideas": [
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/Ganja+autumn",
+              "description": "Soft light and clear skies."
+            },
+            {
+              "name": "Historic Sites",
+              "map_link": "https://www.google.com/maps/search/Historic+sites+Ganja",
+              "description": "Comfortable weather for exploration."
+            },
+            {
+              "name": "Local Cuisine",
+              "map_link": "https://www.google.com/maps/search/Restaurants+Ganja",
+              "description": "Seasonal dishes and fresh produce."
+            }
+          ]
+        },
+        "winter": {
+          "main_event": "Quiet City Winter",
+          "description": "Cool but relatively mild winter compared to mountain regions.",
+          "ideas": [
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/Museums+Ganja",
+              "description": "Indoor cultural activities."
+            },
+            {
+              "name": "Tea Houses",
+              "map_link": "https://www.google.com/maps/search/Tea+house+Ganja",
+              "description": "Warm social spaces."
+            },
+            {
+              "name": "City Walks",
+              "map_link": "https://www.google.com/maps/search/Ganja+winter",
+              "description": "Calm streets and local life."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Marshrutkas and taxis are the most common ways to get around the city.",
+          "link": "https://www.visitazerbaijan.az"
+        },
+        {
+          "tip": "Ganja has rail and road connections to Baku and western Azerbaijan.",
+          "link": "https://www.ady.az"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Nizami Ganjavi Cultural Events",
+          "season": "spring",
+          "description": "Poetry readings and cultural programs honoring the famous poet.",
+          "website": "https://www.visitazerbaijan.az",
+          "dates": "April – May (varies)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Nizami Ganjavi Mausoleum",
+          "map_link": "https://www.google.com/maps/search/Nizami+Ganjavi+Mausoleum",
+          "description": "The most important cultural landmark of Ganja."
+        },
+        {
+          "name": "Imamzadeh Complex",
+          "map_link": "https://www.google.com/maps/search/Imamzadeh+Complex+Ganja",
+          "description": "A key religious site and architectural highlight."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Bottle House (Butulka Evi)",
+          "map_link": "https://www.google.com/maps/search/Bottle+House+Ganja",
+          "description": "A unique house decorated entirely with glass bottles, built as a personal memorial and loved by locals."
+        },
+        {
+          "name": "Local Neighborhood Bakeries",
+          "map_link": "https://www.google.com/maps/search/Bakery+Ganja",
+          "description": "Small bakeries selling fresh bread and pastries, offering a glimpse into everyday Ganja life."
+        }
+      ]
+    },
+
+    {
+      "name": "Lankaran",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Lankaran Fortress",
+            "map_link": "https://www.google.com/maps/search/Lankaran+Fortress",
+            "description": "Historic remains reflecting Lankaran’s strategic role near the Caspian Sea and the Iranian border."
+          },
+          {
+            "name": "Lankaran Regional History Museum",
+            "map_link": "https://www.google.com/maps/search/Lankaran+History+Museum",
+            "description": "A local museum presenting Talish culture, regional history, and everyday life in southern Azerbaijan."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Caspian Sea Beachfront",
+            "map_link": "https://www.google.com/maps/search/Lankaran+beach",
+            "description": "Long, quiet beaches with wide horizons and soft sunsets over the Caspian Sea."
+          },
+          {
+            "name": "Khanbulan Lake (Day Trip)",
+            "map_link": "https://www.google.com/maps/search/Khanbulan+Lake",
+            "description": "A scenic reservoir surrounded by forested hills, ideal for nature photography."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Local Fish Restaurants",
+            "map_link": "https://www.google.com/maps/search/Fish+restaurants+Lankaran",
+            "description": "Casual eateries serving fresh Caspian fish and regional rice dishes."
+          },
+          {
+            "name": "Tea Houses",
+            "map_link": "https://www.google.com/maps/search/Tea+house+Lankaran",
+            "description": "Relaxed tea houses reflecting Lankaran’s strong tea culture."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Hirkan National Park",
+            "map_link": "https://www.google.com/maps/search/Hirkan+National+Park",
+            "description": "A UNESCO-listed subtropical forest with rare plants, hiking paths, and rich biodiversity."
+          },
+          {
+            "name": "Thermal Springs (Istisu Area)",
+            "map_link": "https://www.google.com/maps/search/Istisu+Lankaran",
+            "description": "Natural hot springs traditionally used for relaxation and wellness."
+          }
+        ]
+      },
+      "local_food_tip": "Try Lankaran-style fish with rice and always finish the meal with strong black tea served with lemon or jam.",
+      "full_day": {
+        "Morning": "Walk along the <a href=\"https://www.google.com/maps/search/Lankaran+beach\">🌊 Caspian Sea beachfront</a> and explore the city center.",
+        "Afternoon": "Visit the <a href=\"https://www.google.com/maps/search/Lankaran+History+Museum\">🏛️ History Museum</a> or take a short trip to <a href=\"https://www.google.com/maps/search/Hirkan+National+Park\">🌳 Hirkan National Park</a>.",
+        "Sunset": "Relax near <a href=\"https://www.google.com/maps/search/Khanbulan+Lake\">🌅 Khanbulan Lake</a> or enjoy a seaside sunset.",
+        "Night": "Have dinner at a <a href=\"https://www.google.com/maps/search/Fish+restaurants+Lankaran\">🍽️ local fish restaurant</a> and end the evening with tea."
+      },
+      "seasons": {
+        "spring": {
+          "main_event": "Subtropical Bloom Season",
+          "description": "Lankaran’s forests and gardens turn lush and green.",
+          "ideas": [
+            {
+              "name": "Forest Walks",
+              "map_link": "https://www.google.com/maps/search/Hirkan+National+Park",
+              "description": "Best time to explore subtropical nature."
+            },
+            {
+              "name": "City Walks",
+              "map_link": "https://www.google.com/maps/search/Lankaran+city+center",
+              "description": "Comfortable weather for sightseeing."
+            },
+            {
+              "name": "Tea Gardens",
+              "map_link": "https://www.google.com/maps/search/Tea+plantations+Lankaran",
+              "description": "Tea-growing areas look especially fresh."
+            }
+          ]
+        },
+        "summer": {
+          "main_event": "Caspian Beach Season",
+          "description": "Warm, humid weather perfect for sea and evening life.",
+          "ideas": [
+            {
+              "name": "Beach Time",
+              "map_link": "https://www.google.com/maps/search/Lankaran+beach",
+              "description": "Swimming and relaxed seaside days."
+            },
+            {
+              "name": "Evening Walks",
+              "map_link": "https://www.google.com/maps/search/Lankaran+evening",
+              "description": "Cooler nights by the sea."
+            },
+            {
+              "name": "Fresh Seafood",
+              "map_link": "https://www.google.com/maps/search/Fish+restaurants+Lankaran",
+              "description": "Peak season for local fish."
+            }
+          ]
+        },
+        "autumn": {
+          "main_event": "Tea & Harvest Season",
+          "description": "Tea harvest and mild temperatures define the region.",
+          "ideas": [
+            {
+              "name": "Tea Tastings",
+              "map_link": "https://www.google.com/maps/search/Tea+house+Lankaran",
+              "description": "Local tea culture at its best."
+            },
+            {
+              "name": "Nature Trips",
+              "map_link": "https://www.google.com/maps/search/Khanbulan+Lake",
+              "description": "Clear air and autumn colors."
+            },
+            {
+              "name": "Local Markets",
+              "map_link": "https://www.google.com/maps/search/Market+Lankaran",
+              "description": "Seasonal fruits and regional products."
+            }
+          ]
+        },
+        "winter": {
+          "main_event": "Mild Southern Winter",
+          "description": "One of Azerbaijan’s warmest winter regions.",
+          "ideas": [
+            {
+              "name": "Thermal Springs",
+              "map_link": "https://www.google.com/maps/search/Istisu+Lankaran",
+              "description": "Relaxing hot spring visits."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/Lankaran+History+Museum",
+              "description": "Indoor cultural activities."
+            },
+            {
+              "name": "Quiet Beach Walks",
+              "map_link": "https://www.google.com/maps/search/Lankaran+winter+beach",
+              "description": "Peaceful seaside atmosphere."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses and taxis are the easiest ways to get around Lankaran.",
+          "link": "https://www.visitazerbaijan.az"
+        },
+        {
+          "tip": "Road connections link Lankaran with Baku and southern regions.",
+          "link": "https://www.ady.az"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Lankaran Tea & Culture Events",
+          "season": "autumn",
+          "description": "Local celebrations highlighting tea production and regional traditions.",
+          "website": "https://www.visitazerbaijan.az",
+          "dates": "September – October (varies)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Lankaran City Center",
+          "map_link": "https://www.google.com/maps/search/Lankaran+city+center",
+          "description": "The social heart of the city with shops, cafés, and daily local life."
+        },
+        {
+          "name": "Hirkan National Park",
+          "map_link": "https://www.google.com/maps/search/Hirkan+National+Park",
+          "description": "A defining natural attraction of the Lankaran region."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Tea Plantations",
+          "map_link": "https://www.google.com/maps/search/Tea+plantations+Lankaran",
+          "description": "Rolling green tea fields that define Lankaran’s identity and are rarely visited by tourists."
+        },
+        {
+          "name": "Village Fish Markets",
+          "map_link": "https://www.google.com/maps/search/Fish+market+Lankaran",
+          "description": "Small local markets offering fresh fish straight from the Caspian Sea."
+        }
+      ]
+    },
+    {
+      "name": "Mingachevir",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Mingachevir State Drama Theatre",
+            "map_link": "https://www.google.com/maps/search/Mingachevir+State+Drama+Theatre",
+            "description": "A local cultural institution hosting plays, performances, and events reflecting regional Azerbaijani culture."
+          },
+          {
+            "name": "Mingachevir History Museum",
+            "map_link": "https://www.google.com/maps/search/Mingachevir+History+Museum",
+            "description": "A small museum presenting the city’s archaeological finds, Soviet-era development, and river-based history."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Mingachevir Reservoir Viewpoints",
+            "map_link": "https://www.google.com/maps/search/Mingachevir+Reservoir+viewpoint",
+            "description": "Wide-open water views and dramatic skies, especially beautiful at sunset."
+          },
+          {
+            "name": "Kura River Promenade",
+            "map_link": "https://www.google.com/maps/search/Kura+River+Mingachevir",
+            "description": "Riverside paths and bridges offering calm, minimalist city photography."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Riverside Restaurants",
+            "map_link": "https://www.google.com/maps/search/Restaurants+Mingachevir",
+            "description": "Casual local restaurants serving Azerbaijani staples, often with river or reservoir views."
+          },
+          {
+            "name": "City Cafés",
+            "map_link": "https://www.google.com/maps/search/Cafes+Mingachevir",
+            "description": "Relaxed cafés popular with students and locals, especially in the evenings."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Mingachevir Reservoir",
+            "map_link": "https://www.google.com/maps/search/Mingachevir+Reservoir",
+            "description": "One of the largest reservoirs in the Caucasus, ideal for walks, picnics, and water views."
+          },
+          {
+            "name": "Riverside Parks",
+            "map_link": "https://www.google.com/maps/search/Parks+Mingachevir",
+            "description": "Green spaces along the Kura River used by locals for daily walks and relaxation."
+          }
+        ]
+      },
+      "local_food_tip": "Order grilled fish from the Kura River or classic kebabs, and finish with black tea—meals here are simple and filling.",
+      "full_day": {
+        "Morning": "Start with a walk along the <a href=\"https://www.google.com/maps/search/Kura+River+Mingachevir\">🌊 Kura River</a> and explore the city center.",
+        "Afternoon": "Visit the <a href=\"https://www.google.com/maps/search/Mingachevir+History+Museum\">🏛️ History Museum</a> and enjoy lunch nearby.",
+        "Sunset": "Head to the <a href=\"https://www.google.com/maps/search/Mingachevir+Reservoir\">🌅 Mingachevir Reservoir</a> for wide sunset views.",
+        "Night": "Have dinner at a <a href=\"https://www.google.com/maps/search/Restaurants+Mingachevir\">🍽️ local restaurant</a> and relax in a café."
+      },
+      "seasons": {
+        "spring": {
+          "main_event": "River & Park Season",
+          "description": "Mild weather brings life back to riverside parks.",
+          "ideas": [
+            {
+              "name": "Riverside Walks",
+              "map_link": "https://www.google.com/maps/search/Kura+River+Mingachevir",
+              "description": "Comfortable temperatures and fresh greenery."
+            },
+            {
+              "name": "City Exploration",
+              "map_link": "https://www.google.com/maps/search/Mingachevir+city+center",
+              "description": "Easy sightseeing season."
+            },
+            {
+              "name": "Outdoor Cafés",
+              "map_link": "https://www.google.com/maps/search/Cafes+Mingachevir",
+              "description": "Popular spring hangouts."
+            }
+          ]
+        },
+        "summer": {
+          "main_event": "Reservoir Summer Season",
+          "description": "Hot days make water and evening life especially important.",
+          "ideas": [
+            {
+              "name": "Evening Walks",
+              "map_link": "https://www.google.com/maps/search/Mingachevir+evening",
+              "description": "Cooler temperatures after sunset."
+            },
+            {
+              "name": "Picnics by the Water",
+              "map_link": "https://www.google.com/maps/search/Mingachevir+Reservoir",
+              "description": "Locals gather near the reservoir."
+            },
+            {
+              "name": "Late Cafés",
+              "map_link": "https://www.google.com/maps/search/Cafes+Mingachevir+night",
+              "description": "Active social evenings."
+            }
+          ]
+        },
+        "autumn": {
+          "main_event": "Autumn Calm Season",
+          "description": "Pleasant temperatures and fewer crowds.",
+          "ideas": [
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/Mingachevir+autumn",
+              "description": "Soft light over the river and reservoir."
+            },
+            {
+              "name": "Cultural Visits",
+              "map_link": "https://www.google.com/maps/search/Museums+Mingachevir",
+              "description": "Comfortable weather for museums."
+            },
+            {
+              "name": "Local Dining",
+              "map_link": "https://www.google.com/maps/search/Restaurants+Mingachevir",
+              "description": "Seasonal Azerbaijani dishes."
+            }
+          ]
+        },
+        "winter": {
+          "main_event": "Quiet Inland Winter",
+          "description": "Cool but calm winter days with local life continuing steadily.",
+          "ideas": [
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/Mingachevir+History+Museum",
+              "description": "Indoor cultural activities."
+            },
+            {
+              "name": "City Cafés",
+              "map_link": "https://www.google.com/maps/search/Cafes+Mingachevir",
+              "description": "Warm tea and coffee breaks."
+            },
+            {
+              "name": "River Walks",
+              "map_link": "https://www.google.com/maps/search/Mingachevir+winter",
+              "description": "Quiet riverside atmosphere."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Marshrutkas and taxis are the most practical ways to move around Mingachevir.",
+          "link": "https://www.visitazerbaijan.az"
+        },
+        {
+          "tip": "Road connections link Mingachevir with Baku, Ganja, and central Azerbaijan.",
+          "link": "https://www.ady.az"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Local Cultural Performances",
+          "season": "spring",
+          "description": "Theater shows and small cultural events organized by the city.",
+          "website": "https://www.visitazerbaijan.az",
+          "dates": "April – May (varies)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Mingachevir Reservoir",
+          "map_link": "https://www.google.com/maps/search/Mingachevir+Reservoir",
+          "description": "The defining natural feature of the city and a major source of recreation."
+        },
+        {
+          "name": "Kura River",
+          "map_link": "https://www.google.com/maps/search/Kura+River+Mingachevir",
+          "description": "A key river shaping the city’s layout and lifestyle."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Riverside Benches",
+          "map_link": "https://www.google.com/maps/search/Kura+River+park+Mingachevir",
+          "description": "Low-key spots along the river where locals watch the water and relax in the evenings."
+        },
+        {
+          "name": "Neighborhood Bakeries",
+          "map_link": "https://www.google.com/maps/search/Bakery+Mingachevir",
+          "description": "Small bakeries selling fresh bread and pastries, perfect for experiencing daily local life."
+        }
+      ]
+    },
+
+    {
+      "name": "Sheki",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Sheki Khan’s Palace",
+            "map_link": "https://www.google.com/maps/search/Sheki+Khan%27s+Palace",
+            "description": "A UNESCO-listed palace famous for its colorful shebeke windows, frescoes, and refined 18th-century architecture."
+          },
+          {
+            "name": "Sheki History Museum",
+            "map_link": "https://www.google.com/maps/search/Sheki+History+Museum",
+            "description": "A local museum presenting Sheki’s Silk Road past, crafts, and regional traditions."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Upper Karvansaray Area",
+            "map_link": "https://www.google.com/maps/search/Upper+Caravanserai+Sheki",
+            "description": "Historic caravanserais and stone streets that capture Sheki’s Silk Road atmosphere."
+          },
+          {
+            "name": "Sheki Old Town Streets",
+            "map_link": "https://www.google.com/maps/search/Sheki+Old+Town",
+            "description": "Cobblestone streets, traditional houses, and mountain backdrops ideal for photography."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Traditional Sheki Restaurants",
+            "map_link": "https://www.google.com/maps/search/Restaurants+Sheki",
+            "description": "Local restaurants serving regional dishes such as piti, dolma, and handmade bread."
+          },
+          {
+            "name": "Tea Houses",
+            "map_link": "https://www.google.com/maps/search/Tea+house+Sheki",
+            "description": "Classic Azerbaijani tea houses where locals gather in the evenings."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Kish Village & Church (Day Trip)",
+            "map_link": "https://www.google.com/maps/search/Kish+village+Sheki",
+            "description": "A quiet mountain village near Sheki with one of the oldest churches in the Caucasus."
+          },
+          {
+            "name": "Forest Walks Around Sheki",
+            "map_link": "https://www.google.com/maps/search/Forest+trails+Sheki",
+            "description": "Green hills and forest paths offering calm nature escapes."
+          }
+        ]
+      },
+      "local_food_tip": "Don’t miss Sheki piti (slow-cooked lamb stew) and Sheki halva—locals enjoy meals slowly with plenty of tea.",
+      "full_day": {
+        "Morning": "Start at the <a href=\"https://www.google.com/maps/search/Sheki+Khan%27s+Palace\">🏯 Khan’s Palace</a> and explore the historic complex.",
+        "Afternoon": "Walk through the <a href=\"https://www.google.com/maps/search/Upper+Caravanserai+Sheki\">🏛️ caravanserai area</a> and have lunch at a traditional restaurant.",
+        "Sunset": "Take a short trip to <a href=\"https://www.google.com/maps/search/Kish+village+Sheki\">🌄 Kish village</a> or enjoy views from the old town.",
+        "Night": "End the day with tea at a <a href=\"https://www.google.com/maps/search/Tea+house+Sheki\">🍵 local tea house</a>."
+      },
+      "seasons": {
+        "spring": {
+          "main_event": "Spring Mountain Bloom",
+          "description": "Sheki’s hills turn green with flowers and mild weather.",
+          "ideas": [
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/Sheki+Old+Town",
+              "description": "Comfortable sightseeing temperatures."
+            },
+            {
+              "name": "Village Trips",
+              "map_link": "https://www.google.com/maps/search/Kish+village+Sheki",
+              "description": "Fresh landscapes and quiet villages."
+            },
+            {
+              "name": "Photography",
+              "map_link": "https://www.google.com/maps/search/Sheki+spring",
+              "description": "Soft light and green scenery."
+            }
+          ]
+        },
+        "summer": {
+          "main_event": "Cool Mountain Summer",
+          "description": "Pleasant temperatures compared to lowland cities.",
+          "ideas": [
+            {
+              "name": "Forest Walks",
+              "map_link": "https://www.google.com/maps/search/Forest+trails+Sheki",
+              "description": "Shaded paths and fresh air."
+            },
+            {
+              "name": "Historic Sites",
+              "map_link": "https://www.google.com/maps/search/Sheki+Khan%27s+Palace",
+              "description": "Comfortable sightseeing despite summer."
+            },
+            {
+              "name": "Evening Tea",
+              "map_link": "https://www.google.com/maps/search/Tea+house+Sheki",
+              "description": "Relaxed evenings in town."
+            }
+          ]
+        },
+        "autumn": {
+          "main_event": "Autumn Colors Season",
+          "description": "Golden forests and harvest time around Sheki.",
+          "ideas": [
+            {
+              "name": "Nature Walks",
+              "map_link": "https://www.google.com/maps/search/Sheki+autumn",
+              "description": "Clear air and warm colors."
+            },
+            {
+              "name": "Cultural Visits",
+              "map_link": "https://www.google.com/maps/search/Sheki+History+Museum",
+              "description": "Ideal museum weather."
+            },
+            {
+              "name": "Local Cuisine",
+              "map_link": "https://www.google.com/maps/search/Restaurants+Sheki",
+              "description": "Seasonal dishes and desserts."
+            }
+          ]
+        },
+        "winter": {
+          "main_event": "Quiet Mountain Winter",
+          "description": "Cold but atmospheric with fewer visitors.",
+          "ideas": [
+            {
+              "name": "Palace Visits",
+              "map_link": "https://www.google.com/maps/search/Sheki+Khan%27s+Palace",
+              "description": "Peaceful sightseeing."
+            },
+            {
+              "name": "Tea Houses",
+              "map_link": "https://www.google.com/maps/search/Tea+house+Sheki",
+              "description": "Warm social spaces."
+            },
+            {
+              "name": "Snowy Town Walks",
+              "map_link": "https://www.google.com/maps/search/Sheki+winter",
+              "description": "Quiet winter atmosphere."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses and minibuses connect Sheki with Baku and nearby towns.",
+          "link": "https://www.visitazerbaijan.az"
+        },
+        {
+          "tip": "Taxis are useful for visiting Kish village and surrounding nature.",
+          "link": "https://www.ady.az"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Sheki Silk & Crafts Events",
+          "season": "summer",
+          "description": "Local exhibitions and festivals celebrating silk, crafts, and regional culture.",
+          "website": "https://www.visitazerbaijan.az",
+          "dates": "June – August (varies)"
+        }
+      ],
+      "places": [
+        {
+          "name": "Sheki Khan’s Palace",
+          "map_link": "https://www.google.com/maps/search/Sheki+Khan%27s+Palace",
+          "description": "The most famous landmark and cultural symbol of Sheki."
+        },
+        {
+          "name": "Upper Caravanserai",
+          "map_link": "https://www.google.com/maps/search/Upper+Caravanserai+Sheki",
+          "description": "A historic Silk Road complex once hosting merchants and travelers."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Local Shebeke Workshops",
+          "map_link": "https://www.google.com/maps/search/Shebeke+workshop+Sheki",
+          "description": "Small workshops where artisans still create traditional wooden lattice windows without nails."
+        },
+        {
+          "name": "Quiet Hillside Neighborhoods",
+          "map_link": "https://www.google.com/maps/search/Sheki+hillside+neighborhoods",
+          "description": "Residential areas with views over the town and surrounding mountains, loved by locals."
+        }
+      ]
+    }
+  ]
+}

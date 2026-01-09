@@ -1,0 +1,1042 @@
+{
+  "name": "Portugal",
+  "cities": [
+    {
+      "name": "Wrocław",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Rynek (Market Square)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rynek+Wrocław",
+            "description": "One of Europe’s largest medieval market squares — vibrant, colourful facades, historic town hall and street performers 🏛️."
+          },
+          {
+            "name": "Wrocław Cathedral (Ostrów Tumski)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Wrocław+Cathedral+Ostrów+Tumski",
+            "description": "Gothic masterpiece on Cathedral Island — climb the towers for breathtaking views of the Oder 🚩."
+          },
+          {
+            "name": "Panorama of the Battle of Racławice",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Panorama+of+the+Battle+of+Rac%C5%82awice+Wroc%C5%82aw",
+            "description": "Cycloramic painting depicting a dramatic historic battle — immersive and impressive art 🎨."
+          },
+          {
+            "name": "National Museum in Wrocław",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Museum+Wroc%C5%82aw",
+            "description": "Rich collection of Polish and European art spanning centuries — great for culture lovers 🖼️."
+          },
+          {
+            "name": "Centennial Hall & Pavilion",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Centennial+Hall+Wroc%C5%82aw",
+            "description": "Architectural UNESCO site — iconic early 20th-century structure with cultural exhibitions 🏟️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Wrocław Market Square Facades",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rynek+facades+Wroc%C5%82aw",
+            "description": "Colourful townhouses, quirky cafés and lively scenes — perfect for classic city photos 📸."
+          },
+          {
+            "name": "Ostrów Tumski at Dusk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ostr%C3%B3w+Tumski+Wroc%C5%82aw",
+            "description": "Historic cathedral island lit softly at twilight — ideal for atmospheric photography 🌆."
+          },
+          {
+            "name": "Japanese Garden in Szczytnicki Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Japanese+Garden+Szczytnicki+Park+Wroc%C5%82aw",
+            "description": "Serene landscaped garden with bridges, ponds and seasonal blossoms — peaceful and photogenic 🌸."
+          },
+          {
+            "name": "Wrocław Dwarfs Trails",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Wroc%C5%82aw+dwarfs+Wroc%C5%82aw",
+            "description": "Hundreds of tiny dwarf statues hidden around the city — whimsical and fun photo hunt 📷."
+          },
+          {
+            "name": "Oder River Embankments",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Oder+River+embankments+Wroc%C5%82aw",
+            "description": "Riverside views with bridges, reflections and vibrant life — perfect at golden hour 🌅."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Market Square Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=restaurants+Rynek+Wroc%C5%82aw",
+            "description": "Polish classics like pierogi, żurek and local wines in lively historic surroundings 🍽️."
+          },
+          {
+            "name": "Hala Targowa Food Stalls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hala+Targowa+Wroc%C5%82aw",
+            "description": "Traditional market experience with fresh produce, local bites and casual eats 🍷."
+          },
+          {
+            "name": "Nadodrze District Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nadodrze+bars+Wroc%C5%82aw",
+            "description": "Creative neighbourhood with artsy bars, craft beer and chill nightlife 🍸🎶."
+          },
+          {
+            "name": "Śródmieście Cocktail Lounges",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=cocktail+bars+Śródmieście+Wroc%C5%82aw",
+            "description": "Stylish lounges serving creative cocktails and late-night vibes 🍹."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Wroc%C5%82aw",
+            "description": "Sweet gelato while strolling the lit Market Square at night 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Szczytnicki Park & Japanese Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Szczytnicki+Park+Wroc%C5%82aw",
+            "description": "Expansive park with ponds, shaded paths and serene Japanese garden — perfect for picnics 🌿."
+          },
+          {
+            "name": "Oder River Boat Cruise",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Oder+River+boat+cruise+Wroc%C5%82aw",
+            "description": "Relaxing river cruise with scenic views of historic bridges and green embankments 🚤."
+          },
+          {
+            "name": "Botanical Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Wroc%C5%82aw",
+            "description": "Colourful plant collections and shady walkways — great for nature lovers 🌼."
+          },
+          {
+            "name": "Oder Islands (Wyspa Słodowa)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Wyspa+S%C5%82odowa+Wroc%C5%82aw",
+            "description": "Popular green island with picnic spots, water views and relaxed vibes 🚶‍♂️."
+          }
+        ]
+      },
+      "local_food_tip": "In Wrocław, try pierogi, żurek, local sausages and Silesian specialties like kluski śląskie. Pair meals with Polish craft beers or mead, and don’t miss sweet treats like kremówka 🍷🍖.",
+      "full_day": {
+        "morning": "☀️ Begin with coffee and pastries near <a href=\"https://www.google.com/maps/search/?api=1&query=Rynek+Wroc%C5%82aw\">Rynek Market Square</a>, explore colourful facades and then visit <a href=\"https://www.google.com/maps/search/?api=1&query=Wroc%C5%82aw+Cathedral+Ostr%C3%B3w+Tumski\">Wrocław Cathedral</a> on Cathedral Island.",
+        "afternoon": "🍽️ Enjoy lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Hala+Targowa+Wroc%C5%82aw\">Hala Targowa</a>, stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=Szczytnicki+Park+Wroc%C5%82aw\">Szczytnicki Park</a> and relax in the Japanese Garden.",
+        "evening": "🌇 Sip drinks in the Nadodrze district, capture golden hour photos at the Oder River embankments, and savour dinner in town.",
+        "night": "🌃 Cap your night with gelato and explore Wrocław’s lively nightlife scene."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoming gardens, mild weather and vibrant street life 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Park Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Szczytnicki+Park+Wroc%C5%82aw",
+              "description": "Enjoy fresh blooms and shaded paths in spring."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny river cruises, outdoor cafés and lively squares ☀️.",
+          "ideas": [
+            {
+              "name": "Summer River Cruise",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Oder+River+boat+cruise+Wroc%C5%82aw",
+              "description": "Relax on the water with scenic views of bridges and embankments."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden foliage, crisp air and cosy cafés 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Cathedral Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Wroc%C5%82aw+Cathedral+Ostr%C3%B3w+Tumski",
+              "description": "Capture warm autumn hues at Cathedral Island."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, snowy squares and warming cafés ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Break",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hala+Targowa+Wroc%C5%82aw",
+              "description": "Warm up with coffee and traditional treats indoors."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Wrocław’s trams and buses make getting around easy — connect Market Square, parks, cathedral and districts 🚍.",
+          "link": "https://www.wroclaw.pl/"
+        },
+        {
+          "tip": "Bike rentals and walking paths let you explore riverside views and parks at your own pace 🚲.",
+          "link": "https://www.visitwroclaw.eu/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Wroc%C5%82aw+summer+events",
+          "description": "Open-air concerts, cultural festivals and lively celebrations fill squares and parks 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Rynek (Market Square)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Rynek+Wroc%C5%82aw",
+          "description": "Historic main square with colourful façades and great vibes 🏙️."
+        },
+        {
+          "name": "Wrocław Cathedral (Ostrów Tumski)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Wroc%C5%82aw+Cathedral+Ostr%C3%B3w+Tumski",
+          "description": "Gothic cathedral on historic cathedral island 🚩."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Riverside Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+riverside+bench+Wroc%C5%82aw",
+          "description": "Secluded bench along the Oder River — calm spot for reflection 🌊."
+        },
+        {
+          "name": "Hidden Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Wroc%C5%82aw",
+          "description": "Cozy tucked-away café perfect for peaceful coffee breaks ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Coimbra",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "University of Coimbra & Biblioteca Joanina",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=University+of+Coimbra+Biblioteca+Joanina",
+            "description": "Historic medieval university and ornate baroque library — UNESCO heritage and a symbol of Coimbra’s academic legacy 🎓."
+          },
+          {
+            "name": "Coimbra Old Cathedral (Sé Velha)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Coimbra+Sé+Velha",
+            "description": "Romanesque cathedral with fortress-like exterior and atmospheric interior — ancient and iconic ⛪."
+          },
+          {
+            "name": "Coimbra New Cathedral (Sé Nova)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Coimbra+Sé+Nova",
+            "description": "Stunning cathedral blending Renaissance and Mannerist styles — beautiful art and architecture 🖼️."
+          },
+          {
+            "name": "Museu Nacional de Machado de Castro",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museu+Nacional+de+Machado+de+Castro+Coimbra",
+            "description": "Major art museum in an old bishop’s palace — superb collection and Roman cryptoporticus below 🏛️."
+          },
+          {
+            "name": "Monastery of Santa Clara-a-Velha",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monastery+of+Santa+Clara-a-Velha+Coimbra",
+            "description": "Ruins of a Gothic monastery with evocative riverside setting and history 🌿."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "University Terrace Views (Paço das Escolas)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pa%C3%A7o+das+Escolas+Coimbra",
+            "description": "Panoramic views over the city and river — especially magical at sunrise or sunset 📸."
+          },
+          {
+            "name": "Coimbra Old Town Lanes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Coimbra+Old+Town+lanes",
+            "description": "Charming narrow streets with colourful houses and traditional balconies — perfect for urban photography 🏘️."
+          },
+          {
+            "name": "Roman Bridge over Mondego",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Roman+Bridge+Mondego+Coimbra",
+            "description": "Historic bridge crossing the river with scenic views — lovely for photos 🌉."
+          },
+          {
+            "name": "Santa Cruz Church Façade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Santa+Cruz+Church+Coimbra",
+            "description": "Striking façade and square — great for architectural shots 📷."
+          },
+          {
+            "name": "Jardim Botânico da Universidade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jardim+Bot%C3%A2nico+da+Universidade+Coimbra",
+            "description": "Beautiful botanical gardens with paths, ponds and flower beds — perfect for nature photos 🌼."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Praça do Comércio Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a+do+Com%C3%A9rcio+Coimbra+cafes",
+            "description": "Central square cafés with coffee, pastries and people-watching — great start to the day ☕🍰."
+          },
+          {
+            "name": "Fado de Coimbra Houses",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=fado+de+Coimbra",
+            "description": "Experience traditional Coimbra fado performances paired with local wine — soulful and atmospheric 🎶🍷."
+          },
+          {
+            "name": "Ruas do Centro Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=restaurants+Coimbra+centre",
+            "description": "Local restaurants serving Portuguese classics like bacalhau, grilled sardines and arroz de marisco 🍽️."
+          },
+          {
+            "name": "Mondego Riverside Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mondego+Riverside+bars+Coimbra",
+            "description": "Chilled riverside spots for cocktails and conversation as the sun sets 🍸🌅."
+          },
+          {
+            "name": "Evening Gelato Strolls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Coimbra",
+            "description": "Cap your night with gelato wandering illuminated old streets 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Jardim Botânico da Universidade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jardim+Bot%C3%A2nico+da+Universidade+Coimbra",
+            "description": "Tranquil gardens with shaded pathways, ponds and lush vegetation — great for a peaceful walk 🌿."
+          },
+          {
+            "name": "Mondego River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mondego+River+promenade+Coimbra",
+            "description": "Leisurely riverside walk with benches and scenic views — perfect for relaxation 🚶‍♂️."
+          },
+          {
+            "name": "Parque Verde do Mondego",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parque+Verde+do+Mondego+Coimbra",
+            "description": "Expansive green parkland ideal for picnics, cycling and outdoor chill 🌳."
+          },
+          {
+            "name": "Portugal dos Pequenitos Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Portugal+dos+Pequenitos+Gardens+Coimbra",
+            "description": "Quirky and beautiful themed gardens — fun and colorful escapes 🌸."
+          }
+        ]
+      },
+      "local_food_tip": "In Coimbra, savour Portuguese classics like bacalhau à brás, grilled sardines, arroz de marisco and pastéis de nata. Pair meals with local wines and enjoy riverside café culture 🍷🐟.",
+      "full_day": {
+        "morning": "☀️ Start with coffee and pastries at <a href=\"https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a+do+Com%C3%A9rcio+Coimbra+cafes\">Praça do Comércio cafés</a>, then explore the historic <a href=\"https://www.google.com/maps/search/?api=1&query=Coimbra+Sé+Velha\">Coimbra Old Cathedral</a> and climb to the panoramic <a href=\"https://www.google.com/maps/search/?api=1&query=Pa%C3%A7o+das+Escolas+Coimbra\">University terrace views</a>.",
+        "afternoon": "🍽️ Enjoy a Portuguese lunch in the centre, wander through the <a href=\"https://www.google.com/maps/search/?api=1&query=Jardim+Bot%C3%A2nico+da+Universidade+Coimbra\">Jardim Botânico</a> and stroll the <a href=\"https://www.google.com/maps/search/?api=1&query=Mondego+River+promenade+Coimbra\">Mondego River promenade</a>.",
+        "evening": "🌇 Sip cocktails by the river at sunset, then catch traditional <a href=\"https://www.google.com/maps/search/?api=1&query=fado+de+Coimbra\">Fado de Coimbra</a> with local wine.",
+        "night": "🌃 Cap your night with gelato and a relaxed walk through illuminated old town streets."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoming gardens, mild breezes and perfect terrace weather 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Jardim Botânico Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Jardim+Bot%C3%A2nico+da+Universidade+Coimbra",
+              "description": "Enjoy floral blooms and peaceful paths in the botanical gardens."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, river life and outdoor café culture ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Riverside Chill",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Mondego+River+promenade+Coimbra",
+              "description": "Relax by the water with sunshine and scenic views."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden light, cosy cafés and scenic walks 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Old Town Photos",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Coimbra+Old+Town+lanes",
+              "description": "Capture warm autumn tones along historic lanes."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy indoor culture, museums and crisp air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Museum Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Museu+Nacional+de+Machado+de+Castro+Coimbra",
+              "description": "Warm up exploring exhibits and local history indoors."
+            }
+          ]
+        }
+      },
+    "public_transport_tips": [
+      {
+        "tip": "The SMTUC bus network connects the University, Old Town, riverfront and main parks — efficient and affordable 🚍.",
+        "link": "https://www.smtuc.pt/"
+      },
+      {
+        "tip": "Regional trains from Coimbra-B station link the city with Lisbon and Porto easily 🚆.",
+        "link": "https://www.cp.pt/passageiros/en"
+      },
+      {
+        "tip": "Walking and biking are perfect for exploring Coimbra’s compact historic centre 🚲.",
+        "link": "https://www.cm-coimbra.pt/"
+      }
+    ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Coimbra+summer+events",
+          "description": "Music festivals, cultural shows and riverside celebrations bring vibrant energy to squares and gardens 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "University of Coimbra & Biblioteca Joanina",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=University+of+Coimbra+Biblioteca+Joanina",
+          "description": "Historic university complex and ornate baroque library — iconic academic landmark 🎓."
+        },
+        {
+          "name": "Coimbra Old Cathedral (Sé Velha)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Coimbra+Sé+Velha",
+          "description": "Ancient Romanesque cathedral with atmospheric interior ⛪."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Mondego Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+Mondego+bench+Coimbra",
+          "description": "Secluded bench by the river — perfect for peaceful reflection 🌊."
+        },
+        {
+          "name": "Hidden Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Coimbra",
+          "description": "Cozy tucked-away café ideal for peaceful coffee breaks ☕."
+        }
+      ]
+    }
+    ,
+
+    {
+      "name": "Lisbon",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Belém Tower (Torre de Belém)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belém+Tower+Lisbon",
+            "description": "Iconic Manueline tower on the Tagus River — symbol of Portugal’s Age of Discovery and one of Lisbon’s most famous monuments 🏰."
+          },
+          {
+            "name": "Jerónimos Monastery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jerónimos+Monastery+Lisbon",
+            "description": "UNESCO-listed monastery with grand cloisters and intricate stonework — a masterpiece of Portuguese Gothic architecture ⛪."
+          },
+          {
+            "name": "MAAT – Museum of Art, Architecture and Technology",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=MAAT+Lisbon",
+            "description": "Futuristic riverside museum exploring contemporary art and innovation — perfect mix of design and creativity 🎨."
+          },
+          {
+            "name": "National Tile Museum (Museu Nacional do Azulejo)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museu+Nacional+do+Azulejo+Lisbon",
+            "description": "Celebrates Portugal’s beautiful ceramic tiles — vibrant patterns and centuries of artistry 🖼️."
+          },
+          {
+            "name": "Alfama District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Alfama+District+Lisbon",
+            "description": "Lisbon’s oldest neighborhood — cobbled lanes, fado music, and colorful houses with laundry swaying in the breeze 🎶."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Miradouro da Senhora do Monte",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Miradouro+da+Senhora+do+Monte+Lisbon",
+            "description": "One of Lisbon’s best viewpoints with stunning city and castle panoramas 🌇."
+          },
+          {
+            "name": "Tram 28 Route",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tram+28+Lisbon",
+            "description": "Classic yellow tram weaving through Alfama’s steep streets — quintessential Lisbon shot 🚋."
+          },
+          {
+            "name": "LX Factory Murals",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=LX+Factory+Lisbon",
+            "description": "Trendy creative hub with street art, bookstores and rooftop bars — perfect for artsy photos 🎨."
+          },
+          {
+            "name": "Belém Waterfront",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belém+Waterfront+Lisbon",
+            "description": "Tagus River views, boats and monuments — ideal for golden hour photography 📸."
+          },
+          {
+            "name": "Pink Street (Rua Nova do Carvalho)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pink+Street+Lisbon",
+            "description": "Famous pink-painted street filled with nightlife and fun energy 💗."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Time Out Market",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Time+Out+Market+Lisbon",
+            "description": "Trendy food hall offering the best of Lisbon’s cuisine in one place — from pastel de nata to seafood 🍽️."
+          },
+          {
+            "name": "Alfama Fado Houses",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fado+houses+Alfama+Lisbon",
+            "description": "Intimate venues with live fado music, candlelight and soulful voices 🎶🍷."
+          },
+          {
+            "name": "Cais do Sodré Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cais+do+Sodré+Lisbon",
+            "description": "Lively district by the river with nightclubs, cocktail lounges and late-night bites 🍸."
+          },
+          {
+            "name": "Bairro Alto Nightlife",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bairro+Alto+Lisbon",
+            "description": "Historic district that transforms into a lively party hub after dark ✨."
+          },
+          {
+            "name": "Pasteis de Belém Bakery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pasteis+de+Belém+Lisbon",
+            "description": "Home of the original custard tart — crispy, creamy and unmissable 🥧."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Eduardo VII Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Eduardo+VII+Park+Lisbon",
+            "description": "Vast central park with scenic lawns and Lisbon skyline views 🌳."
+          },
+          {
+            "name": "Jardim da Estrela",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jardim+da+Estrela+Lisbon",
+            "description": "Romantic 19th-century garden with duck ponds and fountains — perfect for picnics 🌺."
+          },
+          {
+            "name": "Tagus River Walk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tagus+River+walk+Lisbon",
+            "description": "Beautiful riverside promenade connecting Belém to Cais do Sodré — ideal for cycling or sunset strolls 🚶‍♀️."
+          },
+          {
+            "name": "Monsanto Forest Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monsanto+Forest+Park+Lisbon",
+            "description": "Lisbon’s ‘green lung’ — a huge natural park with trails, viewpoints and picnic areas 🌲."
+          }
+        ]
+      },
+      "local_food_tip": "In Lisbon, try bacalhau à brás, sardinhas assadas, pastel de nata and caldo verde. Enjoy a glass of vinho verde or port wine with seaside views 🍷🐟.",
+      "full_day": {
+        "morning": "☀️ Start your day with a tram 28 ride through <a href='https://www.google.com/maps/search/?api=1&query=Alfama+District+Lisbon'>Alfama</a>, visit <a href='https://www.google.com/maps/search/?api=1&query=Sé+Cathedral+Lisbon'>Sé Cathedral</a>, then have breakfast near <a href='https://www.google.com/maps/search/?api=1&query=Praça+do+Comércio+Lisbon'>Praça do Comércio</a>.",
+        "afternoon": "🍽️ Lunch at <a href='https://www.google.com/maps/search/?api=1&query=Time+Out+Market+Lisbon'>Time Out Market</a>, explore <a href='https://www.google.com/maps/search/?api=1&query=Belém+Tower+Lisbon'>Belém Tower</a> and <a href='https://www.google.com/maps/search/?api=1&query=Jerónimos+Monastery+Lisbon'>Jerónimos Monastery</a>.",
+        "evening": "🌇 Capture sunset at <a href='https://www.google.com/maps/search/?api=1&query=Miradouro+da+Senhora+do+Monte+Lisbon'>Miradouro da Senhora do Monte</a>, then dine with fado in <a href='https://www.google.com/maps/search/?api=1&query=Alfama+District+Lisbon'>Alfama</a>.",
+        "night": "🌃 Explore <a href='https://www.google.com/maps/search/?api=1&query=Bairro+Alto+Lisbon'>Bairro Alto</a> nightlife or relax by the <a href='https://www.google.com/maps/search/?api=1&query=Tagus+River+walk+Lisbon'>Tagus River</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming jacarandas, sunny terraces and perfect walking weather 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Garden Strolls",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Jardim+da+Estrela+Lisbon",
+              "description": "Enjoy pastel blooms and calm paths in Lisbon’s romantic parks."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm evenings, seaside breezes and lively festivals ☀️.",
+          "ideas": [
+            {
+              "name": "St. Anthony Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Festas+de+Santo+António+Lisbon",
+              "description": "Celebrate Lisbon’s patron saint with street music, sardines and parades 🎉."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden light, quieter streets and cosy café vibes 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn River Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tagus+River+walk+Lisbon",
+              "description": "Enjoy gentle sunsets and calm river breezes."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, mild weather and warm custard tarts ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Market Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Christmas+Market+Lisbon",
+              "description": "Wander through lights and stalls selling sweets and gifts."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Carris trams and buses connect all major sights — Tram 28 is a classic way to see the city 🚋.",
+          "link": "https://www.carris.pt/"
+        },
+        {
+          "tip": "Metro lines cover most districts efficiently and are easy for tourists 🚇.",
+          "link": "https://www.metrolisboa.pt/en/"
+        },
+        {
+          "tip": "Ferries cross the Tagus River for scenic rides between Lisbon and Almada 🚤.",
+          "link": "https://ttsl.pt/"
+        },
+        {
+          "tip": "For regional trips to Sintra or Cascais, take suburban trains from Cais do Sodré or Rossio 🚆.",
+          "link": "https://www.cp.pt/passageiros/en"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Festas+de+Santo+António+Lisbon",
+          "description": "Lisbon’s biggest street party — sardines, music and parades celebrating Santo António 🎶."
+        },
+        {
+          "season": "Spring",
+          "dates": "April–May (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Lisbon+Fish+and+Flavours+Festival",
+          "description": "Food festival celebrating Portuguese seafood and gastronomy 🐟."
+        }
+      ],
+      "places": [
+        {
+          "name": "Belém Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Belém+Tower+Lisbon",
+          "description": "Iconic riverside monument and symbol of Lisbon’s maritime history 🏰."
+        },
+        {
+          "name": "Alfama District",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Alfama+District+Lisbon",
+          "description": "Lisbon’s oldest neighbourhood full of charm, fado and winding streets 🎶."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Miradouro da Nossa Senhora do Monte Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Miradouro+da+Nossa+Senhora+do+Monte+Lisbon",
+          "description": "Quiet viewpoint bench with panoramic views — perfect at sunset 🌅."
+        },
+        {
+          "name": "Hidden Alley Café in Alfama",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Alfama+Lisbon",
+          "description": "Cozy café tucked into Alfama’s narrow lanes — ideal for peaceful coffee breaks ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Porto",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Dom Luís I Bridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dom+Luís+I+Bridge+Porto",
+            "description": "Iconic double-decker iron bridge over the Douro River — a symbol of Porto and stunning engineering heritage 🌉."
+          },
+          {
+            "name": "Livraria Lello",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Livraria+Lello+Porto",
+            "description": "Historic bookstore with sweeping wooden staircases and magical atmosphere — said to inspire J.K. Rowling 📚."
+          },
+          {
+            "name": "Clérigos Tower",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cl%C3%A9rigos+Tower+Porto",
+            "description": "Baroque church tower with panoramic city views — climb the steps for unforgettable sightlines ⛪."
+          },
+          {
+            "name": "São Bento Railway Station",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=São+Bento+Railway+Station+Porto",
+            "description": "Beautiful station decorated with blue azulejo tiles depicting Portuguese history 🛤️."
+          },
+          {
+            "name": "Serralves Museum & Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Serralves+Museum+Porto",
+            "description": "Contemporary art museum in stunning parkland — perfect mix of art, design and nature 🌳."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Ribeira District Waterfront",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ribeira+District+Porto",
+            "description": "Colorful façades by the Douro River — classic Porto postcard moments 📸."
+          },
+          {
+            "name": "Miradouro da Vitória",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Miradouro+da+Vit%C3%B3ria+Porto",
+            "description": "Panoramic viewpoint over the terracotta rooftops and river — especially beautiful at sunset 🌅."
+          },
+          {
+            "name": "Porto Cathedral (Sé do Porto)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Porto+Cathedral+Sé+do+Porto",
+            "description": "Historic cathedral with striking architecture and dramatic city views 📷."
+          },
+          {
+            "name": "Dom Luís I Bridge Upper Deck",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dom+Lu%C3%ADs+I+Bridge+upper+deck+Porto",
+            "description": "Cross the top of the bridge for sweeping vistas of both riverbanks 🌉."
+          },
+          {
+            "name": "Palácio de Cristal Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pal%C3%A1cio+de+Cristal+Gardens+Porto",
+            "description": "Lush gardens with city and river views — perfect for relaxed photo moments 🌿."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Cais da Ribeira Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cais+da+Ribeira+restaurants+Porto",
+            "description": "Riverside eateries serving fresh seafood, francesinha and local wines 🍽️."
+          },
+          {
+            "name": "Bolhão Market",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bolh%C3%A3o+Market+Porto",
+            "description": "Historic market with fresh produce, local bites and authentic Porto vibe 🥖."
+          },
+          {
+            "name": "Port Wine Cellars in Vila Nova de Gaia",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Port+wine+cellars+Vila+Nova+de+Gaia",
+            "description": "Visit iconic cellars for tastings of world-famous port wine 🍷."
+          },
+          {
+            "name": "Bars in Galerias de Paris",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Galerias+de+Paris+Porto",
+            "description": "Lively nightlife hub with bars, clubs and cocktails 🍸🎶."
+          },
+          {
+            "name": "Cafe Majestic",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cafe+Majestic+Porto",
+            "description": "Belle Époque café with elegant décor — perfect for coffee or dessert ☕🍰."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Jardins do Palácio de Cristal",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jardins+do+Pal%C3%A1cio+de+Cristal+Porto",
+            "description": "Green terraces, peacocks and river views — great for picnics and quiet moments 🌳."
+          },
+          {
+            "name": "Foz do Douro Beaches",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Foz+do+Douro+beaches+Porto",
+            "description": "Where the river meets the Atlantic — sandy shores and sea breeze 🏖️."
+          },
+          {
+            "name": "Douro River Cruise",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Douro+River+cruise+Porto",
+            "description": "Relaxing boat ride with scenic river and city views 🚤."
+          },
+          {
+            "name": "City Park (Parque de Cidade)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parque+de+Cidade+Porto",
+            "description": "Portugal’s largest urban park — shaded paths, lakes and cycling routes 🌿."
+          }
+        ]
+      },
+      "local_food_tip": "In Porto, try francesinha (hearty sandwich), fresh seafood, pastel de nata and, of course, world-famous port wine. Pair meals with local vinho verde or craft beer 🍷🍤.",
+      "full_day": {
+        "morning": "☀️ Start with coffee and pastries at <a href=\"https://www.google.com/maps/search/?api=1&query=Cafe+Majestic+Porto\">Cafe Majestic</a>, then stroll the historic <a href=\"https://www.google.com/maps/search/?api=1&query=Ribeira+District+Porto\">Ribeira District</a> and explore <a href=\"https://www.google.com/maps/search/?api=1&query=São+Bento+Railway+Station+Porto\">São Bento Station</a>.",
+        "afternoon": "🍽️ Enjoy a riverside lunch near <a href=\"https://www.google.com/maps/search/?api=1&query=Cais+da+Ribeira+restaurants+Porto\">Cais da Ribeira</a>, then relax with a <a href=\"https://www.google.com/maps/search/?api=1&query=Douro+River+cruise+Porto\">Douro River cruise</a> and river views from <a href=\"https://www.google.com/maps/search/?api=1&query=Dom+Lu%C3%ADs+I+Bridge+upper+deck+Porto\">Dom Luís I Bridge</a>.",
+        "evening": "🌇 Sip port wine in Vila Nova de Gaia with views over Porto, then enjoy nightlife on <a href=\"https://www.google.com/maps/search/?api=1&query=Galerias+de+Paris+Porto\">Galerias de Paris</a>.",
+        "night": "🌃 Cap your night with a gelato walk along the riverfront and lit historic streets."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoming gardens, river breeze and outdoor cafés 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Gardens Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Jardins+do+Pal%C3%A1cio+de+Cristal+Porto",
+              "description": "Enjoy fresh blooms and green terraces in the city gardens."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny river cruises, beach breeze and lively festivals ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Foz Beach Chill",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Foz+do+Douro+beaches+Porto",
+              "description": "Relax on sandy shores with Atlantic views."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden light, crisp air and cosy cafés 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Riverside Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ribeira+District+Porto",
+              "description": "Capture warm hues along the Douro waterfront."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy indoor culture, wine tastings and festive lights ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Port Tasting",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Port+wine+cellars+Vila+Nova+de+Gaia",
+              "description": "Warm up with tastings in iconic port wine cellars."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "STCP buses and trams connect key areas like Ribeira, Bolhão and Foz do Douro — convenient and tourist-friendly 🚍.",
+          "link": "https://www.stcp.pt/"
+        },
+        {
+          "tip": "Metro do Porto is fast and easy for reaching Gaia, the airport and suburbs 🚇.",
+          "link": "https://www.metrodoporto.pt/"
+        },
+        {
+          "tip": "Funicular dos Guindais links Ribeira and Batalha — scenic short ride 🚡.",
+          "link": "https://www.funiculardosguindais.pt/"
+        },
+        {
+          "tip": "Ferries on the Douro cross river between Porto and Gaia — scenic views and easy transport 🚤.",
+          "link": "https://www.portalferroviario.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–July (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Festas+de+S%C3%A3o+Jo%C3%A3o+Porto",
+          "description": "São João Festival — Porto’s biggest party with music, fireworks, grilled sardines and street dancing 🎉."
+        },
+        {
+          "season": "Autumn",
+          "dates": "September–October (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Fall+Wine+Festivals+Porto",
+          "description": "Wine harvest festivals and tastings celebrating Douro wines 🍇."
+        }
+      ],
+      "places": [
+        {
+          "name": "Dom Luís I Bridge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Dom+Lu%C3%ADs+I+Bridge+Porto",
+          "description": "Porto’s stunning double-decker bridge with river views 🌉."
+        },
+        {
+          "name": "Ribeira District",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Ribeira+District+Porto",
+          "description": "Historic waterfront quarter with colourful houses and lively atmosphere 📸."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Douro Riverside Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+Douro+riverside+bench+Porto",
+          "description": "Secluded bench along the river — peaceful and perfect for reflection 🌊."
+        },
+        {
+          "name": "Hidden Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Porto",
+          "description": "Cozy tucked-away café ideal for a peaceful coffee break ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Sintra",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Pena Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pena+Palace+Sintra",
+            "description": "Fairytale Romanticist castle perched on a hilltop — colourful façades, stucco domes and panoramic views over Sintra 🌈."
+          },
+          {
+            "name": "Quinta da Regaleira",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Quinta+da+Regaleira+Sintra",
+            "description": "Mystical estate with enigmatic gardens, tunnels, grottoes and the Initiation Well — perfect blend of art, symbolism and history 🕯️."
+          },
+          {
+            "name": "Moorish Castle (Castelo dos Mouros)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Moorish+Castle+Sintra",
+            "description": "Ancient hilltop fortress with scenic walking walls and breathtaking views across Sintra’s forests and palaces 🛡️."
+          },
+          {
+            "name": "Sintra National Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sintra+National+Palace",
+            "description": "Royal residence with iconic twin chimneys and beautifully decorated rooms — rich in Portuguese regal history 👑."
+          },
+          {
+            "name": "Monserrate Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monserrate+Palace+Sintra",
+            "description": "Exotic palace with lush gardens and unique Moorish-Romantic architecture — an elegant cultural gem 🏛️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Pena Palace Terraces",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pena+Palace+terraces+Sintra",
+            "description": "Panoramic viewpoints over vibrant palace domes and sweeping landscapes — perfect for golden hour shots 📸."
+          },
+          {
+            "name": "Initiation Well",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Initiation+Well+Quinta+da+Regaleira",
+            "description": "Spiral stone staircase descending into mystery — dramatic and hauntingly beautiful for photos 🌀."
+          },
+          {
+            "name": "Moorish Castle Walls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Moorish+Castle+walls+Sintra",
+            "description": "Walk the ancient ramparts with mountain and forest backdrops — a must-capture landscape 📷."
+          },
+          {
+            "name": "Sintra National Palace Roofline",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sintra+National+Palace+roofline",
+            "description": "Historic chimneys and tiled façades set against sky and hills — iconic Sintra composition 🌥️."
+          },
+          {
+            "name": "Cabo da Roca Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cabo+da+Roca+Sintra+views",
+            "description": "Westernmost point of continental Europe with cliffs and sea — epic vista shots 🌊."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Sintra Old Town Eateries",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=restaurants+Sintra+Old+Town",
+            "description": "Traditional Portuguese dishes and cosy cafés in historic squares — perfect for local flavours 🍽️."
+          },
+          {
+            "name": "Tascas & Wine Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=wine+bars+Sintra",
+            "description": "Charming tascas serving Portuguese wines and snacks — perfect for relaxed evenings 🍷."
+          },
+          {
+            "name": "Pastéis de Sintra Shops",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=past%C3%A9is+de+Sintra",
+            "description": "Local pastry shops offering sweet travesseiros and queijadas — delicious Sintra specialties 🥮."
+          },
+          {
+            "name": "Monserrate Terrace Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monserrate+terrace+cafe+Sintra",
+            "description": "Cafés with scenic garden views — lovely for afternoon coffee and relaxation ☕."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Sintra",
+            "description": "Finish your night with gelato as you stroll illuminated old town lanes 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Sintra-Cascais Natural Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sintra-Cascais+Natural+Park",
+            "description": "Expansive protected landscape with forests, cliffs and trails — perfect for hiking and fresh air 🌲."
+          },
+          {
+            "name": "Cabo da Roca Cliffs",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cabo+da+Roca+Sintra",
+            "description": "Dramatic cliffside overlooks where the land meets the Atlantic — ideal for sunset and coastal chill 🌅."
+          },
+          {
+            "name": "Monserrate Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monserrate+Park+Sintra",
+            "description": "Lush gardens with exotic plants, ponds and shaded spots — peaceful nature escape 🌼."
+          },
+          {
+            "name": "Forest Trails Around Pena",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=forest+trails+Pena+Sintra",
+            "description": "Secret woodland paths around the palace — great for walking and calm forest vibes 🚶‍♂️."
+          }
+        ]
+      },
+      "local_food_tip": "In Sintra, try travesseiros (sweet pillow pastries), queijadas (cheese tarts), fresh seafood and regional wines. Pair your meal with a glass of chilled vinho verde while enjoying the elegant historic ambience 🍷🥮.",
+      "full_day": {
+        "morning": "☀️ Begin your day at <a href=\"https://www.google.com/maps/search/?api=1&query=Pena+Palace+Sintra\">Pena Palace</a>, wander the colourful terraces and enjoy expansive views, then explore the mystical gardens of <a href=\"https://www.google.com/maps/search/?api=1&query=Quinta+da+Regaleira+Sintra\">Quinta da Regaleira</a>.",
+        "afternoon": "🍽️ Have lunch in Sintra Old Town, stroll through historic streets, then visit <a href=\"https://www.google.com/maps/search/?api=1&query=Moorish+Castle+Sintra\">Moorish Castle</a> and take in scenic hilltop views.",
+        "evening": "🌇 Sip wine or coffee at a terrace café near <a href=\"https://www.google.com/maps/search/?api=1&query=Sintra+National+Palace\">Sintra National Palace</a>, then stroll the old lanes and capture sunset at <a href=\"https://www.google.com/maps/search/?api=1&query=Cabo+da+Roca+Sintra+views\">Cabo da Roca</a>.",
+        "night": "🌃 Cap your night with gelato and a relaxed walk through the illuminated historic centre."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Cool breezes, blooming gardens and perfect hiking weather 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Forest Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=forest+trails+Pena+Sintra",
+              "description": "Enjoy gentle trails, wildflowers and fresh air around the hills."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm sun, vibrant terraces and seaside breeze ☀️.",
+          "ideas": [
+            {
+              "name": "Cabo da Roca Beach Chill",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cabo+da+Roca+Sintra",
+              "description": "Relax by the cliffs with Atlantic views and cool breezes."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden light, cosy cafés and forest shades 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Regaleira Gardens",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Quinta+da+Regaleira+Sintra",
+              "description": "Capture atmospheric colours and moody light in the gardens."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Mild days, dramatic skies and peaceful walks ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Palace Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pena+Palace+Sintra",
+              "description": "Enjoy quieter palace grounds and dramatic winter light."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Local buses (Scotturb) connect Sintra train stations with palaces and parks — convenient for exploring without a car 🚍.",
+          "link": "https://www.scotturb.com/"
+        },
+        {
+          "tip": "CP trains from Lisbon’s Rossio, Oriente or Entrecampos stations reach Sintra easily — ideal for day trips 🚆.",
+          "link": "https://www.cp.pt/passageiros/en"
+        },
+        {
+          "tip": "Sintra’s tuk-tuks and tuk-ride services offer quick, fun hops between major sites 🚖.",
+          "link": "https://www.tuktukvisit.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sintra+summer+events",
+          "description": "Festivals, open-air concerts and cultural celebrations animate Sintra’s squares and gardens 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Pena Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Pena+Palace+Sintra",
+          "description": "Iconic fairytale castle with stunning views and colourful design 🌈."
+        },
+        {
+          "name": "Quinta da Regaleira",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Quinta+da+Regaleira+Sintra",
+          "description": "Mystical estate with gardens, wells and secret paths 🕯️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Chalet Stop",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+chalet+Sintra",
+          "description": "Secluded bench or lookout point away from crowds — perfect for peaceful views 🌄."
+        },
+        {
+          "name": "Hidden Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Sintra",
+          "description": "Cozy tucked-away café ideal for a peaceful coffee break ☕."
+        }
+      ]
+    }
+
+  ]
+}

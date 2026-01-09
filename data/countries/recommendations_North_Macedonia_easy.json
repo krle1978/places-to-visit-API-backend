@@ -1,0 +1,1004 @@
+{
+  "name": "North Macedonia",
+  "cities": [
+    {
+      "name": "Bitola",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Heraclea Lyncestis",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Heraclea+Lyncestis+Bitola",
+            "description": "Ancient Macedonian city ruins with mosaic floors, theatre and tombs — a fascinating dive into classical history 🏛️."
+          },
+          {
+            "name": "Bitola Old Bazaar (Čaršija)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bitola+Old+Bazaar+Čaršija",
+            "description": "Historic market area with Ottoman-era architecture, local crafts, and cultural vibes — perfect for exploring and shopping 🎨."
+          },
+          {
+            "name": "Stara Bitola (Shirok Sokak)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Shirok+Sokak+Bitola",
+            "description": "Main pedestrian street with neoclassical buildings, galleries, and cafés — heart of Bitola’s cultural life 🚶‍♂️."
+          },
+          {
+            "name": "Museum of Bitola",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+of+Bitola",
+            "description": "Exhibits local history, archaeology and ethnography — great for understanding the region’s heritage 🖼️."
+          },
+          {
+            "name": "Church of St. Dimitrija",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+St.+Dimitrija+Bitola",
+            "description": "Beautiful Orthodox church with classic architecture and spiritual art ⛪."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Heraclea Lyncestis Theatre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Heraclea+Lyncestis+Theatre",
+            "description": "Ancient theatre with stone arches and historic ambience — dramatic setting for photos 📸."
+          },
+          {
+            "name": "Shirok Sokak Street Scenes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Shirok+Sokak+Bitola",
+            "description": "Charming pedestrian street with façades, cafés and life unfolding — perfect for urban photography 📷."
+          },
+          {
+            "name": "Old Bazaar Alleys",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bitola+Old+Bazaar+Čaršija",
+            "description": "Colourful bazaar lanes filled with local shops and textures — great candid capture spots 🌆."
+          },
+          {
+            "name": "Bitola City Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bitola+City+Park",
+            "description": "Green park spaces with shaded paths and seasonal flowers — ideal for relaxed photography 🌿."
+          },
+          {
+            "name": "Clock Tower (Saat Kula)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Clock+Tower+Bitola",
+            "description": "Historic Ottoman clock tower at the centre — iconic and photogenic from many angles 🕰️."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Shirok Sokak Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Shirok+Sokak+Bitola+cafes",
+            "description": "Terraced cafés along the main street — great for coffee, people-watching and desserts ☕🍰."
+          },
+          {
+            "name": "Old Bazaar Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=restaurants+Bitola+Old+Bazaar",
+            "description": "Local eateries offering Macedonian classics like tavče gravče, kebapi and ajvar 🍽️."
+          },
+          {
+            "name": "Bars & Lounges in City Centre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=bars+Bitola+city+centre",
+            "description": "Relax with drinks, music and social vibes in central bars 🍸."
+          },
+          {
+            "name": "Live Music Venues",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=live+music+Bitola",
+            "description": "Venues featuring local bands, acoustic nights and cultural music — lively nighttime energy 🎶."
+          },
+          {
+            "name": "Evening Gelato Strolls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Bitola",
+            "description": "Cap your night with gelato as you wander the lit boulevards 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "City Park (Gradski Park)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gradski+Park+Bitola",
+            "description": "Green oasis with shaded lanes, benches and seasonal blooms — perfect for a relaxed pause 🌳."
+          },
+          {
+            "name": "Bitola Riverside Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bitola+riverside+walks",
+            "description": "Gentle strolls by river paths with fresh air and scenic views 🚶‍♂️."
+          },
+          {
+            "name": "Pelister National Park (nearby)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pelister+National+Park",
+            "description": "Mountain park with forests, lakes and peaks — ideal for hiking, picnics and nature immersion 🌲."
+          },
+          {
+            "name": "Spomen Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Spomen+Park+Bitola",
+            "description": "Peaceful memorial park with shaded benches and art installations — great for reflective moments 🌿."
+          }
+        ]
+      },
+      "local_food_tip": "In Bitola, savour Macedonian classics like tavče gravče (baked beans), kebapi, ajvar and local cheeses. Pair your meals with a glass of Macedonian wine or rakija and finish with traditional desserts 🍷🍽️.",
+      "full_day": {
+        "morning": "☀️ Start with a coffee on <a href=\"https://www.google.com/maps/search/?api=1&query=Shirok+Sokak+Bitola+cafes\">Shirok Sokak</a>, explore the historic lanes, and visit the ancient ruins of <a href=\"https://www.google.com/maps/search/?api=1&query=Heraclea+Lyncestis+Bitola\">Heraclea Lyncestis</a>.",
+        "afternoon": "🍽️ Enjoy lunch in the Old Bazaar, take a relaxing walk in <a href=\"https://www.google.com/maps/search/?api=1&query=Gradski+Park+Bitola\">City Park</a>, and photograph local highlights like the <a href=\"https://www.google.com/maps/search/?api=1&query=Clock+Tower+Bitola\">Clock Tower</a>.",
+        "evening": "🌇 Sip cocktails at a city centre bar, stroll the river paths and catch the sunset over the boulevards.",
+        "night": "🌃 Cap your night with live music and a gelato walk along the lit streets."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming parks, mild breezes and perfect strolling weather 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Park Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gradski+Park+Bitola",
+              "description": "Enjoy a picnic amid flowers and fresh air."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, lively streets and outdoor cafes ☀️.",
+          "ideas": [
+            {
+              "name": "Evening Riverside Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Bitola+riverside+walks",
+              "description": "Cool walk by the river as the sun fades."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden foliage and cosy café moments 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Old Town Photos",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Bitola+Old+Town",
+              "description": "Capture warm hues in historic settings."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, cultural visits and crisp air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Break",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Shirok+Sokak+Bitola+cafes",
+              "description": "Warm up with hot drinks in a cosy café."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Bitola’s local buses connect the city centre with suburbs and nearby nature spots — convenient and affordable 🚍.",
+          "link": "https://www.bitola.gov.mk/"
+        },
+        {
+          "tip": "Taxis and ride-shares make getting around town quick, especially for reaching Pelister National Park 🚖.",
+          "link": "https://www.bitola.gov.mk/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bitola+summer+events",
+          "description": "Festivals, open-air concerts and cultural celebrations animate Bitola’s streets and squares 🎉."
+        }
+      ],
+      "places": [
+        {
+          "name": "Heraclea Lyncestis",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Heraclea+Lyncestis+Bitola",
+          "description": "Ancient archaeological site with ruins, mosaics and theatre 🏛️."
+        },
+        {
+          "name": "Bitola Old Bazaar (Čaršija)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bitola+Old+Bazaar+Čaršija",
+          "description": "Vibrant historic bazaar full of culture, crafts and local life 🛍️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Riverside Bench Spot",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+riverside+bench+Bitola",
+          "description": "Peaceful bench along the river — perfect for calm reflection 🌊."
+        },
+        {
+          "name": "Secret Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Bitola",
+          "description": "Cozy café tucked away from main streets — great for a quiet coffee ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Ohrid",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Church of St. John at Kaneo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+St.+John+at+Kaneo+Ohrid",
+            "description": "Picturesque Byzantine church perched above Lake Ohrid — iconic symbol of the city and rich spiritual history ⛪."
+          },
+          {
+            "name": "Ohrid Old Town",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ohrid+Old+Town",
+            "description": "UNESCO-listed historic core with cobbled streets, stone houses and centuries of cultural heritage 🏛️."
+          },
+          {
+            "name": "Ancient Theatre of Ohrid",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ancient+Theatre+of+Ohrid",
+            "description": "Hellenistic theatre overlooking the city — classic stone tiers and a stunning setting for performances 📜."
+          },
+          {
+            "name": "Church of St. Sophia",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+St.+Sophia+Ohrid",
+            "description": "One of Ohrid’s most important medieval churches with remarkable frescoes and historic significance 🖼️."
+          },
+          {
+            "name": "Museum of Ohrid",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+of+Ohrid",
+            "description": "Museum showcasing archaeological finds, icons and artefacts that tell the story of Ohrid’s rich past 🏺."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Lake Ohrid Viewpoints",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Ohrid+viewpoints",
+            "description": "Sweeping vistas of the glistening lake with mountains in the distance — breathtaking at sunrise and sunset 📸."
+          },
+          {
+            "name": "Church of St. John at Kaneo Cliffside",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+St.+John+at+Kaneo+cliffside+view",
+            "description": "Classic postcard view of the church and lake — ideal for landscape and architectural photography 🌅."
+          },
+          {
+            "name": "Ancient Theatre Ruins",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ancient+Theatre+of+Ohrid+photo+spot",
+            "description": "Photogenic stone steps with city and lake backdrops — perfect for dramatic captures 📷."
+          },
+          {
+            "name": "Old Town Stone Lanes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ohrid+Old+Town+lanes+photo",
+            "description": "Charming narrow streets with textured stone walls and vibrant life — great for street-style photos 🏘️."
+          },
+          {
+            "name": "Ohrid Pier & Waterfront",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ohrid+pier+waterfront",
+            "description": "Sun-dappled waterfront with reflections, benches and boat silhouettes — picture-perfect moments 🌊."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Waterfront Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=waterfront+restaurants+Ohrid",
+            "description": "Terraces by the lake serving fresh fish, Macedonian cuisine and local wine — perfect for sunset dinners 🍷."
+          },
+          {
+            "name": "Old Town Taverns",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=taverns+Ohrid+Old+Town",
+            "description": "Cozy traditional restaurants tucked into ancient streets offering local specialties 🍽️."
+          },
+          {
+            "name": "Cafés Around Ohrid Lake",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=cafes+Ohrid+Lake",
+            "description": "Relax with coffee or sweet treats by the water — leisurely and scenic ☕🍰."
+          },
+          {
+            "name": "Bars & Lounges in City Centre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=bars+Ohrid+city+centre",
+            "description": "Evening spots with drinks, music and local vibes — ideal for nightlife 🍸🎶."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Ohrid",
+            "description": "Cap off your night with gelato as you stroll illuminated streets 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Lake Ohrid Beaches",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Ohrid+beaches",
+            "description": "Pebbly and sandy shores with clear water — perfect for swimming, sunbathing and lakeside chill 🏖️."
+          },
+          {
+            "name": "Samuel’s Fortress Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Samuel%27s+Fortress+Ohrid",
+            "description": "Cliffside stronghold offering scenic views over the lake and town — great for relaxation and exploration 🌄."
+          },
+          {
+            "name": "Ohrid City Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ohrid+City+Park",
+            "description": "Green park with shaded paths and benches — lovely for picnics and unwind moments 🌿."
+          },
+          {
+            "name": "Bay of Bones Museum & Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bay+of+Bones+Museum+Ohrid",
+            "description": "Open-air archaeological museum by the water — a unique mix of history and nature 🚶‍♂️."
+          }
+        ]
+      },
+      "local_food_tip": "In Ohrid, enjoy fresh Ohrid trout, grilled fish, tavče gravče (baked beans), local cheeses and seasonal produce. Pair meals with Macedonian wines like Vranec or local craft beer while soaking in lakeside views 🍷🐟.",
+      "full_day": {
+        "morning": "☀️ Start with coffee on the <a href=\"https://www.google.com/maps/search/?api=1&query=Ohrid+pier+waterfront\">Ohrid waterfront</a>, then wander the charming lanes of <a href=\"https://www.google.com/maps/search/?api=1&query=Ohrid+Old+Town\">Ohrid Old Town</a> to discover hidden corners and historic sites.",
+        "afternoon": "🍽️ Have a lakeside lunch at a waterfront restaurant, explore the ancient ruins at <a href=\"https://www.google.com/maps/search/?api=1&query=Heraclea+Lyncestis+Bitola\">Heraclea Lyncestis</a>, and relax on one of the <a href=\"https://www.google.com/maps/search/?api=1&query=Lake+Ohrid+beaches\">Lake Ohrid beaches</a>.",
+        "evening": "🌇 Sip wine at a cosy tavern as the sun dips over the lake, then take iconic photos of the <a href=\"https://www.google.com/maps/search/?api=1&query=Church+of+St.+John+at+Kaneo+cliffside+view\">Church of St. John at Kaneo</a> with golden light.",
+        "night": "🌃 Cap your night with gelato and a relaxed stroll under the stars through the Old Town streets."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming lakeside blossoms, mild temperatures and perfect strolling weather 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Lakeside Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Ohrid+walks",
+              "description": "Enjoy gentle breezes and fresh blooms along the water’s edge."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny beach days, swimming and lively lakeside energy ☀️.",
+          "ideas": [
+            {
+              "name": "Sunset Beach Chill",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Ohrid+beaches",
+              "description": "Relax on the pebbly shores with cool breezes and crystal waters."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden light, quieter streets and scenic views 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Fortress Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Samuel%27s+Fortress+Ohrid",
+              "description": "Capture the lake with soft autumn hues from Samuel’s Fortress."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, cultural discoveries and crisp air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Stop",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=cafes+Ohrid",
+              "description": "Warm up with hot drinks and local pastries in a cosy café ☕."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Local buses and minibuses connect Ohrid with surrounding towns and the airport — convenient and affordable 🚍.",
+          "link": "https://www.ohrid.com/"
+        },
+        {
+          "tip": "Taxis and ride-shares are easy to use for short trips around the lake, beaches and Old Town 🚖.",
+          "link": "https://www.ohrid.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Ohrid+summer+events",
+          "description": "Open-air concerts, cultural festivals and lakeside celebrations bring vibrant energy to the waterfront 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Church of St. John at Kaneo",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+St.+John+at+Kaneo+Ohrid",
+          "description": "Iconic Byzantine church with panoramic views over Lake Ohrid ⛪."
+        },
+        {
+          "name": "Ohrid Old Town",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Ohrid+Old+Town",
+          "description": "Historic UNESCO-listed centre with charming lanes and ancient architecture 🏘️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Lakeside Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+lakeside+bench+Ohrid",
+          "description": "Secluded bench overlooking the water — perfect for serene mornings 🌅."
+        },
+        {
+          "name": "Hidden Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Ohrid",
+          "description": "Cozy café tucked in a quiet street — ideal for a peaceful coffee break ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Skopje",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Skopje Fortress (Kale)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Skopje+Fortress+Kale",
+            "description": "Historic fortress overlooking the city — a symbol of Skopje’s long and layered past 🏰."
+          },
+          {
+            "name": "Stone Bridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stone+Bridge+Skopje",
+            "description": "Iconic Ottoman-era bridge linking the old and new city over the Vardar River 🌉."
+          },
+          {
+            "name": "Old Bazaar (Stara Čaršija)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Bazaar+Skopje",
+            "description": "One of the largest bazaars in the Balkans — narrow lanes, historic mosques and timeless cultural energy 🛍️."
+          },
+          {
+            "name": "Museum of the Macedonian Struggle",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+of+the+Macedonian+Struggle+Skopje",
+            "description": "Modern museum chronicling North Macedonia’s history and fight for independence 🏛️."
+          },
+          {
+            "name": "Macedonia Square & Warrior on a Horse",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Macedonia+Square+Skopje",
+            "description": "Central square dominated by the famous statue — a hub of cultural events and city life 🗽."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Millennium Cross on Vodno",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Millennium+Cross+Vodno+Skopje",
+            "description": "Massive cross on the hilltop — unbeatable panoramic shots of Skopje and surrounding valleys 📸."
+          },
+          {
+            "name": "Matka Canyon",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Matka+Canyon+Skopje",
+            "description": "Stunning canyon with emerald waters and dramatic cliffs — perfect for landscape photography 🌄."
+          },
+          {
+            "name": "Stone Bridge at Night",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stone+Bridge+Skopje+night",
+            "description": "The bridge lit up over the Vardar River — romantic and atmospheric after sunset 🌉."
+          },
+          {
+            "name": "Old Bazaar Alleys",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Bazaar+Skopje+alleys",
+            "description": "Historic stone lanes and market scenes — candid and colourful captures 📷."
+          },
+          {
+            "name": "Art Bridge Sculptures",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Art+Bridge+Skopje",
+            "description": "Bridge full of statues and art installations — quirky, bold and photogenic 🗿."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Old Bazaar Eateries",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=restaurants+Old+Bazaar+Skopje",
+            "description": "Traditional Macedonian dishes like tavče gravče, ajvar and grilled meats — authentic and rich 🍽️."
+          },
+          {
+            "name": "Vodno Restaurants & Wine Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vodno+restaurants+Skopje",
+            "description": "Elegant hillside spots offering local wine and panoramic views 🍷."
+          },
+          {
+            "name": "Macedonia Square Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Macedonia+Square+Skopje+cafes",
+            "description": "Terraced cafés perfect for people-watching, coffee and sweet treats ☕🍰."
+          },
+          {
+            "name": "Bars in Debar Maalo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Debar+Maalo+Skopje+bars",
+            "description": "Trendy neighbourhood with a vibrant nightlife scene, lounges and live music spots 🍸🎶."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Skopje",
+            "description": "Cap the night with gelato as you stroll the lit boulevards 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Matka Canyon Boat Rides",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Matka+Canyon+boat+rides+Skopje",
+            "description": "Peaceful boat rides on emerald waters, surrounded by cliffs and green forests 🚤."
+          },
+          {
+            "name": "City Park (Gradski Park)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=City+Park+Skopje",
+            "description": "Shaded pathways, fountains and benches — perfect for a relaxed afternoon 🌳."
+          },
+          {
+            "name": "Mount Vodno Hikes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mount+Vodno+Skopje+hikes",
+            "description": "Trails leading to panoramic viewpoints and fresh air — great for nature lovers 🚶‍♂️."
+          },
+          {
+            "name": "Vardar River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vardar+River+promenade+Skopje",
+            "description": "Leisurely walk along the river with benches, reflections and greenery 🌿."
+          }
+        ]
+      },
+      "local_food_tip": "In Skopje, try Macedonian classics like tavče gravče (baked beans), ajvar, grilled meats, local cheeses and rakija. Pair meals with Macedonian wine and finish with sweet baklava or gelato 🍷🍨.",
+      "full_day": {
+        "morning": "☀️ Start with espresso and pastries on <a href=\"https://www.google.com/maps/search/?api=1&query=Macedonia+Square+Skopje+cafes\">Macedonia Square</a>, then wander the historic <a href=\"https://www.google.com/maps/search/?api=1&query=Old+Bazaar+Skopje\">Old Bazaar</a> and climb up to <a href=\"https://www.google.com/maps/search/?api=1&query=Skopje+Fortress+Kale\">Skopje Fortress (Kale)</a> for sweeping views.",
+        "afternoon": "🍽️ Enjoy a hearty lunch in the bazaar, stroll through stone alleys, then take a peaceful boat ride in <a href=\"https://www.google.com/maps/search/?api=1&query=Matka+Canyon+Skopje\">Matka Canyon</a>.",
+        "evening": "🌇 Head to Vodno for sunset views with a glass of wine, then explore the nightlife in <a href=\"https://www.google.com/maps/search/?api=1&query=Debar+Maalo+Skopje+bars\">Debar Maalo</a>.",
+        "night": "🌃 Cap your night with an evening gelato and a leisurely stroll along the <a href=\"https://www.google.com/maps/search/?api=1&query=Vardar+River+promenade+Skopje\">Vardar River Promenade</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild weather, blossoms in City Park and perfect outdoor strolls 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Matka Canyon Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Matka+Canyon+Skopje",
+              "description": "Enjoy fresh air and greenery along the canyon paths."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, river fun and lively square vibes ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Boat Ride",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Matka+Canyon+boat+rides+Skopje",
+              "description": "Cool off with a scenic boat ride along emerald waters 🚤."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Crisp air, golden leaves and great photo light 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Fortress Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Skopje+Fortress+Kale",
+              "description": "Capture the fortress and city in soft autumn hues."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, museums and crisp city air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Museum Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+of+the+Macedonian+Struggle+Skopje",
+              "description": "Warm up exploring exhibits and local history indoors 🏛️."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Skopje’s buses connect major spots including the Old Bazaar, Macedonia Square and Matka Canyon — easy for exploring 🚍.",
+          "link": "https://www.skopje.gov.mk/"
+        },
+        {
+          "tip": "Taxis and ride-shares are plentiful for quick hop-around the city and Vodno area 🚖.",
+          "link": "https://www.skopje.gov.mk/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Skopje+summer+events",
+          "description": "Festivals, concerts and outdoor cultural events bring energy to Macedonia Square and riverside stages 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Skopje Fortress (Kale)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Skopje+Fortress+Kale",
+          "description": "Historic fort with panoramic views of the city 🏰."
+        },
+        {
+          "name": "Old Bazaar (Stara Čaršija)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Bazaar+Skopje",
+          "description": "Vibrant historic market full of sights, sounds and local culture 🛍️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Vardar Bench Spot",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+bench+Vardar+River+Skopje",
+          "description": "Secluded bench by the river — perfect for calm reflection 🌊."
+        },
+        {
+          "name": "Hidden Bazaar Tea House",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+tea+house+Old+Bazaar+Skopje",
+          "description": "Small tucked-away tea house in the bazaar — ideal for a peaceful tea moment ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Struga",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "St. George’s Church",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+George%27s+Church+Struga",
+            "description": "Historic church in the heart of Struga with beautiful iconography and Orthodox heritage ⛪."
+          },
+          {
+            "name": "Dr. Jovan Kostovski Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dr.+Jovan+Kostovski+Museum+Struga",
+            "description": "Local museum showcasing Struga’s history, traditional costumes and regional artifacts 📜."
+          },
+          {
+            "name": "Struga Old Town",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Struga+Old+Town",
+            "description": "Charming historic streets with Ottoman remnants, small shops and cultural flair 🏘️."
+          },
+          {
+            "name": "Church of St. Sofia",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+St.+Sofia+Struga",
+            "description": "Beautiful Orthodox church with classic architecture and peaceful ambience ⛪."
+          },
+          {
+            "name": "King Samuel’s Fortress Ruins",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=King+Samuel%27s+Fortress+Struga",
+            "description": "Historical remnants that tell stories of medieval times and local legends 🛡️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Black Drin River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Black+Drin+River+Struga+promenade",
+            "description": "Picturesque riverside walk with reflections and seasonal hues — ideal for relaxed photography 📸."
+          },
+          {
+            "name": "Struga Lakeside Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Struga+lakeside+views",
+            "description": "Scenic panoramas of Lake Ohrid — breathtaking at sunrise and sunset 🌅."
+          },
+          {
+            "name": "Old Town Alleys",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Struga+Old+Town+alleys",
+            "description": "Charming cobbled streets with historic façades — great for atmospheric urban shots 📷."
+          },
+          {
+            "name": "Beachfront Boardwalk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Struga+beachfront+boardwalk",
+            "description": "Lakeside promenade perfect for golden hour photos and reflection shots 🌇."
+          },
+          {
+            "name": "Sunset at Struga Bridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Struga+Bridge+sunset",
+            "description": "Capture the glow of the sunset over the Black Drin River — serene and photogenic 🌄."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Lakeside Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=lakeside+restaurants+Struga",
+            "description": "Enjoy fresh fish, local Macedonian dishes and Mediterranean flavors with scenic lake views 🍽️."
+          },
+          {
+            "name": "Old Town Taverns",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=old+town+taverns+Struga",
+            "description": "Cozy local eateries serving traditional fare — perfect for dinner and cultural ambiance 🍷."
+          },
+          {
+            "name": "Riverbank Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=riverbank+cafes+Struga",
+            "description": "Terraced cafés by the water — ideal for coffee, desserts and chilled social time ☕🍰."
+          },
+          {
+            "name": "City Center Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=city+center+bars+Struga",
+            "description": "Local bars with drinks and music — lively nightlife for evenings 🍸🎶."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Struga",
+            "description": "Cap your night with gelato while exploring the lit streets of Struga 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Lake Ohrid Beaches",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Ohrid+beaches+Struga",
+            "description": "Pebbly and sandy shores by the lake — perfect for swimming, sunbathing and relaxation 🏖️."
+          },
+          {
+            "name": "Black Drin River Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Black+Drin+River+walks+Struga",
+            "description": "Peaceful strolls along the riverbank with fresh breezes and scenic views 🚶‍♂️."
+          },
+          {
+            "name": "Struga City Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Struga+City+Park",
+            "description": "Green park with shaded paths and benches — great for picnics and chilled moments 🌿."
+          },
+          {
+            "name": "Kalishta Bay Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kalishta+Bay+Struga",
+            "description": "Scenic bay with clear lake water — ideal for gentle swims and calm water views 🌊."
+          }
+        ]
+      },
+      "local_food_tip": "In Struga, savour fresh Ohrid trout, grilled fish, local Macedonian specialties like tavče gravče and ajvar, plus seasonal produce. Pair your meal with Macedonian wine and enjoy the lakeside ambiance 🍷🐟.",
+      "full_day": {
+        "morning": "☀️ Start with coffee by the water at <a href=\"https://www.google.com/maps/search/?api=1&query=Struga+beachfront+boardwalk\">Struga beachfront boardwalk</a>, then wander historic lanes in <a href=\"https://www.google.com/maps/search/?api=1&query=Struga+Old+Town\">Struga Old Town</a> to soak up the cultural charm.",
+        "afternoon": "🍽️ Have lunch at a lakeside restaurant, walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=Black+Drin+River+promenade+Struga\">Black Drin River promenade</a>, and relax in <a href=\"https://www.google.com/maps/search/?api=1&query=Struga+City+Park\">Struga City Park</a>.",
+        "evening": "🌇 Sip a drink at a riverbank café, capture sunset views from <a href=\"https://www.google.com/maps/search/?api=1&query=Struga+Bridge+sunset\">Struga Bridge</a>, and enjoy lakeside vibes.",
+        "night": "🌃 Cap your night with gelato and a stroll through the lit streets and waterfront paths."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming lakeside blossoms, mild breezes and perfect strolls 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Lakeside Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Ohrid+lakeside+walks+Struga",
+              "description": "Enjoy fresh air and blossoming views along the water’s edge."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny beach days, swimming and lively waterfront vibes ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Swim & Chill",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Ohrid+beaches+Struga",
+              "description": "Relax on the pebbly shores and cool off in the clear lake waters 🏖️."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden hues, calmer crowds and scenic views 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn River Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Black+Drin+River+walks+Struga",
+              "description": "Capture warm tones along the river paths."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, cultural indoor spots and crisp air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Stop",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=riverbank+cafes+Struga",
+              "description": "Warm up with coffee and pastries by the water ☕."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Local buses and minibuses connect Struga with Ohrid and surrounding towns — convenient for exploring the lake region 🚍.",
+          "link": "https://www.struga.gov.mk/"
+        },
+        {
+          "tip": "Taxis and ride-shares are easy to use for short trips to beaches, viewpoints and restaurants 🚖.",
+          "link": "https://www.struga.gov.mk/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Struga+summer+events",
+          "description": "Music festivals, cultural nights and lakeside celebrations bring vibrant energy to waterfront squares 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Black Drin River Promenade",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Black+Drin+River+Struga+promenade",
+          "description": "Scenic riverside walk with reflections and fresh breezes 🌿."
+        },
+        {
+          "name": "Lake Ohrid Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Lake+Ohrid+beaches+Struga",
+          "description": "Lakeside beach ideal for swimming and relaxing 🏖️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Lakeside Bench Spot",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+lakeside+bench+Struga",
+          "description": "Secluded bench with lake views — perfect for reflection and calm moments 🌅."
+        },
+        {
+          "name": "Hidden Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Struga",
+          "description": "Cozy café tucked away from main streets — ideal for a peaceful coffee ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Tetovo",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Šarena (Painted) Mosque",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Šarena+Mosque+Tetovo",
+            "description": "Beautifully decorated mosque with intricate colors and patterns — a unique example of Ottoman-era artistry and cultural heritage 🕌."
+          },
+          {
+            "name": "Arabati Baba Teḱe",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Arabati+Baba+Teke+Tetovo",
+            "description": "Historic Bektashi monastery dating back centuries — peaceful spiritual site with traditional architecture 🛕."
+          },
+          {
+            "name": "Tetovo Old Bazaar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tetovo+Old+Bazaar",
+            "description": "Vibrant market area full of local crafts, food stalls and cultural atmosphere — perfect for exploring everyday life 🛍️."
+          },
+          {
+            "name": "Heritage Museum of Tetovo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Heritage+Museum+of+Tetovo",
+            "description": "Museum showcasing regional history, folk costumes and artifacts — great place to learn about Tetovo’s past 🏺."
+          },
+          {
+            "name": "Stara Čaršija (Old Town Streets)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stara+Čaršija+Tetovo",
+            "description": "Historic streets with traditional buildings and market stalls — a cultural journey through time 🚶‍♂️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Šarena Mosque Facade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Šarena+Mosque+Tetovo",
+            "description": "Colorful exterior and architectural details — an Instagram-worthy spot for photography 📸."
+          },
+          {
+            "name": "Tetovo Old Bazaar Alleys",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tetovo+Old+Bazaar+alleys",
+            "description": "Charming bazaar lanes and vibrant market scenes — ideal for street photography 🏘️."
+          },
+          {
+            "name": "Arabati Baba Teḱe Courtyard",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Arabati+Baba+Teke+courtyard+Tetovo",
+            "description": "Tranquil courtyard with historic architecture — a unique and calm photo backdrop 📷."
+          },
+          {
+            "name": "City View from Tetovo Hills",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tetovo+hills+view",
+            "description": "Panoramic lookout over the city and surroundings — especially beautiful at sunset 🌇."
+          },
+          {
+            "name": "Vardar Riverbank",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vardar+Riverbank+Tetovo",
+            "description": "Scenic riverside paths with reflections and greenery — perfect for daytime photography 🌿."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Old Bazaar Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=restaurants+Old+Bazaar+Tetovo",
+            "description": "Local eateries serving traditional Macedonian dishes like kebapi, ajvar and tavče gravče 🍽️."
+          },
+          {
+            "name": "City Center Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=city+center+cafes+Tetovo",
+            "description": "Terrace cafés ideal for coffee, desserts and people-watching in the bustling centre ☕🍰."
+          },
+          {
+            "name": "Riverbank Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=riverbank+bars+Tetovo",
+            "description": "Chilled bars along the river — perfect for sunset drinks and social vibes 🍹."
+          },
+          {
+            "name": "Nightlife in Tetovo Centre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=bars+Tetovo+city+centre",
+            "description": "Local bars, lounges and live music spots — energetic nightlife with Macedonian spirit 🎶."
+          },
+          {
+            "name": "Evening Gelato Strolls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Tetovo",
+            "description": "Cap your night with gelato as you explore lit boulevards 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Mavrovo National Park (nearby)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mavrovo+National+Park",
+            "description": "Stunning mountain park with forests, lakes and trails — perfect for hiking, picnics and fresh air 🌲."
+          },
+          {
+            "name": "Vardar River Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vardar+River+walks+Tetovo",
+            "description": "Peaceful strolls along the river with scenic views and gentle breezes 🚶‍♂️."
+          },
+          {
+            "name": "Tetovo City Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tetovo+City+Park",
+            "description": "Green park with shaded benches and walking paths — perfect for a relaxed afternoon 🌳."
+          },
+          {
+            "name": "Tetovo Hills Scenic Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tetovo+hills+scenic+views",
+            "description": "Lookouts over the city and surrounding countryside — ideal for peaceful reflection 🌄."
+          }
+        ]
+      },
+      "local_food_tip": "In Tetovo, enjoy Macedonian specialties like kebapi, ajvar, tavče gravče, fresh grilled meats and seasonal produce. Pair meals with Macedonian wine or rakija and end with local sweets 🍷🍽️.",
+      "full_day": {
+        "morning": "☀️ Start with coffee on a terrace in the city centre, then explore the colourful <a href=\"https://www.google.com/maps/search/?api=1&query=Šarena+Mosque+Tetovo\">Šarena Mosque</a> and wander historic lanes of the <a href=\"https://www.google.com/maps/search/?api=1&query=Tetovo+Old+Bazaar\">Old Bazaar</a>.",
+        "afternoon": "🍽️ Enjoy lunch at a traditional bazaar restaurant, stroll along the <a href=\"https://www.google.com/maps/search/?api=1&query=Vardar+River+walks+Tetovo\">Vardar Riverbank</a> and relax in <a href=\"https://www.google.com/maps/search/?api=1&query=Tetovo+City+Park\">Tetovo City Park</a>.",
+        "evening": "🌇 Head up to the hills for panoramic views at sunset, then sip drinks at a riverbank bar.",
+        "night": "🌃 Cap your night with gelato and live music in the city centre before a leisurely night walk."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild weather, blooming parks and perfect walks 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Riverside Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vardar+River+walks+Tetovo",
+              "description": "Enjoy fresh breezes and green landscapes along the river paths."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, lively bazaars and outdoor vibes ☀️.",
+          "ideas": [
+            {
+              "name": "Summer City Park Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tetovo+City+Park",
+              "description": "Have a picnic under shade amid vibrant park life."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden hues, cooler air and scenic views 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Hilltop Photos",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tetovo+hills+view",
+              "description": "Capture warm autumn tones over the city from scenic lookouts."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, cultural discoveries and crisp air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Stop",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=city+center+cafes+Tetovo",
+              "description": "Warm up with coffee or hot chocolate in a cosy café ☕."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Local buses connect Tetovo with surrounding villages, Mavrovo and neighbouring towns — convenient and affordable 🚍.",
+          "link": "https://www.tetovo.gov.mk/"
+        },
+        {
+          "tip": "Taxis and ride-shares are available for quick transport within town and to scenic spots 🚖.",
+          "link": "https://www.tetovo.gov.mk/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tetovo+summer+events",
+          "description": "Outdoor music, cultural festivals and community celebrations bring lively energy to squares and parks 🎉."
+        }
+      ],
+      "places": [
+        {
+          "name": "Šarena Mosque",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Šarena+Mosque+Tetovo",
+          "description": "Colourfully decorated mosque and architectural highlight 🕌."
+        },
+        {
+          "name": "Old Bazaar",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tetovo+Old+Bazaar",
+          "description": "Historic bazaar area full of culture, crafts and local life 🛍️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Riverside Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+riverside+bench+Tetovo",
+          "description": "Secluded bench spot by the river — perfect for calm reflection 🌊."
+        },
+        {
+          "name": "Hidden Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+alley+cafe+Tetovo",
+          "description": "Small tucked-away café ideal for a peaceful coffee break ☕."
+        }
+      ]
+    }
+  ]
+}

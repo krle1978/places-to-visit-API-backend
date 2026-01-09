@@ -1,0 +1,1020 @@
+{
+  "name": "Moldova",
+  "cities": [
+    {
+      "name": "Bălți",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Bălți History Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+History+Museum",
+            "description": "Explore the city’s roots and historical evolution with artifacts, exhibits, and stories that bring northern Moldova’s past to life 🏛️."
+          },
+          {
+            "name": "Stephen the Great Central Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stephen+the+Great+Central+Park+Bălți",
+            "description": "A cultural green heart of Bălți featuring monuments, sculptures, and local gatherings — perfect for absorbing local vibes ☀️."
+          },
+          {
+            "name": "Casa Memorială „Leonardo Da Vinci”",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Casa+Memorială+Leonardo+Da+Vinci+Bălți",
+            "description": "Museum and creative space in honor of the Renaissance master — a blend of artistic inspiration and cultural programming 🎨."
+          },
+          {
+            "name": "Local Art Galleries",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+art+galleries",
+            "description": "Small galleries and exhibition spaces featuring Moldovan artists, photography and cultural events — great for creative exploration 🖼️."
+          },
+          {
+            "name": "Great National Assembly Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Great+National+Assembly+Square+Bălți",
+            "description": "Bălți’s main civic square surrounded by historic buildings and cultural points of interest — a central gathering place 🏙️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Stephen the Great Central Park Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stephen+the+Great+Central+Park+Bălți",
+            "description": "Lush green paths, statues and shaded avenues — perfect for nature portraits and seasonal photos 🌳."
+          },
+          {
+            "name": "Bălți City Hall Architecture",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+City+Hall",
+            "description": "Classic municipal building with photogenic façades and urban energy — great for architectural shots 📸."
+          },
+          {
+            "name": "Cultural Alley",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+Cultural+Alley",
+            "description": "Vibrant stroll with murals, sculptures and creative details — ideal for street and urban photography 🏙️."
+          },
+          {
+            "name": "River Răut Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=River+Răut+promenade+Bălți",
+            "description": "Gentle waterside paths with bridges and reflections — a peaceful backdrop for landscape photos 🌅."
+          },
+          {
+            "name": "Local Markets & Street Scenes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+local+market",
+            "description": "Dynamic market stalls full of color, textures and local life — excellent for vibrant urban captures 🎥."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Great National Assembly Square Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Great+National+Assembly+Square+cafés+Bălți",
+            "description": "Outdoor cafés around the main square — perfect for coffee, pastries and people-watching ☕."
+          },
+          {
+            "name": "Traditional Moldovan Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Moldovan+food+Bălți",
+            "description": "Enjoy hearty Moldovan cuisine like mămăligă, sarmale and local wine in welcoming eateries 🍽️."
+          },
+          {
+            "name": "Răut Riverside Dining",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Răut+River+restaurants+Bălți",
+            "description": "Relax with a meal beside the river with scenic views and fresh breezes 🍷."
+          },
+          {
+            "name": "City Center Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=bars+Bălți+city+center",
+            "description": "Local bars with craft beers, wine and lively atmosphere — great for evening socializing 🍺."
+          },
+          {
+            "name": "Gelato & Sweet Spots",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Bălți",
+            "description": "End your day with gelato or local sweets as you stroll lit streets 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Stephen the Great Central Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stephen+the+Great+Central+Park+Bălți",
+            "description": "Green park space ideal for picnics, leisurely strolls and relaxation among locals 🌿."
+          },
+          {
+            "name": "River Răut Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=River+Răut+walks+Bălți",
+            "description": "Peaceful riverside paths with water views, shaded benches and fresh air — calm and scenic 🌊."
+          },
+          {
+            "name": "Botanical Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+Botanical+Gardens",
+            "description": "Tranquil gardens with seasonal blooms, tree groves and shaded lanes — perfect for quiet moments 🌸."
+          },
+          {
+            "name": "City Green Routes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+green+routes",
+            "description": "Paths connecting parks and open spaces — great for easy nature walks or bike rides 🚴‍♂️."
+          }
+        ]
+      },
+      "local_food_tip": "In Bălți, enjoy traditional Moldovan flavours — try sarmale (cabbage rolls), mămăligă (cornmeal), plăcinte (pastries) and local wines or ţuică. Pair your meal with a walk in the park or riverside for a complete local experience 🍷🍽️.",
+      "full_day": {
+        "morning": "☀️ Start at the <a href=\"https://www.google.com/maps/search/?api=1&query=Bălți+History+Museum\">Bălți History Museum</a>, then take a relaxed stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=Stephen+the+Great+Central+Park+Bălți\">Stephen the Great Central Park</a> for fresh air and photos.",
+        "afternoon": "🍽️ Enjoy a hearty Moldovan lunch at a traditional restaurant, walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=River+Răut+promenade+Bălți\">River Răut promenade</a>, and explore the local markets and cultural alley scenes.",
+        "evening": "🍷 Head to riverside dining for dinner with views, then grab a drink at a cozy bar in the city center.",
+        "night": "🌃 Cap your night with gelato or sweets and a slow walk through <a href=\"https://www.google.com/maps/search/?api=1&query=Great+National+Assembly+Square+Bălți\">Great National Assembly Square</a> under the lights."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming parks, riverside paths and perfect weather for outdoor exploration 🌸.",
+          "ideas": [
+            {
+              "name": "Spring River Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=River+Răut+walks+Bălți",
+              "description": "Enjoy fresh breezes and budding blooms along the Răut river."
+            },
+            {
+              "name": "Botanical Gardens Blossoms",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+Botanical+Gardens",
+              "description": "Seasonal flowers and shaded paths make these gardens ideal for relaxed visits 🌼."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, park picnics and lively outdoor cafés ☀️.",
+          "ideas": [
+            {
+              "name": "Picnic in Central Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Stephen+the+Great+Central+Park+Bălți",
+              "description": "Spread a blanket in the park and enjoy local treats amid summer greenery."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Cooler air, golden foliage and atmospheric city walks 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Park Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Stephen+the+Great+Central+Park+Bălți",
+              "description": "Capture colorful leaves and soft light on paths lined with trees."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, crisp air and cultural indoor days ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Museum Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+History+Museum",
+              "description": "Warm up with a deep dive into local history and exhibits."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Bălți has a network of local buses and minibuses that connect the city centre with parks, markets and cultural sites 🚍.",
+          "link": "https://www.balti.md/"
+        },
+        {
+          "tip": "Taxis and ride-shares in Bălți are convenient for navigating between attractions and riverside spots 🚖.",
+          "link": "https://www.balti.md/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+summer+events",
+          "description": "Music performances, outdoor markets and cultural festivals enliven parks and squares with local energy 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Stephen the Great Central Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Stephen+the+Great+Central+Park+Bălți",
+          "description": "Central green space perfect for strolls, people-watching and leisure time 🌿."
+        },
+        {
+          "name": "Bălți History Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bălți+History+Museum",
+          "description": "Insightful museum showcasing the city’s historical journey 📜."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Hidden Riverside Bench Spot",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=River+Răut+Bălți+bench",
+          "description": "A peaceful bench along the river where locals relax — perfect for quiet moments 🌊."
+        },
+        {
+          "name": "Quiet Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+alley+café+Bălți",
+          "description": "Cozy little café hidden off main streets — ideal for a quiet coffee break ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Chișinău",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "National Museum of History of Moldova",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Museum+of+History+of+Moldova+Chișinău",
+            "description": "Explore Moldova’s rich past with artefacts, displays, and chronologies that take you from ancient times to modern history 🏛️."
+          },
+          {
+            "name": "Stefan cel Mare Central Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stefan+cel+Mare+Central+Park+Chișinău",
+            "description": "Iconic city park featuring monuments, fountains, and green avenues — heart of Chișinău’s cultural life and local gatherings 🌳."
+          },
+          {
+            "name": "Cathedral Park & Nativity Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nativity+Cathedral+Chișinău",
+            "description": "Historic Orthodox cathedral with beautiful architecture and adjacent parkland — serene and culturally significant ⛪."
+          },
+          {
+            "name": "Muzeul Național de Arte al Moldovei",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Art+Museum+of+Moldova+Chișinău",
+            "description": "Home to classic and contemporary Moldovan and European art — a must-visit for art lovers 🎨."
+          },
+          {
+            "name": "Mihai Eminescu Park & Alley of Classics",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mihai+Eminescu+Park+Chișinău",
+            "description": "Cultural park celebrating Moldova’s greatest poets and writers — literary plaques, statues and tranquil paths 📚."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Stefan cel Mare Central Park Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stefan+cel+Mare+Central+Park+Chișinău",
+            "description": "Green paths, fountains and monuments — perfect for seasonal and portrait photos 📸."
+          },
+          {
+            "name": "Cathedral Park & Bell Tower",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nativity+Cathedral+Chișinău+bell+tower",
+            "description": "Striking cathedral architecture and open spaces — great for architectural photography 🌆."
+          },
+          {
+            "name": "Valea Morilor Lake",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Valea+Morilor+Lake+Chișinău",
+            "description": "Urban lake with walking paths, reflections and bridges — ideal for scenic landscape shots 🌅."
+          },
+          {
+            "name": "Triumphal Arch",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Triumphal+Arch+Chișinău",
+            "description": "Neo-classical monument and plaza — silhouette shots and day/night contrasts 📷."
+          },
+          {
+            "name": "Chișinău City Hall & Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Chișinău+City+Hall",
+            "description": "Historic civic building and surrounding plaza — elegant façades perfect for city photography 🏙️."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Piata Centrala & Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Piata+Centrala+Chișinău",
+            "description": "Bustling market area with cafés, local eateries and street food — ideal for breakfast or a casual lunch ☕🍽️."
+          },
+          {
+            "name": "Traditional Moldovan Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Moldovan+food+Chișinău",
+            "description": "Sample hearty Moldovan dishes like mămăligă, sarmale and local wine in authentic settings 🍷."
+          },
+          {
+            "name": "Pushkin & Stefan cel Mare Boulevard Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stefan+cel+Mare+Boulevard+bars+Chișinău",
+            "description": "Lively nightlife with bars and lounges along the city’s main boulevards — great for evening drinks 🍸."
+          },
+          {
+            "name": "Valea Morilor Terrace Dining",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Valea+Morilor+restaurants+Chișinău",
+            "description": "Dining with lake views — relaxed meals and fresh air 🍷."
+          },
+          {
+            "name": "Gelato & Dessert Strolls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Chișinău",
+            "description": "Cap off your evening with gelato or pastries while wandering lit streets 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Valea Morilor Lake Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Valea+Morilor+Lake+Park+Chișinău",
+            "description": "Scenic lake with walking paths, picnic spots and water views — ideal for relaxation 🌿."
+          },
+          {
+            "name": "Botanical Garden of the ASM",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Chișinău",
+            "description": "Expansive gardens showcasing plant species, greenhouses and seasonal blooms — a green escape 🌸."
+          },
+          {
+            "name": "Dendrarium Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dendrarium+Park+Chișinău",
+            "description": "Forest park with shaded trails, lakes and benches — perfect for walking and nature breaks 🌲."
+          },
+          {
+            "name": "Parcul Răut",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parcul+Răut+Chișinău",
+            "description": "Quiet parkland with paths and ponds — great for calm afternoons and scenic strolls 🚶‍♂️."
+          }
+        ]
+      },
+      "local_food_tip": "Chișinău serves up rich Moldovan flavours — try sarmale (cabbage rolls), mămăligă (cornmeal), plăcinte (savory pastries) and local wines such as Fetească Neagră. Pair your meals with a stroll through central parks or historic boulevards 🍷🍽️.",
+      "full_day": {
+        "morning": "☀️ Begin at <a href=\"https://www.google.com/maps/search/?api=1&query=National+Museum+of+History+of+Moldova+Chișinău\">National Museum of History of Moldova</a>, then stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=Stefan+cel+Mare+Central+Park+Chișinău\">Stefan cel Mare Central Park</a> and enjoy coffee in a local café.",
+        "afternoon": "🍽️ Have lunch with traditional dishes, visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Chișinău\">Botanical Garden</a>, and relax by <a href=\"https://www.google.com/maps/search/?api=1&query=Valea+Morilor+Lake+Park+Chișinău\">Valea Morilor Lake Park</a>.",
+        "evening": "🌇 Enjoy dinner at a terrace restaurant by the lake or on <a href=\"https://www.google.com/maps/search/?api=1&query=Stefan+cel+Mare+Boulevard+bars+Chișinău\">Stefan cel Mare Boulevard</a>, then take in sunset views over the city.",
+        "night": "🌃 Cap your night with gelato and a leisurely stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=Chișinău+City+Hall\">Chișinău City Hall</a> Square under soft lights."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoming parks, mild weather and perfect café terraces 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Botanical Garden Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Chișinău",
+              "description": "Enjoy vibrant blooms and shaded paths in the botanical garden."
+            },
+            {
+              "name": "Valea Morilor Spring Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Valea+Morilor+Lake+Park+Chișinău",
+              "description": "Fresh breezes and blossoming trees make lake walks especially lovely."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny days, lively parks and outdoor concerts ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Park Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Stefan+cel+Mare+Central+Park+Chișinău",
+              "description": "Have a picnic with local treats amid green park spaces."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Crisp air, amber foliage and cozy walks 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Dendrarium Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Dendrarium+Park+Chișinău",
+              "description": "Seasonal colours line forest paths for scenic autumn walks."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, cultural museums and crisp city air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Museum Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=National+Museum+of+History+of+Moldova+Chișinău",
+              "description": "Warm up indoors exploring history and exhibits on chilly days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Chișinău’s buses and trolleybuses connect major areas, parks and cultural sites — affordable and convenient 🚍.",
+          "link": "https://www.chisinau.md/"
+        },
+        {
+          "tip": "Marshrutkas (minibuses) offer flexible routes across the city — ask locals for common stops and lines 🚐.",
+          "link": "https://www.chisinau.md/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–September (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Chișinău+summer+events",
+          "description": "Open-air concerts, cultural festivals and food markets energise parks and public spaces."
+        }
+      ],
+      "places": [
+        {
+          "name": "Stefan cel Mare Central Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Stefan+cel+Mare+Central+Park+Chișinău",
+          "description": "Iconic green heart of the city with monuments and avenues 🌳."
+        },
+        {
+          "name": "Valea Morilor Lake Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Valea+Morilor+Lake+Park+Chișinău",
+          "description": "Scenic lake and park ideal for photos, walking and picnics 🌅."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Chișinău Courtyard Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+courtyard+cafés+Chișinău",
+          "description": "Small tucked-away cafés perfect for quiet coffee moments away from main boulevards ☕."
+        },
+        {
+          "name": "Quiet Riverside Bench Spot",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Quiet+bench+Valea+Morilor+Chișinău",
+          "description": "A peaceful bench beside the lake — ideal for reflection and relaxed views 🌄."
+        }
+      ]
+    },
+
+    {
+      "name": "Orhei",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Orheiul Vechi Archaeological Complex",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+Archaeological+Complex",
+            "description": "Ancient cave monasteries and historical ruins carved into limestone cliffs — a cultural and spiritual heart of Moldova’s past 🏛️."
+          },
+          {
+            "name": "Old Orhei (Orheiul Vechi) Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+Museum",
+            "description": "Museum detailing the history and archaeological significance of the region, with artifacts and interpretive exhibits 📜."
+          },
+          {
+            "name": "Trolleybus Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Trolleybus+Museum+Orhei",
+            "description": "Quirky museum celebrating Moldova’s Soviet-era trolleybus history with vintage vehicles and engaging displays 🚋."
+          },
+          {
+            "name": "Orhei Historical Town Centre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orhei+historical+town+centre",
+            "description": "Historic streets, old architecture, and local heritage sites — perfect for exploring Moldovan town life 🏙️."
+          },
+          {
+            "name": "Wooden Church St. Dumitru",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Dumitru+Wooden+Church+Orhei",
+            "description": "Charming regional wooden church with traditional religious architecture — a peaceful cultural visit ⛪."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Orheiul Vechi Cliff Panoramas",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+cliff+view",
+            "description": "Stunning overlooks of the archaeological complex, river valley and rock formations — ideal at sunrise or golden hour 📸."
+          },
+          {
+            "name": "Cave Monastery Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+cave+monastery",
+            "description": "Capture atmospheric shots of ancient monastic caves and winding rock paths 🌄."
+          },
+          {
+            "name": "Răut River Valley",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Răut+River+Valley+Orhei",
+            "description": "Peaceful river valley landscapes with reflections and winding terrain — perfect for nature and landscape photos 🌿."
+          },
+          {
+            "name": "Hilltop Orthodox Cross Viewpoint",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orhei+hilltop+cross+viewpoint",
+            "description": "Lookouts over fields, valleys and ancient sites — dramatic and serene photo settings 📷."
+          },
+          {
+            "name": "Historic Orhei Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orhei+town+streets",
+            "description": "Photogenic town lanes, old façades and everyday life scenes — authentic Eastern European urban imagery 🏘️."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Orhei Local Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orhei+local+cafés",
+            "description": "Cozy cafés serving pastries, coffee and local treats — perfect for a relaxing morning or afternoon ☕🍰."
+          },
+          {
+            "name": "Traditional Moldovan Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Moldovan+food+Orhei",
+            "description": "Enjoy hearty Moldovan classics like mămăligă, sarmale and grilled meats paired with local wine 🍷."
+          },
+          {
+            "name": "Răut Riverside Dining",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Răut+River+restaurants+Orhei",
+            "description": "Eat beside the scenic Răut River — scenic views and fresh air enhance your dining experience 🍽️."
+          },
+          {
+            "name": "Town Centre Wine Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=wine+bars+Orhei",
+            "description": "Local wine bars where you can sample regional wines and socialize with locals 🍷."
+          },
+          {
+            "name": "Dessert & Gelato Spots",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Orhei",
+            "description": "Sweet treats and gelato perfect for an evening stroll through the historic streets 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Răut River Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Răut+River+walks+Orhei",
+            "description": "Gentle riverside paths with benches, nature views and shaded spots — perfect for a relaxing walk 🌿."
+          },
+          {
+            "name": "Orheiul Vechi Scenic Trails",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+trails",
+            "description": "Hiking paths among ancient ruins and fields — scenic, peaceful and perfect for exploration 🚶‍♂️."
+          },
+          {
+            "name": "Hilltop Viewpoints",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orhei+hilltop+viewpoints",
+            "description": "Quiet lookouts over the countryside — ideal for picnics and sunsets 🌄."
+          },
+          {
+            "name": "Orhei Regional Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Orhei+Regional+Park",
+            "description": "Nature reserve with meadows, woodlands and wildlife — great for birdwatching and fresh air immersion 🌳."
+          }
+        ]
+      },
+      "local_food_tip": "Orhei’s culinary charm blends Moldovan tradition with rural freshness — try sarmale (cabbage rolls), mămăligă, grilled meats, plăcinte (savory pastries) and local wines. Pair meals with a riverside stroll or scenic overlook 🍷🍽️.",
+      "full_day": {
+        "morning": "☀️ Begin at the <a href=\"https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+Archaeological+Complex\">Orheiul Vechi Archaeological Complex</a>, explore ancient cave monasteries and ruins, then enjoy coffee at a local café in town.",
+        "afternoon": "🍽️ Have a traditional Moldovan lunch, take a scenic walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=Răut+River+walks+Orhei\">Răut River</a> and visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Trolleybus+Museum+Orhei\">Trolleybus Museum</a> for quirky cultural fun.",
+        "evening": "🌇 Head to a riverside restaurant for dinner, then stroll the historic streets and capture sunset light over the valley viewpoints.",
+        "night": "🌃 Cap your night with gelato in the town centre and a leisurely walk through quiet lanes before calling it a day."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming fields, green valleys and perfect weather for outdoor exploration 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Hike in Orheiul Vechi",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+trails",
+              "description": "Enjoy wildflowers, scenic paths and fresh air on the ancient trails."
+            },
+            {
+              "name": "Riverside Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Răut+River+walks+Orhei",
+              "description": "Pack local treats and enjoy a peaceful picnic by the river 🌿."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days for picnics, hikes and open-air cultural experiences ☀️.",
+          "ideas": [
+            {
+              "name": "Orheiul Vechi Sunset Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+cliff+view",
+              "description": "Watch the sun dip over the rolling hills and ancient ruins."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Crisp air, golden foliage and rich harvest flavours 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Răut Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Răut+River+walks+Orhei",
+              "description": "Capture amber tones along the riverside paths and meadows."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, cultural museums and crisp countryside vibes ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Museum Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+Museum",
+              "description": "Warm up indoors exploring local history and exhibits."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Orhei is easily accessed from Chișinău by regional buses and minibuses — frequent connections for day trips 🚌.",
+          "link": "https://www.autogari.md/"
+        },
+        {
+          "tip": "Within Orhei, local taxis and walking are the best ways to explore town and nearby scenic sites 🚖.",
+          "link": "https://www.orhei.md/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Orhei+summer+events",
+          "description": "Outdoor concerts, local festivals and cultural gatherings bring energy to town squares and scenic overlooks 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Orheiul Vechi Archaeological Complex",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+Archaeological+Complex",
+          "description": "Ancient cave monasteries, historic ruins and scenic valleys — a must-see highlight of the region."
+        },
+        {
+          "name": "Trolleybus Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Trolleybus+Museum+Orhei",
+          "description": "Fun cultural museum celebrating Moldova’s trolleybus history 🚋."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet River Bench Spot",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Quiet+bench+Răut+River+Orhei",
+          "description": "Hidden bench by the river perfect for reflection and calm views 🌊."
+        },
+        {
+          "name": "Ancient Roots Quarry Nook",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Orheiul+Vechi+quarry+hidden+spot",
+          "description": "Secluded nook near the archaeological site — great for peaceful moments and discovery 🪨."
+        }
+      ]
+    },
+
+    {
+      "name": "Soroca",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Soroca Fortress",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Soroca+Fortress",
+            "description": "Iconic medieval stronghold on the Dniester River — beautifully restored and rich in history 🏰."
+          },
+          {
+            "name": "History and Ethnography Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=History+and+Ethnography+Museum+Soroca",
+            "description": "Explore exhibits on the town’s past, local traditions, and life in northern Moldova 🧭."
+          },
+          {
+            "name": "Lăpușna House Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=L%C4%83pu%C8%99na+House+Museum+Soroca",
+            "description": "Historic house museum offering insights into local culture and daily life from past centuries 🏡."
+          },
+          {
+            "name": "Jewish History Exhibit",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jewish+History+Soroca",
+            "description": "Learn about the Jewish heritage of Soroca and the contributions of the community through the ages 🕍."
+          },
+          {
+            "name": "City Cultural Centre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=City+Cultural+Centre+Soroca",
+            "description": "Local hub for performances, cultural events, and art exhibitions 🎭."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Soroca Fortress Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Soroca+Fortress+views",
+            "description": "Panoramic shots of the fortress with the Dniester River as a backdrop — especially magical at sunrise 📸."
+          },
+          {
+            "name": "Dniester River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dniester+River+Soroca+promenade",
+            "description": "Scenic waterside path with reflections, bridges and boats — ideal for landscape photography 🌊."
+          },
+          {
+            "name": "Hilltop Viewpoints",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Soroca+hilltop+viewpoint",
+            "description": "Lookouts over rolling hills, river valleys and fortress walls — perfect golden hour photo moments 🌄."
+          },
+          {
+            "name": "Historic Streets & Architecture",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Soroca+old+town+streets",
+            "description": "Charming traditional streets with old façades and everyday town life — great for urban photography 🏘️."
+          },
+          {
+            "name": "River Sunset Reflections",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dniester+River+sunset+Soroca",
+            "description": "Capture the sun dipping over the Dniester with silhouettes and vibrant hues 🌇."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Central Cafés & Terraces",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=central+cafes+Soroca",
+            "description": "Relax with coffee, pastries and local sweets in charming central cafés ☕🍰."
+          },
+          {
+            "name": "Traditional Moldovan Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Moldovan+food+Soroca",
+            "description": "Enjoy regional dishes like mămăligă, sarmale, and grilled meats with local wine 🍷."
+          },
+          {
+            "name": "Riverside Dining",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=riverside+restaurants+Soroca",
+            "description": "Dine by the water with scenic views and fresh breezes — perfect for lunch or dinner 🍽️."
+          },
+          {
+            "name": "Local Wine & Beer Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=wine+bars+Soroca",
+            "description": "Sample regional wines and beers in cosy local bars 🍺🍷."
+          },
+          {
+            "name": "Evening Gelato Stroll",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Soroca",
+            "description": "Cap off your night with a sweet treat as you wander lit streets 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Dniester Riverside Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dniester+River+walks+Soroca",
+            "description": "Peaceful riverside paths with benches and shaded spots — perfect for a leisurely walk 🌿."
+          },
+          {
+            "name": "City Parks & Green Spaces",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=city+parks+Soroca",
+            "description": "Local parks with shaded areas, playgrounds and picnic spots — ideal for relaxing outdoors 🍃."
+          },
+          {
+            "name": "Hilltop Picnic Spots",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=hilltop+picnic+Soroca",
+            "description": "Scenic picnic areas overlooking the Dniester River and surrounding countryside 🧺."
+          },
+          {
+            "name": "Botanical Garden (Local)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=botanical+garden+Soroca",
+            "description": "Quiet garden setting with seasonal blooms and shaded paths — a green haven in town 🌸."
+          }
+        ]
+      },
+      "local_food_tip": "In Soroca, enjoy hearty Moldovan fare such as mămăligă (cornmeal), sarmale (cabbage rolls), grilled meats and local wines. Pair meals with views of the Dniester River and finish with a gelato or sweet treat 🍷🍽️.",
+      "full_day": {
+        "morning": "☀️ Start at <a href=\"https://www.google.com/maps/search/?api=1&query=Soroca+Fortress\">Soroca Fortress</a> to explore the medieval walls and enjoy sweeping views over the Dniester. Continue with coffee at a central café.",
+        "afternoon": "🍽️ Have a traditional Moldovan lunch in town, then take a scenic riverside walk along the <a href=\"https://www.google.com/maps/search/?api=1&query=Dniester+River+walks+Soroca\">Dniester riverside paths</a> and visit the <a href=\"https://www.google.com/maps/search/?api=1&query=History+and+Ethnography+Museum+Soroca\">History and Ethnography Museum</a>.",
+        "evening": "🌇 Enjoy dinner at a riverside restaurant and capture the sunset reflections over the river.",
+        "night": "🌃 Cap your night with a gelato and a gentle stroll through the historic town streets."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild breezes, blooming greenery and perfect weather for riverside walks 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Riverside Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Dniester+River+walks+Soroca",
+              "description": "Pack local treats and enjoy a picnic by the Dniester as nature awakens."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days for water views, outdoor dining and scenic hikes ☀️.",
+          "ideas": [
+            {
+              "name": "Sunset Fortress Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Soroca+Fortress+views",
+              "description": "Watch the sun dip behind the fortress and river for stunning photos."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Crisp air, amber leaves and cozy cultural spots 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Riverside Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Dniester+River+walks+Soroca",
+              "description": "Enjoy amber hues and tranquil river paths for scenic walks."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive cafés and crisp air — great for indoor culture and warm drinks ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Museum Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=History+and+Ethnography+Museum+Soroca",
+              "description": "Warm up indoors exploring local history and exhibits."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Regional buses connect Soroca with Chișinău and northern Moldova — frequent options make day trips simple 🚍.",
+          "link": "https://www.autogari.md/"
+        },
+        {
+          "tip": "Within Soroca, walking and taxis are the easiest ways to navigate between attractions and riverside spots 🚖.",
+          "link": "https://www.soroca.md/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Soroca+summer+events",
+          "description": "Local festivals, concerts and cultural gatherings bring lively city energy to squares and riverfront areas 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Soroca Fortress",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Soroca+Fortress",
+          "description": "Historic medieval fortress on the Dniester River — a defining symbol of the region’s heritage."
+        },
+        {
+          "name": "History and Ethnography Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=History+and+Ethnography+Museum+Soroca",
+          "description": "Cultural museum offering deep insights into local traditions and history 🧭."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Hilltop Quiet Bench Spot",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Soroca+hilltop+quiet+bench",
+          "description": "Hidden bench with peaceful river views — perfect for reflection and calm moments 🌄."
+        },
+        {
+          "name": "Old Town Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=old+town+alley+cafe+Soroca",
+          "description": "Small tucked-away café offering a cozy break away from main streets ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Tiraspol",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Suvorov Monument & Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Suvorov+Monument+Tiraspol",
+            "description": "Statue and square honoring General Suvorov — an iconic symbol of the city’s cultural and historical identity 🗽."
+          },
+          {
+            "name": "Victory Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Victory+Park+Tiraspol",
+            "description": "Large park with memorials, fountains and green paths — a local favourite for relaxation and cultural reflection 🌳."
+          },
+          {
+            "name": "Transnistrian State Art Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Transnistrian+State+Art+Museum+Tiraspol",
+            "description": "Art museum showcasing regional works, Soviet-era pieces and modern exhibitions — perfect for art lovers 🎨."
+          },
+          {
+            "name": "Tiraspol History Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tiraspol+History+Museum",
+            "description": "Exhibits and collections telling the story of Tiraspol and the wider region — insightful and educational 🏛️."
+          },
+          {
+            "name": "House-Museum of Alexander Suvorov",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=House-Museum+of+Alexander+Suvorov+Tiraspol",
+            "description": "Historic house-museum dedicated to the famed Russian general — period rooms and military artefacts 📜."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Suvorov Square Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Suvorov+Square+Tiraspol",
+            "description": "Wide city square with grand architecture and lively urban scenes — great for classic city photos 📸."
+          },
+          {
+            "name": "Nistru (Dniester) River Embankment",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dniester+River+Embankment+Tiraspol",
+            "description": "River promenade with tranquil water views, bridges and reflections — ideal for landscape shots 🌅."
+          },
+          {
+            "name": "Eternal Flame Monument",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Eternal+Flame+Monument+Tiraspol",
+            "description": "Striking memorial against the city background — especially atmospheric during dusk 📷."
+          },
+          {
+            "name": "Bridge Over the Nistru",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bridge+over+Nistru+Tiraspol",
+            "description": "Scenic bridge spanning the river — perfect for wide angle photos and city-scape frames 🌉."
+          },
+          {
+            "name": "Victory Park Fountains",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Victory+Park+Tiraspol+fountains",
+            "description": "Photogenic fountains and pathways in Victory Park — great for seasonal and night photography 🌟."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Central Café Strada",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Central+Cafe+Strada+Tiraspol",
+            "description": "Popular café in the central area — perfect for coffee, pastries and social vibes ☕🍰."
+          },
+          {
+            "name": "Traditional Transnistrian Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Transnistrian+restaurants+Tiraspol",
+            "description": "Try hearty local meals like meat stews, grilled dishes and regional breads — rich flavours and welcoming settings 🍽️."
+          },
+          {
+            "name": "Riverfront Dining",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=riverfront+restaurants+Tiraspol",
+            "description": "Relax over dinner beside the Nistru River with scenic views and cool breezes 🍷."
+          },
+          {
+            "name": "Bars & Lounges on Suvorov Street",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=bars+Suvorov+Street+Tiraspol",
+            "description": "Local bars and lounges featuring drinks, music and social gatherings into the evening 🍸."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Tiraspol",
+            "description": "End your night with gelato or desserts as you stroll lit streets 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Nistru River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dniester+River+promenade+Tiraspol",
+            "description": "Scenic riverbank walk with benches, views and fresh air — ideal for peaceful strolls 🌿."
+          },
+          {
+            "name": "Botanical Garden of Tiraspol",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Tiraspol",
+            "description": "Green oasis with seasonal blooms, shaded paths and tranquil corners for a nature break 🌸."
+          },
+          {
+            "name": "Victory Park Green Spaces",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Victory+Park+Tiraspol",
+            "description": "Wide lawns, shady trees and benches — perfect for picnics and relaxation 🌳."
+          },
+          {
+            "name": "Hilltop Views Over the City",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=hilltop+view+Tiraspol",
+            "description": "Lookouts for sweeping city and river views — great for quiet moments and scenic photos 🌄."
+          }
+        ]
+      },
+      "local_food_tip": "In Tiraspol, enjoy Transnistrian and Moldovan comfort cuisine — try hearty stews, grilled meats, regional breads, pickles and local wines. Pair your meal with a stroll along the Nistru River or a visit to Victory Park 🍷🍽️.",
+      "full_day": {
+        "morning": "☀️ Start at <a href=\"https://www.google.com/maps/search/?api=1&query=Suvorov+Monument+Tiraspol\">Suvorov Monument & Square</a>, take in the city’s central heartbeat, and enjoy a coffee at a nearby café before walking to the <a href=\"https://www.google.com/maps/search/?api=1&query=Transnistrian+State+Art+Museum+Tiraspol\">Transnistrian State Art Museum</a>.",
+        "afternoon": "🍽️ Have lunch at a traditional Transnistrian restaurant, then stroll along the <a href=\"https://www.google.com/maps/search/?api=1&query=Dniester+River+promenade+Tiraspol\">Nistru River Promenade</a> and explore the <a href=\"https://www.google.com/maps/search/?api=1&query=Tiraspol+History+Museum\">Tiraspol History Museum</a>.",
+        "evening": "🌇 Enjoy dinner by the river at a scenic spot, then visit Victory Park to see fountains and monuments in the golden light.",
+        "night": "🌃 Cap your night with gelato and a gentle walk along Suvorov Street before settling into a bar or lounge."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoming parks, riverside breezes and perfect weather for strolls 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Botanical Garden Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Tiraspol",
+              "description": "Enjoy seasonal blooms and shaded paths in the botanical garden."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm river walks, park picnics and lively terraces ☀️.",
+          "ideas": [
+            {
+              "name": "Riverfront Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Dniester+River+promenade+Tiraspol",
+              "description": "Pack local treats and relax beside the Nistru under summer skies."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Crisp air, amber leaves and reflective city walks 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Park Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Victory+Park+Tiraspol",
+              "description": "Capture autumn colours in Victory Park’s shaded paths."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, hearty meals and crisp air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Central+Cafe+Strada+Tiraspol",
+              "description": "Warm up with coffee and pastries in a cosy central café."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Tiraspol is walkable in the central area — many main attractions, cafes and parks are within easy strolling distance 🚶‍♂️.",
+          "link": "https://www.moldova.md/"
+        },
+        {
+          "tip": "Local buses and minibuses connect neighbourhoods and key spots — helpful for reaching Victory Park and riverside paths 🚍.",
+          "link": "https://www.moldova.md/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tiraspol+summer+events",
+          "description": "Open-air concerts, cultural festivals and community gatherings bring music and local spirit to parks and squares 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Sorvorov Monument & Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Suvorov+Monument+Tiraspol",
+          "description": "Central landmark steeped in regional history and identity 🗽."
+        },
+        {
+          "name": "Nistru River Embankment",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Dniester+River+Embankment+Tiraspol",
+          "description": "Picturesque riverbank setting perfect for walks, photos and relaxation 🌊."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Quiet Riverside Bench Spot",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=quiet+riverside+bench+Tiraspol",
+          "description": "Peaceful bench tucked away along the river — perfect for calm reflection 🌿."
+        },
+        {
+          "name": "Historic Alley Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=historic+alley+cafe+Tiraspol",
+          "description": "A tucked-away café on a quiet street — ideal for an intimate coffee break ☕."
+        }
+      ]
+    }
+
+  ]
+}

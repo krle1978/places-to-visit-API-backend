@@ -1,0 +1,1084 @@
+{
+  "name": "Iceland",
+  "cities": [
+    {
+      "name": "Akureyri",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Akureyri Church (Akureyrarkirkja)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyrarkirkja+Akureyri",
+            "description": "A striking modern church overlooking the town, designed by Guðjón Samúelsson — famous for its stained-glass windows and organ pipes."
+          },
+          {
+            "name": "Akureyri Art Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyri+Art+Museum",
+            "description": "A contemporary art center hosting exhibitions by Icelandic and international artists in a minimalist building."
+          },
+          {
+            "name": "Hof Cultural and Conference Center",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hof+Cultural+Center+Akureyri",
+            "description": "A waterfront cultural hub with concerts, theater, and art events — its architecture reflects Iceland’s nature and light."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Akureyri Church Hill",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyrarkirkja+Hill",
+            "description": "Capture the town, fjord, and mountains from this elevated viewpoint beside the iconic church."
+          },
+          {
+            "name": "Eyjafjörður Fjord",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Eyjafjörður+Fjord+Akureyri",
+            "description": "One of Iceland’s most beautiful fjords — perfect for photos of calm waters framed by snowy peaks."
+          },
+          {
+            "name": "Akureyri Botanical Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyri+Botanical+Garden",
+            "description": "A serene garden full of Icelandic and Arctic plants — especially photogenic in summer when everything blooms."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Strikið Restaurant & Bar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Strikið+Restaurant+Akureyri",
+            "description": "A rooftop restaurant with fjord views, offering fresh seafood, Icelandic lamb, and creative desserts."
+          },
+          {
+            "name": "Akureyri Fish & Chips",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyri+Fish+and+Chips",
+            "description": "Casual and tasty — freshly caught fish, crispy batter, and homemade sauces right by the harbor."
+          },
+          {
+            "name": "R5 Beer Lounge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=R5+Beer+Lounge+Akureyri",
+            "description": "A cozy bar offering Icelandic craft beers and a relaxed atmosphere in the heart of town."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Forest Lagoon (Skógarböð)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Forest+Lagoon+Akureyri",
+            "description": "A modern geothermal spa nestled among trees with infinity pools overlooking the fjord — ideal for year-round relaxation."
+          },
+          {
+            "name": "Hlíðarfjall Mountain",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hlíðarfjall+Akureyri",
+            "description": "A popular ski and hiking area with panoramic views over Akureyri and Eyjafjörður."
+          },
+          {
+            "name": "Eyjafjörður Whale Watching",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Whale+Watching+Akureyri",
+            "description": "Join a whale-watching tour to see humpback whales and dolphins in Iceland’s longest fjord."
+          }
+        ]
+      },
+      "local_food_tip": "Try Icelandic lamb, Arctic char, or fish soup — all local specialties. For dessert, taste 'skyr' (Icelandic yogurt) with berries or a fresh waffle with ice cream from Brynja, Akureyri’s legendary ice cream shop!",
+      "full_day": {
+        "morning": "☀️ Begin with a visit to <a href='https://www.google.com/maps/search/?api=1&query=Akureyrarkirkja+Akureyri'>Akureyri Church</a> and a stroll through the <a href='https://www.google.com/maps/search/?api=1&query=Akureyri+Botanical+Garden'>Botanical Garden</a>.",
+        "afternoon": "🐋 Take a whale-watching cruise on <a href='https://www.google.com/maps/search/?api=1&query=Eyjafjörður+Fjord+Akureyri'>Eyjafjörður Fjord</a> or explore local art at the <a href='https://www.google.com/maps/search/?api=1&query=Akureyri+Art+Museum'>Akureyri Art Museum</a>.",
+        "evening": "🌅 Relax at the <a href='https://www.google.com/maps/search/?api=1&query=Forest+Lagoon+Akureyri'>Forest Lagoon</a> as the sun sets behind the mountains.",
+        "night": "🌙 Enjoy dinner with a view at <a href='https://www.google.com/maps/search/?api=1&query=Strikið+Restaurant+Akureyri'>Strikið Restaurant</a> and maybe spot the northern lights in winter!"
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Melting snow reveals green landscapes and migrating birds return to the fjord.",
+          "ideas": [
+            {
+              "name": "Walk in Botanical Garden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyri+Botanical+Garden",
+              "description": "See early blooms and enjoy peaceful paths overlooking the town."
+            },
+            {
+              "name": "Visit Hof Cultural Center",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hof+Cultural+Center+Akureyri",
+              "description": "Attend concerts or exhibitions celebrating the new season."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Endless daylight, whale watching, and colorful gardens make Akureyri vibrant and full of life.",
+          "ideas": [
+            {
+              "name": "Whale Watching",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Whale+Watching+Akureyri",
+              "description": "See humpback whales, puffins, and dolphins under the midnight sun."
+            },
+            {
+              "name": "Hike Hlíðarfjall",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hlíðarfjall+Akureyri",
+              "description": "Enjoy warm weather and incredible views across the fjord."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden hills and crisp air make autumn a peaceful and colorful time to visit.",
+          "ideas": [
+            {
+              "name": "Forest Lagoon Soak",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Forest+Lagoon+Akureyri",
+              "description": "Relax in steaming pools surrounded by autumn leaves."
+            },
+            {
+              "name": "Taste Local Food",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Strikið+Restaurant+Akureyri",
+              "description": "Enjoy cozy dinners featuring local ingredients and fjord views."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snowy streets, skiing, and the northern lights create a true Arctic wonderland.",
+          "ideas": [
+            {
+              "name": "Ski at Hlíðarfjall",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hlíðarfjall+Akureyri",
+              "description": "Ski or snowboard on powdery slopes above the city."
+            },
+            {
+              "name": "Northern Lights Viewing",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyri+Northern+Lights+Viewpoints",
+              "description": "Watch the aurora dance across the night sky from nearby hills or the fjord shore."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Akureyri’s local buses are free — look for the 'Strætó' routes connecting all major spots in town.",
+          "link": "https://www.straeto.is/en"
+        },
+        {
+          "tip": "For exploring beyond the city, rent a car to visit Lake Mývatn, Goðafoss, and other nearby wonders.",
+          "link": "https://www.visitakureyri.is/en"
+        },
+        {
+          "tip": "The airport is only 3 km from the town center — taxis or short bus rides make it easy to reach.",
+          "link": "https://www.isavia.is/en/akureyri-airport"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "June–August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyri+Arts+Festival",
+          "description": "Akureyri Arts Festival — music, theater, and visual arts fill the town during the bright summer days."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyri+Christmas+Village",
+          "description": "Akureyri Christmas Village — cozy market stalls, twinkling lights, and festive treats in the snow-covered city center."
+        },
+        {
+          "season": "winter",
+          "dates": "February",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyri+Winter+Festival",
+          "description": "Akureyri Winter Festival — skiing, ice skating, and winter games celebrating Arctic life."
+        }
+      ],
+      "places": [
+        {
+          "name": "Akureyri Church (Akureyrarkirkja)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyrarkirkja+Akureyri",
+          "description": "A symbol of the town perched high above the harbor with incredible views."
+        },
+        {
+          "name": "Forest Lagoon",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Forest+Lagoon+Akureyri",
+          "description": "A tranquil geothermal spa surrounded by nature and mountain views."
+        },
+        {
+          "name": "Akureyri Botanical Garden",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Akureyri+Botanical+Garden",
+          "description": "One of the northernmost botanical gardens in the world — a peaceful and colorful retreat."
+        },
+        {
+          "name": "Hof Cultural Center",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hof+Cultural+Center+Akureyri",
+          "description": "A modern cultural venue on the waterfront, home to concerts and art shows."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Brynja Ice Cream Shop",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Brynja+Ice+Cream+Akureyri",
+          "description": "A legendary local ice cream spot open year-round — creamy, rich, and a must-try even in winter!"
+        },
+        {
+          "name": "Laufás Turf Houses",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Laufás+Turf+Houses",
+          "description": "A short drive from Akureyri, this open-air museum features traditional Icelandic turf homes preserved from the 19th century."
+        },
+        {
+          "name": "Christmas House (Jólagarðurinn)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Christmas+House+Akureyri",
+          "description": "A year-round Christmas shop filled with lights, ornaments, and festive music — magical for all ages."
+        }
+      ]
+    },
+
+    {
+      "name": "Egilsstaðir",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "East Iceland Heritage Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=East+Iceland+Heritage+Museum+Egilsstaðir",
+            "description": "A cozy regional museum showcasing life in East Iceland — from reindeer herding to traditional crafts and local stories."
+          },
+          {
+            "name": "Sláturhúsið Cultural Center",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sláturhúsið+Cultural+Center+Egilsstaðir",
+            "description": "A creative hub hosting art exhibitions, performances, and workshops — perfect for discovering local Icelandic artists."
+          },
+          {
+            "name": "Hallormsstaður National Forest Visitor Center",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hallormsstaður+National+Forest+Visitor+Center",
+            "description": "Learn about Iceland’s largest forest and its reforestation history through interactive displays and forest trails."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Lagarfljót Lake",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lagarfljót+Lake",
+            "description": "A long, mysterious lake said to hide a legendary serpent — surrounded by forests and perfect for sunrise photos."
+          },
+          {
+            "name": "Hengifoss Waterfall",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hengifoss+Waterfall",
+            "description": "One of Iceland’s tallest waterfalls, framed by striking red clay and basalt rock layers — a stunning photo opportunity."
+          },
+          {
+            "name": "Hallormsstaður Forest Lookout",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hallormsstaður+Forest",
+            "description": "Capture panoramic views of the Lagarfljót Valley and Iceland’s lush eastern landscape."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Klausturkaffi",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Klausturkaffi+Skriðuklaustur",
+            "description": "A charming café near Skriðuklaustur offering homemade cakes, soups, and traditional Icelandic dishes with local ingredients."
+          },
+          {
+            "name": "Salt Café & Bistro",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Salt+Café+and+Bistro+Egilsstaðir",
+            "description": "A popular modern bistro in town serving fresh fish, lamb, and creative salads — perfect for lunch or dinner."
+          },
+          {
+            "name": "Askur Pizzeria",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Askur+Pizzeria+Egilsstaðir",
+            "description": "A cozy and casual pizza spot loved by locals and travelers alike."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Vök Baths",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vök+Baths+Egilsstaðir",
+            "description": "A unique geothermal spa with floating pools on Lake Urriðavatn — soak while surrounded by mountain views."
+          },
+          {
+            "name": "Hallormsstaður National Forest",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hallormsstaður+National+Forest",
+            "description": "Iceland’s largest forest — full of hiking trails, picnic areas, and birdwatching spots."
+          },
+          {
+            "name": "Lagarfljót River Walk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lagarfljót+River+Egilsstaðir",
+            "description": "A peaceful riverside walk with views of the surrounding hills and farms — great for a quiet afternoon stroll."
+          }
+        ]
+      },
+      "local_food_tip": "Try reindeer steak or smoked Arctic char, both local specialties of East Iceland. Don’t miss homemade cakes and rhubarb jam at Klausturkaffi or ice cream from a nearby dairy farm!",
+      "full_day": {
+        "morning": "☀️ Start your day at <a href='https://www.google.com/maps/search/?api=1&query=Vök+Baths+Egilsstaðir'>Vök Baths</a> for a relaxing soak in geothermal pools.",
+        "afternoon": "🏞️ Drive to <a href='https://www.google.com/maps/search/?api=1&query=Hengifoss+Waterfall'>Hengifoss Waterfall</a> for a scenic hike and stop at <a href='https://www.google.com/maps/search/?api=1&query=Klausturkaffi+Skriðuklaustur'>Klausturkaffi</a> for lunch.",
+        "evening": "🌄 Explore <a href='https://www.google.com/maps/search/?api=1&query=Hallormsstaður+National+Forest'>Hallormsstaður Forest</a> and enjoy the views of <a href='https://www.google.com/maps/search/?api=1&query=Lagarfljót+Lake'>Lagarfljót Lake</a>.",
+        "night": "🌙 Have dinner at <a href='https://www.google.com/maps/search/?api=1&query=Salt+Café+and+Bistro+Egilsstaðir'>Salt Café & Bistro</a> and if it’s winter, look up for the northern lights!"
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Melting snow and blooming trees bring life to the Lagarfljót Valley — great for photography and outdoor walks.",
+          "ideas": [
+            {
+              "name": "Visit Hallormsstaður Forest",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hallormsstaður+National+Forest",
+              "description": "Watch the first leaves return and enjoy peaceful forest trails."
+            },
+            {
+              "name": "Lagarfljót Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Lagarfljót+Lake",
+              "description": "Pack local treats and enjoy the lakeside breeze with mountain views."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Long daylight hours make it perfect for hiking, bathing, and exploring East Iceland’s nature.",
+          "ideas": [
+            {
+              "name": "Hike to Hengifoss",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hengifoss+Waterfall",
+              "description": "A stunning 2-hour hike to one of Iceland’s tallest waterfalls — with views at every turn."
+            },
+            {
+              "name": "Swim in Vök Baths",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vök+Baths+Egilsstaðir",
+              "description": "Enjoy the warm geothermal pools floating on Lake Urriðavatn under the midnight sun."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves transform the forest and hills into a painter’s palette.",
+          "ideas": [
+            {
+              "name": "Forest Drive and Photo Stops",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hallormsstaður+Forest",
+              "description": "Capture the fiery autumn colors and misty mornings by the lake."
+            },
+            {
+              "name": "Taste Local Dishes at Klausturkaffi",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Klausturkaffi+Skriðuklaustur",
+              "description": "Warm up with reindeer soup or homemade bread in a cozy café setting."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snowy landscapes, steaming baths, and the magic of the northern lights.",
+          "ideas": [
+            {
+              "name": "Vök Baths by Night",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vök+Baths+Egilsstaðir",
+              "description": "Soak in the warm pools while snow falls or auroras shimmer above."
+            },
+            {
+              "name": "Snowshoeing in Hallormsstaður Forest",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hallormsstaður+National+Forest",
+              "description": "Enjoy quiet winter walks through Iceland’s enchanted forest paths."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Egilsstaðir is best explored by car, but long-distance buses connect it to Reykjavik and other East Iceland towns.",
+          "link": "https://straeto.is/en"
+        },
+        {
+          "tip": "The town is small — you can easily walk between shops, cafés, and the riverfront.",
+          "link": "https://www.visiticeland.com/"
+        },
+        {
+          "tip": "If visiting nearby sights like Hengifoss or Hallormsstaður, check road conditions before driving, especially in winter.",
+          "link": "https://www.road.is/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "June–August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Egilsstaðir+Summer+Festival",
+          "description": "Egilsstaðir Summer Festival — local music, art, and food events celebrating East Iceland’s culture."
+        },
+        {
+          "season": "autumn",
+          "dates": "September",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Laufskálafell+Marathon+Egilsstaðir",
+          "description": "Laufskálafell Trail Run — a scenic running event through the forest and hills around Egilsstaðir."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Egilsstaðir+Christmas+Market",
+          "description": "Egilsstaðir Christmas Market — festive lights, handmade crafts, and warm local treats."
+        }
+      ],
+      "places": [
+        {
+          "name": "Vök Baths",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Vök+Baths+Egilsstaðir",
+          "description": "Floating geothermal pools on Lake Urriðavatn — one of East Iceland’s highlights."
+        },
+        {
+          "name": "Hengifoss Waterfall",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hengifoss+Waterfall",
+          "description": "A dramatic red-striped waterfall surrounded by Iceland’s raw volcanic beauty."
+        },
+        {
+          "name": "Hallormsstaður National Forest",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hallormsstaður+National+Forest",
+          "description": "Iceland’s largest forest and a paradise for hiking, camping, and nature photography."
+        },
+        {
+          "name": "Lagarfljót Lake",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Lagarfljót+Lake",
+          "description": "A mystical glacial lake said to hide the legendary Lagarfljót Worm — Iceland’s version of the Loch Ness Monster!"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Skriðuklaustur Cultural Center",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Skriðuklaustur+Egilsstaðir",
+          "description": "A historical manor turned cultural site — once home to writer Gunnar Gunnarsson, now featuring exhibitions and a lovely café."
+        },
+        {
+          "name": "Vallanes Organic Farm",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Vallanes+Organic+Farm+Egilsstaðir",
+          "description": "A sustainable farm and café serving local grains, vegetables, and organic breakfast plates in a tranquil countryside setting."
+        },
+        {
+          "name": "Sænautasel Turf House",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sænautasel+Turf+House",
+          "description": "A remote turf house preserved from the 19th century — step back in time and enjoy homemade pancakes by the fireplace."
+        }
+      ]
+    },
+
+    {
+      "name": "Hafnarfjörður",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Hafnarborg Centre of Culture and Fine Art",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hafnarborg+Centre+of+Culture+and+Fine+Art+Hafnarfjörður",
+            "description": "A modern art museum hosting Icelandic and international exhibitions — located in a charming harbor building."
+          },
+          {
+            "name": "Hafnarfjörður Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hafnarfjörður+Museum",
+            "description": "A small but fascinating museum complex that tells the story of the town’s fishing, lava fields, and Viking heritage."
+          },
+          {
+            "name": "Viking Village (Fjörukráin)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Viking+Village+Hafnarfjörður",
+            "description": "A themed restaurant and hotel recreating medieval Icelandic life — complete with Viking feasts, costumes, and songs."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Hafnarfjörður Harbor",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hafnarfjörður+Harbor",
+            "description": "Colorful boats and sea views make this a perfect spot for peaceful photos, especially at sunset."
+          },
+          {
+            "name": "Hellisgerði Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hellisgerði+Park+Hafnarfjörður",
+            "description": "A lava park said to be home to elves — full of mossy rocks, small caves, and magical photo corners."
+          },
+          {
+            "name": "Víðistaðatún Sculpture Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Víðistaðatún+Park+Hafnarfjörður",
+            "description": "A wide green park with modern sculptures and sweeping views of the lava fields and bay."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Von Mathús & Bar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Von+Mathús+and+Bar+Hafnarfjörður",
+            "description": "A local favorite offering Icelandic fish, lamb, and creative dishes with a modern touch."
+          },
+          {
+            "name": "Fjörukráin Viking Restaurant",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fjörukráin+Hafnarfjörður",
+            "description": "Dine like a Viking! Enjoy hearty Icelandic meals, live folk music, and candlelit long tables."
+          },
+          {
+            "name": "Pallett Kaffikús",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pallett+Kaffikús+Hafnarfjörður",
+            "description": "A cozy café with top-notch coffee, pastries, and a laid-back local vibe — perfect for a relaxing morning."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Hellisgerði Lava Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hellisgerði+Park+Hafnarfjörður",
+            "description": "A peaceful park built among lava rocks, trees, and flowers — famous for its 'elf habitats.'"
+          },
+          {
+            "name": "Ástjörn Nature Reserve",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ástjörn+Nature+Reserve+Hafnarfjörður",
+            "description": "A small crater lake surrounded by walking trails and birdlife — ideal for a quiet escape within the city."
+          },
+          {
+            "name": "Hamarinn Lava Cliff",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hamarinn+Cliff+Hafnarfjörður",
+            "description": "A dramatic lava formation overlooking the sea — great for a short hike and stunning ocean views."
+          }
+        ]
+      },
+      "local_food_tip": "Try Icelandic lamb soup or freshly caught fish at Von Mathús, and for dessert, have homemade skyr cake or a slice of chocolate lava cake at a local café.",
+      "full_day": {
+        "morning": "☀️ Start your day with coffee at <a href='https://www.google.com/maps/search/?api=1&query=Pallett+Kaffikús+Hafnarfjörður'>Pallett Kaffikús</a> before exploring <a href='https://www.google.com/maps/search/?api=1&query=Hellisgerði+Park+Hafnarfjörður'>Hellisgerði Park</a> and its elf legends.",
+        "afternoon": "🏛️ Visit the <a href='https://www.google.com/maps/search/?api=1&query=Hafnarborg+Centre+of+Culture+and+Fine+Art+Hafnarfjörður'>Hafnarborg Art Museum</a> and <a href='https://www.google.com/maps/search/?api=1&query=Hafnarfjörður+Museum'>Hafnarfjörður Museum</a>, then have lunch at <a href='https://www.google.com/maps/search/?api=1&query=Von+Mathús+and+Bar+Hafnarfjörður'>Von Mathús</a>.",
+        "evening": "🌅 Stroll along <a href='https://www.google.com/maps/search/?api=1&query=Hafnarfjörður+Harbor'>the Harbor</a> or relax in <a href='https://www.google.com/maps/search/?api=1&query=Víðistaðatún+Park+Hafnarfjörður'>Víðistaðatún Park</a> with mountain views.",
+        "night": "🌙 Dine Viking-style at <a href='https://www.google.com/maps/search/?api=1&query=Fjörukráin+Hafnarfjörður'>Fjörukráin</a> and enjoy traditional songs by candlelight."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoming trees and bright lava moss make the town’s parks especially beautiful.",
+          "ideas": [
+            {
+              "name": "Walk through Hellisgerði Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hellisgerði+Park+Hafnarfjörður",
+              "description": "Enjoy spring flowers and explore Iceland’s legendary elf gardens."
+            },
+            {
+              "name": "Visit Hafnarborg Art Exhibitions",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hafnarborg+Centre+of+Culture+and+Fine+Art+Hafnarfjörður",
+              "description": "Discover spring-themed art and new Icelandic artists."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Long days bring open-air festivals, lava walks, and harbor life to full bloom.",
+          "ideas": [
+            {
+              "name": "Viking Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hafnarfjörður+Viking+Festival",
+              "description": "Experience Viking reenactments, crafts, and feasts during Iceland’s midsummer celebration."
+            },
+            {
+              "name": "Harbor Evening Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hafnarfjörður+Harbor",
+              "description": "Enjoy golden-hour views and lively cafés along the waterfront."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Cool breezes and golden leaves make Hafnarfjörður’s parks calm and photogenic.",
+          "ideas": [
+            {
+              "name": "Explore Ástjörn Nature Reserve",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ástjörn+Nature+Reserve+Hafnarfjörður",
+              "description": "Watch migrating birds and capture the warm autumn colors around the lake."
+            },
+            {
+              "name": "Coffee and Art Afternoon",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pallett+Kaffikús+Hafnarfjörður",
+              "description": "Enjoy cozy coffee and visit local galleries to escape the chilly air."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snow-covered lava fields and warm lights make Hafnarfjörður a magical winter retreat.",
+          "ideas": [
+            {
+              "name": "Christmas Market at the Harbor",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hafnarfjörður+Christmas+Market",
+              "description": "Shop handmade gifts and enjoy live music and hot chocolate by the sea."
+            },
+            {
+              "name": "Northern Lights at Hamarinn Cliff",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hamarinn+Cliff+Hafnarfjörður",
+              "description": "Watch the aurora dance above the ocean from a quiet lava viewpoint."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Take bus lines 1 or 55 from Reykjavik — Hafnarfjörður is only about 20 minutes away by public transport.",
+          "link": "https://www.straeto.is/en"
+        },
+        {
+          "tip": "The town is walkable, but bikes are a great way to explore the harbor and lava paths.",
+          "link": "https://www.visiticeland.com/"
+        },
+        {
+          "tip": "If you’re visiting the Viking Village or nature parks, wear good shoes — the lava terrain can be uneven.",
+          "link": "https://visitreykjavik.is/hafnarfjordur"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "June",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hafnarfjörður+Viking+Festival",
+          "description": "The Viking Festival — one of Iceland’s most famous cultural events with reenactments, crafts, music, and Viking feasts."
+        },
+        {
+          "season": "autumn",
+          "dates": "October",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bright+Days+Festival+Hafnarfjörður",
+          "description": "Bright Days Festival — celebrates local art and community with light installations and music before winter darkness arrives."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hafnarfjörður+Christmas+Village",
+          "description": "Hafnarfjörður Christmas Village — festive lights, local crafts, and warm food fill the Old Town with holiday cheer."
+        }
+      ],
+      "places": [
+        {
+          "name": "Hellisgerði Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hellisgerði+Park+Hafnarfjörður",
+          "description": "A magical lava garden filled with trees, sculptures, and elf folklore."
+        },
+        {
+          "name": "Hafnarborg Centre of Culture and Fine Art",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hafnarborg+Centre+of+Culture+and+Fine+Art+Hafnarfjörður",
+          "description": "An art museum at the heart of town showcasing contemporary Icelandic creativity."
+        },
+        {
+          "name": "Víðistaðatún Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Víðistaðatún+Park+Hafnarfjörður",
+          "description": "A large green park featuring sculptures, sea views, and open spaces for walking and relaxation."
+        },
+        {
+          "name": "Ástjörn Nature Reserve",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Ástjörn+Nature+Reserve+Hafnarfjörður",
+          "description": "A serene crater lake with paths and wildlife near the town center."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "The Elf Garden (Hidden World Walk)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hidden+World+Walk+Hafnarfjörður",
+          "description": "Join a guided walk through lava fields and learn about Iceland’s elf legends and hidden people folklore."
+        },
+        {
+          "name": "Bátskáli Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bátskáli+Café+Hafnarfjörður",
+          "description": "A seaside café in a restored boathouse — perfect for coffee and waffles by the harbor."
+        },
+        {
+          "name": "Hvaleyrarvatn Lake",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hvaleyrarvatn+Lake+Hafnarfjörður",
+          "description": "A peaceful lake surrounded by forest paths, ideal for a nature walk or summer swim."
+        }
+      ]
+    },
+
+    {
+      "name": "Ísafjörður",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Westfjords Heritage Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Westfjords+Heritage+Museum+Ísafjörður",
+            "description": "A fascinating museum located in an old whaling warehouse, showcasing the maritime history and life of the Westfjords region."
+          },
+          {
+            "name": "Edinborg Cultural Center",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Edinborg+Cultural+Center+Ísafjörður",
+            "description": "A cultural hub offering concerts, theater, and art exhibitions — a gathering place for the town’s creative community."
+          },
+          {
+            "name": "Old Town Neðstikaupstaður",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Neðstikaupstaður+Ísafjörður",
+            "description": "One of Iceland’s oldest trading districts, featuring beautifully restored 18th-century wooden houses along the harbor."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Ísafjörður Harbor",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ísafjörður+Harbor",
+            "description": "Colorful fishing boats and calm fjord waters framed by towering mountains — a classic Icelandic photo scene."
+          },
+          {
+            "name": "Tungudalur Valley",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tungudalur+Valley+Ísafjörður",
+            "description": "A lush green valley just outside town with waterfalls, trails, and scenic picnic spots."
+          },
+          {
+            "name": "Bolafjall Viewpoint",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bolafjall+Viewpoint+Bolungarvík",
+            "description": "A short drive away — one of the most breathtaking viewpoints in Iceland, overlooking the fjords and open sea."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Tjöruhúsið",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tjöruhúsið+Ísafjörður",
+            "description": "An iconic fish restaurant in an old wooden house, serving freshly caught fish in a buffet-style feast — a must-try!"
+          },
+          {
+            "name": "Húsið Café & Bar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Húsið+Café+Ísafjörður",
+            "description": "A cozy hangout with coffee, light meals, and evening music — popular with locals and travelers alike."
+          },
+          {
+            "name": "Heimabyggð Bistro",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Heimabyggð+Bistro+Ísafjörður",
+            "description": "A modern café and bistro offering Icelandic comfort food and homemade cakes with fjord views."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Naustahvilft (Troll Seat)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Naustahvilft+Ísafjörður",
+            "description": "A natural depression in the mountain shaped like a giant’s seat — hike up for stunning views over the town and fjord."
+          },
+          {
+            "name": "Tungudalur Waterfall Trail",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tungudalur+Waterfall+Ísafjörður",
+            "description": "A peaceful trail following small waterfalls and streams through a green valley — ideal for a short hike."
+          },
+          {
+            "name": "Vigur Island",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vigur+Island+Westfjords",
+            "description": "A tiny island accessible by boat where puffins, eider ducks, and Arctic terns thrive — a paradise for bird lovers."
+          }
+        ]
+      },
+      "local_food_tip": "Taste Icelandic fish stew (plokkfiskur) or salt-cured cod at Tjöruhúsið. For dessert, have a slice of rhubarb cake or ice cream from Gamla Bakaríið, the town’s historic bakery!",
+      "full_day": {
+        "morning": "☀️ Start with a stroll through <a href='https://www.google.com/maps/search/?api=1&query=Neðstikaupstaður+Ísafjörður'>Old Town Neðstikaupstaður</a> and visit the <a href='https://www.google.com/maps/search/?api=1&query=Westfjords+Heritage+Museum+Ísafjörður'>Westfjords Heritage Museum</a>.",
+        "afternoon": "🏔️ Hike to <a href='https://www.google.com/maps/search/?api=1&query=Naustahvilft+Ísafjörður'>Naustahvilft (the Troll Seat)</a> or relax by <a href='https://www.google.com/maps/search/?api=1&query=Tungudalur+Valley+Ísafjörður'>Tungudalur Valley</a>, then enjoy lunch at <a href='https://www.google.com/maps/search/?api=1&query=Heimabyggð+Bistro+Ísafjörður'>Heimabyggð Bistro</a>.",
+        "evening": "🌅 Take a short drive to <a href='https://www.google.com/maps/search/?api=1&query=Bolafjall+Viewpoint+Bolungarvík'>Bolafjall Viewpoint</a> for an unforgettable sunset.",
+        "night": "🌙 Have a delicious fish dinner at <a href='https://www.google.com/maps/search/?api=1&query=Tjöruhúsið+Ísafjörður'>Tjöruhúsið</a> and end the night with live music at <a href='https://www.google.com/maps/search/?api=1&query=Húsið+Café+Ísafjörður'>Húsið Café</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Snowy peaks melt into green valleys and migrating birds return to the fjords.",
+          "ideas": [
+            {
+              "name": "Walk along the Harbor",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ísafjörður+Harbor",
+              "description": "Watch fishing boats return with the first catches of the season."
+            },
+            {
+              "name": "Tungudalur Hike",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tungudalur+Valley+Ísafjörður",
+              "description": "Enjoy fresh air and spring waterfalls surrounded by blooming moss."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Endless daylight and vibrant nature make Ísafjörður perfect for exploring and outdoor fun.",
+          "ideas": [
+            {
+              "name": "Boat Trip to Vigur Island",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vigur+Island+Westfjords",
+              "description": "Meet puffins and eider ducks while learning about traditional Icelandic farming life."
+            },
+            {
+              "name": "Við Djúpið Music Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Við+Djúpið+Music+Festival+Ísafjörður",
+              "description": "A classical and jazz music event attracting musicians from around the world."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden colors cover the fjords and the town slows into cozy, quiet charm.",
+          "ideas": [
+            {
+              "name": "Autumn Photography Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ísafjörður+Old+Town",
+              "description": "Capture colorful houses framed by amber hills and calm waters."
+            },
+            {
+              "name": "Visit the Heritage Museum",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Westfjords+Heritage+Museum+Ísafjörður",
+              "description": "Learn about the region’s maritime history as the evenings grow longer."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snowy streets, skiing, and northern lights over the fjord — a true Arctic experience.",
+          "ideas": [
+            {
+              "name": "Ski at Tungudalur",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tungudalur+Ski+Area+Ísafjörður",
+              "description": "A family-friendly ski slope with great views and fresh powder."
+            },
+            {
+              "name": "Northern Lights Viewing",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Naustahvilft+Ísafjörður",
+              "description": "Watch auroras from the mountain slopes or harbor under clear winter skies."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Ísafjörður is reachable by domestic flight from Reykjavik in about 40 minutes — the airport is only 5 minutes from town.",
+          "link": "https://www.airicelandconnect.com/"
+        },
+        {
+          "tip": "Local buses connect Ísafjörður with nearby villages like Bolungarvík and Súðavík.",
+          "link": "https://www.westfjords.is/"
+        },
+        {
+          "tip": "For scenic travel, rent a car — the winding mountain roads offer some of Iceland’s most beautiful drives.",
+          "link": "https://www.road.is/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "July",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Við+Djúpið+Music+Festival+Ísafjörður",
+          "description": "Við Djúpið Music Festival — classical and jazz performances by Icelandic and international artists."
+        },
+        {
+          "season": "summer",
+          "dates": "June–August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Folk+Music+Festival+of+Siglufjörður",
+          "description": "Folk Music Festival — though held in Siglufjörður, it often features performers visiting Ísafjörður too."
+        },
+        {
+          "season": "winter",
+          "dates": "February",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Aldrei+Fór+Ég+Suður+Festival+Ísafjörður",
+          "description": "Aldrei Fór Ég Suður Festival — Iceland’s most famous free music festival, held every Easter weekend."
+        }
+      ],
+      "places": [
+        {
+          "name": "Westfjords Heritage Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Westfjords+Heritage+Museum+Ísafjörður",
+          "description": "A maritime museum located in a restored 18th-century warehouse by the harbor."
+        },
+        {
+          "name": "Old Town Neðstikaupstaður",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Neðstikaupstaður+Ísafjörður",
+          "description": "Historic wooden buildings that once housed merchants and sailors — now home to shops and cafes."
+        },
+        {
+          "name": "Tjöruhúsið",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tjöruhúsið+Ísafjörður",
+          "description": "A beloved seafood restaurant serving freshly caught fish in a cozy, rustic setting."
+        },
+        {
+          "name": "Naustahvilft (Troll Seat)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Naustahvilft+Ísafjörður",
+          "description": "A natural bowl-shaped formation above the town — great for short hikes and panoramic views."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Vigur Island",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Vigur+Island+Westfjords",
+          "description": "A quiet bird island accessible by boat, home to puffins, seals, and Iceland’s only windmill."
+        },
+        {
+          "name": "Gamla Bakaríið (Old Bakery)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Gamla+Bakaríið+Ísafjörður",
+          "description": "A historic bakery serving delicious pastries, breads, and coffee — a favorite stop for locals."
+        },
+        {
+          "name": "Bolafjall Viewpoint",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bolafjall+Viewpoint+Bolungarvík",
+          "description": "A dramatic cliff-top platform with panoramic views over fjords and the open Atlantic Ocean."
+        }
+      ]
+    },
+
+    {
+      "name": "Reykjavík",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Hallgrímskirkja Church",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hallgrímskirkja+Reykjavík",
+            "description": "Reykjavík’s iconic landmark — a towering concrete church inspired by Iceland’s basalt landscapes. You can take the elevator to the top for panoramic views of the city and the sea."
+          },
+          {
+            "name": "Harpa Concert Hall",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Harpa+Concert+Hall+Reykjavík",
+            "description": "A glass masterpiece by the harbor, hosting concerts and exhibitions — especially stunning at sunset when its façade reflects the ocean light."
+          },
+          {
+            "name": "National Museum of Iceland",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Museum+of+Iceland+Reykjavík",
+            "description": "Explore Iceland’s fascinating past — from Viking Age artifacts to modern culture — through interactive exhibits and multimedia displays."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Sun Voyager (Sólfar) Sculpture",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sun+Voyager+Sculpture+Reykjavík",
+            "description": "A striking steel sculpture resembling a Viking ship by the sea — one of Reykjavík’s most photographed spots, especially at sunrise."
+          },
+          {
+            "name": "Perlan Observation Deck",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Perlan+Observation+Deck+Reykjavík",
+            "description": "Offers a 360° view over Reykjavík, the mountains, and the Atlantic Ocean — also home to an interactive natural wonders museum."
+          },
+          {
+            "name": "Old Harbour",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Harbour+Reykjavík",
+            "description": "A colorful waterfront full of fishing boats, street art, and cafés — perfect for photos and people-watching."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Bæjarins Beztu Pylsur",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bæjarins+Beztu+Pylsur+Reykjavík",
+            "description": "Iceland’s most famous hot dog stand — try one 'eina með öllu' (with everything) for the full local experience."
+          },
+          {
+            "name": "Fish Company (Fiskfélagið)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fish+Company+Reykjavík",
+            "description": "A stylish restaurant serving creative Icelandic seafood dishes in a cozy setting near the Old Harbour."
+          },
+          {
+            "name": "Kaffibarinn",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kaffibarinn+Reykjavík",
+            "description": "A legendary Reykjavík café-bar known for its warm atmosphere, music, and local hangout vibe — great for evenings."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Nauthólsvík Geothermal Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nauthólsvík+Geothermal+Beach+Reykjavík",
+            "description": "A unique golden-sand beach with naturally heated water where you can swim, soak, or relax in the sun during summer."
+          },
+          {
+            "name": "Elliðaárdalur Valley",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Elliðaárdalur+Valley+Reykjavík",
+            "description": "A peaceful green valley within the city featuring waterfalls, walking paths, and friendly rabbits — perfect for a calm escape."
+          },
+          {
+            "name": "Sky Lagoon",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sky+Lagoon+Reykjavík",
+            "description": "A luxurious oceanfront geothermal spa offering infinity-pool views over the North Atlantic — ideal for relaxation all year round."
+          }
+        ]
+      },
+      "local_food_tip": "Try Icelandic lamb soup, seafood soup, or rye bread baked in geothermal ground ('hverabrauð'). Don’t miss a stop at Bæjarins Beztu Pylsur for Reykjavík’s iconic hot dog and Skyr cake for dessert!",
+      "full_day": {
+        "morning": "☀️ Begin your day at <a href='https://www.google.com/maps/search/?api=1&query=Hallgrímskirkja+Reykjavík'>Hallgrímskirkja</a> and grab a pastry at <a href='https://www.google.com/maps/search/?api=1&query=Brauð+&+Co+Reykjavík'>Brauð & Co</a> nearby.",
+        "afternoon": "🎨 Visit the <a href='https://www.google.com/maps/search/?api=1&query=Harpa+Concert+Hall+Reykjavík'>Harpa Concert Hall</a> and stroll the <a href='https://www.google.com/maps/search/?api=1&query=Old+Harbour+Reykjavík'>Old Harbour</a> for lunch by the sea.",
+        "evening": "🌅 Relax in the <a href='https://www.google.com/maps/search/?api=1&query=Sky+Lagoon+Reykjavík'>Sky Lagoon</a> or walk along the waterfront to the <a href='https://www.google.com/maps/search/?api=1&query=Sun+Voyager+Sculpture+Reykjavík'>Sun Voyager</a> at sunset.",
+        "night": "🌙 Enjoy dinner at <a href='https://www.google.com/maps/search/?api=1&query=Fish+Company+Reykjavík'>Fish Company</a> and end your day with music or mocktails at <a href='https://www.google.com/maps/search/?api=1&query=Kaffibarinn+Reykjavík'>Kaffibarinn</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Cherry blossoms bloom in Hljómskálagarður Park, and the days get longer — perfect for city walks.",
+          "ideas": [
+            {
+              "name": "Visit Reykjavík Botanical Garden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Reykjavík+Botanical+Garden",
+              "description": "Enjoy early blooms and peaceful paths near Laugardalur Park."
+            },
+            {
+              "name": "Coffee and Art Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Harpa+Concert+Hall+Reykjavík",
+              "description": "Explore local cafés and galleries while the city wakes from winter."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Reykjavík shines under the midnight sun — perfect for festivals, open-air concerts, and sea views.",
+          "ideas": [
+            {
+              "name": "Secret Solstice Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Secret+Solstice+Festival+Reykjavík",
+              "description": "A legendary music festival celebrating the 24-hour daylight with global artists and local energy."
+            },
+            {
+              "name": "Whale Watching Tour",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Reykjavík+Whale+Watching",
+              "description": "Spot minke and humpback whales under the bright northern sky from the Old Harbour."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves, fewer crowds, and cozy cafés make Reykjavík warm and colorful.",
+          "ideas": [
+            {
+              "name": "Photography Walk by the Harbor",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Harbour+Reykjavík",
+              "description": "Capture reflections of colorful boats and moody skies."
+            },
+            {
+              "name": "Try Icelandic Lamb Soup",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Fish+Company+Reykjavík",
+              "description": "Warm up with a bowl of traditional soup made from local lamb and root vegetables."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Northern lights, cozy lights, and steaming geothermal pools — Reykjavík feels like a glowing Arctic village.",
+          "ideas": [
+            {
+              "name": "Northern Lights Viewing",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Grótta+Lighthouse+Reykjavík",
+              "description": "Head to Grótta Lighthouse for some of the best aurora views near the city."
+            },
+            {
+              "name": "Soak at Sky Lagoon",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sky+Lagoon+Reykjavík",
+              "description": "Enjoy hot geothermal waters as snowflakes fall around you."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Reykjavík’s city buses (Strætó) run regularly — download the 'Klapp' app to buy tickets and plan routes easily.",
+          "link": "https://www.straeto.is/en"
+        },
+        {
+          "tip": "Most attractions are walkable, especially in the downtown area — bring good shoes for exploring.",
+          "link": "https://visitreykjavik.is/"
+        },
+        {
+          "tip": "Biking is popular in summer; rent one near the harbor or Laugavegur shopping street.",
+          "link": "https://www.reykjavik.is/en"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "June",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Secret+Solstice+Festival+Reykjavík",
+          "description": "Secret Solstice Festival — outdoor music under the midnight sun featuring international and Icelandic artists."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Reykjavík+Christmas+Market",
+          "description": "Reykjavík Christmas Market — twinkling lights, cozy wooden stalls, and festive Icelandic treats in the city center."
+        },
+        {
+          "season": "winter",
+          "dates": "February",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Reykjavík+Winter+Lights+Festival",
+          "description": "Winter Lights Festival — art installations, light shows, and cultural events brightening up the dark season."
+        }
+      ],
+      "places": [
+        {
+          "name": "Hallgrímskirkja",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hallgrímskirkja+Reykjavík",
+          "description": "The city’s main landmark and viewpoint, offering incredible panoramas from its tower."
+        },
+        {
+          "name": "Harpa Concert Hall",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Harpa+Concert+Hall+Reykjavík",
+          "description": "A world-renowned concert hall made of glass inspired by Icelandic nature and light."
+        },
+        {
+          "name": "Sun Voyager",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sun+Voyager+Sculpture+Reykjavík",
+          "description": "A gleaming sculpture symbolizing hope, freedom, and discovery by the sea."
+        },
+        {
+          "name": "Sky Lagoon",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sky+Lagoon+Reykjavík",
+          "description": "An oceanfront geothermal spa combining modern comfort with Icelandic tradition."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Grótta Lighthouse",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Grótta+Lighthouse+Reykjavík",
+          "description": "A peaceful spot at the edge of the Seltjarnarnes Peninsula — great for sunsets and northern lights watching."
+        },
+        {
+          "name": "Reykjavík Street Art Walk",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Laugavegur+Street+Art+Reykjavík",
+          "description": "Discover colorful murals and graffiti art decorating downtown walls and alleys."
+        },
+        {
+          "name": "Árbær Open Air Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Árbær+Open+Air+Museum+Reykjavík",
+          "description": "A living history museum where you can explore old Icelandic houses and see how people lived centuries ago."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "userId": "u_001",
+    "provider": "paypal",
+    "amount": "9.99",
+    "currency": "EUR",
+    "status": "completed",
+    "timestamp": "2025-01-12T10:22:00Z"
+  }
+]

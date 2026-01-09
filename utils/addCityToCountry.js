@@ -1,6 +1,9 @@
 import fs from "fs";
 import path from "path";
+import dotenv from "dotenv";
 import OpenAI from "openai";
+
+dotenv.config();
 
 const COUNTRIES_PATH = path.resolve(
   process.cwd(),

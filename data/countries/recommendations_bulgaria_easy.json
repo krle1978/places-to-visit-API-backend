@@ -1,0 +1,1018 @@
+{
+  "name": "Bulgaria",
+  "cities": [
+    {
+      "name": "Burgas",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Archaeological Museum Burgas",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Archaeological+Museum+Burgas",
+            "description": "A compact but fascinating museum in the city center presenting ancient Thracian, Greek, and Roman artifacts from the Black Sea region."
+          },
+          {
+            "name": "Ethnographic Museum Burgas",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ethnographic+Museum+Burgas",
+            "description": "Located in a 19th-century house, this museum shows traditional costumes, crafts, and everyday life from the Burgas region."
+          },
+          {
+            "name": "Church of Saint Cyril and Methodius",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+Saint+Cyril+and+Methodius+Burgas",
+            "description": "A beautiful Orthodox church known for its stained glass windows and calm atmosphere near the city center."
+          },
+          {
+            "name": "Aquae Calidae – Thermopolis",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Aquae+Calidae+Thermopolis+Burgas",
+            "description": "An ancient Roman and medieval spa complex built around mineral springs, now a modern archaeological and wellness site."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Sea Garden & Burgas Pier",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sea+Garden+and+Pier+Burgas",
+            "description": "The most iconic area of Burgas, perfect for sunrise and sunset photos with sea views, greenery, and city skyline."
+          },
+          {
+            "name": "St. Anastasia Island",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St+Anastasia+Island+Burgas",
+            "description": "A small island with a monastery, lighthouse, and dramatic sea views, reachable by boat from Burgas port."
+          },
+          {
+            "name": "Sand Sculpture Festival Area",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sand+Sculpture+Festival+Ezero+Park+Burgas",
+            "description": "Seasonal outdoor exhibition of giant sand sculptures near the Sea Garden, very popular for creative photos."
+          },
+          {
+            "name": "Atanasovsko Lake",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Atanasovsko+Lake+Burgas",
+            "description": "A coastal salt lake famous for pink hues, flamingos, and unique natural landscapes."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Bogoridi Street Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bogoridi+Street+Burgas",
+            "description": "A lively pedestrian street full of cafés, ice cream shops, and casual restaurants popular with locals and teens."
+          },
+          {
+            "name": "Central & North Beach Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Burgas+Central+Beach+Bars",
+            "description": "Beachfront bars and chill-out zones offering music, snacks, and relaxed evening vibes in summer."
+          },
+          {
+            "name": "Magazia 1 – Port Area",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Magazia+1+Port+of+Burgas",
+            "description": "A renovated port zone with modern cafés, seafood restaurants, and cultural events by the water."
+          },
+          {
+            "name": "Galleria Burgas Mall",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Galleria+Mall+Burgas",
+            "description": "Large shopping mall with cinema, food court, and international brands, ideal for hot or rainy days."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Burgas Sea Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sea+Garden+Burgas",
+            "description": "A long seaside park with trees, flowers, bike paths, and sea views, perfect for walking and relaxing."
+          },
+          {
+            "name": "Burgas Lakes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Burgas+Lakes+Nature+Reserve",
+            "description": "A group of protected lakes around the city, known for birdwatching, sunsets, and peaceful scenery."
+          },
+          {
+            "name": "Poda Nature Reserve",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Poda+Nature+Reserve+Burgas",
+            "description": "A small wetland reserve with walking paths and bird observation points just outside the city."
+          },
+          {
+            "name": "Aquae Calidae Mineral Baths",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Aquae+Calidae+Mineral+Baths+Burgas",
+            "description": "Modern spa facilities using natural hot mineral water, ideal for relaxation in cooler months."
+          }
+        ]
+      },
+      "local_food_tip": "Try Black Sea mussels, fried sprats, banitsa pastries, and ice cream along Bogoridi Street or in the Sea Garden for affordable local flavors.",
+      "full_day": {
+        "morning": "🌅 Walk through the <a href=\"https://www.google.com/maps/search/?api=1&query=Sea+Garden+Burgas\">Sea Garden</a>, then swim at <a href=\"https://www.google.com/maps/search/?api=1&query=Burgas+Central+Beach\">Central Beach</a> and enjoy the view from the <a href=\"https://www.google.com/maps/search/?api=1&query=Burgas+Pier\">Pier</a>.",
+        "afternoon": "🏛️ Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Archaeological+Museum+Burgas\">Archaeological Museum</a>, walk Bogoridi Street, and cool off at <a href=\"https://www.google.com/maps/search/?api=1&query=Galleria+Mall+Burgas\">Galleria Mall</a>.",
+        "evening": "⛵ Take a boat trip to <a href=\"https://www.google.com/maps/search/?api=1&query=St+Anastasia+Island+Burgas\">St. Anastasia Island</a> or visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Sand+Sculpture+Festival+Ezero+Park+Burgas\">Sand Sculpture Festival</a>.",
+        "night": "🌙 Dinner near <a href=\"https://www.google.com/maps/search/?api=1&query=Magazia+1+Port+of+Burgas\">Magazia 1</a> and a relaxed walk along the beach bars at <a href=\"https://www.google.com/maps/search/?api=1&query=Burgas+North+Beach\">North Beach</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild weather, blooming parks, and migrating birds.",
+          "ideas": [
+            {
+              "name": "Birdwatching at Burgas Lakes",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Burgas+Lakes+Birdwatching",
+              "description": "Watch flamingos and migratory birds in protected natural areas."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Beach life, festivals, and long sunny days.",
+          "ideas": [
+            {
+              "name": "Sand Sculpture Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sand+Sculpture+Festival+Ezero+Park+Burgas",
+              "description": "Walk among giant themed sand sculptures near the Sea Garden."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Warm sea, fewer tourists, calm atmosphere.",
+          "ideas": [
+            {
+              "name": "Nessebar Old Town Day Trip",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Town+Nessebar",
+              "description": "Explore cobbled streets, old churches, and sea views in UNESCO-listed Nessebar."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Mild winters and cozy city vibes.",
+          "ideas": [
+            {
+              "name": "Aquae Calidae Spa Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Aquae+Calidae+Mineral+Baths+Burgas",
+              "description": "Relax in warm mineral pools during colder days."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use Burgasbus for city transport including buses and trolleybuses.",
+          "link": "https://burgasbus.info/eng/?page_id=59"
+        },
+        {
+          "tip": "Check real-time arrivals and routes using the Transport Burgas platform.",
+          "link": "https://www.transportburgas.bg/en/index"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "July–September",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sand+Sculpture+Festival+Ezero+Park+Burgas",
+          "description": "Annual sand sculpture festival near the Sea Garden."
+        }
+      ],
+      "places": [
+        {
+          "name": "Sea Garden",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sea+Garden+Burgas",
+          "description": "Main seaside park and social heart of Burgas."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Chengene Skele",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Chengene+Skele+Burgas",
+          "description": "Authentic fishing village with cultural complex and seafood spots."
+        }
+      ]
+    },
+
+    {
+      "name": "Plovdiv",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Old Town Plovdiv",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Town+Plovdiv",
+            "description": "A beautifully preserved area filled with cobblestone streets, colorful 19th-century houses, and ancient Roman ruins. Perfect for exploring Bulgaria’s cultural heart and taking in centuries of history."
+          },
+          {
+            "name": "Roman Theatre of Philippopolis",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Roman+Theatre+of+Philippopolis",
+            "description": "One of the world’s best-preserved Roman theatres, still hosting concerts and performances today. Offers amazing views over the city."
+          },
+          {
+            "name": "Kapana Creative District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kapana+District+Plovdiv",
+            "description": "The artistic soul of Plovdiv — full of galleries, street art, and small craft shops. It’s a great place to experience Bulgaria’s creative scene."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Nebet Tepe",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nebet+Tepe+Plovdiv",
+            "description": "A hill offering panoramic views of Plovdiv’s skyline and the surrounding mountains — perfect for sunset photos."
+          },
+          {
+            "name": "Tsar Simeon Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tsar+Simeon+Garden+Plovdiv",
+            "description": "Lush gardens and fountains in the heart of the city — the Singing Fountains light show is a must-see in summer evenings."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Smokini",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Smokini+Restaurant+Plovdiv",
+            "description": "Trendy restaurant serving traditional Bulgarian dishes with a modern twist — cozy and stylish atmosphere."
+          },
+          {
+            "name": "Pavaj",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pavaj+Plovdiv",
+            "description": "Located in the Kapana district, this local favorite offers homemade meals, cheerful staff, and a true Plovdiv vibe."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Youth Hill (Mladezhki Halm)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Youth+Hill+Plovdiv",
+            "description": "A peaceful green space with hiking trails and the best panoramic views of the city — ideal for a relaxing afternoon walk."
+          },
+          {
+            "name": "Maritsa River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Maritsa+River+Plovdiv",
+            "description": "A calm riverside area perfect for cycling or enjoying nature right next to the bustling city center."
+          }
+        ]
+      },
+      "local_food_tip": "Try 'Banitsa' with yogurt for breakfast and ‘Shopska salad’ with local white cheese for lunch — they’re Plovdiv classics!",
+      "full_day": {
+        "morning": "☀️ Start your day in the <a href='https://www.google.com/maps/search/?api=1&query=Old+Town+Plovdiv'>Old Town</a>, exploring ancient Roman ruins and traditional Bulgarian houses.",
+        "afternoon": "🍽️ Have lunch in <a href='https://www.google.com/maps/search/?api=1&query=Kapana+District+Plovdiv'>Kapana District</a> and browse local art shops.",
+        "evening": "🌇 Watch the sunset from <a href='https://www.google.com/maps/search/?api=1&query=Nebet+Tepe+Plovdiv'>Nebet Tepe</a> hill — an unforgettable view of the city.",
+        "night": "🌙 End your day with dinner and live music at <a href='https://www.google.com/maps/search/?api=1&query=Pavaj+Plovdiv'>Pavaj</a> in Kapana."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming gardens and mild weather make the Old Town even more charming.",
+          "ideas": [
+            {
+              "name": "Tsar Simeon Garden",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tsar+Simeon+Garden+Plovdiv",
+              "description": "Enjoy the colorful flowers and fountains that come alive in spring."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Outdoor concerts and long sunny days.",
+          "ideas": [
+            {
+              "name": "Roman Theatre Performances",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Roman+Theatre+Plovdiv",
+              "description": "Watch a live show under the stars in an ancient setting."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Warm light, art festivals, and fewer crowds.",
+          "ideas": [
+            {
+              "name": "Kapana Fest",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Kapana+Fest+Plovdiv",
+              "description": "Experience local creativity, crafts, and street music every fall."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "A cozy atmosphere with festive lights and warm cafés.",
+          "ideas": [
+            {
+              "name": "Plovdiv Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Plovdiv+Christmas+Market",
+              "description": "Hot drinks, handmade gifts, and winter magic in the city center."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use the Plovdiv Bus Network for affordable city transport. Buses connect all major areas.",
+          "link": "https://www.transport.plovdiv.bg/"
+        },
+        {
+          "tip": "Download the Moovit app for real-time bus schedules in Plovdiv.",
+          "link": "https://moovitapp.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "June - July",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Plovdiv+Roman+Theatre",
+          "description": "Opera Open — an annual open-air opera festival at the Roman Theatre."
+        },
+        {
+          "season": "autumn",
+          "dates": "September",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kapana+District+Plovdiv",
+          "description": "Kapana Fest — creative arts, live music, and local crafts fill the streets."
+        }
+      ],
+      "places": [
+        {
+          "name": "Ancient Stadium of Philippopolis",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Ancient+Stadium+of+Philippopolis",
+          "description": "Roman ruins located beneath the modern city center, showing how history and modern life intertwine."
+        },
+        {
+          "name": "Regional Ethnographic Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Regional+Ethnographic+Museum+Plovdiv",
+          "description": "A beautiful house-museum showcasing Bulgarian traditions, crafts, and folklore."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Hisar Kapia Gate",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hisar+Kapia+Gate+Plovdiv",
+          "description": "A medieval stone gate tucked away in the Old Town — perfect for quiet exploration and photos."
+        },
+        {
+          "name": "Dzhumaya Mosque",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Dzhumaya+Mosque+Plovdiv",
+          "description": "An elegant 15th-century mosque blending Ottoman architecture with local charm."
+        }
+      ]
+    },
+
+    {
+      "name": "Ruse",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Freedom Square (Ploshtad Svoboda)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Freedom+Square+Ruse",
+            "description": "The architectural heart of Ruse, surrounded by Neo-Baroque and Neo-Renaissance buildings, the Monument of Liberty, and lively cafés. It’s where the city’s ‘Little Vienna’ charm truly shines."
+          },
+          {
+            "name": "Ruse Regional Historical Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ruse+Regional+Historical+Museum",
+            "description": "Housed in the former Palace of Justice, this museum explores the natural, archaeological, and cultural history of the Ruse region and the Danube lands."
+          },
+          {
+            "name": "Ruse Opera and Philharmonic Society",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ruse+Opera+House",
+            "description": "One of Bulgaria’s oldest and most active opera houses, hosting world-class performances, concerts, and festivals like the March Music Days."
+          },
+          {
+            "name": "Dohodno Zdanie (Profit-Yielding Building)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dohodno+Zdanie+Ruse",
+            "description": "A magnificent 19th-century Neo-Baroque building that now houses Ruse’s theater. Its detailed façade and grand interiors reflect the city’s golden age."
+          },
+          {
+            "name": "Eco Museum with Aquarium",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Eco+Museum+with+Aquarium+Ruse",
+            "description": "A modern interactive museum focusing on the Danube River ecosystem, wildlife, and the region’s natural heritage — perfect for curious explorers."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Danube River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Danube+River+Promenade+Ruse",
+            "description": "A scenic walkway offering panoramic river views and peaceful benches. Perfect for capturing sunrises, sunsets, and river life."
+          },
+          {
+            "name": "Elias Canetti Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Elias+Canetti+Square+Ruse",
+            "description": "Named after Ruse-born Nobel laureate Elias Canetti, this modern plaza blends cultural events with stylish urban design."
+          },
+          {
+            "name": "Pantheon of National Revival Heroes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pantheon+of+National+Revival+Heroes+Ruse",
+            "description": "An impressive domed monument honoring Bulgaria’s national revival figures — its golden top glows beautifully in the evening light."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Happy Bar & Grill Ruse",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Happy+Bar+and+Grill+Ruse",
+            "description": "A well-known Bulgarian restaurant chain offering everything from sushi to local classics — popular for its upbeat atmosphere."
+          },
+          {
+            "name": "Restaurant Rai Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rai+Garden+Ruse",
+            "description": "A hidden gem surrounded by greenery, offering authentic Bulgarian dishes and a peaceful ambiance."
+          },
+          {
+            "name": "Terassa Lounge Bar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Terassa+Lounge+Ruse",
+            "description": "Trendy rooftop bar with a stunning view of the Danube River — ideal for sunset cocktails or late-night music."
+          },
+          {
+            "name": "Vienna Café",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vienna+Cafe+Ruse",
+            "description": "A cozy café with vintage décor and delicious pastries — reflecting the city’s Viennese-style legacy."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Lipnik Forest Park (Teketo)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lipnik+Forest+Park+Ruse",
+            "description": "A huge nature park just 10 km from the city — with lakes, picnic zones, and biking trails, perfect for outdoor adventures."
+          },
+          {
+            "name": "Danube Riverside Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Danube+Riverside+Park+Ruse",
+            "description": "A relaxing riverside escape filled with sculptures, trees, and cafés — great for a slow afternoon walk."
+          },
+          {
+            "name": "Basarbovo Monastery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Basarbovo+Monastery",
+            "description": "The only active rock monastery in Bulgaria — peaceful and beautifully set in the cliffs above the Rusenski Lom River."
+          }
+        ]
+      },
+      "local_food_tip": "Taste Danube fish dishes like grilled carp or catfish, ‘kavarma’ stew, and a fresh Shopska salad. For dessert, try ‘tikvenik’ — a traditional pumpkin pastry!",
+      "full_day": {
+        "morning": "☀️ Begin at <a href='https://www.google.com/maps/search/?api=1&query=Freedom+Square+Ruse'>Freedom Square</a> for breakfast in a café and admire the grand architecture.",
+        "afternoon": "🏛️ Visit the <a href='https://www.google.com/maps/search/?api=1&query=Ruse+Regional+Historical+Museum'>Historical Museum</a> and the <a href='https://www.google.com/maps/search/?api=1&query=Eco+Museum+with+Aquarium+Ruse'>Eco Museum</a>, then enjoy lunch near the Danube promenade.",
+        "evening": "🌇 Walk along the <a href='https://www.google.com/maps/search/?api=1&query=Danube+River+Promenade+Ruse'>river promenade</a> and take photos of the sunset.",
+        "night": "🌙 End your day with dinner at <a href='https://www.google.com/maps/search/?api=1&query=Rai+Garden+Ruse'>Rai Garden</a> or cocktails at <a href='https://www.google.com/maps/search/?api=1&query=Terassa+Lounge+Ruse'>Terassa Lounge</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "The city blossoms and the Danube riverbanks turn lush and green.",
+          "ideas": [
+            {
+              "name": "Architectural Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Freedom+Square+Ruse",
+              "description": "Explore Ruse’s Belle Époque streets under blooming trees."
+            },
+            {
+              "name": "Ruse May Cultural Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ruse+Opera+House",
+              "description": "A celebration of music, theatre, and art held in venues across the city."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm evenings and lively events along the Danube.",
+          "ideas": [
+            {
+              "name": "Danube Summer Nights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Danube+Promenade+Ruse",
+              "description": "Outdoor concerts, movie screenings, and food stalls by the river."
+            },
+            {
+              "name": "Lipnik Park Day Trip",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Lipnik+Forest+Park+Ruse",
+              "description": "Swim, cycle, or relax near the lake in the fresh air."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves and calm, cozy afternoons along the Danube.",
+          "ideas": [
+            {
+              "name": "Coffee and Architecture",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vienna+Cafe+Ruse",
+              "description": "Sip coffee and enjoy the city’s autumn charm from elegant cafés."
+            },
+            {
+              "name": "Photography Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Danube+Riverside+Park+Ruse",
+              "description": "Capture the golden reflections of the Danube during fall."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights and cultural warmth fill the city.",
+          "ideas": [
+            {
+              "name": "Ruse Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Freedom+Square+Ruse",
+              "description": "Enjoy hot drinks, crafts, and music in the beautifully decorated square."
+            },
+            {
+              "name": "Opera & Concert Season",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ruse+Opera+House",
+              "description": "Attend winter performances at the Ruse Opera House."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Ruse’s compact center is best explored on foot — most landmarks are within a 15-minute walk.",
+          "link": "https://www.ruse.bg/en/public-transport"
+        },
+        {
+          "tip": "City buses run frequently between neighborhoods and the railway station. Tickets are inexpensive and can be bought onboard.",
+          "link": "https://www.ruse.bg/en/"
+        },
+        {
+          "tip": "For trips to nearby attractions like Basarbovo Monastery, use regional minibuses or hire a taxi.",
+          "link": "https://moovitapp.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "spring",
+          "dates": "March–April",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Ruse+Opera+House",
+          "description": "March Music Days — an international classical music festival bringing top musicians from around the world."
+        },
+        {
+          "season": "summer",
+          "dates": "July–August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Danube+Promenade+Ruse",
+          "description": "Danube Summer Nights — open-air concerts, cinema, and dance by the river."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Freedom+Square+Ruse",
+          "description": "Christmas Market — twinkling lights, festive stalls, and hot chocolate in the heart of Ruse."
+        }
+      ],
+      "places": [
+        {
+          "name": "House-Museum of Zahari Stoyanov",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=House+Museum+of+Zahari+Stoyanov+Ruse",
+          "description": "A preserved home of a Bulgarian revolutionary and writer — learn about his life and the national revival period."
+        },
+        {
+          "name": "Kaneff Center",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kaneff+Center+Ruse",
+          "description": "A modern cultural and conference complex hosting exhibitions, concerts, and international events."
+        },
+        {
+          "name": "Leventa Complex",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Leventa+Complex+Ruse",
+          "description": "A restored fortress turned into a fine-dining restaurant and wine museum — blending history and flavor."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Rock-Hewn Churches of Ivanovo",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Rock-Hewn+Churches+of+Ivanovo",
+          "description": "A UNESCO World Heritage site located 20 km from Ruse — medieval frescoes carved directly into the cliffs."
+        },
+        {
+          "name": "Basarbovo Monastery Trail",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Basarbovo+Monastery",
+          "description": "A peaceful hiking path leading through the Rusenski Lom Nature Park to the monastery."
+        },
+        {
+          "name": "Side Streets near Freedom Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Freedom+Square+Ruse",
+          "description": "Explore charming narrow streets lined with pastel-colored 19th-century houses and hidden cafés."
+        }
+      ]
+    },
+
+    {
+      "name": "Sofia",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Alexander Nevsky Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Alexander+Nevsky+Cathedral+Sofia",
+            "description": "One of the largest Orthodox cathedrals in the Balkans, famous for its golden domes and stunning mosaics. It’s Sofia’s most iconic landmark."
+          },
+          {
+            "name": "National Archaeological Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Archaeological+Museum+Sofia",
+            "description": "Located in a former Ottoman mosque, this museum showcases Bulgaria’s ancient history — from Thracian treasures to medieval artifacts."
+          },
+          {
+            "name": "National Palace of Culture (NDK)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Palace+of+Culture+Sofia",
+            "description": "A massive cultural complex and event center surrounded by a park and fountains, hosting concerts, exhibitions, and film festivals."
+          },
+          {
+            "name": "Boyana Church",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Boyana+Church+Sofia",
+            "description": "A UNESCO World Heritage Site featuring 13th-century frescoes that are considered masterpieces of medieval European art."
+          },
+          {
+            "name": "Ivan Vazov National Theatre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ivan+Vazov+National+Theatre+Sofia",
+            "description": "Sofia’s most beautiful theatre building, with a classic façade and an elegant park in front — a favorite gathering spot for locals."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Vitosha Boulevard",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vitosha+Boulevard+Sofia",
+            "description": "Sofia’s main pedestrian street lined with shops, cafés, and views of Mount Vitosha — great for day or night photos."
+          },
+          {
+            "name": "Borisova Gradina Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Borisova+Gradina+Park+Sofia",
+            "description": "A peaceful city park perfect for capturing nature, fountains, and street life."
+          },
+          {
+            "name": "St. Sofia Church and Statue",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Statue+of+Saint+Sofia",
+            "description": "A modern symbol of the city that stands proudly above the ancient church of St. Sofia."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Made in Blue",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Made+in+Blue+Sofia",
+            "description": "A charming restaurant set in a restored 19th-century house, serving creative Bulgarian and Mediterranean dishes."
+          },
+          {
+            "name": "Supa Star",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Supa+Star+Sofia",
+            "description": "A cozy spot known for homemade soups — perfect for a quick, warm, and healthy lunch."
+          },
+          {
+            "name": "Sense Rooftop Bar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sense+Rooftop+Bar+Sofia",
+            "description": "Trendy rooftop bar offering one of the best panoramic views of Sofia’s skyline and the Alexander Nevsky Cathedral."
+          },
+          {
+            "name": "Skaptoburger",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Skaptoburger+Sofia",
+            "description": "A top-rated local burger place with a cool, urban vibe — loved by both locals and tourists."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Vitosha Mountain",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vitosha+Mountain",
+            "description": "Just 30 minutes from downtown Sofia, this mountain offers hiking trails, ski slopes, and panoramic views of the city."
+          },
+          {
+            "name": "South Park (Yuzhen Park)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=South+Park+Sofia",
+            "description": "A large urban park with lakes, playgrounds, and peaceful walking paths — great for picnics or biking."
+          },
+          {
+            "name": "Loven Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Loven+Park+Sofia",
+            "description": "Part of the Borisova Gradina area, with quiet forest paths and hidden cafés."
+          }
+        ]
+      },
+      "local_food_tip": "Try traditional dishes like ‘shopska salad’, ‘banitsa’, and ‘tarator’ (cold cucumber soup). For dessert, grab a slice of ‘garash cake’ at a local café!",
+      "full_day": {
+        "morning": "☀️ Start at <a href='https://www.google.com/maps/search/?api=1&query=Alexander+Nevsky+Cathedral+Sofia'>Alexander Nevsky Cathedral</a> and walk around the historical center.",
+        "afternoon": "🍲 Have lunch at <a href='https://www.google.com/maps/search/?api=1&query=Made+in+Blue+Sofia'>Made in Blue</a>, then visit the <a href='https://www.google.com/maps/search/?api=1&query=National+Archaeological+Museum+Sofia'>Archaeological Museum</a>.",
+        "evening": "🌇 Take a stroll down <a href='https://www.google.com/maps/search/?api=1&query=Vitosha+Boulevard+Sofia'>Vitosha Boulevard</a> for shopping and people-watching.",
+        "night": "🌙 End your day with a drink at <a href='https://www.google.com/maps/search/?api=1&query=Sense+Rooftop+Bar+Sofia'>Sense Rooftop Bar</a> and enjoy the city lights."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Parks bloom and Sofia feels lively with outdoor events.",
+          "ideas": [
+            {
+              "name": "Borisova Gradina Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Borisova+Gradina+Park+Sofia",
+              "description": "Perfect for walking under blooming trees or renting a bike."
+            },
+            {
+              "name": "Easter Markets",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=City+Center+Sofia",
+              "description": "Traditional markets offering handmade crafts and treats."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sofia hosts many music and film festivals during warm evenings.",
+          "ideas": [
+            {
+              "name": "A to Jazz Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=South+Park+Sofia",
+              "description": "Outdoor jazz concerts in South Park — relaxed and fun vibe."
+            },
+            {
+              "name": "Vitosha Hiking",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vitosha+Mountain",
+              "description": "Escape the heat by exploring mountain trails and waterfalls."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden colors and cozy cafés make the city perfect for strolling.",
+          "ideas": [
+            {
+              "name": "Ivan Vazov Theatre Gardens",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ivan+Vazov+National+Theatre+Sofia",
+              "description": "Enjoy warm drinks among falling leaves in Sofia’s most scenic park."
+            },
+            {
+              "name": "Cultural Events Season",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=National+Palace+of+Culture+Sofia",
+              "description": "Theatres, concerts, and film screenings fill the city’s calendar."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive decorations and snowy mountain views.",
+          "ideas": [
+            {
+              "name": "Christmas Market Sofia",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Christmas+Market+Sofia",
+              "description": "A cozy holiday market with mulled wine, crafts, and music."
+            },
+            {
+              "name": "Skiing on Vitosha",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vitosha+Mountain+Ski+Resort",
+              "description": "Enjoy winter sports just a short drive from downtown Sofia."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Sofia Metro is the fastest and easiest way to move around the city. It connects the airport, city center, and most attractions.",
+          "link": "https://www.metropolitan.bg/en/home/"
+        },
+        {
+          "tip": "Buy a day pass for unlimited rides on buses, trams, and metro.",
+          "link": "https://www.sofiatraffic.bg/en/"
+        },
+        {
+          "tip": "Walking is great in the center — most landmarks are within a 20-minute radius.",
+          "link": "https://www.sofiatraffic.bg/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "spring",
+          "dates": "March–April",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=National+Palace+of+Culture+Sofia",
+          "description": "Sofia Film Festival — one of Eastern Europe’s top cinema events, showcasing international and local films."
+        },
+        {
+          "season": "summer",
+          "dates": "July",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=South+Park+Sofia",
+          "description": "A to Jazz Festival — open-air jazz celebration with local and world artists."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Christmas+Market+Sofia",
+          "description": "Sofia Christmas Market — festive stalls and hot cocoa in the city center."
+        }
+      ],
+      "places": [
+        {
+          "name": "Serdika Roman Ruins",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Serdika+Roman+Ruins+Sofia",
+          "description": "Ancient Roman remains integrated into the modern city — you can walk among 2,000-year-old streets beneath the metro station."
+        },
+        {
+          "name": "National Gallery Kvadrat 500",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kvadrat+500+Sofia",
+          "description": "The largest art gallery in Bulgaria with both national and international collections."
+        },
+        {
+          "name": "Central Market Hall (Halite)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Central+Market+Hall+Sofia",
+          "description": "A historical indoor market where you can try local snacks, buy souvenirs, or watch everyday Sofia life."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Doctor’s Garden",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Doctor's+Garden+Sofia",
+          "description": "A small, artistic park surrounded by embassies and vintage houses — peaceful and beautiful in spring."
+        },
+        {
+          "name": "Red Flat Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Red+Flat+Museum+Sofia",
+          "description": "Step inside a preserved 1980s communist-era apartment that shows how families lived during that period."
+        },
+        {
+          "name": "Lozenets District Streets",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Lozenets+Sofia",
+          "description": "Charming residential area full of hidden cafés, art spaces, and authentic local life."
+        }
+      ]
+    },
+
+    {
+      "name": "Varna",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Varna Archaeological Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+Archaeological+Museum",
+            "description": "Home of the world’s oldest processed gold — the Varna Necropolis treasures. A must-visit for anyone curious about ancient history and Thracian culture."
+          },
+          {
+            "name": "Roman Thermae (Roman Baths)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Roman+Thermae+Varna",
+            "description": "Impressive Roman ruins from the 2nd century AD, located right in the heart of the city. They show how Varna was once a thriving Roman settlement."
+          },
+          {
+            "name": "Dormition of the Mother of God Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dormition+Cathedral+Varna",
+            "description": "The city’s most famous landmark — a majestic cathedral with golden domes and detailed icons inside. Great for photos and quiet reflection."
+          },
+          {
+            "name": "Varna City Art Gallery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+City+Art+Gallery",
+            "description": "Located in a beautiful 19th-century building, this gallery showcases Bulgarian paintings, sculptures, and rotating modern art exhibits."
+          },
+          {
+            "name": "Naval Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Naval+Museum+Varna",
+            "description": "Discover Bulgaria’s naval history through interactive exhibits and even a real torpedo boat in the garden!"
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Sea Garden (Primorski Park)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sea+Garden+Varna",
+            "description": "A vast park overlooking the Black Sea, full of flower alleys, sculptures, and sea views — the best spot for sunrise photos."
+          },
+          {
+            "name": "Varna Pier & Lighthouse",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+Pier",
+            "description": "Capture the sea, sky, and city skyline from this favorite local sunset spot."
+          },
+          {
+            "name": "Asparuhov Bridge Viewpoint",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Asparuhov+Bridge+Varna",
+            "description": "Offers panoramic views of the harbor, the beach, and the distant cityscape."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Staria Chinar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Staria+Chinar+Varna",
+            "description": "One of Varna’s most loved restaurants — traditional Bulgarian cuisine served in a cozy, rustic setting."
+          },
+          {
+            "name": "El Kapan",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=El+Kapan+Varna",
+            "description": "Trendy beach bar and grill with live music, tasty seafood, and a laid-back vibe right on the sand."
+          },
+          {
+            "name": "The Garden Bar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Garden+Bar+Varna",
+            "description": "A hidden gem tucked inside the Sea Garden — ideal for evening drinks under the trees."
+          },
+          {
+            "name": "Bistro Europe",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bistro+Europe+Varna",
+            "description": "Classic European dishes with a Bulgarian twist, located near the main square."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Varna Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+Beach",
+            "description": "Golden sand and clear water right next to the city — perfect for swimming, beach volleyball, or just relaxing in the sun."
+          },
+          {
+            "name": "Sea Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sea+Garden+Varna",
+            "description": "A peaceful green escape from the city bustle — home to museums, cafés, and even a small zoo."
+          },
+          {
+            "name": "Euxinograd Palace and Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Euxinograd+Palace+Varna",
+            "description": "A former royal summer residence with lush gardens, vineyards, and sea views — ideal for a day trip."
+          },
+          {
+            "name": "Golden Sands Nature Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Golden+Sands+Nature+Park",
+            "description": "A protected area north of Varna with hiking trails, birdwatching spots, and breathtaking coastal views."
+          }
+        ]
+      },
+      "local_food_tip": "Try fresh Black Sea fish, ‘sarmi’ (stuffed vine leaves), and the local dessert ‘tikvenik’. In summer, enjoy cold ‘tarator’ soup with cucumber, yogurt, and dill.",
+      "full_day": {
+        "morning": "☀️ Start with a seaside walk through the <a href='https://www.google.com/maps/search/?api=1&query=Sea+Garden+Varna'>Sea Garden</a> and visit the <a href='https://www.google.com/maps/search/?api=1&query=Varna+Archaeological+Museum'>Archaeological Museum</a>.",
+        "afternoon": "🍽️ Have lunch at <a href='https://www.google.com/maps/search/?api=1&query=Staria+Chinar+Varna'>Staria Chinar</a>, then explore the <a href='https://www.google.com/maps/search/?api=1&query=Roman+Thermae+Varna'>Roman Baths</a> nearby.",
+        "evening": "🌇 Relax at <a href='https://www.google.com/maps/search/?api=1&query=Varna+Beach'>Varna Beach</a> or watch the sunset from <a href='https://www.google.com/maps/search/?api=1&query=Varna+Pier'>the pier</a>.",
+        "night": "🌙 End your day with seafood and live music at <a href='https://www.google.com/maps/search/?api=1&query=El+Kapan+Varna'>El Kapan</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "The city wakes up with festivals and blooming gardens.",
+          "ideas": [
+            {
+              "name": "Sea Garden Blossoms",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sea+Garden+Varna",
+              "description": "Walk through flower alleys and enjoy the sea breeze."
+            },
+            {
+              "name": "Easter in Varna",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Dormition+Cathedral+Varna",
+              "description": "Beautiful church ceremonies and traditional pastries fill the city."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Beach life, festivals, and long sunny days.",
+          "ideas": [
+            {
+              "name": "Varna Summer International Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+Festival+and+Congress+Centre",
+              "description": "Music, theatre, and dance performances across the city."
+            },
+            {
+              "name": "Golden Sands Day Trip",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Golden+Sands+Varna",
+              "description": "Enjoy clear sea water, fun beach clubs, and jet-ski rides."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Warm sea breezes and fewer tourists create a calm, golden atmosphere.",
+          "ideas": [
+            {
+              "name": "Wine Tasting at Euxinograd",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Euxinograd+Palace+Varna",
+              "description": "Taste local wines in a royal seaside setting."
+            },
+            {
+              "name": "Photography Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+Pier",
+              "description": "Capture the soft autumn light along the coast."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Peaceful city with cozy cafés and festive decorations.",
+          "ideas": [
+            {
+              "name": "Varna Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+Christmas+Market",
+              "description": "Local crafts, hot cocoa, and cheerful winter atmosphere."
+            },
+            {
+              "name": "Museum Days",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+Archaeological+Museum",
+              "description": "A great time to explore the city’s museums and art galleries."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Varna has a reliable bus network that connects all neighborhoods and beaches. You can buy tickets from the driver.",
+          "link": "https://www.varnatraffic.com/en/"
+        },
+        {
+          "tip": "Walking and cycling are great options along the Sea Garden and city center.",
+          "link": "https://www.varna.bg/en/"
+        },
+        {
+          "tip": "For day trips, minibuses (marshrutkas) travel to Golden Sands, Balchik, and nearby resorts.",
+          "link": "https://moovitapp.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "June–August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+Festival+and+Congress+Centre",
+          "description": "Varna Summer International Festival — Bulgaria’s oldest art festival with opera, theatre, and ballet performances."
+        },
+        {
+          "season": "spring",
+          "dates": "May",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sea+Garden+Varna",
+          "description": "Varna Marathon — an exciting sports event along the Black Sea coast."
+        },
+        {
+          "season": "autumn",
+          "dates": "September",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+City+Centre",
+          "description": "Varna Day celebrations — concerts, fireworks, and parades marking the city’s official holiday."
+        }
+      ],
+      "places": [
+        {
+          "name": "Aladzha Monastery",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Aladzha+Monastery+Varna",
+          "description": "A medieval cave monastery surrounded by forest, decorated with old frescoes — just 15 km from Varna."
+        },
+        {
+          "name": "Retro Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Retro+Museum+Varna",
+          "description": "A colorful journey into Bulgaria’s socialist past, filled with vintage cars, toys, and memorabilia."
+        },
+        {
+          "name": "Stone Forest (Pobiti Kamani)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Stone+Forest+Pobiti+Kamani+Varna",
+          "description": "A natural rock formation resembling ancient ruins — a mysterious and beautiful place just outside the city."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Greek Neighborhood (Gracka Mahala)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Greek+Quarter+Varna",
+          "description": "A charming old quarter with narrow streets, art shops, and cozy cafés — full of local character."
+        },
+        {
+          "name": "Asparuhovo Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Asparuhovo+Beach+Varna",
+          "description": "A quieter local beach across the bay — great for swimming and watching ships pass by."
+        },
+        {
+          "name": "Panorama Café at Varna Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Varna+Tower+Panorama",
+          "description": "Offers one of the best views of Varna — especially at sunset or nighttime when the city lights up."
+        }
+      ]
+    }
+  ]
+}

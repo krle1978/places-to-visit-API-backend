@@ -1,0 +1,1185 @@
+{
+  "name": "Estonia",
+  "cities": [
+    {
+      "name": "Haapsalu",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Haapsalu Castle and Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Castle",
+            "description": "Medieval castle ruins with a well-preserved cathedral and scenic towers. Don’t miss the legend of the White Lady — said to appear in the church window every August."
+          },
+          {
+            "name": "Ilon’s Wonderland (Iloni Imedemaa)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Iloni+Imedemaa+Haapsalu",
+            "description": "Charming interactive museum celebrating illustrator Ilon Wikland, who created the art for Astrid Lindgren’s books like Pippi Longstocking and Karlsson-on-the-Roof."
+          },
+          {
+            "name": "Haapsalu Railway Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Railway+Museum",
+            "description": "Historic train station turned museum, featuring vintage locomotives and carriages — including the one used by the Tsar’s family."
+          },
+          {
+            "name": "Haapsalu Cultural Center",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Kultuurikeskus",
+            "description": "Hosts concerts, theatre, and film events — a hub for local and international cultural life."
+          },
+          {
+            "name": "Haapsalu Lace Center",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Lace+Center",
+            "description": "Learn about Haapsalu’s world-famous handmade lace tradition — delicate craftsmanship passed down through generations."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Haapsalu Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Promenade",
+            "description": "Picturesque wooden walkway along the bay, with pavilions, swans, and romantic sea views."
+          },
+          {
+            "name": "Africa Beach Pavilion",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Africa+Beach+Haapsalu",
+            "description": "Iconic 19th-century wooden pavilion once visited by Russian nobility — now a perfect sunset photo spot."
+          },
+          {
+            "name": "Haapsalu Castle Tower",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Castle",
+            "description": "Climb the tower for sweeping views of the Old Town rooftops and shimmering Haapsalu Bay."
+          },
+          {
+            "name": "Tchaikovsky’s Bench",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tchaikovsky+Bench+Haapsalu",
+            "description": "A peaceful seaside bench honoring the composer, who once spent summers composing music here."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Hapsal Dietrich",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hapsal+Dietrich+Haapsalu",
+            "description": "Elegant restaurant blending Estonian and European cuisine with cozy vintage decor."
+          },
+          {
+            "name": "Wiigi Café",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Wiigi+Cafe+Haapsalu",
+            "description": "Seaside café serving local fish dishes, cakes, and coffee — great for relaxing after a walk."
+          },
+          {
+            "name": "Vegetarian Resto Beguta",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Beguta+Haapsalu",
+            "description": "Colorful vegetarian restaurant known for fresh local ingredients and creative plates."
+          },
+          {
+            "name": "Kuursaal",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Kuursaal",
+            "description": "Historic wooden seaside concert hall and restaurant — a cultural icon of Haapsalu’s spa era."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Haapsalu Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Promenade",
+            "description": "Relaxing coastal walk with sea breeze, sculptures, and wooden gazebos from the 19th century."
+          },
+          {
+            "name": "Paralepa Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Paralepa+Beach",
+            "description": "One of Estonia’s warmest beaches, sheltered by pine forest — ideal for swimming and picnics."
+          },
+          {
+            "name": "Ungru Manor Ruins",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ungru+Manor+Haapsalu",
+            "description": "Hauntingly beautiful ruins of a neo-Gothic manor, surrounded by nature and legends."
+          },
+          {
+            "name": "Birdwatching at Haapsalu Bay",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Bay",
+            "description": "Popular birding area with observation towers — especially active during spring migration."
+          }
+        ]
+      },
+      "local_food_tip": "Try Haapsalu-style smoked fish, local rye bread, and rhubarb desserts. Estonian craft beers and juniper lemonade are popular local drinks.",
+      "full_day": {
+        "morning": "☀️ Start your day with coffee at <a href='https://www.google.com/maps/search/?api=1&query=Wiigi+Cafe+Haapsalu'>Wiigi Café</a>, then visit <a href='https://www.google.com/maps/search/?api=1&query=Haapsalu+Castle'>Haapsalu Castle</a> to learn about the town’s medieval legends.",
+        "afternoon": "🎨 Explore <a href='https://www.google.com/maps/search/?api=1&query=Iloni+Imedemaa+Haapsalu'>Ilon’s Wonderland</a> and <a href='https://www.google.com/maps/search/?api=1&query=Haapsalu+Lace+Center'>Lace Center</a>, then walk the <a href='https://www.google.com/maps/search/?api=1&query=Haapsalu+Promenade'>Promenade</a> for sea views.",
+        "evening": "🌇 Enjoy dinner at <a href='https://www.google.com/maps/search/?api=1&query=Hapsal+Dietrich+Haapsalu'>Hapsal Dietrich</a> or the historic <a href='https://www.google.com/maps/search/?api=1&query=Haapsalu+Kuursaal'>Kuursaal</a> restaurant.",
+        "night": "🌙 Watch the sunset from <a href='https://www.google.com/maps/search/?api=1&query=Africa+Beach+Haapsalu'>Africa Beach Pavilion</a> or stroll by <a href='https://www.google.com/maps/search/?api=1&query=Tchaikovsky+Bench+Haapsalu'>Tchaikovsky’s Bench</a> under the stars."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Birdsong, blossoms, and calm seaside walks welcome the start of the warm season.",
+          "ideas": [
+            {
+              "name": "Birdwatching at Haapsalu Bay",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Bay",
+              "description": "Thousands of migrating birds stop here — a paradise for nature lovers."
+            },
+            {
+              "name": "Stroll the Promenade",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Promenade",
+              "description": "Early blooms and sea breeze make springtime walks especially peaceful."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Haapsalu comes alive with festivals, beach days, and outdoor cafés.",
+          "ideas": [
+            {
+              "name": "Haapsalu Tchaikovsky Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tchaikovsky+Festival+Haapsalu",
+              "description": "Celebrates the composer’s connection to Haapsalu with concerts and classical performances."
+            },
+            {
+              "name": "Swimming at Paralepa Beach",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Paralepa+Beach",
+              "description": "Enjoy the warm, shallow waters and pine-scented air."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves, quiet streets, and cozy cafés create a peaceful retreat.",
+          "ideas": [
+            {
+              "name": "Visit the Castle Museum",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Castle",
+              "description": "Cool weather makes exploring the medieval ruins more atmospheric."
+            },
+            {
+              "name": "Taste Autumn Flavors at Hapsal Dietrich",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hapsal+Dietrich+Haapsalu",
+              "description": "Try seasonal dishes like mushroom soup and apple desserts."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Quiet charm, frozen sea views, and warm lights from cozy cafés.",
+          "ideas": [
+            {
+              "name": "Winter Walk by the Bay",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Bay",
+              "description": "The frozen promenade feels like a fairy-tale landscape."
+            },
+            {
+              "name": "Christmas Market at the Castle",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Castle",
+              "description": "Local crafts, music, and festive treats inside the historic courtyard."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Haapsalu is reachable by bus from Tallinn in about 1.5 hours — main routes are operated by Lux Express and local carriers.",
+          "link": "https://www.tpilet.ee/en/"
+        },
+        {
+          "tip": "The town is compact and walkable, with bike rentals available near the promenade and bus station.",
+          "link": "https://www.visithaapsalu.com/"
+        },
+        {
+          "tip": "During summer, tourist trains connect Haapsalu’s main sights like the castle and the beach.",
+          "link": "https://www.visitestonia.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "July",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tchaikovsky+Festival+Haapsalu",
+          "description": "Tchaikovsky Festival — open-air concerts and classical performances celebrating the composer’s link to Haapsalu."
+        },
+        {
+          "season": "summer",
+          "dates": "August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=White+Lady+Festival+Haapsalu",
+          "description": "White Lady Festival — a cultural event based on Haapsalu’s famous ghost legend, featuring theatre and music inside the castle."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Christmas+Market",
+          "description": "Cozy Christmas market with local crafts and festive lights around the castle and promenade."
+        }
+      ],
+      "places": [
+        {
+          "name": "Haapsalu Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Castle",
+          "description": "Historic fortress with panoramic towers, a medieval museum, and Estonia’s most famous ghost story."
+        },
+        {
+          "name": "Ilon’s Wonderland",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Iloni+Imedemaa+Haapsalu",
+          "description": "Interactive children’s museum dedicated to the illustrator of Pippi Longstocking — full of color and imagination."
+        },
+        {
+          "name": "Paralepa Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Paralepa+Beach",
+          "description": "A peaceful sandy beach surrounded by pine trees — great for swimming or relaxing."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Ungru Manor Ruins",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Ungru+Manor+Haapsalu",
+          "description": "Fairy-tale ruins of a grand neo-Gothic manor hidden near the airport."
+        },
+        {
+          "name": "Haapsalu Episcopal Castle Moat Path",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Haapsalu+Castle+Moat",
+          "description": "Quiet trail circling the castle — beautiful reflections in the water during sunrise."
+        },
+        {
+          "name": "Kongo Hotel Rooftop View",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kongo+Hotel+Haapsalu",
+          "description": "Small hidden terrace offering panoramic views over the red rooftops of the Old Town."
+        }
+      ]
+    },
+
+    {
+      "name": "Narva",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Narva Castle (Hermann Castle)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Castle",
+            "description": "Impressive medieval fortress overlooking the Narva River, directly across from Russia’s Ivangorod Castle — a symbol of the city’s dramatic history."
+          },
+          {
+            "name": "Narva Art Gallery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Art+Gallery",
+            "description": "Located inside Narva Castle, featuring rotating exhibitions of Estonian and Baltic art."
+          },
+          {
+            "name": "Narva Town Hall",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Town+Hall",
+            "description": "Rebuilt 17th-century Baroque town hall, reflecting Narva’s days as a key Swedish and Hanseatic trading city."
+          },
+          {
+            "name": "Kreenholm Textile Factory",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kreenholm+Factory+Narva",
+            "description": "A massive 19th-century industrial complex once employing over 10,000 workers — now a hauntingly beautiful site for tours and cultural events."
+          },
+          {
+            "name": "Narva Bastions",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Bastions",
+            "description": "Historic fortifications surrounding the old town, offering walking paths and river views."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Narva Castle Tower View",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Castle",
+            "description": "Climb the castle tower for a dramatic panorama of Narva River and Ivangorod Castle across the border."
+          },
+          {
+            "name": "Friendship Bridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Friendship+Bridge+Narva",
+            "description": "The symbolic bridge connecting Estonia and Russia — capturing both sides of history in one shot."
+          },
+          {
+            "name": "Kreenholm Industrial Area",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kreenholm+Factory+Narva",
+            "description": "Massive red-brick factory complex with cathedral-like architecture — an urban photographer’s dream."
+          },
+          {
+            "name": "Narva River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Promenade",
+            "description": "Modern riverside walkway with fountains, sculptures, and views of both Estonian and Russian castles."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Rondeel Restaurant",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rondeel+Restaurant+Narva",
+            "description": "Elegant restaurant located inside Narva Castle — serving Baltic cuisine with local ingredients and historic ambiance."
+          },
+          {
+            "name": "Old Trafford Pub",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Trafford+Pub+Narva",
+            "description": "Friendly local pub with hearty food, sports on TV, and occasional live music."
+          },
+          {
+            "name": "Muna Café",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Muna+Cafe+Narva",
+            "description": "Trendy café with great coffee, pastries, and a mix of Estonian and international dishes — a popular student hangout."
+          },
+          {
+            "name": "Sport Bar Tartu 2024",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sport+Bar+Narva",
+            "description": "Modern sports bar with good burgers and an easygoing atmosphere near the river promenade."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Narva River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Promenade",
+            "description": "Perfect for walks along the water, with benches, cafés, and evening lights reflecting on the river."
+          },
+          {
+            "name": "Dark Garden (Pimeaed)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pimeaed+Narva",
+            "description": "A peaceful park near the castle — once a private garden, now a local favorite for picnics and quiet reading."
+          },
+          {
+            "name": "Kreenholm Island",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kreenholm+Island+Narva",
+            "description": "Natural island in the Narva River surrounded by waterfalls and historical industrial ruins."
+          },
+          {
+            "name": "Narva-Jõesuu Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Narva-Jõesuu+Beach",
+            "description": "Just 15 minutes away — one of Estonia’s best sandy beaches, nicknamed the 'Pearl of the Baltic Sea'."
+          }
+        ]
+      },
+      "local_food_tip": "Try Estonian-Russian fusion dishes like pelmeni, smoked fish, and beetroot soup. Narva’s cafés also serve excellent pastries and local beers.",
+      "full_day": {
+        "morning": "☀️ Start with breakfast at <a href='https://www.google.com/maps/search/?api=1&query=Muna+Cafe+Narva'>Muna Café</a>, then explore <a href='https://www.google.com/maps/search/?api=1&query=Narva+Castle'>Narva Castle</a> and its riverside fortifications.",
+        "afternoon": "🏭 Take a guided tour of the <a href='https://www.google.com/maps/search/?api=1&query=Kreenholm+Factory+Narva'>Kreenholm Factory</a> and have lunch at <a href='https://www.google.com/maps/search/?api=1&query=Rondeel+Restaurant+Narva'>Rondeel Restaurant</a>.",
+        "evening": "🌇 Walk the <a href='https://www.google.com/maps/search/?api=1&query=Narva+Promenade'>Narva Promenade</a> for sunset views across the border.",
+        "night": "🌙 Grab dinner or drinks at <a href='https://www.google.com/maps/search/?api=1&query=Old+Trafford+Pub+Narva'>Old Trafford Pub</a> and enjoy the city’s calm nighttime vibe."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Fresh green parks and the rushing river make Narva come alive after winter.",
+          "ideas": [
+            {
+              "name": "Promenade Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Promenade",
+              "description": "Flowers bloom and locals return to the riverbanks."
+            },
+            {
+              "name": "Castle Garden Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Castle",
+              "description": "Relax in the castle park surrounded by history and spring air."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, music festivals, and outdoor cafés by the river.",
+          "ideas": [
+            {
+              "name": "Narva-Jõesuu Beach Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Narva-Jõesuu+Beach",
+              "description": "Swim, sunbathe, or enjoy an ice cream by the Baltic Sea."
+            },
+            {
+              "name": "Narva River Promenade Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Promenade",
+              "description": "Outdoor concerts, crafts, and local food near the fortress walls."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves and mist over the river create a mysterious beauty.",
+          "ideas": [
+            {
+              "name": "Kreenholm Photography Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Kreenholm+Factory+Narva",
+              "description": "Capture autumn light and industrial heritage among red-brick walls."
+            },
+            {
+              "name": "Warm Drinks at Muna Café",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Muna+Cafe+Narva",
+              "description": "Enjoy coffee and pastries while the city slows down for autumn."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snow-covered castle walls and icy river scenes turn Narva into a winter fairytale.",
+          "ideas": [
+            {
+              "name": "Winter Lights at Narva Castle",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Castle",
+              "description": "The illuminated fortress looks magical in the snow."
+            },
+            {
+              "name": "Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Town+Hall",
+              "description": "Festive stalls and lights brighten the historic square."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Narva is easily reached by train from Tallinn in about 2.5 hours — comfortable and scenic along the Estonian countryside.",
+          "link": "https://www.elron.ee/en"
+        },
+        {
+          "tip": "Local buses connect the train station, castle area, and Kreenholm district.",
+          "link": "https://www.peatus.ee/"
+        },
+        {
+          "tip": "For a beach trip, buses run frequently between Narva and Narva-Jõesuu.",
+          "link": "https://www.tpilet.ee/en/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "July",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Opera+Days",
+          "description": "Narva Opera Days — open-air performances inside Narva Castle courtyard."
+        },
+        {
+          "season": "summer",
+          "dates": "August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Station+Narva+Festival",
+          "description": "Station Narva — a music and urban culture festival bringing together artists from Estonia and beyond."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Christmas+Market",
+          "description": "Christmas Market — cozy winter event near Town Hall with lights, crafts, and local treats."
+        }
+      ],
+      "places": [
+        {
+          "name": "Narva Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+Castle",
+          "description": "Historic fortress with towers, museum exhibitions, and views over the Narva River and Russia."
+        },
+        {
+          "name": "Kreenholm Factory",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kreenholm+Factory+Narva",
+          "description": "Monumental industrial complex that shaped Narva’s history — now used for cultural events."
+        },
+        {
+          "name": "Narva-Jõesuu Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Narva-Jõesuu+Beach",
+          "description": "Estonia’s northernmost beach town, with fine sand and seaside charm."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Dark Garden (Pimeaed)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Pimeaed+Narva",
+          "description": "Quiet park hidden behind the castle — ideal for reflection or sketching the river view."
+        },
+        {
+          "name": "Narva College (University of Tartu)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Narva+College",
+          "description": "Architectural masterpiece blending old and new — a modern landmark in the heart of Narva."
+        },
+        {
+          "name": "Victoria Bastion Tunnels",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Victoria+Bastion+Narva",
+          "description": "Underground tunnels from the 17th century — explore with a guide for a glimpse into Narva’s military past."
+        }
+      ]
+    },
+
+    {
+      "name": "Pärnu",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Pärnu Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Museum",
+            "description": "Modern museum tracing the city’s history from medieval times to its golden era as Estonia’s summer capital."
+          },
+          {
+            "name": "Red Tower (Punane Torn)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Red+Tower+Pärnu",
+            "description": "The oldest building in Pärnu — a medieval prison tower now used for exhibitions and 360° digital history shows."
+          },
+          {
+            "name": "Pärnu Town Gallery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Town+Gallery",
+            "description": "Exhibition space for contemporary Estonian artists, located in a charming old town setting."
+          },
+          {
+            "name": "St. Elizabeth’s Church",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Elizabeth+Church+Pärnu",
+            "description": "Beautiful baroque church with excellent acoustics and summer organ concerts."
+          },
+          {
+            "name": "Sculpture of the Mermaid",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mermaid+Statue+Pärnu",
+            "description": "Iconic seaside statue symbolizing the spirit of Pärnu as a coastal resort."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Pärnu Beach Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Beach+Promenade",
+            "description": "Wooden walkway with sea views, art installations, and golden sunsets over the Baltic Sea."
+          },
+          {
+            "name": "Pärnu Old Town Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Old+Town",
+            "description": "Colorful houses, cozy cafés, and cobblestone lanes perfect for charming photos."
+          },
+          {
+            "name": "Tallinna Gate",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinna+Gate+Pärnu",
+            "description": "Historic 17th-century gate once welcoming visitors to the city — now a picturesque landmark."
+          },
+          {
+            "name": "Pärnu Pier (Mole)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Pier",
+            "description": "Long stone pier stretching into the sea — a favorite place for romantic walks and ocean views."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Supelsaksad Café",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Supelsaksad+Cafe+Pärnu",
+            "description": "Vintage-style café known for homemade cakes, warm service, and cozy seaside garden."
+          },
+          {
+            "name": "Edelweiss",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Edelweiss+Restaurant+Pärnu",
+            "description": "Charming German-style restaurant serving hearty dishes and local beer in a timbered house."
+          },
+          {
+            "name": "Steffani Pizza",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Steffani+Pizza+Pärnu",
+            "description": "Local legend for pizza and pasta — colorful interior, friendly staff, and open until late."
+          },
+          {
+            "name": "Pärnu Beach Bar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Beach+Bar",
+            "description": "Lively beachfront bar with music, cocktails, and summer parties as the sun sets."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Pärnu Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Beach",
+            "description": "Wide sandy beach famous for warm shallow water and a lively summer vibe — ideal for swimming and volleyball."
+          },
+          {
+            "name": "Vallikäär Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vallikäär+Park+Pärnu",
+            "description": "Beautiful riverside park with fountains, bridges, and evening light shows in summer."
+          },
+          {
+            "name": "Pärnu River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+River+Promenade",
+            "description": "Calm walking route with great views and benches to enjoy the sea breeze."
+          },
+          {
+            "name": "Pärnu Beach Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Beach+Park",
+            "description": "Shady green park beside the sea — perfect for picnics and reading under the trees."
+          }
+        ]
+      },
+      "local_food_tip": "Try local smoked fish, creamy Estonian potato salad, and Kama dessert. Don’t miss ice cream from seaside kiosks during summer evenings.",
+      "full_day": {
+        "morning": "☀️ Have breakfast at <a href='https://www.google.com/maps/search/?api=1&query=Supelsaksad+Cafe+Pärnu'>Supelsaksad Café</a>, then stroll along the <a href='https://www.google.com/maps/search/?api=1&query=Pärnu+Beach+Promenade'>Beach Promenade</a>.",
+        "afternoon": "🏖️ Spend time relaxing on <a href='https://www.google.com/maps/search/?api=1&query=Pärnu+Beach'>Pärnu Beach</a>, then visit the <a href='https://www.google.com/maps/search/?api=1&query=Pärnu+Museum'>Pärnu Museum</a> to learn about local history.",
+        "evening": "🌇 Walk to the <a href='https://www.google.com/maps/search/?api=1&query=Pärnu+Pier'>Pärnu Pier</a> for sunset, followed by dinner at <a href='https://www.google.com/maps/search/?api=1&query=Edelweiss+Restaurant+Pärnu'>Edelweiss</a> or <a href='https://www.google.com/maps/search/?api=1&query=Steffani+Pizza+Pärnu'>Steffani Pizza</a>.",
+        "night": "🌙 End your day with a drink or live music at <a href='https://www.google.com/maps/search/?api=1&query=Pärnu+Beach+Bar'>Pärnu Beach Bar</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "The city wakes up with flowers, seaside walks, and outdoor cafés reopening.",
+          "ideas": [
+            {
+              "name": "Park Walks in Vallikäär",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vallikäär+Park+Pärnu",
+              "description": "Enjoy blooming trees and colorful spring fountains."
+            },
+            {
+              "name": "Bike Along the River Promenade",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+River+Promenade",
+              "description": "Cycle along quiet riverbanks with gentle sea breeze."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Pärnu becomes Estonia’s summer capital — full of festivals, beach parties, and sunshine.",
+          "ideas": [
+            {
+              "name": "Pärnu Beach Days",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Beach",
+              "description": "Swimming, paddleboarding, volleyball, and endless sunshine."
+            },
+            {
+              "name": "Weekend Festival Baltic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Weekend+Festival+Pärnu",
+              "description": "Massive electronic music festival right on the beach."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden parks, cozy cafés, and calm sea winds make for a relaxing season.",
+          "ideas": [
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Old+Town",
+              "description": "Explore colorful facades and autumn leaves along cobblestone streets."
+            },
+            {
+              "name": "Spa Day at Hedon Spa",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hedon+Spa+Pärnu",
+              "description": "Warm pools and sea views — perfect for a chilly afternoon."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Peaceful seaside town atmosphere and cozy spa retreats.",
+          "ideas": [
+            {
+              "name": "Pärnu Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Christmas+Market",
+              "description": "Festive lights, mulled wine, and local crafts in the old town."
+            },
+            {
+              "name": "Hot Sauna Experience",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Spa",
+              "description": "Warm up with Estonian sauna traditions after a snowy beach walk."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses connect Pärnu with Tallinn and Tartu several times daily — the main terminal is near the city center.",
+          "link": "https://www.tpilet.ee/en/"
+        },
+        {
+          "tip": "Local buses and electric scooters are great for short-distance travel between the beach and downtown.",
+          "link": "https://www.visitparnu.com/"
+        },
+        {
+          "tip": "Pärnu is flat and bike-friendly — renting a bike is perfect for exploring the parks and promenade.",
+          "link": "https://www.visitestonia.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "July",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Weekend+Festival+Pärnu",
+          "description": "Weekend Festival Baltic — one of Northern Europe’s biggest electronic music festivals held on Pärnu Beach."
+        },
+        {
+          "season": "summer",
+          "dates": "August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Film+Festival",
+          "description": "Pärnu International Documentary and Anthropology Film Festival — celebrating culture and storytelling through film."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Christmas+Market",
+          "description": "Pärnu Christmas Market — cozy stalls, lights, and hot drinks by the Town Hall Square."
+        }
+      ],
+      "places": [
+        {
+          "name": "Pärnu Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Beach",
+          "description": "Estonia’s most famous beach — wide, shallow, and full of summer energy."
+        },
+        {
+          "name": "Pärnu Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Pärnu+Museum",
+          "description": "Discover the story of Pärnu from medieval fort to modern spa town."
+        },
+        {
+          "name": "Tallinna Gate",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinna+Gate+Pärnu",
+          "description": "Historic gateway that once guarded the city — now a quiet, scenic landmark."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Pärnu Vallikäär Tunnels",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Vallikäär+Park+Pärnu",
+          "description": "Small historic tunnels hidden under the park — fun to explore during festivals or guided tours."
+        },
+        {
+          "name": "Rannahotell Terrace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Rannahotell+Pärnu",
+          "description": "Stylish 1930s hotel with a seaside terrace perfect for coffee and panoramic views."
+        },
+        {
+          "name": "Endla Theatre Rooftop",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Endla+Theatre+Pärnu",
+          "description": "Hidden rooftop terrace occasionally open during performances — offering city and sea views."
+        }
+      ]
+    },
+
+    {
+      "name": "Tartu",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "University of Tartu",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=University+of+Tartu",
+            "description": "Founded in 1632, this is Estonia’s oldest university and a symbol of Tartu’s intellectual spirit. Visit the main building’s grand hall and student prison beneath it!"
+          },
+          {
+            "name": "Tartu Art Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tartu+Art+Museum",
+            "description": "Known as 'the Leaning House of Tartu' for its tilted facade, this museum showcases modern Estonian and Baltic art in a charming old town building."
+          },
+          {
+            "name": "AHHAA Science Centre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=AHHAA+Science+Centre+Tartu",
+            "description": "Interactive science center with hands-on experiments, a planetarium, and live lab shows — perfect for curious minds of all ages."
+          },
+          {
+            "name": "Estonian National Museum (ERM)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Estonian+National+Museum+Tartu",
+            "description": "Massive modern museum that tells the story of Estonian culture and identity, with exhibits on folk traditions, languages, and modern life."
+          },
+          {
+            "name": "Supilinn District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Supilinn+Tartu",
+            "description": "Known as the 'Soup Town,' this colorful wooden neighborhood near the river is full of street art, quirky houses, and bohemian cafés."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Town Hall Square (Raekoja plats)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tartu+Town+Hall+Square",
+            "description": "The heart of Tartu with its famous Kissing Students Fountain, surrounded by pastel-colored buildings and lively cafés."
+          },
+          {
+            "name": "Angel’s Bridge (Inglisild)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Inglisild+Tartu",
+            "description": "Historic bridge in Toome Hill Park — locals say crossing it makes you wiser!"
+          },
+          {
+            "name": "Toome Hill Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Toome+Hill+Tartu",
+            "description": "Scenic park with university ruins, viewpoints, and winding paths — one of Tartu’s most photogenic spots."
+          },
+          {
+            "name": "River Emajõgi Embankment",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Emajõgi+River+Tartu",
+            "description": "Peaceful riverwalk offering sunset reflections, rowing boats, and cozy cafés along the banks."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Werner Café",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Werner+Cafe+Tartu",
+            "description": "Historic café known for its desserts and elegant interior — a long-time student favorite since 1895."
+          },
+          {
+            "name": "Restoran Antonius",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Restoran+Antonius+Tartu",
+            "description": "Fine dining restaurant in a romantic vaulted cellar serving modern Estonian cuisine."
+          },
+          {
+            "name": "Barlova",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Barlova+Tartu",
+            "description": "Trendy bohemian bar in the Supilinn district — known for craft beer, music, and creative locals."
+          },
+          {
+            "name": "Gunpowder Cellar (Püssirohukelder)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Püssirohukelder+Tartu",
+            "description": "A legendary restaurant and pub inside a 300-year-old gunpowder cellar — Guinness World Record holder for the world’s highest pub ceiling."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Toome Hill Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Toome+Hill+Tartu",
+            "description": "Leafy park filled with sculptures, university ruins, and peaceful walking paths above the city."
+          },
+          {
+            "name": "Emajõgi River Cruise",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Emajõgi+River+Tartu",
+            "description": "Take a relaxing boat ride through the heart of Tartu — great for photos and sunset views."
+          },
+          {
+            "name": "Botanical Garden of Tartu",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+of+Tartu",
+            "description": "Estonia’s oldest botanical garden, with tropical greenhouses, koi ponds, and peaceful paths near the Old Town."
+          },
+          {
+            "name": "Anne Canal Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Anne+Canal+Beach+Tartu",
+            "description": "Popular local swimming area with playgrounds, cafés, and volleyball courts in summer."
+          }
+        ]
+      },
+      "local_food_tip": "Try Estonian classics like kama dessert, rye bread, and smoked fish. Don’t miss a slice of cake at Werner Café or a hearty meal at Püssirohukelder!",
+      "full_day": {
+        "morning": "☀️ Start with breakfast at <a href='https://www.google.com/maps/search/?api=1&query=Werner+Cafe+Tartu'>Werner Café</a>, then stroll to <a href='https://www.google.com/maps/search/?api=1&query=University+of+Tartu'>University of Tartu</a> and <a href='https://www.google.com/maps/search/?api=1&query=Toome+Hill+Tartu'>Toome Hill</a> for beautiful views.",
+        "afternoon": "🎓 Visit the <a href='https://www.google.com/maps/search/?api=1&query=Estonian+National+Museum+Tartu'>Estonian National Museum</a> or the <a href='https://www.google.com/maps/search/?api=1&query=AHHAA+Science+Centre+Tartu'>AHHAA Science Centre</a>. Have lunch near Town Hall Square.",
+        "evening": "🌇 Walk along the <a href='https://www.google.com/maps/search/?api=1&query=Emajõgi+River+Tartu'>Emajõgi River</a> and explore <a href='https://www.google.com/maps/search/?api=1&query=Supilinn+Tartu'>Supilinn</a>’s cozy cafés.",
+        "night": "🌙 Dine at <a href='https://www.google.com/maps/search/?api=1&query=Püssirohukelder+Tartu'>Püssirohukelder</a> or enjoy live music at <a href='https://www.google.com/maps/search/?api=1&query=Barlova+Tartu'>Barlova</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Tartu bursts into bloom with festivals, outdoor cafés, and students celebrating 'Spring Days.'",
+          "ideas": [
+            {
+              "name": "University Spring Days Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tartu+Kevadpäevad",
+              "description": "Student parades, concerts, and fun competitions take over the city."
+            },
+            {
+              "name": "Botanical Garden Blossoms",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+of+Tartu",
+              "description": "See colorful spring flowers along the river."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm, lively city atmosphere with open-air concerts, river festivals, and long daylight hours.",
+          "ideas": [
+            {
+              "name": "Emajõgi River Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Emajõgi+River+Festival",
+              "description": "Music, lights, and food along the riverside promenade."
+            },
+            {
+              "name": "Outdoor Cinema Nights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tartu+Summer+Cinema",
+              "description": "Watch movies under the stars in the parks or near the Town Hall."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden trees and student energy fill the city as university life returns.",
+          "ideas": [
+            {
+              "name": "Toome Hill Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Toome+Hill+Tartu",
+              "description": "Perfect for leaf photography and quiet moments."
+            },
+            {
+              "name": "Café Hopping in Supilinn",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Supilinn+Tartu",
+              "description": "Warm drinks and cozy art spaces as the weather cools."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snow-covered rooftops, glowing lights, and a festive atmosphere make Tartu magical.",
+          "ideas": [
+            {
+              "name": "Tartu Christmas Village",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tartu+Christmas+Market",
+              "description": "Town Hall Square transforms into a winter wonderland."
+            },
+            {
+              "name": "AHHAA Science Centre Indoor Fun",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=AHHAA+Science+Centre+Tartu",
+              "description": "Warm up with science experiments and planetarium shows."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Tartu is 2 hours from Tallinn by frequent trains or Lux Express buses.",
+          "link": "https://www.elron.ee/en"
+        },
+        {
+          "tip": "Local buses run efficiently around the city — buy tickets via the Tartu Smart City app or at stops.",
+          "link": "https://tartu.ee/en/public-transport"
+        },
+        {
+          "tip": "Tartu is flat and very walkable — renting a bike or e-scooter is a fun way to explore.",
+          "link": "https://www.visittartu.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "spring",
+          "dates": "April–May",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tartu+Kevadpäevad",
+          "description": "Tartu Student Spring Days — the biggest student festival in Estonia."
+        },
+        {
+          "season": "summer",
+          "dates": "July",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tartu+Hanisa+Festival",
+          "description": "Hanisa Festival — concerts, art, and cultural performances across the city."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tartu+Christmas+Market",
+          "description": "Tartu Christmas Village — festive lights, ice rink, and local food stalls."
+        }
+      ],
+      "places": [
+        {
+          "name": "Estonian National Museum (ERM)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Estonian+National+Museum+Tartu",
+          "description": "A must-visit museum offering interactive exhibitions on Estonian culture and history."
+        },
+        {
+          "name": "AHHAA Science Centre",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=AHHAA+Science+Centre+Tartu",
+          "description": "Fun and educational experience full of hands-on science exhibits."
+        },
+        {
+          "name": "Town Hall Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tartu+Town+Hall+Square",
+          "description": "Lively square with the famous Kissing Students Fountain — a perfect meeting spot."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Soup Town (Supilinn)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Supilinn+Tartu",
+          "description": "A bohemian district with colorful wooden houses and artistic street murals."
+        },
+        {
+          "name": "Gunpowder Cellar Secret Tunnel",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Püssirohukelder+Tartu",
+          "description": "A hidden passage under the old fortress connecting to one of Tartu’s oldest pubs."
+        },
+        {
+          "name": "Karlova District",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Karlova+Tartu",
+          "description": "Hip area filled with independent shops, murals, and vintage houses — loved by locals."
+        }
+      ]
+    },
+
+    {
+      "name": "Tallinn",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Tallinn Old Town",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinn+Old+Town",
+            "description": "UNESCO World Heritage-listed medieval old town, full of cobblestone streets, Gothic churches, and colorful merchant houses. A living postcard of Northern Europe’s Hanseatic past."
+          },
+          {
+            "name": "Kumu Art Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kumu+Art+Museum+Tallinn",
+            "description": "Estonia’s largest art museum, blending classic and modern works in a striking contemporary building surrounded by Kadriorg Park."
+          },
+          {
+            "name": "Kadriorg Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kadriorg+Palace+Tallinn",
+            "description": "Built by Peter the Great for Catherine I, this Baroque palace is now home to the foreign art collection of the Estonian Art Museum."
+          },
+          {
+            "name": "Seaplane Harbour Museum (Lennusadam)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Seaplane+Harbour+Tallinn",
+            "description": "Award-winning maritime museum inside a giant seaplane hangar, featuring submarines, ships, and flight simulators."
+          },
+          {
+            "name": "Telliskivi Creative City",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Telliskivi+Creative+City+Tallinn",
+            "description": "Trendy district filled with murals, design shops, art galleries, and indie restaurants — the heart of Tallinn’s creative energy."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Kohtuotsa Viewing Platform",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kohtuotsa+Viewpoint+Tallinn",
+            "description": "Panoramic viewpoint over Tallinn’s red rooftops and church spires — the city’s most famous photo spot."
+          },
+          {
+            "name": "Patkuli Stairs",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Patkuli+Viewing+Platform+Tallinn",
+            "description": "Classic view of the Old Town walls and Toompea Hill — especially magical at sunset."
+          },
+          {
+            "name": "Rotermann Quarter",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rotermann+Quarter+Tallinn",
+            "description": "Striking mix of industrial heritage and modern architecture — perfect for urban photography."
+          },
+          {
+            "name": "Kadriorg Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kadriorg+Park+Tallinn",
+            "description": "Beautiful gardens and ponds around the palace — vibrant in spring and autumn colors."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "III Draakon",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=III+Draakon+Tallinn",
+            "description": "Medieval tavern inside the Town Hall building — candles, elk soup, and a lively atmosphere straight out of the 15th century."
+          },
+          {
+            "name": "Rataskaevu 16",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rataskaevu+16+Tallinn",
+            "description": "Charming local-favorite restaurant serving Estonian comfort dishes with a warm, rustic vibe."
+          },
+          {
+            "name": "Pegasus",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pegasus+Tallinn",
+            "description": "Stylish modern restaurant with big windows overlooking the Town Hall Square — perfect for evening dining."
+          },
+          {
+            "name": "Telliskivi Brewery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Telliskivi+Beer+Tallinn",
+            "description": "Trendy spot in the creative district with craft beers, live DJs, and a youthful crowd."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Kadriorg Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kadriorg+Park+Tallinn",
+            "description": "Elegant park with fountains, ponds, and flower beds — perfect for a peaceful stroll or picnic."
+          },
+          {
+            "name": "Stroomi Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Stroomi+Beach+Tallinn",
+            "description": "Family-friendly beach with calm waters, a promenade, and sunset views over the Gulf of Finland."
+          },
+          {
+            "name": "Pirita Seaside Path",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pirita+Promenade+Tallinn",
+            "description": "Scenic cycling and walking route connecting the city to Pirita Beach, with views of the skyline and sea."
+          },
+          {
+            "name": "Japanese Garden in Kadriorg",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Japanese+Garden+Tallinn",
+            "description": "Tranquil hideaway with ponds, bridges, and maple trees — ideal for quiet reflection."
+          }
+        ]
+      },
+      "local_food_tip": "Try Estonian black bread, herring, kama dessert, and local craft beers. Tallinn’s cafés serve great cinnamon buns and handmade chocolates!",
+      "full_day": {
+        "morning": "☀️ Begin your day in <a href='https://www.google.com/maps/search/?api=1&query=Tallinn+Old+Town'>Tallinn Old Town</a> — grab coffee at RØST Bakery, then explore the medieval streets and climb St. Olaf’s Church tower for city views.",
+        "afternoon": "🎨 Visit <a href='https://www.google.com/maps/search/?api=1&query=Kumu+Art+Museum+Tallinn'>Kumu Art Museum</a> and <a href='https://www.google.com/maps/search/?api=1&query=Kadriorg+Palace+Tallinn'>Kadriorg Palace</a>, then lunch in the gardens or nearby café.",
+        "evening": "🌇 Head to <a href='https://www.google.com/maps/search/?api=1&query=Telliskivi+Creative+City+Tallinn'>Telliskivi Creative City</a> for dinner, street art, and boutique browsing.",
+        "night": "🌙 End with drinks or live music at <a href='https://www.google.com/maps/search/?api=1&query=Telliskivi+Beer+Tallinn'>Telliskivi Brewery</a> or along <a href='https://www.google.com/maps/search/?api=1&query=Rotermann+Quarter+Tallinn'>Rotermann Quarter</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Cherry blossoms in Kadriorg and open-air cafés return to the Old Town.",
+          "ideas": [
+            {
+              "name": "Kadriorg Garden Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Kadriorg+Park+Tallinn",
+              "description": "Perfect for spring picnics and photography among the flowers."
+            },
+            {
+              "name": "Old Town Cafés",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinn+Old+Town+Cafes",
+              "description": "Enjoy pastries and people-watching under blooming trees."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Endless daylight, open-air concerts, and beach life make Tallinn sparkle.",
+          "ideas": [
+            {
+              "name": "Pirita Beach",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pirita+Beach+Tallinn",
+              "description": "Swim, kayak, or enjoy ice cream with a view of Tallinn’s skyline."
+            },
+            {
+              "name": "Tallinn Medieval Days",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinn+Medieval+Days",
+              "description": "Old Town turns into a living history fair with costumes, crafts, and music."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden trees and cozy cafés make the city feel magical.",
+          "ideas": [
+            {
+              "name": "Toompea Hill Viewpoints",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Toompea+Hill+Tallinn",
+              "description": "Capture the city covered in fall colors from Kohtuotsa platform."
+            },
+            {
+              "name": "Museum Day at Kumu",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Kumu+Art+Museum+Tallinn",
+              "description": "Explore Estonian art and warm up in the museum café."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snowy rooftops, twinkling lights, and one of Europe’s most charming Christmas markets.",
+          "ideas": [
+            {
+              "name": "Tallinn Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinn+Christmas+Market",
+              "description": "Hot cocoa, handmade gifts, and festive carols in Town Hall Square."
+            },
+            {
+              "name": "Ice Skating by the Town Hall",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinn+Old+Town+Ice+Rink",
+              "description": "Skate under fairy lights surrounded by medieval towers."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Tallinn’s trams, buses, and trolleys are managed by Tallinn Transport — buy tickets via the pilet.ee app or with a contactless card.",
+          "link": "https://transport.tallinn.ee/"
+        },
+        {
+          "tip": "From the airport to city center, tram line 4 takes only 15 minutes.",
+          "link": "https://www.tallinn-airport.ee/en/"
+        },
+        {
+          "tip": "Walking or e-scooters are great for exploring the compact Old Town and nearby areas like Rotermann and Telliskivi.",
+          "link": "https://www.visittallinn.ee/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "July",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinn+Maritime+Days",
+          "description": "Tallinn Maritime Days — boat shows, concerts, and seaside fun in the harbor districts."
+        },
+        {
+          "season": "autumn",
+          "dates": "September",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinn+Design+Festival",
+          "description": "Tallinn Design Festival — exhibitions, talks, and creative workshops across the city."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinn+Christmas+Market",
+          "description": "Tallinn Christmas Market — one of Europe’s coziest winter fairs, dating back to 1441."
+        }
+      ],
+      "places": [
+        {
+          "name": "Tallinn Old Town",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tallinn+Old+Town",
+          "description": "Walled medieval city filled with charm, history, and stunning views."
+        },
+        {
+          "name": "Kadriorg Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kadriorg+Palace+Tallinn",
+          "description": "Elegant Baroque palace surrounded by manicured gardens and fountains."
+        },
+        {
+          "name": "Telliskivi Creative City",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Telliskivi+Creative+City+Tallinn",
+          "description": "Colorful district of art studios, indie shops, and street murals — a modern contrast to the Old Town."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Patarei Sea Fortress",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Patarei+Sea+Fortress+Tallinn",
+          "description": "Historic 19th-century prison by the sea, now being transformed into an open culture hub."
+        },
+        {
+          "name": "Kalamaja Wooden Houses",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kalamaja+Tallinn",
+          "description": "Charming district of colorful wooden houses and quiet cafés — Tallinn’s hipster heart."
+        },
+        {
+          "name": "Linnahall Rooftop",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Linnahall+Tallinn",
+          "description": "Massive Soviet-era concrete structure with panoramic sea views — loved by urban explorers and photographers."
+        }
+      ]
+    }
+
+  ]
+}

@@ -1,0 +1,1036 @@
+{
+  "name": "San Marino",
+  "cities": [
+    {
+      "name": "Acquaviva",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Forte di Acquaviva",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Forte+di+Acquaviva+San+Marino",
+            "description": "Historic fortress with panoramic views over the rolling hills of San Marino — medieval walls and ancient corridors 🏰."
+          },
+          {
+            "name": "Church of San Paolo Apostolo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Chiesa+di+San+Paolo+Apostolo+Acquaviva",
+            "description": "Charming parish church with beautiful interiors and local heritage — a peaceful cultural stop ⛪."
+          },
+          {
+            "name": "Acquaviva Civic Centre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Civic+Centre+Acquaviva+San+Marino",
+            "description": "Local cultural hub hosting events, exhibitions and community showcases 🎨."
+          },
+          {
+            "name": "Ancient Watchtowers",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Watchtowers+Acquaviva+San+Marino",
+            "description": "Explore remnants of medieval watchtowers scattered around the hills — echoes of fortress life 🛡️."
+          },
+          {
+            "name": "Traditional Workshops",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+workshops+Acquaviva+San+Marino",
+            "description": "Discover local artisans crafting ceramics, textiles and more — rich small-town cultural flair 🧵."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Acquaviva Hilltop Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Acquaviva+San+Marino+views",
+            "description": "Stunning vantage points over valleys and surrounding countryside — perfect for golden hour shots 📸."
+          },
+          {
+            "name": "Forte di Acquaviva Ramparts",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Forte+di+Acquaviva+San+Marino",
+            "description": "Historic ramparts framing dramatic landscapes — blend of nature and medieval stone 🏞️."
+          },
+          {
+            "name": "Countryside Lanes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Acquaviva+countryside+San+Marino",
+            "description": "Quaint rural roads weaving through vineyards and hills — idyllic photo opportunities 🌿."
+          },
+          {
+            "name": "Watchtower Silhouettes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=watchtowers+Acquaviva+San+Marino",
+            "description": "Silhouetted against sunrise or sunset — dramatic medieval vistas 🌅."
+          },
+          {
+            "name": "Village Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Acquaviva+historic+streets+San+Marino",
+            "description": "Colorful village lanes and historic façades — perfect for travel selfies and scenic snaps 📷."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Local Trattorie",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=trattorie+Acquaviva+San+Marino",
+            "description": "Small family-run restaurants serving regional Italian and San Marino specialties 🍝."
+          },
+          {
+            "name": "Acquaviva Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=cafes+Acquaviva+San+Marino",
+            "description": "Cozy spots for espresso, pastries and people-watching ☕🍰."
+          },
+          {
+            "name": "Enoteca Wine Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=enoteca+Acquaviva+San+Marino",
+            "description": "Sample local wines with small plates — relaxed evenings with good conversation 🍷."
+          },
+          {
+            "name": "Piazza Evenings",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Acquaviva+Piazza+San+Marino",
+            "description": "Enjoy gelato or aperitivo in the central square as lights come on ✨."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Acquaviva+San+Marino",
+            "description": "Cap your night with gelato while strolling quiet historic streets 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "San Marino Hills Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=hills+Acquaviva+San+Marino",
+            "description": "Gentle trails weaving through olive groves and vineyards — perfect for fresh air hikes 🚶."
+          },
+          {
+            "name": "Valley Lookouts",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Acquaviva+valley+lookouts+San+Marino",
+            "description": "Peaceful spots gazing over the surrounding valleys — perfect for picnics 🌄."
+          },
+          {
+            "name": "Nearby Forest Paths",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=forest+paths+Acquaviva+San+Marino",
+            "description": "Shaded trails among oak and chestnut trees — nature at its best 🍂."
+          },
+          {
+            "name": "Sunset Terrace Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Acquaviva+sunset+view+San+Marino",
+            "description": "Terrace spots overlooking rolling hills — unwind with spectacular sunsets 🌇."
+          }
+        ]
+      },
+      "local_food_tip": "In Acquaviva, enjoy regional dishes like cured meats, artisanal cheeses, homemade pasta and local wines. Pair meals with San Marino desserts and an aperitivo in the village piazza 🍷🍝.",
+      "full_day": {
+        "morning": "☀️ Start with espresso and pastries at a local café, then wander to the <a href=\"https://www.google.com/maps/search/?api=1&query=Forte+di+Acquaviva+San+Marino\">Forte di Acquaviva</a> for medieval views.",
+        "afternoon": "🍽️ Lunch in a trattoria, stroll the countryside lanes and explore the <a href=\"https://www.google.com/maps/search/?api=1&query=Chiesa+di+San+Paolo+Apostolo+Acquaviva\">Church of San Paolo Apostolo</a>, then relax at a lookout over the valley.",
+        "evening": "🌇 Enjoy local wine at an enoteca, capture sunset views over rolling hills and chat with locals in the piazza.",
+        "night": "🌃 Cap the day with gelato while wandering peaceful historic streets."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming hills, mild weather and perfect walks 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Hill Hikes",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=hills+Acquaviva+San+Marino",
+              "description": "Gentle trails and blossoming groves."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny days, outdoor cafés and lively piazzas ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Piazza Evenings",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Acquaviva+Piazza+San+Marino",
+              "description": "Outdoor dining and aperitivo under warm skies."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden tones, harvest vibes and cozy meals 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Vineyard Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=vineyard+walks+Acquaviva+San+Marino",
+              "description": "Harvest colours and peaceful trails."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Quiet lanes, crisp air and warm cafés ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Café Stops",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=cafes+Acquaviva+San+Marino",
+              "description": "Warm drinks and pastries in historic interiors."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Acquaviva’s small size makes it ideal to explore on foot 🚶‍♀️.",
+          "link": "https://www.visitsanmarino.com/"
+        },
+        {
+          "tip": "Regional buses connect Acquaviva with City of San Marino and nearby villages 🚍.",
+          "link": "https://www.atc.sm/"
+        },
+        {
+          "tip": "Taxis and ride-shares help reach hilltop lookouts and nearby parks 🚖.",
+          "link": "https://www.sanmarinoservices.sm/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "July–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Acquaviva+San+Marino+events",
+          "description": "Local summer festivals, music and markets fill the village with lively energy 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Forte di Acquaviva",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Forte+di+Acquaviva+San+Marino",
+          "description": "Historic fortress with sweeping views and medieval spirit 🏰."
+        },
+        {
+          "name": "Church of San Paolo Apostolo",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Chiesa+di+San+Paolo+Apostolo+Acquaviva",
+          "description": "Charming church known for its serene interior and cultural heritage ⛪."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Valley Lookout Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=valley+lookout+Acquaviva+San+Marino",
+          "description": "Secluded bench with scenic valley views — peaceful and reflective 🌄."
+        },
+        {
+          "name": "Quiet Olive Grove Path",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=olive+grove+Acquaviva+San+Marino",
+          "description": "Secret grove path perfect for tranquil nature walks 🌿."
+        }
+      ]
+    },
+
+    {
+      "name": "Borgo Maggiore",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Borgo Maggiore Market Square (Piazza Grande)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+Grande+Borgo+Maggiore+San+Marino",
+            "description": "Historic marketplace dating back to the Middle Ages — a lively center of local culture, crafts, and tradition 🏛️."
+          },
+          {
+            "name": "Church of Saints Peter, Paul and Lucy",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+Saints+Peter+Paul+and+Lucy+Borgo+Maggiore",
+            "description": "Elegant 19th-century church known for its peaceful atmosphere and beautiful neoclassical design ⛪."
+          },
+          {
+            "name": "Cable Car to San Marino City",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Funivia+Borgo+Maggiore+San+Marino",
+            "description": "Ride the scenic cable car from Borgo Maggiore to San Marino’s old town — breathtaking views and a fun cultural link 🚠."
+          },
+          {
+            "name": "Museo dell’Emigrante (Museum of Emigration)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museo+dell’Emigrante+Borgo+Maggiore",
+            "description": "Fascinating museum dedicated to San Marino’s migration stories — moving exhibits and multimedia displays 🌍."
+          },
+          {
+            "name": "Historic Stone Houses of the Borgo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=historic+houses+Borgo+Maggiore+San+Marino",
+            "description": "Wander narrow cobbled streets lined with centuries-old homes — authentic medieval charm 🏘️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Cable Car Panorama",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Funivia+Borgo+Maggiore+San+Marino",
+            "description": "Aerial views of Borgo Maggiore and Monte Titano from the funivia — iconic cityscape shots 📸."
+          },
+          {
+            "name": "Piazza Grande",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+Grande+Borgo+Maggiore",
+            "description": "Central square surrounded by local architecture — perfect for vibrant cultural photos 🌇."
+          },
+          {
+            "name": "Monte Titano Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monte+Titano+view+Borgo+Maggiore",
+            "description": "Panoramic outlooks of the mountains and coastline — especially magical at sunrise 🌄."
+          },
+          {
+            "name": "Historic Alleyways",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=alleys+Borgo+Maggiore+San+Marino",
+            "description": "Capture local life and rustic charm in the village’s narrow lanes 🏞️."
+          },
+          {
+            "name": "Evening Lights from the Hills",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Borgo+Maggiore+night+view",
+            "description": "Glistening night views of San Marino City above the illuminated village 🌌."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Traditional Osterias",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=osteria+Borgo+Maggiore+San+Marino",
+            "description": "Cozy local restaurants serving handmade pasta, truffle dishes and local wines 🍝."
+          },
+          {
+            "name": "Cafés on Piazza Grande",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=cafes+Piazza+Grande+Borgo+Maggiore",
+            "description": "Perfect for espresso, pastries and people-watching ☕🍰."
+          },
+          {
+            "name": "Wine Bars with a View",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=wine+bars+Borgo+Maggiore+San+Marino",
+            "description": "Relaxed settings offering local Sammarinese wines and light snacks 🍷."
+          },
+          {
+            "name": "Street Food at the Market",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=market+Borgo+Maggiore+San+Marino",
+            "description": "Try piadina, local cheeses and salumi from street vendors 🧀🥪."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Borgo+Maggiore+San+Marino",
+            "description": "Enjoy gelato under the stars in the peaceful town square 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Monte Titano Trails",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monte+Titano+trails+San+Marino",
+            "description": "Beautiful trails climbing through forested slopes with breathtaking views 🌲."
+          },
+          {
+            "name": "Valley Viewpoints",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Borgo+Maggiore+valley+view",
+            "description": "Quiet spots with sweeping views over Emilia-Romagna countryside 🌄."
+          },
+          {
+            "name": "Olive Grove Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=olive+groves+Borgo+Maggiore",
+            "description": "Peaceful rural paths among olive trees — perfect for fresh air and relaxation 🌿."
+          },
+          {
+            "name": "Cable Car Vista Point",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Funivia+Borgo+Maggiore+view",
+            "description": "Relax and enjoy spectacular hilltop panoramas 🚠."
+          }
+        ]
+      },
+      "local_food_tip": "Try handmade tagliatelle, piadina sandwiches, local honey, and San Marino wines. Visit the weekly market for farm-fresh produce and regional cheeses 🧀🍷.",
+      "full_day": {
+        "morning": "☀️ Begin with breakfast in <a href=\"https://www.google.com/maps/search/?api=1&query=Piazza+Grande+Borgo+Maggiore\">Piazza Grande</a> and browse the open-air market for local goods.",
+        "afternoon": "🍽️ Take the <a href=\"https://www.google.com/maps/search/?api=1&query=Funivia+Borgo+Maggiore+San+Marino\">cable car</a> to San Marino City, enjoy panoramic views, then return for lunch at a local osteria.",
+        "evening": "🌇 Capture sunset from the Monte Titano viewpoints, stroll historic alleys and relax with a glass of wine.",
+        "night": "🌃 Enjoy gelato in the piazza or a calm evening walk through illuminated streets."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming hills, fresh air and lively markets 🌸.",
+          "ideas": [
+            {
+              "name": "Market Day Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+Grande+Borgo+Maggiore",
+              "description": "Experience spring energy at the historic market square."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm weather, open-air cafés and vibrant festivals ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Sunset Cable Car",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Funivia+Borgo+Maggiore+San+Marino",
+              "description": "Ride at golden hour for spectacular views."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden hills and harvest flavors 🍁.",
+          "ideas": [
+            {
+              "name": "Olive Harvest Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=olive+groves+Borgo+Maggiore",
+              "description": "See locals preparing olive oil and wine."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Quiet charm, crisp air and festive lights ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Market Shopping",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+Grande+Borgo+Maggiore",
+              "description": "Browse local crafts and warm up with hot chocolate."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "The Borgo Maggiore–San Marino cable car runs every few minutes and offers the best view commute 🚠.",
+          "link": "https://www.visitsanmarino.com/"
+        },
+        {
+          "tip": "Local buses connect Borgo Maggiore with all other Castelli in San Marino 🚍.",
+          "link": "https://www.atc.sm/"
+        },
+        {
+          "tip": "Walking is the best way to explore Borgo’s compact center and nearby hills 🚶‍♀️.",
+          "link": "https://www.sanmarinoservices.sm/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Borgo+Maggiore+summer+festival",
+          "description": "Open-air concerts, night markets and cultural performances animate the village 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Piazza Grande",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+Grande+Borgo+Maggiore",
+          "description": "Historic market square surrounded by cafés and local life 🏛️."
+        },
+        {
+          "name": "Cable Car Station",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Funivia+Borgo+Maggiore+San+Marino",
+          "description": "Starting point for scenic rides up to San Marino City 🚠."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Hidden Stone Archway",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=stone+archway+Borgo+Maggiore",
+          "description": "Charming medieval arch connecting narrow alleys — often missed by tourists 🧱."
+        },
+        {
+          "name": "Quiet Valley Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=valley+view+Borgo+Maggiore",
+          "description": "Secluded bench with sweeping views of the countryside 🌄."
+        }
+      ]
+    },
+
+    {
+      "name": "City of San Marino",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Guaita Tower (First Tower)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Guaita+Tower+San+Marino",
+            "description": "The oldest and most iconic of San Marino’s three towers, perched on Monte Titano — breathtaking fortress views and rich medieval history 🏰."
+          },
+          {
+            "name": "Cesta Tower (Second Tower)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cesta+Tower+San+Marino",
+            "description": "A stunning tower housing the Museum of Ancient Weapons — history meets panoramic mountain scenery ⚔️."
+          },
+          {
+            "name": "Basilica di San Marino",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Basilica+di+San+Marino",
+            "description": "Neoclassical basilica dedicated to Saint Marinus — serene atmosphere and architectural beauty ⛪."
+          },
+          {
+            "name": "Palazzo Pubblico (Public Palace)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Palazzo+Pubblico+San+Marino",
+            "description": "The Republic’s seat of government — elegant 19th-century architecture and ceremonial guards 🇸🇲."
+          },
+          {
+            "name": "State Museum of San Marino",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=State+Museum+San+Marino",
+            "description": "Showcases art, archaeology, and the history of the world’s oldest republic 🎨."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Monte Titano Viewpoints",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monte+Titano+view+San+Marino",
+            "description": "Breathtaking mountain-top views stretching across Italy and the Adriatic Sea 🌄."
+          },
+          {
+            "name": "Three Towers Path",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Three+Towers+San+Marino",
+            "description": "Scenic walkway connecting all three medieval towers — unbeatable photo opportunities 📸."
+          },
+          {
+            "name": "Piazza della Libertà",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+della+Libertà+San+Marino",
+            "description": "Central square with the Palazzo Pubblico and panoramic terraces 🌇."
+          },
+          {
+            "name": "Cesta Tower Overlook",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cesta+Tower+view+San+Marino",
+            "description": "Capture the iconic Guaita Tower from this elevated spot 🏞️."
+          },
+          {
+            "name": "Sunset at the Fortress Walls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=San+Marino+fortress+walls",
+            "description": "Golden light over the ancient walls — a photographer’s dream 🌅."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Trattoria Righi",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Trattoria+Righi+San+Marino",
+            "description": "Elegant restaurant serving local cuisine with modern flair — located right in Piazza della Libertà 🍝."
+          },
+          {
+            "name": "Cantina di Bacco",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cantina+di+Bacco+San+Marino",
+            "description": "Traditional wine tavern with regional charcuterie and warm local vibes 🍷."
+          },
+          {
+            "name": "Bar Titano",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bar+Titano+San+Marino",
+            "description": "Cozy café and cocktail bar overlooking the city — ideal for sunset aperitivo 🍸."
+          },
+          {
+            "name": "Gelateria L’Arcobaleno",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gelateria+L’Arcobaleno+San+Marino",
+            "description": "Beloved local gelato shop — perfect stop after exploring the towers 🍨."
+          },
+          {
+            "name": "Enoteca Antica Bottega",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Enoteca+Antica+Bottega+San+Marino",
+            "description": "Wine cellar and bistro serving local Sammarinese wines and small plates 🍇."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Monte Titano Nature Trails",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monte+Titano+trails+San+Marino",
+            "description": "Serene trails through oak forests with views of the Adriatic — ideal for morning hikes 🌿."
+          },
+          {
+            "name": "Giardino dei Liburni",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Giardino+dei+Liburni+San+Marino",
+            "description": "Charming garden with panoramic benches and flowerbeds — peaceful rest stop 🌸."
+          },
+          {
+            "name": "Torre Montale (Third Tower)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Torre+Montale+San+Marino",
+            "description": "Quietest of the three towers, surrounded by lush nature and silence 🌲."
+          },
+          {
+            "name": "Via delle Streghe",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Via+delle+Streghe+San+Marino",
+            "description": "‘Witches’ Path’ — a romantic stone walkway between the cliffs and forests 🌳."
+          }
+        ]
+      },
+      "local_food_tip": "Taste handmade pasta, local cheeses, piadina, and Sammarinese wines. Don’t miss the Torta Tre Monti, a layered chocolate wafer cake inspired by the city’s three towers 🍫🍷.",
+      "full_day": {
+        "morning": "☀️ Start at the <a href=\"https://www.google.com/maps/search/?api=1&query=Basilica+di+San+Marino\">Basilica di San Marino</a> and walk to the <a href=\"https://www.google.com/maps/search/?api=1&query=Guaita+Tower+San+Marino\">Guaita Tower</a> for morning views.",
+        "afternoon": "🍽️ Lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Trattoria+Righi+San+Marino\">Trattoria Righi</a>, then explore <a href=\"https://www.google.com/maps/search/?api=1&query=Palazzo+Pubblico+San+Marino\">Palazzo Pubblico</a> and the <a href=\"https://www.google.com/maps/search/?api=1&query=State+Museum+San+Marino\">State Museum</a>.",
+        "evening": "🌇 Hike the <a href=\"https://www.google.com/maps/search/?api=1&query=Three+Towers+San+Marino\">Three Towers Path</a> and capture sunset over the hills.",
+        "night": "🌃 Enjoy dinner with a view, then a glass of wine or gelato in <a href=\"https://www.google.com/maps/search/?api=1&query=Piazza+della+Libertà+San+Marino\">Piazza della Libertà</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming hills and pleasant mountain breezes 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Tower Hike",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Three+Towers+San+Marino",
+              "description": "Mild weather perfect for exploring the towers and gardens."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Festivals, warm sunsets and long evenings ☀️.",
+          "ideas": [
+            {
+              "name": "Open-Air Concerts in Piazza della Libertà",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+della+Libertà+San+Marino",
+              "description": "Live music under the stars in the city’s main square."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden forests and cozy trattorias 🍁.",
+          "ideas": [
+            {
+              "name": "Wine Harvest Season",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=San+Marino+wineries",
+              "description": "Sample new local wines and autumn flavors."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Quiet charm, crisp mountain air and festive lights ❄️.",
+          "ideas": [
+            {
+              "name": "Christmas Markets on Monte Titano",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=San+Marino+Christmas+market",
+              "description": "Enchanting stalls, lights and local crafts."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Take the scenic cable car from Borgo Maggiore to the historic city center 🚠.",
+          "link": "https://www.visitsanmarino.com/"
+        },
+        {
+          "tip": "Local bus services connect the City of San Marino with Rimini and other Castelli 🚍.",
+          "link": "https://www.atc.sm/"
+        },
+        {
+          "tip": "Walking is the best way to explore — the old city is compact and full of beautiful routes 🚶‍♀️.",
+          "link": "https://www.sanmarinoservices.sm/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "July (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Medieval+Days+San+Marino",
+          "description": "Medieval Days Festival — knights, music and parades bring the republic’s history to life ⚔️🎶."
+        },
+        {
+          "season": "Winter",
+          "dates": "December–January",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Christmas+market+San+Marino",
+          "description": "Christmas Village on Monte Titano — festive stalls and lights 🎄."
+        }
+      ],
+      "places": [
+        {
+          "name": "Guaita Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Guaita+Tower+San+Marino",
+          "description": "Historic fortress symbolizing San Marino’s independence 🏰."
+        },
+        {
+          "name": "Piazza della Libertà",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+della+Libertà+San+Marino",
+          "description": "The heart of San Marino’s civic life and home to its government 🇸🇲."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Via delle Streghe Path",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Via+delle+Streghe+San+Marino",
+          "description": "A quiet stone walkway along the cliffs with fairytale views 🌙."
+        },
+        {
+          "name": "Secret Garden near Cesta Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cesta+Tower+garden+San+Marino",
+          "description": "Tiny hidden garden with benches overlooking the countryside 🌿."
+        }
+      ]
+    },
+
+    {
+      "name": "Domagnano",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Domagnano Castle Ruins",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+Castle+San+Marino",
+            "description": "Traces of a medieval fortress perched on a hill with sweeping views — echoes of San Marino’s ancient defense system 🏰."
+          },
+          {
+            "name": "Church of San Michele Arcangelo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+San+Michele+Arcangelo+Domagnano",
+            "description": "Beautiful parish church dating back to the 18th century, known for its calm charm and baroque details ⛪."
+          },
+          {
+            "name": "Archaeological Finds of Domagnano Treasure",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+Treasure+San+Marino",
+            "description": "Site connected to the discovery of the ‘Domagnano Treasure,’ a collection of late Roman–Gothic gold jewelry now in major European museums 💎."
+          },
+          {
+            "name": "Cultural Centre Domagnano",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cultural+Centre+Domagnano+San+Marino",
+            "description": "Community hub hosting exhibitions, lectures, and events celebrating local traditions 🎨."
+          },
+          {
+            "name": "Old Village Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=historic+streets+Domagnano+San+Marino",
+            "description": "Narrow cobbled lanes with traditional stone houses and peaceful corners — perfect for cultural strolls 🏘️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Domagnano Hill Viewpoint",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+viewpoint+San+Marino",
+            "description": "A panoramic overlook offering views of the entire republic and the Adriatic coast 🌄."
+          },
+          {
+            "name": "Castle Ruins at Sunset",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+Castle+San+Marino",
+            "description": "Golden hour photos among medieval ruins with stunning light 🌇."
+          },
+          {
+            "name": "Countryside Paths",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+countryside+San+Marino",
+            "description": "Rolling hills, vineyards, and rustic scenery ideal for photography 🌿."
+          },
+          {
+            "name": "Village Piazza",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+Domagnano+San+Marino",
+            "description": "Small central square with charming cafés and scenic architecture ☕."
+          },
+          {
+            "name": "Monte Titano Silhouette",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monte+Titano+from+Domagnano",
+            "description": "Capture San Marino’s famous mountain from afar — postcard-worthy views 🏞️."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Local Trattorias and Pizzerias",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=trattoria+Domagnano+San+Marino",
+            "description": "Family-run eateries offering handmade pasta, wood-fired pizza, and local specialties 🍝🍕."
+          },
+          {
+            "name": "Wine Bars with Hill Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=wine+bar+Domagnano+San+Marino",
+            "description": "Relax with a glass of Sammarinese wine while watching the sunset 🍷."
+          },
+          {
+            "name": "Cafés on the Main Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=cafes+Domagnano+San+Marino",
+            "description": "Enjoy espresso and desserts in cozy local cafés ☕🍰."
+          },
+          {
+            "name": "Street Food During Local Events",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+events+San+Marino",
+            "description": "Taste piadina, local cheese, and cured meats at open-air festivals 🧀🥪."
+          },
+          {
+            "name": "Evening Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+historic+center+San+Marino",
+            "description": "Stroll through peaceful illuminated streets with a scoop of gelato 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Monte Titano Trails (nearby)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monte+Titano+trails+San+Marino",
+            "description": "Close access to scenic hiking routes across San Marino’s hills 🌲."
+          },
+          {
+            "name": "Domagnano Green Hills",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+hills+San+Marino",
+            "description": "Perfect for picnics and peaceful countryside relaxation 🌿."
+          },
+          {
+            "name": "Viewpoint Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+park+San+Marino",
+            "description": "Small park with benches and sweeping valley views 🌳."
+          },
+          {
+            "name": "Sunset Walk Routes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=sunset+walk+Domagnano+San+Marino",
+            "description": "Ideal for relaxing evening strolls with panoramic scenery 🌇."
+          }
+        ]
+      },
+      "local_food_tip": "Taste homemade pasta, local salumi, and San Marino’s famous piadina. Try it with a glass of Brugneto red wine while admiring the hilltop views 🍷🍝.",
+      "full_day": {
+        "morning": "☀️ Start with espresso and pastries at a local café, then explore the <a href=\"https://www.google.com/maps/search/?api=1&query=Domagnano+Castle+San+Marino\">Domagnano Castle Ruins</a> for incredible morning views.",
+        "afternoon": "🍽️ Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Church+of+San+Michele+Arcangelo+Domagnano\">Church of San Michele Arcangelo</a>, enjoy lunch at a trattoria, and walk through countryside paths.",
+        "evening": "🌇 Capture sunset from the <a href=\"https://www.google.com/maps/search/?api=1&query=Domagnano+viewpoint+San+Marino\">Hill Viewpoint</a>, then relax at a wine bar with local dishes.",
+        "night": "🌃 End the day with a calm gelato walk through the peaceful old village lanes 🍨."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blooming fields, fresh air, and perfect walking weather 🌸.",
+          "ideas": [
+            {
+              "name": "Hilltop Picnics",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+hill+park+San+Marino",
+              "description": "Relax among flowers with views of the countryside."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Lively festivals, warm evenings, and golden sunsets ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Market Nights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+summer+festival",
+              "description": "Local food stands, live music, and handmade crafts."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Harvest colors and cozy culinary traditions 🍁.",
+          "ideas": [
+            {
+              "name": "Wine and Olive Tasting",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+vineyards+San+Marino",
+              "description": "Celebrate autumn with local wines and olive oil tastings."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Quiet charm and festive decorations ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Scenic Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+historic+center+San+Marino",
+              "description": "Peaceful winter atmosphere and warm cafés."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Local buses connect Domagnano with the City of San Marino and other Castelli 🚍.",
+          "link": "https://www.atc.sm/"
+        },
+        {
+          "tip": "The village is compact and walkable — ideal for exploring on foot 🚶‍♀️.",
+          "link": "https://www.visitsanmarino.com/"
+        },
+        {
+          "tip": "Taxis are available for quick trips to nearby viewpoints and attractions 🚖.",
+          "link": "https://www.sanmarinoservices.sm/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "July–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+Summer+Festival",
+          "description": "Local summer festival with food stands, concerts, and evening dances 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Domagnano Castle Ruins",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+Castle+San+Marino",
+          "description": "Medieval remains with scenic views of the San Marino valley 🏰."
+        },
+        {
+          "name": "Church of San Michele Arcangelo",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+San+Michele+Arcangelo+Domagnano",
+          "description": "Elegant parish church known for its quiet charm ⛪."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Domagnano Treasure Site",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+Treasure+site+San+Marino",
+          "description": "Quiet area linked to one of San Marino’s greatest archaeological discoveries 💎."
+        },
+        {
+          "name": "Secret View Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Domagnano+view+bench+San+Marino",
+          "description": "Hidden bench overlooking the rolling valleys — perfect for reflection 🌄."
+        }
+      ]
+    },
+
+    {
+      "name": "Serravalle",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Rocca di Serravalle",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rocca+di+Serravalle+San+Marino",
+            "description": "Historic fortress overlooking the plains — part of San Marino’s medieval defense system, offering panoramic views 🏰."
+          },
+          {
+            "name": "Church of Saint Andrea",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+Saint+Andrea+Serravalle+San+Marino",
+            "description": "Beautiful neoclassical church with a peaceful interior and charming bell tower ⛪."
+          },
+          {
+            "name": "Castle Walls of Serravalle",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Castle+Walls+Serravalle+San+Marino",
+            "description": "Remnants of medieval fortifications surrounding the old town — a window into the past 🛡️."
+          },
+          {
+            "name": "Old Town Center",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Historic+Center+Serravalle+San+Marino",
+            "description": "Wander narrow cobblestone streets filled with small shops, cafés, and artisan studios 🏘️."
+          },
+          {
+            "name": "Serravalle Civic Hall",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Serravalle+Civic+Hall+San+Marino",
+            "description": "Cultural hub for exhibitions, concerts, and community events 🎨."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Rocca Viewpoint",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rocca+di+Serravalle+San+Marino",
+            "description": "Capture sweeping views of the valley and Monte Titano from the fortress walls 🌄."
+          },
+          {
+            "name": "Historic Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Town+Serravalle+San+Marino",
+            "description": "Picturesque alleys filled with stone houses and flowers — ideal for Instagram shots 📸."
+          },
+          {
+            "name": "Countryside Overlook",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Serravalle+panorama+San+Marino",
+            "description": "Wide views over the rolling hills and Italian countryside 🌅."
+          },
+          {
+            "name": "Piazza del Castello",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Castello+Serravalle",
+            "description": "Central square framed by historic buildings and café terraces ☕."
+          },
+          {
+            "name": "Monte Titano Silhouette",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Monte+Titano+from+Serravalle",
+            "description": "Capture San Marino’s iconic skyline rising above the hills 🏞️."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Local Osterias",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=osteria+Serravalle+San+Marino",
+            "description": "Traditional taverns serving handmade pasta, truffles, and local wines 🍝."
+          },
+          {
+            "name": "Cafés in the Historic Center",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=cafe+Serravalle+San+Marino",
+            "description": "Perfect for a cappuccino and local pastries with morning sun ☕."
+          },
+          {
+            "name": "Wine Bars with a View",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=wine+bar+Serravalle+San+Marino",
+            "description": "Relax with local red wines while admiring panoramic sunsets 🍷."
+          },
+          {
+            "name": "Modern Restaurants near Stadium",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=San+Marino+Stadium+restaurants",
+            "description": "Modern dining options mixing Italian and Sammarinese cuisine 🍽️."
+          },
+          {
+            "name": "Evening Gelato Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Serravalle+San+Marino",
+            "description": "End your night with gelato and a peaceful walk through the old village 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Serravalle Countryside Trails",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=hiking+Serravalle+San+Marino",
+            "description": "Gentle hiking routes across hills and vineyards — perfect for morning walks 🌿."
+          },
+          {
+            "name": "San Marino Stadium Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=San+Marino+Stadium+park",
+            "description": "Green park near the national stadium, ideal for jogging or relaxing 🌳."
+          },
+          {
+            "name": "Valley Lookouts",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Serravalle+valley+view",
+            "description": "Panoramic viewpoints overlooking the Rimini plain 🌾."
+          },
+          {
+            "name": "Sunset Hill Road",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Serravalle+sunset+view",
+            "description": "Beautiful evening walks with colorful sky views 🌇."
+          }
+        ]
+      },
+      "local_food_tip": "Try handmade tagliolini with truffles, piadina sandwiches, and local honey desserts. Pair them with Sammarinese white wine for a perfect local taste 🍯🍷.",
+      "full_day": {
+        "morning": "☀️ Start your day exploring the <a href=\"https://www.google.com/maps/search/?api=1&query=Rocca+di+Serravalle+San+Marino\">Rocca di Serravalle</a> and its panoramic views, followed by coffee at a local café.",
+        "afternoon": "🍽️ Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Church+of+Saint+Andrea+Serravalle+San+Marino\">Church of Saint Andrea</a>, enjoy lunch at an osteria, then stroll through the <a href=\"https://www.google.com/maps/search/?api=1&query=Historic+Center+Serravalle+San+Marino\">historic center</a>.",
+        "evening": "🌇 Capture the sunset from the <a href=\"https://www.google.com/maps/search/?api=1&query=Rocca+di+Serravalle+San+Marino\">fortress viewpoint</a> and enjoy wine at a terrace bar.",
+        "night": "🌃 Relax with gelato and a walk along illuminated village streets 🍨."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Fresh air, flowers, and ideal walking weather 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Hill Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=hills+Serravalle+San+Marino",
+              "description": "Enjoy the countryside filled with blossoms and birdsong."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Festivals, warm nights, and vibrant piazzas ☀️.",
+          "ideas": [
+            {
+              "name": "Serravalle Summer Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Serravalle+summer+festival+San+Marino",
+              "description": "Live music, food stalls, and fireworks in the main square."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden landscapes and harvest-time flavors 🍁.",
+          "ideas": [
+            {
+              "name": "Vineyard Tours",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=vineyards+Serravalle+San+Marino",
+              "description": "Taste local wines during harvest season."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Quiet charm, festive lights, and cozy cafés ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Market Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Serravalle+Christmas+market",
+              "description": "Browse crafts and enjoy warm drinks with locals."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Buses connect Serravalle with the City of San Marino and neighboring Castelli 🚍.",
+          "link": "https://www.atc.sm/"
+        },
+        {
+          "tip": "Walking and biking are great for exploring Serravalle’s scenic hills 🚴‍♀️.",
+          "link": "https://www.visitsanmarino.com/"
+        },
+        {
+          "tip": "Taxis and local transport services are available for short trips to nearby towns 🚖.",
+          "link": "https://www.sanmarinoservices.sm/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "July (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Serravalle+Summer+Festival",
+          "description": "Open-air music festival and night markets in the town center 🎶."
+        },
+        {
+          "season": "Autumn",
+          "dates": "September (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Serravalle+Wine+Festival",
+          "description": "Celebrate local vineyards with tastings and live folk performances 🍇."
+        }
+      ],
+      "places": [
+        {
+          "name": "Rocca di Serravalle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Rocca+di+Serravalle+San+Marino",
+          "description": "Ancient fortress overlooking the plains — must-see historical landmark 🏰."
+        },
+        {
+          "name": "Piazza del Castello",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Castello+Serravalle",
+          "description": "Charming main square with cafés and historic architecture 🏛️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Old Fortress Path",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=fortress+path+Serravalle+San+Marino",
+          "description": "Quiet trail leading up to the fortress, surrounded by olive trees 🌿."
+        },
+        {
+          "name": "Secret Overlook Bench",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=overlook+bench+Serravalle+San+Marino",
+          "description": "Hidden spot with panoramic valley views — perfect for relaxation 🌄."
+        }
+      ]
+    }
+  ]
+}

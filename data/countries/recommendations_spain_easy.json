@@ -1,0 +1,1355 @@
+{
+  "name": "Spain",
+  "cities": [
+    {
+      "name": "Barcelona",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Sagrada Família",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sagrada+Familia+Barcelona",
+            "description": "Gaudí’s world-famous basilica — a masterpiece of curves, color and imagination still under construction after 140 years 🏰."
+          },
+          {
+            "name": "Park Güell",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Park+Güell+Barcelona",
+            "description": "A whimsical park filled with mosaics, dragons and city views — one of Barcelona’s most iconic art landmarks 🎨."
+          },
+          {
+            "name": "Casa Batlló",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Casa+Batlló+Barcelona",
+            "description": "Gaudí’s fairytale house with colorful balconies and ocean-inspired shapes — pure Catalan Modernism 🌊."
+          },
+          {
+            "name": "Picasso Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Picasso+Museum+Barcelona",
+            "description": "Explore Picasso’s early works in a series of medieval mansions — art and history intertwined 🖼️."
+          },
+          {
+            "name": "Palau de la Música Catalana",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Palau+de+la+Música+Catalana+Barcelona",
+            "description": "Breathtaking concert hall covered in stained glass and mosaics — a UNESCO World Heritage site 🎶."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Bunkers del Carmel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bunkers+del+Carmel+Barcelona",
+            "description": "Panoramic view of the whole city — especially magical at sunset 🌇."
+          },
+          {
+            "name": "Barceloneta Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Barceloneta+Beach+Barcelona",
+            "description": "Golden sands, palm trees and the Mediterranean backdrop make perfect summer photos 🏖️."
+          },
+          {
+            "name": "Gothic Quarter Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gothic+Quarter+Barcelona",
+            "description": "Winding alleys, arches and ancient stone walls — pure old-town charm 📸."
+          },
+          {
+            "name": "Casa Milà (La Pedrera)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Casa+Milà+La+Pedrera+Barcelona",
+            "description": "Another Gaudí gem — rooftop chimneys shaped like warriors and dreamy architecture 🌀."
+          },
+          {
+            "name": "Magic Fountain of Montjuïc",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Magic+Fountain+Montjuïc+Barcelona",
+            "description": "Colorful nighttime fountain show with music and lights 🌈."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "La Boqueria Market",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=La+Boqueria+Market+Barcelona",
+            "description": "Famous market on Las Ramblas — fresh fruit, seafood and tapas in every color imaginable 🍉🍤."
+          },
+          {
+            "name": "El Xampanyet",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=El+Xampanyet+Barcelona",
+            "description": "Historic tapas bar serving cava and anchovies since 1929 🍾."
+          },
+          {
+            "name": "Flax & Kale",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Flax+&+Kale+Barcelona",
+            "description": "Trendy flexitarian restaurant mixing healthy plates with artistic presentation 🥗."
+          },
+          {
+            "name": "Paradiso",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Paradiso+Barcelona",
+            "description": "One of the world’s best cocktail bars hidden behind a pastrami shop door 🍸."
+          },
+          {
+            "name": "Pacha Barcelona",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pacha+Barcelona",
+            "description": "Beachfront club with international DJs and a sea-view terrace — legendary nightlife 🎧."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Montjuïc Hill",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Montjuïc+Hill+Barcelona",
+            "description": "Scenic area with gardens, cable cars and castle views over the port 🌿."
+          },
+          {
+            "name": "Ciutadella Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ciutadella+Park+Barcelona",
+            "description": "Green oasis in the city with fountains, lakes and the Catalan Parliament building 🌳."
+          },
+          {
+            "name": "Tibidabo Mountain",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tibidabo+Barcelona",
+            "description": "Hilltop amusement park and church offering one of the best views in Catalonia 🎡."
+          },
+          {
+            "name": "Parc del Laberint d’Horta",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parc+del+Laberint+d’Horta+Barcelona",
+            "description": "Historic labyrinth park filled with cypress trees, sculptures and fountains 🌀."
+          },
+          {
+            "name": "Barceloneta Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Barceloneta+Promenade+Barcelona",
+            "description": "Perfect coastal path for a morning jog, bike ride or ice cream stroll 🏖️."
+          }
+        ]
+      },
+      "local_food_tip": "Try classic Catalan dishes like paella, patatas bravas, and crema catalana — and never leave without churros dipped in thick chocolate 🍮🍤.",
+      "full_day": {
+        "morning": "☀️ Start your day at <a href=\"https://www.google.com/maps/search/?api=1&query=Sagrada+Familia+Barcelona\">Sagrada Família</a> and then walk through <a href=\"https://www.google.com/maps/search/?api=1&query=Gothic+Quarter+Barcelona\">the Gothic Quarter</a> for some old-town vibes.",
+        "afternoon": "🍽️ Have tapas at <a href=\"https://www.google.com/maps/search/?api=1&query=El+Xampanyet+Barcelona\">El Xampanyet</a>, explore <a href=\"https://www.google.com/maps/search/?api=1&query=Park+Güell+Barcelona\">Park Güell</a>, and enjoy panoramic views from <a href=\"https://www.google.com/maps/search/?api=1&query=Bunkers+del+Carmel+Barcelona\">Bunkers del Carmel</a>.",
+        "evening": "🌇 Stroll along <a href=\"https://www.google.com/maps/search/?api=1&query=Barceloneta+Beach+Barcelona\">Barceloneta Beach</a> at sunset, then grab dinner at <a href=\"https://www.google.com/maps/search/?api=1&query=Flax+&+Kale+Barcelona\">Flax & Kale</a> or <a href=\"https://www.google.com/maps/search/?api=1&query=Restaurant+Pavel+Piran\">Pavel</a>.",
+        "night": "🌃 Enjoy the Magic Fountain show at <a href=\"https://www.google.com/maps/search/?api=1&query=Magic+Fountain+Montjuïc+Barcelona\">Montjuïc</a> or dance the night away at <a href=\"https://www.google.com/maps/search/?api=1&query=Pacha+Barcelona\">Pacha</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Flowers bloom across parks and festivals bring life to the streets 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Walk in Park Güell",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Park+Güell+Barcelona",
+              "description": "Enjoy Gaudí’s colorful architecture surrounded by blooming nature 🌺."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Beach days, open-air music and sunset dinners by the sea ☀️.",
+          "ideas": [
+            {
+              "name": "Barceloneta Beach Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Barceloneta+Beach+Barcelona",
+              "description": "Swim, sunbathe and enjoy gelato by the Mediterranean 🏖️."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Warm golden light, art exhibitions and wine tastings around the city 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Visit to Montjuïc",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Montjuïc+Hill+Barcelona",
+              "description": "Wander through gardens and capture colorful sunsets 🍂."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Mild weather, festive markets and fewer crowds ❄️.",
+          "ideas": [
+            {
+              "name": "Christmas Market by the Cathedral",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Barcelona+Christmas+Market",
+              "description": "Shop for crafts and enjoy churros with hot chocolate 🎄."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use the metro for fast city travel — T-casual tickets offer 10 rides for a great price 🚇.",
+          "link": "https://www.tmb.cat/en/home"
+        },
+        {
+          "tip": "Hop-on hop-off tourist buses are a fun way to see the main attractions 🚌.",
+          "link": "https://www.barcelonabusturistic.cat/en"
+        },
+        {
+          "tip": "For seaside trips, take the train along the Costa Brava from Estació de França 🚆.",
+          "link": "https://www.renfe.com/es/en"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Festa+Major+de+Gràcia+Barcelona",
+          "description": "Festa Major de Gràcia turns neighborhood streets into colorful art displays and concerts 🎊."
+        },
+        {
+          "season": "Spring",
+          "dates": "April",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sant+Jordi+Festival+Barcelona",
+          "description": "Catalonia’s Valentine’s Day — streets fill with roses and book stalls 🌹📚."
+        }
+      ],
+      "places": [
+        {
+          "name": "Sagrada Família",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sagrada+Familia+Barcelona",
+          "description": "Gaudí’s awe-inspiring basilica blending nature, faith and architecture 🌿."
+        },
+        {
+          "name": "Park Güell",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Park+Güell+Barcelona",
+          "description": "Colorful park filled with mosaics, columns and fantasy-like structures 🎨."
+        },
+        {
+          "name": "Barceloneta Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Barceloneta+Beach+Barcelona",
+          "description": "City’s most famous beach with golden sand, volleyball and sea breeze 🌊."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "El Born Cultural Center",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=El+Born+Cultural+Center+Barcelona",
+          "description": "Archaeological site under a glass roof with medieval street remains and exhibitions 🏺."
+        },
+        {
+          "name": "Carmel Bunkers",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bunkers+del+Carmel+Barcelona",
+          "description": "Locals’ favorite sunset hangout with unbeatable 360° views 🌇."
+        },
+        {
+          "name": "Sant Pau Art Nouveau Site",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hospital+de+Sant+Pau+Barcelona",
+          "description": "A hidden architectural treasure — ornate hospital complex designed by Domènech i Montaner 🏥."
+        }
+      ]
+    },
+
+    {
+      "name": "Granada",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Alhambra Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Alhambra+Granada",
+            "description": "Breathtaking Moorish palace and fortress complex — intricate carvings, tranquil courtyards and stunning views of the Sierra Nevada 🏰."
+          },
+          {
+            "name": "Generalife Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Generalife+Gardens+Granada",
+            "description": "Peaceful royal gardens filled with fountains, arches and fragrant flowers — a paradise of calm 🌸."
+          },
+          {
+            "name": "Cathedral of Granada",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Granada+Cathedral",
+            "description": "Magnificent Renaissance cathedral in the city center with golden domes and detailed facades ⛪."
+          },
+          {
+            "name": "Royal Chapel of Granada",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Chapel+Granada",
+            "description": "Final resting place of Ferdinand and Isabella — filled with Gothic art and history 👑."
+          },
+          {
+            "name": "Albaicín Quarter",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Albaicín+Granada",
+            "description": "Ancient Moorish district of narrow whitewashed alleys, hidden patios and magical views of the Alhambra 🌿."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Mirador de San Nicolás",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mirador+de+San+Nicolás+Granada",
+            "description": "Legendary viewpoint offering the most iconic panorama of the Alhambra with the Sierra Nevada behind 🌇."
+          },
+          {
+            "name": "Carrera del Darro",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Carrera+del+Darro+Granada",
+            "description": "Romantic riverside street lined with stone bridges and old lanterns — perfect for photos 📸."
+          },
+          {
+            "name": "Carmen de los Mártires",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Carmen+de+los+Mártires+Granada",
+            "description": "Hidden garden with ponds, flowers and castle views — a fairytale corner 🌺."
+          },
+          {
+            "name": "Plaza Nueva",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Plaza+Nueva+Granada",
+            "description": "Central square surrounded by historical buildings and lively cafés ☕."
+          },
+          {
+            "name": "Sacromonte Caves",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sacromonte+Caves+Granada",
+            "description": "Traditional cave houses built into hillsides with views over the valley — especially stunning at sunset 🏞️."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Bodegas Castañeda",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bodegas+Castañeda+Granada",
+            "description": "Historic tapas bar near the cathedral offering free tapas with every drink — true Andalusian spirit 🍷."
+          },
+          {
+            "name": "Mirador de Morayma",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mirador+de+Morayma+Granada",
+            "description": "Elegant restaurant in the Albaicín with amazing views of the Alhambra and traditional dishes 🍽️."
+          },
+          {
+            "name": "El Tabernáculo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=El+Tabernáculo+Granada",
+            "description": "Quirky bar filled with religious decor and friendly locals — unforgettable atmosphere 🍻."
+          },
+          {
+            "name": "Café 4 Gatos",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cafe+4+Gatos+Granada",
+            "description": "Charming breakfast spot with pancakes, juice and Alhambra views ☕."
+          },
+          {
+            "name": "Le Chien Andalou",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Le+Chien+Andalou+Granada",
+            "description": "Cozy flamenco bar in a cave — authentic music and dance shows every night 💃."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Sierra Nevada National Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sierra+Nevada+National+Park",
+            "description": "Just 40 minutes away — perfect for hiking in summer and skiing in winter 🏔️."
+          },
+          {
+            "name": "Carmen de los Mártires Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Carmen+de+los+Mártires+Granada",
+            "description": "Peaceful gardens with ponds, peacocks and fountains — a secret hideaway 🌳."
+          },
+          {
+            "name": "Albaicín Walking Routes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Albaicín+Granada",
+            "description": "Lose yourself among winding alleys filled with jasmine and history 🌿."
+          },
+          {
+            "name": "Federico García Lorca Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parque+Federico+García+Lorca+Granada",
+            "description": "Green park dedicated to Granada’s famous poet — perfect for reading or a picnic 📖."
+          },
+          {
+            "name": "Darro River Walk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Carrera+del+Darro+Granada",
+            "description": "Shady river path lined with old bridges and ivy-covered houses 🌸."
+          }
+        ]
+      },
+      "local_food_tip": "Granada is the city of free tapas! Order a drink and you’ll get a small dish for free — try tortilla española, jamón ibérico, and berenjenas con miel 🍆🍯.",
+      "full_day": {
+        "morning": "☀️ Start with coffee at <a href=\"https://www.google.com/maps/search/?api=1&query=Cafe+4+Gatos+Granada\">Café 4 Gatos</a>, then explore <a href=\"https://www.google.com/maps/search/?api=1&query=Alhambra+Granada\">the Alhambra</a> and its gardens early before the crowds.",
+        "afternoon": "🍽️ Have lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Mirador+de+Morayma+Granada\">Mirador de Morayma</a>, stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=Albaicín+Granada\">the Albaicín</a>, and visit <a href=\"https://www.google.com/maps/search/?api=1&query=Cathedral+of+Granada\">the Cathedral</a>.",
+        "evening": "🌇 Head to <a href=\"https://www.google.com/maps/search/?api=1&query=Mirador+de+San+Nicolás+Granada\">Mirador de San Nicolás</a> for the best sunset view, then enjoy tapas at <a href=\"https://www.google.com/maps/search/?api=1&query=Bodegas+Castañeda+Granada\">Bodegas Castañeda</a>.",
+        "night": "🌃 End your day with a live flamenco show at <a href=\"https://www.google.com/maps/search/?api=1&query=Le+Chien+Andalou+Granada\">Le Chien Andalou</a> or a peaceful night walk along <a href=\"https://www.google.com/maps/search/?api=1&query=Carrera+del+Darro+Granada\">the Darro River</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Fragrant orange blossoms and blooming courtyards bring Granada to life 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Walk through Albaicín",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Albaicín+Granada",
+              "description": "Enjoy jasmine-scented air and views of the Alhambra under blue skies 🌿."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Hot days and lively nights — perfect for late dinners and music festivals ☀️.",
+          "ideas": [
+            {
+              "name": "Evening Tapas Crawl",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Bodegas+Castañeda+Granada",
+              "description": "Cool off with cold drinks and free tapas in the city center 🍻."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Warm golden light over the Alhambra and fewer crowds 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Hike in Sierra Nevada",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sierra+Nevada+National+Park",
+              "description": "Take in crisp air, mountain colors and breathtaking views 🏞️."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snowy mountains and cozy cafés — best of both worlds ❄️.",
+          "ideas": [
+            {
+              "name": "Ski at Sierra Nevada",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sierra+Nevada+Ski+Resort",
+              "description": "Hit the slopes by day, explore the city lights by night 🎿."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Granada’s urban buses (operated by Transportes Rober) connect all major sights 🚍.",
+          "link": "https://www.transportesrober.com/"
+        },
+        {
+          "tip": "Take the Alhambra minibus (C30 or C32) to reach the palace from the city center easily 🚌.",
+          "link": "https://www.movilidadgranada.es/"
+        },
+        {
+          "tip": "Trains and buses connect Granada with Seville, Madrid and Malaga 🚆.",
+          "link": "https://www.renfe.com/es/en"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Spring",
+          "dates": "May (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Granada+Festival+of+Music+and+Dance",
+          "description": "International Festival of Music and Dance fills the Alhambra with open-air performances 🎶."
+        },
+        {
+          "season": "Summer",
+          "dates": "June–August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Corpus+Christi+Granada",
+          "description": "Colorful Corpus Christi celebrations with parades, music and lights 🎉."
+        }
+      ],
+      "places": [
+        {
+          "name": "Alhambra",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Alhambra+Granada",
+          "description": "UNESCO World Heritage site — a jewel of Moorish art and Andalusian beauty 🏰."
+        },
+        {
+          "name": "Albaicín",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Albaicín+Granada",
+          "description": "Historic quarter filled with narrow alleys, whitewashed houses and vibrant energy 🌿."
+        },
+        {
+          "name": "Mirador de San Nicolás",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Mirador+de+San+Nicolás+Granada",
+          "description": "Most famous viewpoint in Granada — an unforgettable Alhambra backdrop 🌇."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Carmen de los Mártires",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Carmen+de+los+Mártires+Granada",
+          "description": "Peaceful garden with peacocks, fountains and Alhambra views 🌺."
+        },
+        {
+          "name": "Realejo Quarter",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Realejo+Granada",
+          "description": "Colorful neighborhood filled with street art and hidden tapas bars 🎨."
+        },
+        {
+          "name": "Cueva Flamenca La Rocío",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cueva+Flamenca+La+Rocío+Granada",
+          "description": "Traditional cave venue in Sacromonte for passionate flamenco nights 💃."
+        }
+      ]
+    },
+
+    {
+      "name": "Madrid",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Prado Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Prado+Museum+Madrid",
+            "description": "One of the world’s greatest art museums — masterpieces by Velázquez, Goya, and El Greco fill its grand halls 🖼️."
+          },
+          {
+            "name": "Royal Palace of Madrid",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Palace+Madrid",
+            "description": "Europe’s largest royal palace — opulent rooms, chandeliers, and views of the Sabatini Gardens 👑."
+          },
+          {
+            "name": "Reina Sofía Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Reina+Sofía+Museum+Madrid",
+            "description": "Modern art museum housing Picasso’s ‘Guernica’ and works by Dalí and Miró 🎨."
+          },
+          {
+            "name": "Thyssen-Bornemisza Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Thyssen-Bornemisza+Museum+Madrid",
+            "description": "Bridges classic and modern art — Monet, Van Gogh, and Hopper under one roof 🖌️."
+          },
+          {
+            "name": "Gran Vía",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Gran+Vía+Madrid",
+            "description": "Madrid’s most iconic avenue — stunning architecture, theaters, and fashion boutiques 🌆."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Templo de Debod",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Templo+de+Debod+Madrid",
+            "description": "An ancient Egyptian temple relocated to Madrid — magical at sunset 🌇."
+          },
+          {
+            "name": "Plaza Mayor",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Plaza+Mayor+Madrid",
+            "description": "Historic central square framed by red-brick buildings — full of life and street performers 📸."
+          },
+          {
+            "name": "Crystal Palace in Retiro Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Palacio+de+Cristal+Madrid",
+            "description": "Dreamy glass pavilion surrounded by trees and reflections in the pond 🌿."
+          },
+          {
+            "name": "Círculo de Bellas Artes Rooftop",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Círculo+de+Bellas+Artes+Madrid",
+            "description": "Stunning 360° rooftop terrace with the best skyline views over Gran Vía 🏙️."
+          },
+          {
+            "name": "Puerta del Sol",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Puerta+del+Sol+Madrid",
+            "description": "Lively heart of Madrid — the famous ‘Bear and Strawberry Tree’ statue and bustling crowds 🐻."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Mercado de San Miguel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mercado+de+San+Miguel+Madrid",
+            "description": "Gourmet market with tapas, seafood, pastries and fresh juices under a beautiful glass roof 🍤."
+          },
+          {
+            "name": "Chocolatería San Ginés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Chocolatería+San+Ginés+Madrid",
+            "description": "Iconic café serving churros with thick hot chocolate since 1894 🍫."
+          },
+          {
+            "name": "Casa Lucio",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Casa+Lucio+Madrid",
+            "description": "Classic restaurant famous for ‘huevos rotos’ (fried eggs with potatoes) 🍳."
+          },
+          {
+            "name": "El Sur",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=El+Sur+Madrid",
+            "description": "Friendly local tavern serving delicious traditional tapas — loved by locals 🥘."
+          },
+          {
+            "name": "Sala El Sol",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sala+El+Sol+Madrid",
+            "description": "Legendary live music venue — indie, rock and jazz in an intimate setting 🎶."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Retiro Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Retiro+Park+Madrid",
+            "description": "Madrid’s green heart — row a boat on the lake or stroll among fountains and sculptures 🌳."
+          },
+          {
+            "name": "Casa de Campo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Casa+de+Campo+Madrid",
+            "description": "Vast park with biking trails, a zoo, and a lake with cafés — great for a day outdoors 🚴."
+          },
+          {
+            "name": "Madrid Río Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Madrid+Río+Park",
+            "description": "Urban park along the river with bridges, skate parks and gardens 🌸."
+          },
+          {
+            "name": "Sabatini Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sabatini+Gardens+Madrid",
+            "description": "Elegant gardens next to the Royal Palace — perfect for quiet reflection 🌺."
+          },
+          {
+            "name": "Botanical Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Botanical+Garden+Madrid",
+            "description": "Lush gardens beside the Prado filled with exotic plants and glasshouses 🌿."
+          }
+        ]
+      },
+      "local_food_tip": "Don’t miss Madrid’s favorite snacks — churros with chocolate, bocadillo de calamares (squid sandwich), and croquetas de jamón. Pair with tinto de verano or sparkling water on a sunny terrace 🍷🥖.",
+      "full_day": {
+        "morning": "☀️ Begin your day with breakfast at <a href=\"https://www.google.com/maps/search/?api=1&query=Chocolatería+San+Ginés+Madrid\">Chocolatería San Ginés</a>, then explore <a href=\"https://www.google.com/maps/search/?api=1&query=Royal+Palace+Madrid\">the Royal Palace</a> and stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=Sabatini+Gardens+Madrid\">the Sabatini Gardens</a>.",
+        "afternoon": "🖼️ Visit <a href=\"https://www.google.com/maps/search/?api=1&query=Prado+Museum+Madrid\">the Prado Museum</a>, have lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Mercado+de+San+Miguel+Madrid\">Mercado de San Miguel</a>, and relax at <a href=\"https://www.google.com/maps/search/?api=1&query=Retiro+Park+Madrid\">Retiro Park</a> with a boat ride on the lake.",
+        "evening": "🌇 Watch the sunset from <a href=\"https://www.google.com/maps/search/?api=1&query=Templo+de+Debod+Madrid\">Templo de Debod</a> and grab tapas at <a href=\"https://www.google.com/maps/search/?api=1&query=El+Sur+Madrid\">El Sur</a>.",
+        "night": "🌃 End your day with live music at <a href=\"https://www.google.com/maps/search/?api=1&query=Sala+El+Sol+Madrid\">Sala El Sol</a> or night views from the <a href=\"https://www.google.com/maps/search/?api=1&query=Círculo+de+Bellas+Artes+Madrid\">Círculo de Bellas Artes rooftop</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild weather and blooming parks — perfect for walking and open-air cafés 🌸.",
+          "ideas": [
+            {
+              "name": "Picnic in Retiro Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Retiro+Park+Madrid",
+              "description": "Relax by the lake and enjoy churros under the cherry blossoms 🌷."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Lively plazas, rooftop bars and long golden sunsets ☀️.",
+          "ideas": [
+            {
+              "name": "Evening at Templo de Debod",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Templo+de+Debod+Madrid",
+              "description": "Catch one of Madrid’s most famous sunsets over the Royal Palace 🌇."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves and cultural festivals fill the city 🍁.",
+          "ideas": [
+            {
+              "name": "Art Walk (Paseo del Arte)",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Paseo+del+Arte+Madrid",
+              "description": "Visit the Prado, Reina Sofía, and Thyssen museums all in one stroll 🎨."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, hot chocolate and cozy tapas bars ❄️.",
+          "ideas": [
+            {
+              "name": "Christmas Market at Plaza Mayor",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Christmas+Market+Plaza+Mayor+Madrid",
+              "description": "Buy handmade gifts, eat roasted chestnuts and enjoy the holiday cheer 🎄."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Madrid’s metro is fast and safe — buy a rechargeable Multi card and explore easily 🚇.",
+          "link": "https://www.metromadrid.es/en"
+        },
+        {
+          "tip": "Use Cercanías trains for day trips to Toledo or Segovia 🚆.",
+          "link": "https://www.renfe.com/es/en"
+        },
+        {
+          "tip": "City bikes (BiciMAD) are available at stations across Madrid 🚴.",
+          "link": "https://www.bicimad.com/en/home"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Spring",
+          "dates": "May (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=San+Isidro+Festival+Madrid",
+          "description": "San Isidro Festival celebrates Madrid’s patron saint with concerts, parades and food fairs 🎉."
+        },
+        {
+          "season": "Summer",
+          "dates": "June–August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Veranos+de+la+Villa+Madrid",
+          "description": "Open-air concerts, cinema and cultural shows across the city 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Royal Palace of Madrid",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Palace+Madrid",
+          "description": "Magnificent residence of Spanish monarchs — filled with art and grandeur 👑."
+        },
+        {
+          "name": "Retiro Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Retiro+Park+Madrid",
+          "description": "Beautiful park with fountains, sculptures and the famous Crystal Palace 🌿."
+        },
+        {
+          "name": "Prado Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Prado+Museum+Madrid",
+          "description": "World-class art museum showcasing the Spanish masters 🖼️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "El Capricho Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=El+Capricho+Park+Madrid",
+          "description": "Romantic 18th-century park with labyrinths, sculptures and serene lakes 🌺."
+        },
+        {
+          "name": "Chamberí Ghost Metro Station",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Andén+0+Madrid",
+          "description": "Old metro station turned museum — step back in time to 1919 🚉."
+        },
+        {
+          "name": "Café del Jardín",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Café+del+Jardín+Madrid",
+          "description": "Hidden café in the Museum of Romanticism garden — peaceful and charming ☕."
+        }
+      ]
+    },
+
+    {
+      "name": "Seville",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Seville Cathedral & La Giralda",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Seville+Cathedral+La+Giralda",
+            "description": "The largest Gothic cathedral in the world — climb the Giralda tower for panoramic city views ⛪."
+          },
+          {
+            "name": "Real Alcázar of Seville",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Real+Alcázar+Seville",
+            "description": "A royal palace filled with intricate Moorish tiles, lush gardens and Game of Thrones filming locations 🏰."
+          },
+          {
+            "name": "Plaza de España",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Plaza+de+España+Seville",
+            "description": "A breathtaking semi-circular plaza surrounded by tiled bridges, fountains and Spanish regional mosaics 🇪🇸."
+          },
+          {
+            "name": "Metropol Parasol (Las Setas)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Metropol+Parasol+Seville",
+            "description": "Massive wooden structure with walkways and a rooftop viewpoint over the old town 🍄."
+          },
+          {
+            "name": "Museo de Bellas Artes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museo+de+Bellas+Artes+Seville",
+            "description": "One of Spain’s top art museums — featuring Murillo, Zurbarán and other Spanish masters 🎨."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Plaza de España",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Plaza+de+España+Seville",
+            "description": "Tile-covered benches, arches and fountains — one of the most photogenic spots in Europe 📸."
+          },
+          {
+            "name": "Giralda Tower",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Giralda+Tower+Seville",
+            "description": "Climb the ramp for stunning city views and golden evening light 🌇."
+          },
+          {
+            "name": "Triana Riverside",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Triana+Bridge+Seville",
+            "description": "Colorful houses reflecting on the Guadalquivir River — perfect at sunset 🌉."
+          },
+          {
+            "name": "Santa Cruz Quarter",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Santa+Cruz+Seville",
+            "description": "Narrow streets, orange trees and flower-filled patios — pure Andalusian charm 🌺."
+          },
+          {
+            "name": "Metropol Parasol",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Metropol+Parasol+Seville",
+            "description": "Modern architecture meets skyline views — best at dusk 🌆."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "El Rinconcillo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=El+Rinconcillo+Seville",
+            "description": "Founded in 1670 — Seville’s oldest tapas bar, serving traditional Andalusian dishes 🍽️."
+          },
+          {
+            "name": "Mercado de Triana",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mercado+de+Triana+Seville",
+            "description": "Bustling market filled with local produce, seafood and lively tapas stands 🍤."
+          },
+          {
+            "name": "Eslava",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Eslava+Seville",
+            "description": "Famous modern tapas restaurant with award-winning dishes and friendly vibes 🌟."
+          },
+          {
+            "name": "La Azotea",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=La+Azotea+Seville",
+            "description": "Trendy spot for seafood, wines and creative Andalusian cuisine 🍷."
+          },
+          {
+            "name": "Casa Anselma",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Casa+Anselma+Seville",
+            "description": "Authentic flamenco tavern in Triana — singing, clapping and dancing late into the night 💃."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "María Luisa Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=María+Luisa+Park+Seville",
+            "description": "Lush green park with fountains, birds and romantic walks beside Plaza de España 🌿."
+          },
+          {
+            "name": "Guadalquivir River Walk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Guadalquivir+River+Seville",
+            "description": "Perfect for cycling or evening strolls along the shimmering river 🌊."
+          },
+          {
+            "name": "Parque del Alamillo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parque+del+Alamillo+Seville",
+            "description": "Relaxed urban park ideal for picnics, skating and outdoor games 🌳."
+          },
+          {
+            "name": "Triana Riverside Terraces",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Triana+Seville",
+            "description": "Cafés and patios overlooking the river — perfect for evening chill-outs ☕."
+          },
+          {
+            "name": "Jardines de Murillo",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jardines+de+Murillo+Seville",
+            "description": "Small gardens filled with palm trees and orange blossoms — peaceful escape from the crowds 🌴."
+          }
+        ]
+      },
+      "local_food_tip": "Try Andalusian classics like salmorejo (cold tomato soup), espinacas con garbanzos (spinach with chickpeas) and fried fish. Pair it with a glass of local sherry or tinto de verano 🍅🍷.",
+      "full_day": {
+        "morning": "☀️ Start with coffee and churros near <a href=\"https://www.google.com/maps/search/?api=1&query=Seville+Cathedral\">the Cathedral</a>, then visit <a href=\"https://www.google.com/maps/search/?api=1&query=Real+Alcázar+Seville\">the Real Alcázar</a> before the crowds.",
+        "afternoon": "🍽️ Have lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Eslava+Seville\">Eslava</a> and take a stroll through <a href=\"https://www.google.com/maps/search/?api=1&query=María+Luisa+Park+Seville\">María Luisa Park</a> and <a href=\"https://www.google.com/maps/search/?api=1&query=Plaza+de+España+Seville\">Plaza de España</a>.",
+        "evening": "🌇 Enjoy sunset views from <a href=\"https://www.google.com/maps/search/?api=1&query=Metropol+Parasol+Seville\">Metropol Parasol</a> and dinner in the lively <a href=\"https://www.google.com/maps/search/?api=1&query=Triana+Seville\">Triana district</a>.",
+        "night": "🌃 Experience authentic flamenco at <a href=\"https://www.google.com/maps/search/?api=1&query=Casa+Anselma+Seville\">Casa Anselma</a> or enjoy a night walk along the illuminated river 🌉."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Seville’s most magical season — orange blossoms fill the air and major festivals come to life 🌸.",
+          "ideas": [
+            {
+              "name": "Feria de Abril",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Feria+de+Abril+Seville",
+              "description": "Traditional fair with flamenco, horse parades, and dancing all night long 🎠."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Hot days and long nights — perfect for late dinners and moonlit walks ☀️.",
+          "ideas": [
+            {
+              "name": "Evening Tapas Crawl in Triana",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Triana+Seville",
+              "description": "Stay cool while tasting delicious tapas by the river 🍷."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden light, cooler temperatures and fewer tourists 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Stroll in María Luisa Park",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=María+Luisa+Park+Seville",
+              "description": "Enjoy peaceful walks among fountains and palm trees 🌴."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Mild sunshine and festive lights — ideal for cozy holidays 🎄.",
+          "ideas": [
+            {
+              "name": "Christmas Market at Plaza Nueva",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Plaza+Nueva+Seville",
+              "description": "Shop local crafts and enjoy churros with hot chocolate ☕."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Seville’s buses and trams are efficient and affordable — buy a rechargeable card for easy use 🚍.",
+          "link": "https://www.tussam.es/"
+        },
+        {
+          "tip": "The city is very walkable, and bike rentals are available through Sevici 🚴.",
+          "link": "https://www.sevici.es/"
+        },
+        {
+          "tip": "Trains connect Seville with Córdoba, Granada, and Madrid via high-speed AVE 🚆.",
+          "link": "https://www.renfe.com/es/en"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Spring",
+          "dates": "April (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Feria+de+Abril+Seville",
+          "description": "The famous April Fair — dancing, horses, lights and traditional Sevillana dresses 💃."
+        },
+        {
+          "season": "Spring",
+          "dates": "March–April (Easter Week)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Semana+Santa+Seville",
+          "description": "Semana Santa features emotional processions and music filling the streets with devotion 🕯️."
+        }
+      ],
+      "places": [
+        {
+          "name": "Real Alcázar of Seville",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Real+Alcázar+Seville",
+          "description": "Royal palace blending Islamic and Christian architecture — pure magic 🏰."
+        },
+        {
+          "name": "Seville Cathedral & La Giralda",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Seville+Cathedral+La+Giralda",
+          "description": "Towering Gothic cathedral with a minaret-turned-bell tower ⛪."
+        },
+        {
+          "name": "Plaza de España",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Plaza+de+España+Seville",
+          "description": "Stunning plaza and film location — elegance meets Andalusian pride 🇪🇸."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Casa de Pilatos",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Casa+de+Pilatos+Seville",
+          "description": "Less-crowded palace with beautiful tiles, gardens and courtyards 🌿."
+        },
+        {
+          "name": "Triana Ceramic Workshops",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Triana+Ceramics+Seville",
+          "description": "Explore authentic ceramic studios and learn about Andalusian craftsmanship 🎨."
+        },
+        {
+          "name": "Hospital de los Venerables",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hospital+de+los+Venerables+Seville",
+          "description": "Hidden baroque courtyard with art exhibitions and peaceful ambiance 🌸."
+        }
+      ]
+    },
+
+    {
+      "name": "Valencia",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "City of Arts and Sciences",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=City+of+Arts+and+Sciences+Valencia",
+            "description": "A futuristic complex of museums, an aquarium and an opera house designed by Santiago Calatrava — Valencia’s modern icon 🌌."
+          },
+          {
+            "name": "Valencia Cathedral & El Miguelete Tower",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Valencia+Cathedral+Miguelete+Tower",
+            "description": "Gothic cathedral rumored to house the Holy Grail — climb the bell tower for panoramic views ⛪."
+          },
+          {
+            "name": "Lonja de la Seda (Silk Exchange)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lonja+de+la+Seda+Valencia",
+            "description": "UNESCO-listed Gothic masterpiece that once hosted Valencia’s silk merchants — filled with stunning stone columns 🏛️."
+          },
+          {
+            "name": "Museo de Bellas Artes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museo+de+Bellas+Artes+Valencia",
+            "description": "Home to classic works by Goya, Velázquez and El Greco — one of Spain’s oldest art museums 🎨."
+          },
+          {
+            "name": "Palacio del Marqués de Dos Aguas",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Palacio+del+Marqués+de+Dos+Aguas+Valencia",
+            "description": "Ornate baroque palace with a dramatic marble façade and the National Museum of Ceramics inside 🏺."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Hemisfèric at Sunset",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hemisfèric+Valencia",
+            "description": "Capture the reflection of futuristic domes on the water during golden hour 🌇."
+          },
+          {
+            "name": "El Carmen Murals",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=El+Carmen+Valencia+Street+Art",
+            "description": "Colorful graffiti and murals fill this old quarter — perfect for creative photos 🎭."
+          },
+          {
+            "name": "Turia Gardens Bridges",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jardín+del+Turia+Valencia",
+            "description": "Take pictures from under the old bridges surrounded by palm trees and bike paths 🌴."
+          },
+          {
+            "name": "Malvarrosa Beach Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Malvarrosa+Beach+Valencia",
+            "description": "Golden sand and palm-lined paths — great for seaside selfies 🏖️."
+          },
+          {
+            "name": "Plaza de la Virgen",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Plaza+de+la+Virgen+Valencia",
+            "description": "Charming old square with fountains, cafés and the cathedral in the background 💧."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Casa Carmela",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Casa+Carmela+Valencia",
+            "description": "Family-run seaside restaurant famous for authentic paella cooked over a wood fire 🍚."
+          },
+          {
+            "name": "Central Market (Mercado Central)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mercado+Central+Valencia",
+            "description": "One of Europe’s largest food markets — fresh fruit, cheese, and local treats 🍊🧀."
+          },
+          {
+            "name": "Ruzafa District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ruzafa+Valencia",
+            "description": "Trendy neighborhood full of cafés, bars and international restaurants 🍸."
+          },
+          {
+            "name": "Marina Beach Club",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Marina+Beach+Club+Valencia",
+            "description": "Stylish beachfront club with poolside music, food and seaside vibes 🎶."
+          },
+          {
+            "name": "Horchatería Santa Catalina",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Horchatería+Santa+Catalina+Valencia",
+            "description": "Historic café serving Valencia’s famous horchata drink with fartons pastries 🥛."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Turia Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jardín+del+Turia+Valencia",
+            "description": "Former riverbed turned into an enormous park — ideal for biking, picnics and outdoor fun 🌳."
+          },
+          {
+            "name": "Albufera Natural Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Albufera+Natural+Park+Valencia",
+            "description": "Beautiful lagoon south of the city — perfect for boat rides, birdwatching and sunsets 🌅."
+          },
+          {
+            "name": "Malvarrosa Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Malvarrosa+Beach+Valencia",
+            "description": "Wide sandy beach close to the city — great for swimming or volleyball 🏖️."
+          },
+          {
+            "name": "Cabecera Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cabecera+Park+Valencia",
+            "description": "Quiet lake park at the end of the Turia Gardens — peaceful nature getaway 🌾."
+          },
+          {
+            "name": "Jardines del Real (Viveros)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jardines+del+Real+Valencia",
+            "description": "Historic royal gardens filled with fountains, roses and sculptures 🌸."
+          }
+        ]
+      },
+      "local_food_tip": "Valencia is the birthplace of paella! Try the traditional version with rabbit, chicken and green beans — and don’t miss horchata with fartons for dessert 🍚🥛.",
+      "full_day": {
+        "morning": "☀️ Start with breakfast at <a href=\"https://www.google.com/maps/search/?api=1&query=Horchatería+Santa+Catalina+Valencia\">Horchatería Santa Catalina</a>, then climb <a href=\"https://www.google.com/maps/search/?api=1&query=Miguelete+Tower+Valencia\">El Miguelete Tower</a> for skyline views.",
+        "afternoon": "🍽️ Have lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Casa+Carmela+Valencia\">Casa Carmela</a> near <a href=\"https://www.google.com/maps/search/?api=1&query=Malvarrosa+Beach+Valencia\">Malvarrosa Beach</a>, then relax with a walk through <a href=\"https://www.google.com/maps/search/?api=1&query=Turia+Gardens+Valencia\">Turia Gardens</a>.",
+        "evening": "🌇 Explore the <a href=\"https://www.google.com/maps/search/?api=1&query=City+of+Arts+and+Sciences+Valencia\">City of Arts and Sciences</a> at sunset and enjoy dinner in the <a href=\"https://www.google.com/maps/search/?api=1&query=Ruzafa+Valencia\">Ruzafa District</a>.",
+        "night": "🌃 End your day with seaside music and a drink at <a href=\"https://www.google.com/maps/search/?api=1&query=Marina+Beach+Club+Valencia\">Marina Beach Club</a> or a peaceful moonlit walk along the promenade."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Colorful festivals and perfect beach weather start to bloom 🌸.",
+          "ideas": [
+            {
+              "name": "Las Fallas Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Las+Fallas+Valencia",
+              "description": "Giant papier-mâché sculptures, fireworks and parades fill the city in March 🎆."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Hot sunny days perfect for beaches, night walks and open-air music ☀️.",
+          "ideas": [
+            {
+              "name": "Evening at Malvarrosa Beach",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Malvarrosa+Beach+Valencia",
+              "description": "Swim, relax and enjoy grilled seafood as the sun sets 🐚."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Warm weather, art fairs and golden light — perfect for exploring 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Boat Ride at Albufera",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Albufera+Natural+Park+Valencia",
+              "description": "Peaceful lake cruise with reflections of flamingos and reeds 🌅."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Mild temperatures, festive lights and cozy cafés ☕.",
+          "ideas": [
+            {
+              "name": "Christmas Market in Plaza del Ayuntamiento",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Valencia+Christmas+Market",
+              "description": "Ice skating, crafts and twinkling lights bring holiday magic 🎄."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use Metrovalencia for easy travel between the city center, beaches and airport 🚇.",
+          "link": "https://www.metrovalencia.es/en/"
+        },
+        {
+          "tip": "Valenbisi city bikes are perfect for exploring Turia Gardens and the coast 🚴.",
+          "link": "https://www.valenbisi.es/"
+        },
+        {
+          "tip": "Buses and trams connect well with all neighborhoods — download EMT Valencia’s app for schedules 🚌.",
+          "link": "https://www.emtvalencia.es/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Spring",
+          "dates": "March (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Las+Fallas+Festival+Valencia",
+          "description": "Las Fallas — Valencia’s biggest festival with fireworks, music and giant burning sculptures 🎆."
+        },
+        {
+          "season": "Summer",
+          "dates": "July (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Gran+Fira+de+Valencia",
+          "description": "Gran Fira — summer fair with parades, concerts and fireworks on the beach 🎉."
+        }
+      ],
+      "places": [
+        {
+          "name": "City of Arts and Sciences",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=City+of+Arts+and+Sciences+Valencia",
+          "description": "Futuristic complex with an aquarium, planetarium and museum — Valencia’s modern landmark 🌌."
+        },
+        {
+          "name": "Valencia Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Valencia+Cathedral",
+          "description": "Historic Gothic cathedral holding the Holy Grail and surrounded by lively plazas ⛪."
+        },
+        {
+          "name": "Turia Gardens",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Jardín+del+Turia+Valencia",
+          "description": "Long green park stretching through the city — perfect for walking, cycling and relaxing 🌿."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Albufera Boat Pier",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Albufera+Boat+Pier+Valencia",
+          "description": "Peaceful wooden dock with sunset reflections over the lagoon 🌅."
+        },
+        {
+          "name": "Convent of San Nicolás",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=San+Nicolás+Church+Valencia",
+          "description": "Known as the ‘Sistine Chapel of Valencia’ — stunning frescoes cover every inch of the ceiling 🎨."
+        },
+        {
+          "name": "Ruzafa Street Art Corners",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Ruzafa+Street+Art+Valencia",
+          "description": "Hidden murals and creative walls that change every season — perfect for urban explorers 🖌️."
+        }
+      ]
+    },
+
+    {
+      "name": "Zaragoza",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Basilica of Our Lady of the Pillar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Basilica+of+Our+Lady+of+the+Pillar+Zaragoza",
+            "description": "Iconic Baroque basilica over the Ebro River — dramatic towers and stunning domes, a spiritual symbol of the city ⛪."
+          },
+          {
+            "name": "Aljafería Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Aljafería+Palace+Zaragoza",
+            "description": "A beautifully preserved Moorish palace with intricate arches, gardens and royal chambers — a hidden gem of Spain’s Islamic past 🏰."
+          },
+          {
+            "name": "Cathedral of San Salvador (La Seo)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=La+Seo+Cathedral+Zaragoza",
+            "description": "Gothic and Mudéjar styles merge in this stunning cathedral — don’t miss the tapestries inside 🖼️."
+          },
+          {
+            "name": "Goya Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Goya+Museum+Zaragoza",
+            "description": "Celebrating Zaragoza’s most famous artist — a rich collection showing the genius of Francisco Goya 🎨."
+          },
+          {
+            "name": "Roman Forum and Walls",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Roman+Forum+Zaragoza",
+            "description": "Ancient ruins buried for centuries and now rediscovered in the heart of the city — history beneath your feet 🏛️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Plaza del Pilar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Plaza+del+Pilar+Zaragoza",
+            "description": "Spacious plaza framed by the basilica and river — perfect for dramatic architectural photos 📸."
+          },
+          {
+            "name": "Puente de Piedra (Stone Bridge)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Puente+de+Piedra+Zaragoza",
+            "description": "Classic bridge over the Ebro River with the Basilica as a backdrop — especially beautiful at sunset 🌇."
+          },
+          {
+            "name": "Aljafería Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Aljafería+Gardens+Zaragoza",
+            "description": "Historic garden paths with shade, fountains and Moorish ornamentation 🌿."
+          },
+          {
+            "name": "Ebro Riverbank Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ebro+Riverbank+Zaragoza",
+            "description": "Sunset reflections, river views and urban vibes — great for golden hour photos 🌅."
+          },
+          {
+            "name": "El Tubo Street Art Alley",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=El+Tubo+Zaragoza",
+            "description": "Quirky murals and alleyways in one of Zaragoza’s liveliest neighborhoods 🎨."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "El Tubo Tapas District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=El+Tubo+Zaragoza",
+            "description": "Labyrinth of lively tapas bars — sample pintxos, croquetas and local vermouth 🍷."
+          },
+          {
+            "name": "La Prensa",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=La+Prensa+Zaragoza",
+            "description": "Contemporary fine dining with seasonal Spanish cuisine — a top choice for gastronomes 🍽️."
+          },
+          {
+            "name": "Casa Lac",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Casa+Lac+Zaragoza",
+            "description": "Historic eatery with an ornate interior and classic regional dishes 🍖."
+          },
+          {
+            "name": "La Republicana",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=La+Republicana+Zaragoza",
+            "description": "Trendy and fun bar serving creative cocktails and lively tapas 🍸."
+          },
+          {
+            "name": "Café Botánico",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Café+Botánico+Zaragoza",
+            "description": "Chill café for brunch, coffee and sweet treats near the historic center ☕."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Parque Grande José Antonio Labordeta",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parque+Grande+José+Antonio+Labordeta+Zaragoza",
+            "description": "Zaragoza’s largest park with fountains, paths and panoramic hill views 🌳."
+          },
+          {
+            "name": "Ebro River Pathways",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ebro+River+Pathways+Zaragoza",
+            "description": "Peaceful river trails perfect for walking or cycling alongside shimmering waters 🚴‍♀️."
+          },
+          {
+            "name": "La Almozara Greenbelt",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=La+Almozara+Zaragoza",
+            "description": "Quiet neighborhood park with shaded paths and local joggers 🌿."
+          },
+          {
+            "name": "Parque del Agua Luis Buñuel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parque+del+Agua+Luis+Buñuel+Zaragoza",
+            "description": "Fun urban park with water features, bike rentals and picnic spots 🌊."
+          },
+          {
+            "name": "Pinares de Venecia",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pinares+de+Venecia+Zaragoza",
+            "description": "Forest-like pine groves perfect for running, relaxing or birdwatching 🐦."
+          }
+        ]
+      },
+      "local_food_tip": "Zaragoza is famous for hearty Aragonese cuisine — try ternasco (roast lamb), migas and local artisan cheeses. Sip a glass of regional garnacha or vermouth 🍷🍖.",
+      "full_day": {
+        "morning": "☀️ Start with a coffee and pastry in <a href=\"https://www.google.com/maps/search/?api=1&query=El+Tubo+Zaragoza\">El Tubo</a>, then wander through <a href=\"https://www.google.com/maps/search/?api=1&query=Basilica+of+Our+Lady+of+the+Pillar+Zaragoza\">Plaza del Pilar</a> and explore the basilica’s interior.",
+        "afternoon": "🍽️ Enjoy a regional lunch at <a href=\"https://www.google.com/maps/search/?api=1&query=Casa+Lac+Zaragoza\">Casa Lac</a>, then stroll the <a href=\"https://www.google.com/maps/search/?api=1&query=Aljafería+Palace+Zaragoza\">Aljafería Palace</a> and its gardens.",
+        "evening": "🌇 Head to the <a href=\"https://www.google.com/maps/search/?api=1&query=Puente+de+Piedra+Zaragoza\">Stone Bridge</a> for sunset photos over the Ebro, then enjoy drinks at <a href=\"https://www.google.com/maps/search/?api=1&query=La+Republicana+Zaragoza\">La Republicana</a>.",
+        "night": "🌃 Finish with a relaxed nightcap or live music in <a href=\"https://www.google.com/maps/search/?api=1&query=El+Tubo+Zaragoza\">El Tubo Tapas District</a> — the city shines after dark ✨."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Flowers blossom across Zaragoza’s parks and terraces open up for al fresco dining 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Walk in Parque Grande",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Parque+Grande+José+Antonio+Labordeta+Zaragoza",
+              "description": "Enjoy fountains, flowers and bike paths in mild weather 🌼."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny days and riverfront life — perfect for cooling off near the Ebro ☀️.",
+          "ideas": [
+            {
+              "name": "Evening River Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ebro+Riverbank+Zaragoza",
+              "description": "Golden hour by the water with refreshing breezes 🌅."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Crisp air, harvest markets and vibrant leaves 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Ride along Turia Gravel Paths",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pinares+de+Venecia+Zaragoza",
+              "description": "Cool rides through pine groves and shady trails 🌲."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, festive lights and local taverns — perfect for slow days ❄️.",
+          "ideas": [
+            {
+              "name": "Christmas Lights at Plaza del Pilar",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Plaza+del+Pilar+Christmas+Zaragoza",
+              "description": "Wander through festive markets and glittering decorations 🎄."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Zaragoza’s urban buses are efficient for getting around the city 🚍.",
+          "link": "https://www.trasmoz.com/"
+        },
+        {
+          "tip": "The tram connects major neighborhoods and the AVE station — fast and convenient 🚆.",
+          "link": "https://www.tranviasdezaragoza.com/"
+        },
+        {
+          "tip": "Zaragoza is very walkable — rent a bike to explore the river paths and parks 🚴‍♀️.",
+          "link": "https://www.bizi.es/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "October",
+          "dates": "Early October (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Fiestas+del+Pilar+Zaragoza",
+          "description": "Fiestas del Pilar — Zaragoza’s biggest festival with parades, music, fireworks and cultural celebrations 🎉."
+        },
+        {
+          "season": "Spring",
+          "dates": "May (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Zaragoza+Spring+Fair",
+          "description": "Spring fair with local food, rides and community festivities 🌼."
+        }
+      ],
+      "places": [
+        {
+          "name": "Basilica of Our Lady of the Pillar",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Basilica+of+Our+Lady+of+the+Pillar+Zaragoza",
+          "description": "Magnificent basilica by the Ebro — a stunning blend of faith and architecture 🌟."
+        },
+        {
+          "name": "Aljafería Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Aljafería+Palace+Zaragoza",
+          "description": "Moorish palace with gardens and ornate halls — history comes alive 🏰."
+        },
+        {
+          "name": "Plaza del Pilar",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Plaza+del+Pilar+Zaragoza",
+          "description": "Famous open square with fountains, cathedral views and lively local life 💧."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Roman Baths of Caesaraugusta",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Roman+Baths+Caesaraugusta+Zaragoza",
+          "description": "Ancient baths hidden beneath the city streets — step back to Roman times 🛁."
+        },
+        {
+          "name": "El Gancho Quarter Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=El+Gancho+Zaragoza",
+          "description": "Charming local neighborhood full of cafés, wine bars and laid-back culture ☕."
+        },
+        {
+          "name": "Casa Monasterio Garden Café",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Casa+Monasterio+Zaragoza",
+          "description": "Off-the-beaten-path café garden with quiet ambiance and tasty pastries 🌿."
+        }
+      ]
+    }
+
+  ]
+}

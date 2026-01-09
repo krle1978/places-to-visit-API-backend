@@ -1,0 +1,1030 @@
+{
+  "name": "Luxembourg",
+  "cities": [
+    {
+      "name": "Clervaux",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Clervaux Castle & Family of Man",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Clervaux+Castle",
+            "description": "Historic hilltop castle housing the famous UNESCO-listed 'The Family of Man' photography exhibition, alongside regional history displays and medieval architecture 🏰."
+          },
+          {
+            "name": "Abbey of St. Maurice and St. Maur",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Abbey+of+St.+Maurice+and+St.+Maur+Clervaux",
+            "description": "Peaceful Benedictine abbey with centuries of religious and cultural history — a serene and spiritual stop in the region ⛪."
+          },
+          {
+            "name": "Clervaux Parish Church (St. Michael)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Michael+Church+Clervaux",
+            "description": "Elegant parish church with historic interior, local religious art and strong community tradition — central to Clervaux’s cultural heritage."
+          },
+          {
+            "name": "Local Heritage Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Clervaux+Heritage+Museum",
+            "description": "Small but rich museum offering insights into local life, traditions and the history of Clervaux and the surrounding Ardennes region 🗺️."
+          },
+          {
+            "name": "Art Galleries & Exhibitions",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Art+galleries+Clervaux",
+            "description": "Scattered galleries and pop-up exhibitions reflecting local artists, crafts and cultural creativity — especially lively in summer."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Clervaux Castle Viewpoints",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Clervaux+Castle+viewpoint",
+            "description": "Panoramic viewpoints around the castle overlooking the picturesque town, river valleys and forested hills — perfect for classic Luxembourg landscapes 📸."
+          },
+          {
+            "name": "Our Lady of Luxembourg Chapel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Our+Lady+of+Luxembourg+Chapel+Clervaux",
+            "description": "Charming hilltop chapel with peaceful surroundings and idyllic views over the forests and rooftops 🕊️."
+          },
+          {
+            "name": "Clervaux Old Town Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Clervaux+Old+Town",
+            "description": "Quaint old town lanes, traditional houses and river bridges — ideal for atmospheric European town photography 🌆."
+          },
+          {
+            "name": "Sûre River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+Clervaux",
+            "description": "Scenic riverwalks with reflections, woodland backdrops and gentle water scenes — beautiful at dawn and dusk 🌄."
+          },
+          {
+            "name": "Forested Hills & Trails",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Forest+trails+Clervaux",
+            "description": "Picturesque hiking paths cutting through Luxembourger forests — great for nature landscapes and seasonal colours 🌳."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Old Town Bistros & Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Clervaux+Old+Town+restaurants+caf%C3%A9s",
+            "description": "Charming local cafés and bistros serving gourmet Luxembourgish and European dishes — perfect for leisurely lunches ☕🍽️."
+          },
+          {
+            "name": "Traditional Luxembourg Cuisine",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Luxembourgish+food+Clervaux",
+            "description": "Try regional specialties like Judd mat Gaardebounen (smoked pork with broad beans) and local pastries in welcoming inns 🥘."
+          },
+          {
+            "name": "Wine & Beer Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bars+Clervaux",
+            "description": "Cozy bars offering Luxembourg wines, craft beers and warm social vibes — great for evening drinks 🍷."
+          },
+          {
+            "name": "Evening River Terrace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Clervaux+river+terrace+bar",
+            "description": "Relax with a drink beside the Sûre River as lights reflect off the water and local chatter drifts by 🌃."
+          },
+          {
+            "name": "Dessert & Coffee Stops",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Clervaux+desserts",
+            "description": "Sweet local cakes, waffles and gelato — ideal for wrapping up an afternoon of exploration 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Sûre River & Valleys",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+Clervaux",
+            "description": "Calm riverside scenery with woodland banks, gentle currents and picnic spots — perfect for nature lovers 🌿."
+          },
+          {
+            "name": "Forest Hiking Trails",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Forest+hiking+Clervaux",
+            "description": "Trail networks winding through mixed forests — great for walking, biking or scenic meditation 🚶‍♂️."
+          },
+          {
+            "name": "Abbey Hill Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Abbey+Hill+Gardens+Clervaux",
+            "description": "Peaceful green spaces near the abbey ideal for a quiet stroll or reading a book under shaded trees 🍃."
+          },
+          {
+            "name": "Parklands & Meadow Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parklands+Clervaux",
+            "description": "Wide lawns and scenic parks where locals relax, kids play and visitors soak up fresh northern Luxembourg air 🌼."
+          }
+        ]
+      },
+      "local_food_tip": "Clervaux’s culinary charm shines in hearty Luxembourger meals — try local sausages, smoked meats, regional cheeses and beer, paired with a slice of traditional Tarte Flambée or fruit tart for dessert 🍷🍰.",
+      "full_day": {
+        "morning": "☀️ Start at <a href=\"https://www.google.com/maps/search/?api=1&query=Clervaux+Castle\">Clervaux Castle</a> and explore the 'Family of Man' exhibition, then wander through the cobbled streets of <a href=\"https://www.google.com/maps/search/?api=1&query=Clervaux+Old+Town\">Clervaux Old Town</a> with coffee and quiet shops.",
+        "afternoon": "🍽️ Enjoy a regional lunch at a local bistro, then stroll beside the <a href=\"https://www.google.com/maps/search/?api=1&query=Sûre+River+Clervaux\">Sûre River</a> and visit the peaceful <a href=\"https://www.google.com/maps/search/?api=1&query=Abbey+of+St.+Maurice+and+St.+Maur+Clervaux\">Abbey of St. Maurice and St. Maur</a>.",
+        "evening": "🌄 Watch the sun dip from a riverside terrace with a local wine or beer, then explore shops and cafés in the town centre.",
+        "night": "🌙 Cap your night with dessert and a gentle walk through shadowed lanes — Clervaux feels magical under soft night lights."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Budding trees, clear skies and gentle river walks — ideal for relaxed exploration 🌸.",
+          "ideas": [
+            {
+              "name": "Spring River Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+Clervaux",
+              "description": "Pack local treats and enjoy a picnic by the water as spring blossoms appear."
+            },
+            {
+              "name": "Forest Trail Blooms",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Forest+hiking+Clervaux",
+              "description": "Early wildflowers and soft greens make forest hikes especially scenic in spring 🌼."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, river dips and open-air events around town ☀️.",
+          "ideas": [
+            {
+              "name": "Summer River Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+Clervaux",
+              "description": "Enjoy long riverside walks, swimming spots and idyllic natural shade as temperatures rise."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Amber foliage along forest paths and countryside roads 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Castle Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Clervaux+Castle",
+              "description": "Capture the castle framed by golden leaves and misty autumn mornings."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, crisp air and historic charm under frost ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Old Town Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Clervaux+Old+Town",
+              "description": "Explore snowy lanes and warm up in local cafés with hearty soups and hot drinks."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Regional buses from Luxembourg City and neighboring towns make it easy to reach Clervaux — Luxembourg’s transport is reliable and scenic 🚍.",
+          "link": "https://www.cfl.lu/en/"
+        },
+        {
+          "tip": "Within Clervaux, most attractions are walkable — comfortable shoes will take you through old streets, parks and river paths 🚶‍♂️.",
+          "link": "https://www.visitluxembourg.com/en"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Clervaux+summer+festival",
+          "description": "Open-air concerts, local craft markets and cultural events bring vibrant community energy to Clervaux’s squares and parks ☀️."
+        }
+      ],
+      "places": [
+        {
+          "name": "Clervaux Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Clervaux+Castle",
+          "description": "Hilltop castle hosting the world-renowned 'Family of Man' exhibition and offering panoramic views of northern Luxembourg."
+        },
+        {
+          "name": "Abbey of St. Maurice and St. Maur",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Abbey+of+St.+Maurice+and+St.+Maur+Clervaux",
+          "description": "Historic Benedictine abbey with serene architecture and gardens — a cultural retreat."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Sûre River Duck Bridge",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+Duck+Bridge+Clervaux",
+          "description": "Quiet little bridge over the river where locals gather — ideal for reflective morning photos 🦆."
+        },
+        {
+          "name": "Forest Brook Cascades",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Forest+brook+Clervaux",
+          "description": "Hidden woodland stream with small cascading waters — peaceful, natural and off the main paths 🌊."
+        }
+      ]
+    },
+
+    {
+      "name": "Echternach",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Echternach Abbey Basilica",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Echternach+Abbey+Basilica",
+            "description": "Historic Benedictine abbey church with Romanesque and Gothic elements — heart of Echternach’s spiritual and cultural heritage 🕍."
+          },
+          {
+            "name": "Echternach Abbey Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Echternach+Abbey+Museum",
+            "description": "Museum within the abbey complex showcasing medieval manuscripts, religious art, and the history of the famed Abbey 🖼️."
+          },
+          {
+            "name": "St. Willibrord’s Tomb",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Willibrord%27s+Tomb+Echternach",
+            "description": "Shrine to Saint Willibrord — a site of pilgrimage and local tradition, reflecting centuries of spiritual significance ✨."
+          },
+          {
+            "name": "Basilica Square & Historic Houses",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Basilica+Square+Echternach",
+            "description": "Picturesque square lined with historic buildings, cafés, and boutiques — perfect for soaking up the old-world charm 🏘️."
+          },
+          {
+            "name": "Local Art Galleries",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=art+galleries+Echternach",
+            "description": "Small galleries and cultural spaces highlighting local and regional artists — ideal for creative inspiration 🎨."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Sûre River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+Echternach",
+            "description": "Scenic riverside path along the Sûre — gentle water reflections, bridges, and greenery that make perfect natural photos 🌿."
+          },
+          {
+            "name": "Müllerthal Rock Formations",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=M%C3%BCllerthal+Rock+Formations",
+            "description": "Dramatic sandstone cliffs and forest scenery just outside Echternach — iconic for landscape photography 📸."
+          },
+          {
+            "name": "Basilica Facade & Towers",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Echternach+Abbey+Basilica",
+            "description": "Capture the abbey’s ornate façade and twin towers from different angles — especially beautiful in morning light 🏛️."
+          },
+          {
+            "name": "Ancient City Walls & Gates",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Echternach+city+walls",
+            "description": "Historic fortifications and gateways provide atmospheric, medieval backdrop photos 🌆."
+          },
+          {
+            "name": "Müllerthal Trails & Forest Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=M%C3%BCllerthal+Trails",
+            "description": "Forest trails with mossy stones, wooden bridges and vibrant foliage — ideal for seasonal shots 🌲."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Basilica Square Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=caf%C3%A9s+Basilica+Square+Echternach",
+            "description": "Enjoy coffee, pastries or light meals in charming cafés around the main square ☕."
+          },
+          {
+            "name": "Traditional Luxembourg Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Luxembourg+restaurants+Echternach",
+            "description": "Try local gastronomy with hearty stews, seasonal produce and regional wines 🍷."
+          },
+          {
+            "name": "Riverfront Dining",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=riverfront+restaurants+Echternach",
+            "description": "Dinner with a view of the Sûre River — especially lovely during sunset 🌇."
+          },
+          {
+            "name": "Local Pubs & Wine Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=pubs+Echternach",
+            "description": "Relax with local beer or Luxembourg wines in cozy pubs — great atmosphere for evenings 🍺."
+          },
+          {
+            "name": "Dessert & Gelato Stops",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Echternach",
+            "description": "Cap off your day with a sweet treat as you stroll through the historic centre 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Müllerthal Trail Sections",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=M%C3%BCllerthal+Trail",
+            "description": "Part of Luxembourg’s ‘Little Switzerland’ — forested walking paths, rocky canyons and peaceful nature 🌲."
+          },
+          {
+            "name": "Sûre River Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+walk+Echternach",
+            "description": "Leisurely riverside strolls with greenery, water views and picnic spots — perfect for relaxation 🌿."
+          },
+          {
+            "name": "St. Willibrord’s Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Willibrord%27s+Garden+Echternach",
+            "description": "Quiet garden space near the abbey for peaceful reflection and shaded walks 🍃."
+          },
+          {
+            "name": "Forest Picnic Areas",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=forest+picnic+areas+Echternach",
+            "description": "Scenic picnic spots nestled in woodlands — ideal for nature breaks 🧺."
+          }
+        ]
+      },
+      "local_food_tip": "Echternach’s food scene mixes Luxembourgish tradition and French flair — try local game dishes, quiche Lorraine, seasonal vegetables, regional wines and French pastries in charming eateries 🍷🥐.",
+      "full_day": {
+        "morning": "🌞 Start your day at <a href=\"https://www.google.com/maps/search/?api=1&query=Echternach+Abbey+Basilica\">Echternach Abbey Basilica</a> and the <a href=\"https://www.google.com/maps/search/?api=1&query=Echternach+Abbey+Museum\">Abbey Museum</a>, then stroll through the historic lanes of <a href=\"https://www.google.com/maps/search/?api=1&query=Echternach+Old+Town\">Echternach Old Town</a> for coffee and local shops.",
+        "afternoon": "🥘 Enjoy a traditional Luxembourg lunch in a riverside restaurant, then walk a section of the <a href=\"https://www.google.com/maps/search/?api=1&query=M%C3%BCllerthal+Trail+formations\">Müllerthal rock formations</a> for nature and scenic views.",
+        "evening": "🌇 Head back to <a href=\"https://www.google.com/maps/search/?api=1&query=Basilica+Square+Echternach\">Basilica Square</a> for dinner and drinks in a cozy café or pub.",
+        "night": "🌃 Cap your night with gelato and an evening riverwalk along the <a href=\"https://www.google.com/maps/search/?api=1&query=Sûre+River+Echternach\">Sûre River Promenade</a> under soft lights."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Fresh blossoms, gentle temperatures and perfect trails for relaxed exploration 🌸.",
+          "ideas": [
+            {
+              "name": "Spring River Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+walk+Echternach",
+              "description": "Pack local treats and enjoy a riverside picnic as the countryside awakens."
+            },
+            {
+              "name": "Müllerthal Forest Blooms",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=M%C3%BCllerthal+Trail",
+              "description": "Forest paths come alive with wildflowers and shaded green views 🌼."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days for walking, river kayaking and open-air culture ☀️.",
+          "ideas": [
+            {
+              "name": "River Kayaking",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=river+kayaking+Echternach",
+              "description": "Cool off with a kayak on the Sûre — gentle currents and scenery make this a summer classic 🚣‍♂️."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Amber woods, crisp air and golden valley views 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Forest Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=M%C3%BCllerthal+Trail",
+              "description": "Capture forest roads and rocky paths beneath golden leaves — perfect for photos 📷."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, historic charm and brisk air for scenic strolls ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Old Town Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Echternach+Old+Town",
+              "description": "Explore the quiet, snow-dusted streets and warm up with hot drinks in local cafés."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Regional buses and trains connect Echternach with Luxembourg City and nearby towns — reliable transport for exploring eastern Luxembourg 🚍.",
+          "link": "https://www.cfl.lu/en/"
+        },
+        {
+          "tip": "Once in town, Echternach is walkable and compact — stroll between attractions, riversides and cafés with ease 🚶‍♂️.",
+          "link": "https://www.visitluxembourg.com/en"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "May–September (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Echternach+summer+festival",
+          "description": "Open-air music, markets and cultural events enliven squares, parks and riverbanks through the warm season 🎶."
+        }
+      ],
+      "places": [
+        {
+          "name": "Echternach Abbey Basilica",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Echternach+Abbey+Basilica",
+          "description": "Historic abbey church dominating the town’s skyline and cultural identity."
+        },
+        {
+          "name": "Müllerthal Rock Formations",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=M%C3%BCllerthal+Rock+Formations",
+          "description": "Geological highlight of eastern Luxembourg — dramatic sandstone cliffs and forest pathways."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "St. Willibrord’s Garden",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Willibrord%27s+Garden+Echternach",
+          "description": "Quiet garden near the abbey — perfect for peaceful reflection away from busier spots 🌿."
+        },
+        {
+          "name": "Forest Brook Cascades",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=forest+brook+Echternach",
+          "description": "Hidden woodland stream with gentle cascades — serene and beautifully natural 🌊."
+        }
+      ]
+    },
+
+    {
+      "name": "Esch-sur-Alzette",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Esch-sur-Alzette Old Town",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Esch-sur-Alzette+Old+Town",
+            "description": "Charming historic centre with colourful façades, cultural landmarks and pedestrian streets where history meets modern life 🏙️."
+          },
+          {
+            "name": "Rockhal",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rockhal+Esch-sur-Alzette",
+            "description": "Luxembourg’s premier concert and cultural venue hosting major live music events, festivals and performances 🎤🎶."
+          },
+          {
+            "name": "Cité Générale – Urban Art",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cit%C3%A9+G%C3%A9n%C3%A9rale+Esch-sur-Alzette",
+            "description": "Colourful murals and urban art installations across this regenerated industrial neighbourhood — great to explore creative side of the city 🎨."
+          },
+          {
+            "name": "Esch-Belval Cultural District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Esch-Belval+Cultural+District",
+            "description": "Transforming steelworks and industrial heritage into innovative cultural and educational spaces — museums, galleries and creative venues 🏭."
+          },
+          {
+            "name": "National Mining Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Mining+Museum+Esch-sur-Alzette",
+            "description": "Insight into Luxembourg’s industrial past with exhibits on coal mining, machinery and local labour history 🛠️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Belval Plaza",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belval+Plaza",
+            "description": "Iconic square in the heart of the Belval district with modern architecture and striking industrial backdrops — perfect for contemporary photography 📸."
+          },
+          {
+            "name": "Lasauvage Industrial Ruins",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Lasauvage+Industrial+Ruins",
+            "description": "Atmospheric remnants of Luxembourg’s industrial era — rugged textures and dramatic scenes for unique photos 🏭."
+          },
+          {
+            "name": "Alzette River Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Alzette+River+Promenade+Esch-sur-Alzette",
+            "description": "Scenic riverside walk with reflections, bridges and calm water — beautiful at sunrise or sunset 🌅."
+          },
+          {
+            "name": "Belval Coke Oven Towers",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belval+Coke+Oven+Towers",
+            "description": "Striking industrial heritage structures lit up at night — dramatic and photogenic backdrop 📷."
+          },
+          {
+            "name": "Parc Léthé",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parc+L%C3%A9th%C3%A9+Esch-sur-Alzette",
+            "description": "Green oasis in the city with paths, shaded areas and calm water — peaceful for nature and portrait shots 🌿."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Place du Marché & Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Place+du+March%C3%A9+Esch-sur-Alzette",
+            "description": "Central square lined with lively cafés and restaurants — perfect for people-watching, coffee and casual meals ☕🍽️."
+          },
+          {
+            "name": "Local Luxembourg Cuisine",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Luxembourg+food+Esch-sur-Alzette",
+            "description": "Try regional classics like Bouneschlupp, Judd mat Gaardebounen and fresh local produce in welcoming eateries 🥘."
+          },
+          {
+            "name": "Rockhal Bar & Live Music Spots",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rockhal+bar+Esch-sur-Alzette",
+            "description": "Bars and live music lounges around the Rockhal area offering vibrant nightlife and drinks 🍺🎵."
+          },
+          {
+            "name": "Belval Dining District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belval+restaurants+Esch-sur-Alzette",
+            "description": "Modern restaurants and bistros in the Belval area — eclectic menus with international and local flavours 🍷."
+          },
+          {
+            "name": "Dessert & Gelato Spots",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Esch-sur-Alzette",
+            "description": "Sweet treats, pastries and gelato shops perfect for afternoon delights and evening strolls 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Parc Léthé",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parc+L%C3%A9th%C3%A9+Esch-sur-Alzette",
+            "description": "Lovely urban park with shaded walkways, water features and benches — ideal for picnics and relaxing afternoons 🌳."
+          },
+          {
+            "name": "Alzette River Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Alzette+River+walks+Esch-sur-Alzette",
+            "description": "Gentle riverside trails perfect for easy strolls and calming nature breaks 🏞️."
+          },
+          {
+            "name": "Belval Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belval+Gardens",
+            "description": "Green gardens amidst urban renewal — places to unwind with a book or picnic in tranquil surroundings 🌿."
+          },
+          {
+            "name": "Local Forest Paths",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=forest+paths+Esch-sur-Alzette",
+            "description": "Nearby forested trails ideal for longer walks, birdwatching and fresh air immersion 🍃."
+          }
+        ]
+      },
+      "local_food_tip": "Esch-sur-Alzette’s food scene blends Luxembourgish tradition and modern flair — sample hearty regional dishes like Judd mat Gaardebounen or Bouneschlupp, fresh river fish, craft beers and finish with gelato while exploring the lively squares 🍺🍨.",
+      "full_day": {
+        "morning": "☀️ Start your day at <a href=\"https://www.google.com/maps/search/?api=1&query=Esch-sur-Alzette+Old+Town\">Esch-sur-Alzette Old Town</a>, enjoy an aromatic coffee in a café on <a href=\"https://www.google.com/maps/search/?api=1&query=Place+du+March%C3%A9+Esch-sur-Alzette\">Place du Marché</a>, then visit the <a href=\"https://www.google.com/maps/search/?api=1&query=National+Mining+Museum+Esch-sur-Alzette\">National Mining Museum</a> to explore industrial history.",
+        "afternoon": "🍽️ Have lunch in the Belval district followed by a walk in <a href=\"https://www.google.com/maps/search/?api=1&query=Parc+L%C3%A9th%C3%A9+Esch-sur-Alzette\">Parc Léthé</a>, then take photos around the striking <a href=\"https://www.google.com/maps/search/?api=1&query=Belval+Plaza\">Belval Plaza</a> and Coke Oven Towers.",
+        "evening": "🍷 Enjoy dinner and drinks in the Belval dining area or a live music event at <a href=\"https://www.google.com/maps/search/?api=1&query=Rockhal+Esch-sur-Alzette\">Rockhal</a>, then wander by the <a href=\"https://www.google.com/maps/search/?api=1&query=Alzette+River+Promenade+Esch-sur-Alzette\">Alzette River Promenade</a> under lights.",
+        "night": "🌃 Cap your night with gelato on the promenade or a cosy pub stop — Esch’s night vibe mixes relaxed river views and lively local spots."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoming parks, riverside paths and urban culture awakening 🌸.",
+          "ideas": [
+            {
+              "name": "Spring River Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Alzette+River+walks+Esch-sur-Alzette",
+              "description": "Gentle strolls along the Alzette with flowers and fresh breezes marking the season."
+            },
+            {
+              "name": "Belval Spring Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Belval+festival+Esch-sur-Alzette",
+              "description": "Cultural spring events, markets and open-air art in the Belval district ☀️."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, outdoor concerts and lively squares ☀️.",
+          "ideas": [
+            {
+              "name": "Outdoor Concerts & Events",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Rockhal+Esch-sur-Alzette",
+              "description": "Summer live music events and open-air concerts at Rockhal and nearby plazas."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Amber leaves along the river and crisp air 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Riverside Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Alzette+River+walks+Esch-sur-Alzette",
+              "description": "Enjoy fall colours along the river trails and urban parks."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, cosy cafés and cultural indoor days ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Old Town Café Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Place+du+March%C3%A9+Esch-sur-Alzette",
+              "description": "Warm up in local cafés after exploring the festive Old Town streets."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Esch-sur-Alzette is well connected by local buses and the CFL train network to Luxembourg City and regional towns — convenient transport for day trips 🚆🚌.",
+          "link": "https://www.cfl.lu/en"
+        },
+        {
+          "tip": "Within the city, use buses or explore on foot — many key attractions are walkable from Place du Marché and the Belval district 🚶‍♂️.",
+          "link": "https://www.visitluxembourg.com/en"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Esch-sur-Alzette+summer+events",
+          "description": "Open-air concerts, cultural festivals and community markets enliven plazas, parklands and the Belval cultural district throughout summer."
+        }
+      ],
+      "places": [
+        {
+          "name": "Belval Plaza",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Belval+Plaza",
+          "description": "Modern square in the Belval district surrounded by contemporary architecture and cultural venues."
+        },
+        {
+          "name": "Rockhal",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Rockhal+Esch-sur-Alzette",
+          "description": "Major music and events venue hosting concerts, shows and festivals."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Lasauvage Industrial Ruins",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Lasauvage+Industrial+Ruins",
+          "description": "Atmospheric industrial relics on the outskirts — perfect for off-beat exploration."
+        },
+        {
+          "name": "Belval Coke Oven Towers at Night",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Belval+Coke+Oven+Towers",
+          "description": "Illuminated industrial towers offering dramatic evening photo opportunities."
+        }
+      ]
+    },
+
+    {
+      "name": "Luxembourg City",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Old Town (Ville Haute)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Town+Luxembourg+City",
+            "description": "UNESCO World Heritage-listed historic heart with cobblestone streets, grand squares and medieval architecture — wander through centuries of history 🏰."
+          },
+          {
+            "name": "Grand Ducal Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Grand+Ducal+Palace+Luxembourg+City",
+            "description": "Official residence of the Grand Duke with splendid Renaissance façade — a must-see symbol of Luxembourg’s monarchy and heritage 👑."
+          },
+          {
+            "name": "Bock Casemates",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bock+Casemates+Luxembourg+City",
+            "description": "Fascinating underground fortress tunnels carved into the cliffs — explore hidden passages and dramatic military history 🕳️."
+          },
+          {
+            "name": "National Museum of History & Art",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Museum+of+History+%26+Art+Luxembourg+City",
+            "description": "Comprehensive museum tracing archaeology, art and cultural evolution — great for history buffs and curious minds 🖼️."
+          },
+          {
+            "name": "Philharmonie Luxembourg",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Philharmonie+Luxembourg",
+            "description": "Architectural marvel and cultural hub hosting world-class classical concerts and music events 🎼."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Adolphe Bridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Adolphe+Bridge+Luxembourg+City",
+            "description": "Iconic arched bridge over the Pétrusse Valley — stunning for sunrise/sunset shots and panoramic cityscapes 📸."
+          },
+          {
+            "name": "Chemin de la Corniche",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Chemin+de+la+Corniche+Luxembourg+City",
+            "description": "Often called “Europe’s most beautiful balcony” — dramatic overlook of old town rooftops and river valleys 🌅."
+          },
+          {
+            "name": "Pétrusse Valley Views",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=P%C3%A9trusse+Valley+Luxembourg+City",
+            "description": "Green gorge below the old city — mix nature and architecture for exquisite photo composition 🌳."
+          },
+          {
+            "name": "Place Guillaume II",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Place+Guillaume+II+Luxembourg+City",
+            "description": "Grand central square with historic façades, fountains and cafés — great vibes and classic European setting 📷."
+          },
+          {
+            "name": "Fort Thüngen",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fort+Th%C3%BCngen+Luxembourg+City",
+            "description": "Historic fort ruins in Dräi Eechelen Park with skyline views — unique frames and textured shots 🏞️."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Place d’Armes Cafés & Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Place+d%27Armes+Luxembourg+City+caf%C3%A9s+bars",
+            "description": "Vibrant square full of terraces, local wine bars and restaurants — lively day and night scene 🍷."
+          },
+          {
+            "name": "Luxembourgish Cuisine Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Luxembourgish+food+Luxembourg+City",
+            "description": "Try local dishes like Judd mat Gaardebounen, Gromperekichelcher and game meals in welcoming eateries 🍽️."
+          },
+          {
+            "name": "Grund Riverfront Dining",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Grund+Luxembourg+City+riverfront+restaurants",
+            "description": "Picturesque old quarter by the Alzette with charming riverside cafés and dinner spots 🌇."
+          },
+          {
+            "name": "Rooftop Bars & Lounges",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=rooftop+bars+Luxembourg+City",
+            "description": "Enjoy cocktails high above the city — perfect for sunset to night drinks 🍸."
+          },
+          {
+            "name": "Night Walk & Gelato",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=gelato+Luxembourg+City",
+            "description": "End your evening with gelato as you stroll lit streets and squares under atmospheric lights 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Pétrusse Valley Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=P%C3%A9trusse+Valley+Park+Luxembourg+City",
+            "description": "Green parkland with paths, benches and quiet water views — peaceful respite in the urban core 🌿."
+          },
+          {
+            "name": "Parc de Merl",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parc+de+Merl+Luxembourg+City",
+            "description": "Large city park with shaded walks, lawns and sports areas — perfect for relaxation and people-watching 🌳."
+          },
+          {
+            "name": "Alzette Riverside Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Alzette+River+walks+Luxembourg+City",
+            "description": "Scenic walk along the river with reflections, bridges and gentle nature escapes within the city 🏞️."
+          },
+          {
+            "name": "Dräi Eechelen Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dr%C3%A4i+Eechelen+Park+Luxembourg+City",
+            "description": "Historic fort park with lawns, pathways and observation points — ideal for calm strolls and picnics 🌼."
+          }
+        ]
+      },
+      "local_food_tip": "Luxembourg City blends French, German and Belgian influences — savour dishes like Judd mat Gaardebounen (smoked pork with broad beans), local pâtisseries, Allemandsch beer and excellent wine by the glass. Try Luxembourgish tarte flambée and finish with a rich gelato 🍷🍰.",
+      "full_day": {
+        "morning": "☀️ Start at <a href=\"https://www.google.com/maps/search/?api=1&query=Old+Town+Luxembourg+City\">Old Town</a>, explore cobblestone lanes, visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Grand+Ducal+Palace+Luxembourg+City\">Grand Ducal Palace</a> and enjoy coffee at a terrace on <a href=\"https://www.google.com/maps/search/?api=1&query=Place+d%27Armes+Luxembourg+City\">Place d’Armes</a>.",
+        "afternoon": "🍽️ Have a traditional Luxembourgish lunch, then head down to the <a href=\"https://www.google.com/maps/search/?api=1&query=Bock+Casemates+Luxembourg+City\">Bock Casemates</a> and savour sunset views from <a href=\"https://www.google.com/maps/search/?api=1&query=Chemin+de+la+Corniche+Luxembourg+City\">Chemin de la Corniche</a>.",
+        "evening": "🍷 Dine in the <a href=\"https://www.google.com/maps/search/?api=1&query=Grund+Luxembourg+City+riverfront+restaurants\">Grund riverfront</a> district or sip cocktails at a rooftop bar, then wander the <a href=\"https://www.google.com/maps/search/?api=1&query=Adolphe+Bridge+Luxembourg+City\">Adolphe Bridge</a> area.",
+        "night": "🌃 End with a gelato stroll and nightcap in the lit Old Town lanes before heading back to your accommodation."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild weather ideal for river walks, blooming parks and open-air strolls 🌸.",
+          "ideas": [
+            {
+              "name": "Spring Riverside Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Alzette+River+walks+Luxembourg+City",
+              "description": "Enjoy a picnic by the river as flowers bloom and city life wakes up."
+            },
+            {
+              "name": "Park Blossoms in Parc de Merl",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Parc+de+Merl+Luxembourg+City",
+              "description": "Spring blossoms make this urban park perfect for relaxed walks and photos 🌼."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Long days for open-air concerts, festivals and riverside fun ☀️.",
+          "ideas": [
+            {
+              "name": "Summer Open-Air Concerts",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Philharmonie+Luxembourg",
+              "description": "Enjoy music in the park or open-air venues around the city."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Amber tones in parks and crisp river air 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Valley Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=P%C3%A9trusse+Valley+Park+Luxembourg+City",
+              "description": "Reflective strolls through amber-hung paths and grand viewpoints."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, cosy cafés and charming markets ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Christmas Markets",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Luxembourg+City+Christmas+Market",
+              "description": "Warm up with mulled wine and seasonal treats in cheerful market stalls."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Luxembourg City has a free public transport network — buses, trams and trains within the city are complimentary and efficient 🚍🚆.",
+          "link": "https://www.vdl.lu/"
+        },
+        {
+          "tip": "Use the funicular elevators in the old town and Grund area to save energy and enjoy panoramic views 🚡.",
+          "link": "https://www.vdl.lu/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Luxembourg+City+summer+festival",
+          "description": "Music, culture, food stalls and lively street fairs animate squares and parks throughout summer."
+        }
+      ],
+      "places": [
+        {
+          "name": "Grand Ducal Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Grand+Ducal+Palace+Luxembourg+City",
+          "description": "Historic palace and official residence of the Grand Duke — emblematic landmark."
+        },
+        {
+          "name": "Bock Casemates",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bock+Casemates+Luxembourg+City",
+          "description": "Underground fortress tunnels with dramatic history and skyline views."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Grund Old Quarter",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Grund+Luxembourg+City",
+          "description": "Historic neighbourhood tucked below the cliffs with charming alleys, bridges and unique views 🌉."
+        },
+        {
+          "name": "Hidden Garden Courtyards",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=hidden+gardens+Luxembourg+City",
+          "description": "Secretive green courtyards and secluded benches off the beaten path — perfect for peaceful moments 🌿."
+        }
+      ]
+    },
+
+    {
+      "name": "Vianden",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Vianden Castle",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+Castle",
+            "description": "A stunning hilltop medieval fortress overlooking the town — one of Luxembourg’s most iconic landmarks with sweeping views and rich history 🏰."
+          },
+          {
+            "name": "Victor Hugo House Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Victor+Hugo+House+Museum+Vianden",
+            "description": "Museum dedicated to the famous French author’s time in Vianden — preserved rooms and exhibits that bring his story to life 📚."
+          },
+          {
+            "name": "Vianden Chairlift & Castle View",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+Chairlift",
+            "description": "Take the scenic chairlift up the hill for unmatched panoramas of the castle, town and surrounding river valley 🚡."
+          },
+          {
+            "name": "Church of St. Nicholas",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Church+of+St.+Nicholas+Vianden",
+            "description": "Historic Gothic church with beautiful interior design — tranquil and full of heritage from centuries past ⛪."
+          },
+          {
+            "name": "Vianden Medieval Festival",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+Medieval+Festival",
+            "description": "Lively annual event celebrating medieval history with reenactments, music, costumed processions and traditional crafts 🛡️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Vianden Castle Overlook",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+Castle+viewpoint",
+            "description": "Epic vantage point above the castle and valley — perfect for sunrise and dramatic landscape photography 📸."
+          },
+          {
+            "name": "Our Lady of Lourdes Chapel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Our+Lady+of+Lourdes+Chapel+Vianden",
+            "description": "Charming hillside chapel with views across rolling hills and rooftops — peaceful and scenic 🌄."
+          },
+          {
+            "name": "Victor Hugo Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Victor+Hugo+Promenade+Vianden",
+            "description": "Scenic walking path above town with river and castle panoramas — perfect for relaxed photos and golden hour scenes 🌇."
+          },
+          {
+            "name": "Sûre River Banks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+Vianden",
+            "description": "Gentle riverside paths with reflections and bridges — ideal for calm landscape shots 🏞️."
+          },
+          {
+            "name": "Vianden Old Town Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+Old+Town",
+            "description": "Quaint cobbled lanes, historic houses and colourful facades make for charming and atmospheric photos 📷."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Main Square Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+main+square+caf%C3%A9s",
+            "description": "Relax with coffee, pastries or light lunches at outdoor cafés in the heart of town ☕🍰."
+          },
+          {
+            "name": "Traditional Luxembourg Restaurants",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=traditional+Luxembourg+restaurants+Vianden",
+            "description": "Taste local favourites like Judd mat Gaardebounen, schnitzel and fresh regional produce in cosy settings 🍽️."
+          },
+          {
+            "name": "Riverfront Dining Spots",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+riverfront+restaurants",
+            "description": "Dine along the Sûre river with views of nature and old stone bridges — especially lovely at sunset 🌅."
+          },
+          {
+            "name": "Local Wine & Beer Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+wine+bars",
+            "description": "Cozy bars serving Luxembourg wines, beers and aperitifs — perfect for evening relaxation 🍷."
+          },
+          {
+            "name": "Evening Gelato",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+gelato",
+            "description": "Cool off after exploring with gelato or dessert as you stroll the lit streets at night 🍨."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Sûre River Walks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+walks+Vianden",
+            "description": "Relaxing riverside paths with gentle currents and shaded spots — perfect for leisurely strolls 🌿."
+          },
+          {
+            "name": "Vianden Forest Trails",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+forest+trails",
+            "description": "Wooded hiking routes around Vianden — great for birdwatching, nature immersion and seasonal colours 🍁."
+          },
+          {
+            "name": "Chairlift Hill Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Chairlift+Vianden+park",
+            "description": "Green hillside parkland reached via the chairlift — picnic spots, viewpoints and fresh air 🌳."
+          },
+          {
+            "name": "Our Lady of Lourdes Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Our+Lady+of+Lourdes+Garden+Vianden",
+            "description": "Quiet garden near the chapel with blossoms and shade — perfect for a peaceful interlude 🌼."
+          }
+        ]
+      },
+      "local_food_tip": "Vianden’s culinary scene blends Luxembourgish tradition with German and French influences — try Judd mat Gaardebounen, local trout, schnitzel, seasonal desserts and Luxembourg wine or beer after a day of exploring 🍷🍽️.",
+      "full_day": {
+        "morning": "🌞 Start at <a href=\"https://www.google.com/maps/search/?api=1&query=Vianden+Castle\">Vianden Castle</a>, explore the ramparts and historic rooms before descending into the old town streets for coffee at a main square café.",
+        "afternoon": "🍴 Enjoy a traditional lunch, then take the <a href=\"https://www.google.com/maps/search/?api=1&query=Vianden+Chairlift\">chairlift</a> for panoramic views, stroll the <a href=\"https://www.google.com/maps/search/?api=1&query=Victor+Hugo+Promenade+Vianden\">Victor Hugo Promenade</a> and relax beside the riverbanks.",
+        "evening": "🍷 Dine at a riverfront restaurant or local wine bar, then wander cobbled lanes for evening photos of quaint facades and bridges.",
+        "night": "🌃 Cap the night with gelato under the stars and a gentle stroll back to your accommodation."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Fresh blossoms, green hills and riverside strolls — perfect for gentle exploration 🌸.",
+          "ideas": [
+            {
+              "name": "Spring River Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+walks+Vianden",
+              "description": "Pack local delicacies and enjoy a picnic by the gently flowing river as flowers bloom."
+            },
+            {
+              "name": "Forest Trail Blossoms",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+forest+trails",
+              "description": "Early wildflowers and soft greens make forest hikes especially scenic in spring 🌼."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days, river dips and outdoor culture ☀️.",
+          "ideas": [
+            {
+              "name": "River Kayaking",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=river+kayaking+Vianden",
+              "description": "Cool off with a kayak on the Sûre — gentle currents and scenery make this a summer favourite 🚣‍♂️."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Amber forest hues and crisp air 🍁.",
+          "ideas": [
+            {
+              "name": "Autumn Castle Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+Castle",
+              "description": "Capture Vianden Castle framed by golden leaves and autumn skies 📷."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Cozy cafés, historic charm and crisp valley air ❄️.",
+          "ideas": [
+            {
+              "name": "Winter Old Town Café Stop",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+main+square+caf%C3%A9s",
+              "description": "Warm up with hot drinks and pastries while exploring snow-dusted streets."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Regional buses and trains connect Vianden with Luxembourg City and the northern Ardennes — reliable transport for day trips 🚍.",
+          "link": "https://www.cfl.lu/en/"
+        },
+        {
+          "tip": "Vianden is compact and walkable — most attractions are within strolling distance of the old town and river paths 🚶‍♂️.",
+          "link": "https://www.visitluxembourg.com/en"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "July (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+Medieval+Festival",
+          "description": "Vianden’s medieval festival brings historic reenactments, music, markets and pageantry that animate the old town and castle grounds 🛡️."
+        }
+      ],
+      "places": [
+        {
+          "name": "Vianden Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Vianden+Castle",
+          "description": "Hilltop fortress with breathtaking views and deep medieval roots — a defining landmark of northern Luxembourg."
+        },
+        {
+          "name": "Victor Hugo House Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Victor+Hugo+House+Museum+Vianden",
+          "description": "Cultural museum celebrating the famed author’s time in Vianden with preserved rooms and local stories."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Our Lady of Lourdes Chapel",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Our+Lady+of+Lourdes+Chapel+Vianden",
+          "description": "Peaceful hilltop chapel with inspiring views and quiet charm ✨."
+        },
+        {
+          "name": "Sûre River Sunset Spot",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Sûre+River+Vianden",
+          "description": "Choose a calm riverside stone bench and watch the sun set over water and hills — perfect tranquil moment 🌄."
+        }
+      ]
+    }
+
+  ]
+}

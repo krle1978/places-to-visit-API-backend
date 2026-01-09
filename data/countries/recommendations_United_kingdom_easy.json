@@ -1,0 +1,1700 @@
+{
+  "name": "United Kingdom",
+  "cities": [
+    {
+      "name": "Bath, United Kingdom",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Roman Baths",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Roman+Baths+Bath+UK",
+            "description": "Ancient Roman bathing complex with remarkably preserved ruins and immersive audio tours — journey back to Roman Britain 🏛️."
+          },
+          {
+            "name": "Bath Abbey",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bath+Abbey",
+            "description": "Magnificent medieval church with soaring Gothic architecture, historic carvings and vibrant stained glass 🌟."
+          },
+          {
+            "name": "The Jane Austen Centre",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jane+Austen+Centre+Bath+UK",
+            "description": "Dive into the life of one of Bath’s most famous residents, with Georgian exhibits and Regency costume displays 📚."
+          },
+          {
+            "name": "Museum of Bath Architecture",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+of+Bath+Architecture",
+            "description": "Explore the city’s iconic Georgian buildings, the people who built them, and Bath’s evolution 🏙️."
+          },
+          {
+            "name": "Holburne Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Holburne+Museum+Bath+UK",
+            "description": "Art and decorative treasures housed in a beautiful historic building overlooking Sydney Gardens 🎨."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Royal Crescent",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Crescent+Bath",
+            "description": "Elegant sweeping crescent of Georgian townhouses and green lawn — classic Bath scenery 📸."
+          },
+          {
+            "name": "Pulteney Bridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pulteney+Bridge+Bath",
+            "description": "Picturesque bridge lined with shops, spanning the River Avon — especially lovely at golden hour 🌅."
+          },
+          {
+            "name": "Prior Park Landscape Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Prior+Park+Landscape+Garden",
+            "description": "Iconic Palladian Bridge and sweeping park views perfect for nature and architecture photos 🌿."
+          },
+          {
+            "name": "The Circus",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Circus+Bath",
+            "description": "Historic circular street with grand facades — a photogenic example of Georgian design 🏛️."
+          },
+          {
+            "name": "Victoria Bridge (Clifton Suspension Bridge Views)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Victoria+Bridge+Bath",
+            "description": "Views across the Avon Gorge and the nearby Clifton Suspension Bridge — dramatic shots and river scenes 🌉."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "The Scallop Shell",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Scallop+Shell+Bath",
+            "description": "Highly rated seafood restaurant with fresh local catches and a relaxed vibe 🐟."
+          },
+          {
+            "name": "Sally Lunn’s Historic Eating House",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sally+Lunn%27s+Bath",
+            "description": "Home of the famous Sally Lunn bun — indulge in historic British teatime treats ☕🍰."
+          },
+          {
+            "name": "The Canary Bar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Canary+Bar+Bath",
+            "description": "Cocktail bar with creative drinks and stylish interior — perfect for an evening out 🍸."
+          },
+          {
+            "name": "The Raven",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Raven+Bath",
+            "description": "Quirky pub known for hearty pies, real ale and friendly locals 🍺."
+          },
+          {
+            "name": "The Cosy Club Bath",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Cosy+Club+Bath",
+            "description": "Relaxed all-day dining and drinks spot with eclectic décor and all-day menus 🍽️."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Thermae Bath Spa",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Thermae+Bath+Spa",
+            "description": "Modern spa with natural thermal waters and rooftop pool — unwind like the Romans did 🧖‍♀️."
+          },
+          {
+            "name": "Sydney Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sydney+Gardens+Bath",
+            "description": "Historic park with gentle paths, riverside spots and peaceful greenery 🌳."
+          },
+          {
+            "name": "Bath Skyline Walk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bath+Skyline+Walk",
+            "description": "6-mile circular trail with panoramic views over the city and countryside — great for sunset hikes 🌄."
+          },
+          {
+            "name": "Alexandra Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Alexandra+Park+Bath",
+            "description": "High viewpoint park overlooking Bath — breezy lawns and quiet picnic areas 🌼."
+          },
+          {
+            "name": "The Royal Victoria Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Victoria+Park+Bath",
+            "description": "Large green space with botanical gardens, playgrounds and café stops 🌺."
+          }
+        ]
+      },
+      "local_food_tip": "Bath is famous for its Sally Lunn bun at Sally Lunn’s Historic Eating House. Try classic British gastropub dishes, local seafood, high tea experiences, and artisanal ales or cocktails at cosy bars 🍰🐟🍸.",
+      "full_day": {
+        "morning": "☀️ Begin with a walk to the <a href=\"https://www.google.com/maps/search/?api=1&query=Roman+Baths+Bath+UK\">Roman Baths</a> and a visit to <a href=\"https://www.google.com/maps/search/?api=1&query=Bath+Abbey\">Bath Abbey</a>, then enjoy coffee and a Sally Lunn bun in the historic center.",
+        "afternoon": "🍽️ Stroll across <a href=\"https://www.google.com/maps/search/?api=1&query=Pulteney+Bridge+Bath\">Pulteney Bridge</a> and wander the shops, then unwind at <a href=\"https://www.google.com/maps/search/?api=1&query=Thermae+Bath+Spa\">Thermae Bath Spa</a> with thermal waters and rooftop pool views.",
+        "evening": "🌇 Take in sunset views on the <a href=\"https://www.google.com/maps/search/?api=1&query=Bath+Skyline+Walk\">Bath Skyline Walk</a> or in <a href=\"https://www.google.com/maps/search/?api=1&query=Alexandra+Park+Bath\">Alexandra Park</a>, then dinner at a local seafood restaurant.",
+        "night": "🌃 End your day with cocktails at <a href=\"https://www.google.com/maps/search/?api=1&query=The+Canary+Bar+Bath\">The Canary Bar</a> or a cosy pint at <a href=\"https://www.google.com/maps/search/?api=1&query=The+Raven+Bath\">The Raven</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoms in parks and mild weather — ideal for gardens and skyline walks 🌸.",
+          "ideas": [
+            {
+              "name": "Sydney Gardens Spring Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sydney+Gardens+Bath",
+              "description": "Enjoy riverside paths and early blooms in this historic park 🌼."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm days perfect for outdoor dining, river views and long walks ☀️.",
+          "ideas": [
+            {
+              "name": "Pulteney Bridge & Riverside",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pulteney+Bridge+Bath",
+              "description": "Sit by the river with ice cream, watch boats and relax in the sunshine 🍦."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves, crisp air and cosy cafés 🍁.",
+          "ideas": [
+            {
+              "name": "Bath Skyline Autumn Hike",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Bath+Skyline+Walk",
+              "description": "Capture fall colors on this panoramic walking route 🍂."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, historic pubs and warm spa escapes ❄️.",
+          "ideas": [
+            {
+              "name": "Bath Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Bath+Christmas+Market",
+              "description": "Browse craft stalls and sip mulled wine in the cosy winter atmosphere 🎄."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Bath has an efficient local bus network connecting major sites and parks 🚌.",
+          "link": "https://bustimes.org/localities/bath"
+        },
+        {
+          "tip": "Bath Spa railway station offers direct trains to London, Bristol and beyond 🚆.",
+          "link": "https://www.nationalrail.co.uk/stations/BTH/details.html"
+        },
+        {
+          "tip": "The city center is very walkable — best explored on foot with comfortable shoes 🚶‍♂️.",
+          "link": ""
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "June–August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bath+Festival",
+          "description": "Bath Festival — music, literature and performances enliven the city’s parks and historic venues 🎶."
+        },
+        {
+          "season": "Winter",
+          "dates": "November–December (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bath+Christmas+Market",
+          "description": "Bath Christmas Market — festive stalls, lights and seasonal treats in the city streets 🎁."
+        }
+      ],
+      "places": [
+        {
+          "name": "Roman Baths",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Roman+Baths+Bath+UK",
+          "description": "World-renowned ancient bathing complex with interactive exhibits 🏛️."
+        },
+        {
+          "name": "Bath Abbey",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bath+Abbey",
+          "description": "Striking medieval church dominating the skyline ⛪."
+        },
+        {
+          "name": "Royal Crescent",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Crescent+Bath",
+          "description": "Georgian architectural masterpiece and classic Bath vista 📸."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Prior Park Landscape Garden",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Prior+Park+Landscape+Garden",
+          "description": "Peaceful garden with Palladian bridge and sweeping views 🌿."
+        },
+        {
+          "name": "Beckford’s Tower & Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Beckford%27s+Tower+Bath",
+          "description": "Historic tower with quirky interiors and panoramic city views 🗼."
+        },
+        {
+          "name": "The Bird, Bath",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=The+Bird+Bath",
+          "description": "Small contemporary art gallery in the city center with local and international exhibits 🖼️."
+        }
+      ]
+    },
+
+    {
+      "name": "Belfast, Northern Ireland, UK",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Titanic Belfast",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Titanic+Belfast",
+            "description": "Award-winning museum in the Titanic Quarter telling the story of the world’s most famous ship — from construction to legacy 🚢."
+          },
+          {
+            "name": "Ulster Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ulster+Museum+Belfast",
+            "description": "Free museum filled with art, archaeology, and history — from dinosaurs to modern masterpieces 🏛️."
+          },
+          {
+            "name": "Belfast City Hall",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belfast+City+Hall",
+            "description": "Iconic Renaissance-style building with free tours and beautiful gardens — a symbol of the city’s pride 🌿."
+          },
+          {
+            "name": "Crumlin Road Gaol",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Crumlin+Road+Gaol+Belfast",
+            "description": "Historic 19th-century prison with guided tours that reveal dramatic tales and Victorian architecture 🔒."
+          },
+          {
+            "name": "Belfast Peace Walls & Murals",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belfast+Peace+Walls+and+Murals",
+            "description": "Powerful street art and political murals telling the story of Northern Ireland’s history and hope ✌️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Belfast Castle & Cave Hill",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belfast+Castle+Cave+Hill",
+            "description": "Victorian castle with panoramic views over the city and Belfast Lough 🏰."
+          },
+          {
+            "name": "Albert Clock Tower",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Albert+Clock+Belfast",
+            "description": "Belfast’s leaning clock tower — one of the city’s most photographed landmarks ⏰."
+          },
+          {
+            "name": "Cathedral Quarter Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cathedral+Quarter+Belfast",
+            "description": "Colorful murals, cobbled alleys and fairy-lit pubs — pure Belfast charm 📸."
+          },
+          {
+            "name": "Botanic Gardens & Palm House",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanic+Gardens+Belfast",
+            "description": "Lush park with a glasshouse full of exotic plants and flowers 🌺."
+          },
+          {
+            "name": "Titanic Quarter Waterfront",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Titanic+Quarter+Belfast",
+            "description": "Modern architecture, shipyard cranes and waterfront reflections at sunset 🌇."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "St. George’s Market",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St.+George%27s+Market+Belfast",
+            "description": "Bustling indoor market with food stalls, live music and artisan crafts 🍴🎶."
+          },
+          {
+            "name": "The Crown Liquor Saloon",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Crown+Liquor+Saloon+Belfast",
+            "description": "Historic Victorian pub with stained glass and carved wood interiors — classic Belfast atmosphere 🍺."
+          },
+          {
+            "name": "The Muddlers Club",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Muddlers+Club+Belfast",
+            "description": "Award-winning restaurant hidden in the Cathedral Quarter — creative local cuisine 🍽️."
+          },
+          {
+            "name": "The Dirty Onion",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Dirty+Onion+Belfast",
+            "description": "Live music, whiskey and BBQ in one of Belfast’s oldest buildings 🎸."
+          },
+          {
+            "name": "Coppi Belfast",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Coppi+Belfast",
+            "description": "Italian-inspired dishes with Northern Irish flair — trendy and delicious 🍝."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Botanic Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanic+Gardens+Belfast",
+            "description": "Green oasis near Queen’s University — ideal for picnics and relaxation 🌳."
+          },
+          {
+            "name": "Cave Hill Country Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cave+Hill+Country+Park",
+            "description": "Hiking trails with sweeping views over Belfast and beyond 🥾."
+          },
+          {
+            "name": "River Lagan Towpath",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=River+Lagan+Towpath+Belfast",
+            "description": "Peaceful riverside walk connecting city parks and wildlife spots 🚶‍♂️."
+          },
+          {
+            "name": "Ormeau Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ormeau+Park+Belfast",
+            "description": "One of Belfast’s oldest parks with open lawns and trails 🌿."
+          },
+          {
+            "name": "Belfast Lough Coastal Path",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belfast+Lough+Coastal+Path",
+            "description": "Seaside route great for biking and birdwatching 🦆."
+          }
+        ]
+      },
+      "local_food_tip": "Taste the famous *Ulster Fry* for breakfast, fresh seafood, and hearty pies in Belfast’s pubs. Don’t miss the artisan stalls at St. George’s Market for a true local flavor 🥧🍳🍺.",
+      "full_day": {
+        "morning": "☀️ Start your day at <a href=\"https://www.google.com/maps/search/?api=1&query=Titanic+Belfast\">Titanic Belfast</a>, exploring interactive exhibits about shipbuilding and the RMS Titanic.",
+        "afternoon": "🍴 Walk through the <a href=\"https://www.google.com/maps/search/?api=1&query=St.+George%27s+Market+Belfast\">St. George’s Market</a> for local food and crafts, then head to <a href=\"https://www.google.com/maps/search/?api=1&query=Ulster+Museum+Belfast\">Ulster Museum</a> and <a href=\"https://www.google.com/maps/search/?api=1&query=Botanic+Gardens+Belfast\">Botanic Gardens</a> nearby.",
+        "evening": "🌇 Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Belfast+Peace+Walls\">Peace Walls</a> or catch the sunset from <a href=\"https://www.google.com/maps/search/?api=1&query=Belfast+Castle\">Belfast Castle</a> with views of the city below.",
+        "night": "🌃 Enjoy dinner and live music in the <a href=\"https://www.google.com/maps/search/?api=1&query=Cathedral+Quarter+Belfast\">Cathedral Quarter</a> — lively pubs and cultural energy fill the streets 🎶."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Flowers bloom and festivals return — a great time for markets and outdoor walks 🌸.",
+          "ideas": [
+            {
+              "name": "Botanic Gardens Bloom Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Botanic+Gardens+Belfast",
+              "description": "Stroll among spring blossoms and Victorian greenhouses 🌷."
+            },
+            {
+              "name": "Peace Mural Tours",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Belfast+Peace+Walls",
+              "description": "Learn the city’s story through colorful mural art 🎨."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Vibrant nightlife, open-air concerts and sunny city walks ☀️.",
+          "ideas": [
+            {
+              "name": "River Lagan Boat Ride",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=River+Lagan+Belfast",
+              "description": "Cruise through the heart of the city for scenic views 🚤."
+            },
+            {
+              "name": "Cathedral Quarter Music Nights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cathedral+Quarter+Belfast",
+              "description": "Live performances, street artists and nightlife 🎶."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden parks and cozy pubs make autumn in Belfast charming 🍁.",
+          "ideas": [
+            {
+              "name": "Crumlin Road Gaol Tours",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Crumlin+Road+Gaol+Belfast",
+              "description": "Explore Belfast’s history through dramatic storytelling 🏚️."
+            },
+            {
+              "name": "City Hall Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Belfast+City+Hall",
+              "description": "Admire architecture framed by autumn colors 🏛️."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, warm cafés and the Christmas Market bring cheer to the cold months 🎄.",
+          "ideas": [
+            {
+              "name": "Belfast Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Belfast+Christmas+Market",
+              "description": "Local crafts, lights and seasonal treats around City Hall 🎁."
+            },
+            {
+              "name": "Cozy Pubs & Whiskey Tastings",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=The+Crown+Liquor+Saloon+Belfast",
+              "description": "Warm up with traditional drinks and Irish hospitality 🥃."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Belfast city center is walkable — most attractions are within 15 minutes on foot 🚶‍♀️.",
+          "link": "https://visitbelfast.com/"
+        },
+        {
+          "tip": "Use Metro and Glider bus services to reach Titanic Quarter and outer neighborhoods 🚍.",
+          "link": "https://www.translink.co.uk/"
+        },
+        {
+          "tip": "Take a Black Taxi Tour for a local perspective on Belfast’s history and murals 🚖.",
+          "link": "https://visitbelfast.com/see-do/tours/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Winter",
+          "dates": "Mid-November – December (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Belfast+Christmas+Market",
+          "description": "Belfast Christmas Market — festive stalls, crafts and food at City Hall 🎄."
+        },
+        {
+          "season": "Summer",
+          "dates": "August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Belfast+Pride+Festival",
+          "description": "Belfast Pride — parades, music and cultural events celebrating diversity 🌈."
+        }
+      ],
+      "places": [
+        {
+          "name": "HMS Caroline",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=HMS+Caroline+Belfast",
+          "description": "World War I ship museum — fascinating maritime history ⚓."
+        },
+        {
+          "name": "Cathedral Quarter",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cathedral+Quarter+Belfast",
+          "description": "Cultural heart of Belfast with pubs, music and art 🎭."
+        },
+        {
+          "name": "Albert Clock Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Albert+Clock+Belfast",
+          "description": "Leaning Gothic-style tower — a unique Belfast icon ⏰."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Queen’s University & Lanyon Building",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Queen%27s+University+Belfast",
+          "description": "Historic campus with striking red-brick architecture and serene atmosphere 🎓."
+        },
+        {
+          "name": "Botanic Avenue Cafés",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Botanic+Avenue+Belfast",
+          "description": "Trendy street lined with independent cafés and bookstores ☕📚."
+        },
+        {
+          "name": "Cave Hill Country Park Trails",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cave+Hill+Country+Park+Belfast",
+          "description": "Scenic hill walks with panoramic views — especially beautiful at sunrise 🌄."
+        }
+      ]
+    },
+
+    {
+      "name": "Cambridge, UK",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "King’s College Chapel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=King’s+College+Chapel+Cambridge",
+            "description": "Magnificent Gothic masterpiece with stunning stained glass and the world’s largest fan-vaulted ceiling — the heart of Cambridge’s skyline ⛪."
+          },
+          {
+            "name": "University of Cambridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=University+of+Cambridge",
+            "description": "Founded in 1209, this world-famous university includes over 30 colleges — wander the courts, libraries, and peaceful gardens 🎓."
+          },
+          {
+            "name": "Fitzwilliam Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fitzwilliam+Museum+Cambridge",
+            "description": "An elegant museum filled with art and antiquities from ancient Egypt to modern Europe 🏛️."
+          },
+          {
+            "name": "Museum of Cambridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+of+Cambridge",
+            "description": "Charming museum in a 16th-century timber building, showcasing local history and traditions 🕰️."
+          },
+          {
+            "name": "Leper Chapel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Leper+Chapel+Cambridge",
+            "description": "One of England’s oldest chapels (built around 1125) — small, atmospheric, and full of medieval stories 🕍."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Bridge of Sighs (St John’s College)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bridge+of+Sighs+Cambridge",
+            "description": "Elegant covered bridge linking St John’s College buildings — a must-see for photographers 🌉."
+          },
+          {
+            "name": "The Backs",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Backs+Cambridge",
+            "description": "Scenic lawns behind colleges along the River Cam — one of the city’s most iconic photo spots 🌿."
+          },
+          {
+            "name": "Mathematical Bridge (Queens’ College)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mathematical+Bridge+Cambridge",
+            "description": "Ingenious wooden bridge that appears arched but is made entirely of straight timbers 🪵."
+          },
+          {
+            "name": "Market Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cambridge+Market+Square",
+            "description": "Bustling market surrounded by colorful stalls and historic facades — perfect for candid shots 📸."
+          },
+          {
+            "name": "Punting on the River Cam",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Punting+River+Cam",
+            "description": "Classic Cambridge experience — glide past bridges, gardens, and college backs 🚣‍♂️."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "The Eagle Pub",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Eagle+Pub+Cambridge",
+            "description": "Historic pub where the discovery of DNA was first announced — great food and atmosphere 🍻."
+          },
+          {
+            "name": "Fitzbillies",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fitzbillies+Cambridge",
+            "description": "Famous for its sticky Chelsea buns and afternoon tea — a sweet Cambridge tradition ☕🍰."
+          },
+          {
+            "name": "Cambridge Market Street Food",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cambridge+Market+Food+Stalls",
+            "description": "Street food from around the world — fresh, local, and full of flavor 🌮."
+          },
+          {
+            "name": "The Pint Shop",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Pint+Shop+Cambridge",
+            "description": "Trendy spot offering craft beers and modern British dishes 🍺."
+          },
+          {
+            "name": "Six Cambridge Rooftop Bar",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Six+Cambridge+Rooftop+Bar",
+            "description": "Stylish rooftop bar with cocktails and skyline views of the city 🌇."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Cambridge University Botanic Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cambridge+University+Botanic+Garden",
+            "description": "Expansive 40-acre garden with over 8,000 plant species and serene lakes 🌺."
+          },
+          {
+            "name": "Jesus Green",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jesus+Green+Cambridge",
+            "description": "Large riverside park with open lawns — ideal for picnics and punting breaks 🌳."
+          },
+          {
+            "name": "Midsummer Common",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Midsummer+Common+Cambridge",
+            "description": "Grassy common near the river with festivals and grazing cows 🐄."
+          },
+          {
+            "name": "Grantchester Meadows Walk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Grantchester+Meadows+Walk",
+            "description": "Tranquil riverside path leading to the famous Orchard Tea Garden 🍃."
+          },
+          {
+            "name": "Parker’s Piece",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Parker’s+Piece+Cambridge",
+            "description": "Historic green where the rules of modern football were first codified ⚽."
+          }
+        ]
+      },
+      "local_food_tip": "Enjoy a classic *afternoon tea* at Fitzbillies, a hearty pub meal at The Eagle, or fresh market food near Market Square. Cambridge blends traditional British bites with modern culinary flair ☕🍴🍰.",
+      "full_day": {
+        "morning": "☀️ Start your day at <a href=\"https://www.google.com/maps/search/?api=1&query=King’s+College+Chapel+Cambridge\">King’s College Chapel</a>, then explore <a href=\"https://www.google.com/maps/search/?api=1&query=University+of+Cambridge\">Cambridge University</a> courtyards and colleges.",
+        "afternoon": "🌿 Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Fitzwilliam+Museum+Cambridge\">Fitzwilliam Museum</a>, enjoy lunch near Market Square, and relax in the <a href=\"https://www.google.com/maps/search/?api=1&query=Cambridge+University+Botanic+Garden\">Botanic Garden</a>.",
+        "evening": "🌇 Go punting along the <a href=\"https://www.google.com/maps/search/?api=1&query=River+Cam+Cambridge\">River Cam</a> at sunset — it’s the ultimate Cambridge experience.",
+        "night": "🌃 Dine at <a href=\"https://www.google.com/maps/search/?api=1&query=The+Eagle+Pub+Cambridge\">The Eagle</a> or enjoy cocktails at <a href=\"https://www.google.com/maps/search/?api=1&query=Six+Cambridge+Rooftop+Bar\">Six Rooftop Bar</a> overlooking the city lights 🍷."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoms fill the colleges and gardens — perfect for walks and picnics 🌸.",
+          "ideas": [
+            {
+              "name": "Botanic Garden Bloom Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cambridge+University+Botanic+Garden",
+              "description": "Enjoy vibrant spring flowers in full color 🌷."
+            },
+            {
+              "name": "Punting & Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=River+Cam+Cambridge",
+              "description": "Glide along the river and relax with snacks on the green 🧺."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny days by the river and outdoor concerts make Cambridge magical ☀️.",
+          "ideas": [
+            {
+              "name": "Cambridge Folk Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cambridge+Folk+Festival",
+              "description": "Famous music festival bringing global folk acts 🎶."
+            },
+            {
+              "name": "Parker’s Piece Picnics",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Parker’s+Piece+Cambridge",
+              "description": "Enjoy games, picnics, and views of historic colleges 🌻."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves, cozy pubs and academic buzz fill the city 🍁.",
+          "ideas": [
+            {
+              "name": "Fitzwilliam Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Fitzwilliam+Museum+Cambridge",
+              "description": "Perfect for exploring art indoors on cool days 🖼️."
+            },
+            {
+              "name": "College Courtyard Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=University+of+Cambridge+Colleges",
+              "description": "Admire ivy-covered stone walls glowing in autumn tones 🍂."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Frosty mornings, festive lights and cozy café corners ❄️.",
+          "ideas": [
+            {
+              "name": "Christmas Market on Parker’s Piece",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cambridge+Christmas+Market",
+              "description": "Warm lights, mulled wine, and handmade gifts 🎄."
+            },
+            {
+              "name": "Historic Pub Evenings",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=The+Eagle+Pub+Cambridge",
+              "description": "Enjoy hearty British meals and festive cheer 🍷."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Cambridge is best explored on foot — most sights are close to each other 🚶‍♀️.",
+          "link": "https://www.visitcambridge.org/"
+        },
+        {
+          "tip": "Local buses connect the city center with attractions like the Botanic Garden 🚌.",
+          "link": "https://www.cambridgeshire.gov.uk/residents/travel-roads-and-parking/buses"
+        },
+        {
+          "tip": "Rent a bike — Cambridge is one of the UK’s most cycle-friendly cities 🚲.",
+          "link": "https://www.visitcambridge.org/cycling"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "July (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cambridge+Folk+Festival",
+          "description": "Cambridge Folk Festival — world-renowned music event attracting artists and visitors from across the globe 🎵."
+        },
+        {
+          "season": "Winter",
+          "dates": "December (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cambridge+Christmas+Market",
+          "description": "Cambridge Christmas Market — festive lights, food, and handmade gifts 🎁."
+        }
+      ],
+      "places": [
+        {
+          "name": "St Edward’s Passage",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St+Edward’s+Passage+Cambridge",
+          "description": "Historic alleyway with charming shops and cozy cafés 🏘️."
+        },
+        {
+          "name": "Parker’s Piece",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Parker’s+Piece+Cambridge",
+          "description": "Vast green common where locals relax, play, and celebrate events 🌿."
+        },
+        {
+          "name": "King’s Parade",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=King’s+Parade+Cambridge",
+          "description": "Bustling central street lined with cafés, shops and historic colleges 🏛️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Grantchester & Orchard Tea Garden",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Grantchester+Orchard+Tea+Garden",
+          "description": "Charming countryside village and tea garden once visited by poets like Rupert Brooke 🍵."
+        },
+        {
+          "name": "Queens’ College Gardens",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Queens’+College+Gardens+Cambridge",
+          "description": "Secluded green space with peaceful lawns and flowerbeds 🌸."
+        },
+        {
+          "name": "Kettle’s Yard",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kettle’s+Yard+Cambridge",
+          "description": "Contemporary art gallery and former home — a calm, inspiring hidden cultural gem 🎨."
+        }
+      ]
+    },
+
+    {
+      "name": "Edinburgh, Scotland, UK",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Edinburgh Castle",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Edinburgh+Castle",
+            "description": "Majestic fortress atop Castle Rock with sweeping views, royal treasures, and centuries of Scottish history 🏰."
+          },
+          {
+            "name": "The Royal Mile",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Mile+Edinburgh",
+            "description": "Historic cobblestone street connecting the Castle and Holyrood Palace — lined with shops, cafés, and hidden closes 🛍️."
+          },
+          {
+            "name": "National Museum of Scotland",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=National+Museum+of+Scotland",
+            "description": "Stunning museum filled with Scottish heritage, nature, and innovation — plus great rooftop views 🏛️."
+          },
+          {
+            "name": "The Real Mary King’s Close",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mary+King’s+Close+Edinburgh",
+            "description": "Journey beneath the Old Town through hidden underground streets and stories from centuries past 🕯️."
+          },
+          {
+            "name": "Palace of Holyroodhouse",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Palace+of+Holyroodhouse",
+            "description": "The King’s official Scottish residence filled with royal art and history 👑."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Calton Hill",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Calton+Hill+Edinburgh",
+            "description": "Panoramic city views with iconic monuments — a must at sunrise or sunset 🌇."
+          },
+          {
+            "name": "Arthur’s Seat",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Arthur’s+Seat+Edinburgh",
+            "description": "Climb the ancient volcano in Holyrood Park for sweeping views over Edinburgh and the Firth of Forth 🌄."
+          },
+          {
+            "name": "Dean Village",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dean+Village+Edinburgh",
+            "description": "Fairytale-like riverside village with quaint houses and bridges — perfect for peaceful photos 🌿."
+          },
+          {
+            "name": "Princes Street Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Princes+Street+Gardens+Edinburgh",
+            "description": "Lush gardens under the Castle — great for photos, picnics, and Christmas lights 🎄."
+          },
+          {
+            "name": "Circus Lane",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Circus+Lane+Edinburgh",
+            "description": "One of the prettiest streets in Scotland with cobbles, flowers, and old stone cottages 🏘️."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "The Witchery by the Castle",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Witchery+by+the+Castle+Edinburgh",
+            "description": "Dine in a gothic setting near the Castle — luxurious, dramatic, and unforgettable 🍷."
+          },
+          {
+            "name": "The Devil’s Advocate",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Devil’s+Advocate+Edinburgh",
+            "description": "Trendy restaurant and bar tucked away in an old Victorian pump house — whisky heaven 🥃."
+          },
+          {
+            "name": "Grassmarket Pubs",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Grassmarket+Edinburgh",
+            "description": "Bustling pub district beneath the Castle, full of music, history, and hearty meals 🍻."
+          },
+          {
+            "name": "The Dome",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Dome+Edinburgh",
+            "description": "Elegant dining and afternoon tea in a grand neoclassical setting ☕."
+          },
+          {
+            "name": "Whiski Rooms",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Whiski+Rooms+Edinburgh",
+            "description": "Sample traditional Scottish food and whiskies with panoramic city views 🥧."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Arthur’s Seat & Holyrood Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Arthur’s+Seat+Holyrood+Park",
+            "description": "Hike an extinct volcano for epic city views and fresh air 🌿."
+          },
+          {
+            "name": "Royal Botanic Garden Edinburgh",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Botanic+Garden+Edinburgh",
+            "description": "Beautiful botanical haven with glasshouses and flower-filled lawns 🌸."
+          },
+          {
+            "name": "Water of Leith Walkway",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Water+of+Leith+Walkway+Edinburgh",
+            "description": "Riverside trail winding through nature and art — peaceful and scenic 🚶‍♀️."
+          },
+          {
+            "name": "Inverleith Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Inverleith+Park+Edinburgh",
+            "description": "Green escape with ponds and Castle views — ideal for relaxation 🦆."
+          },
+          {
+            "name": "Cramond Island",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cramond+Island+Edinburgh",
+            "description": "Coastal island accessible by tidal causeway — perfect for adventure seekers 🌊."
+          }
+        ]
+      },
+      "local_food_tip": "Try traditional *haggis, neeps & tatties*, Scottish salmon, or a whisky-infused dessert 🍽️. For a local vibe, explore the pubs in Grassmarket or enjoy fine dining with city views. Don’t miss the whisky tastings near the Royal Mile 🥃.",
+      "full_day": {
+        "morning": "☀️ Start your adventure at <a href='https://www.google.com/maps/search/?api=1&query=Edinburgh+Castle'>Edinburgh Castle</a>, then wander down the <a href='https://www.google.com/maps/search/?api=1&query=Royal+Mile+Edinburgh'>Royal Mile</a> for street performers, souvenirs, and history.",
+        "afternoon": "🍽️ Have lunch near the Old Town and explore <a href='https://www.google.com/maps/search/?api=1&query=National+Museum+of+Scotland'>the National Museum of Scotland</a> or descend into <a href='https://www.google.com/maps/search/?api=1&query=Mary+King’s+Close+Edinburgh'>The Real Mary King’s Close</a>.",
+        "evening": "🌇 Climb <a href='https://www.google.com/maps/search/?api=1&query=Calton+Hill+Edinburgh'>Calton Hill</a> or <a href='https://www.google.com/maps/search/?api=1&query=Arthur’s+Seat+Edinburgh'>Arthur’s Seat</a> for a golden-hour cityscape.",
+        "night": "🌃 Dine in the <a href='https://www.google.com/maps/search/?api=1&query=Grassmarket+Edinburgh'>Grassmarket</a> area, enjoy live music and whisky tasting — the perfect Edinburgh evening 🎶."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Cherry blossoms, milder weather, and outdoor festivals bloom across the city 🌸.",
+          "ideas": [
+            {
+              "name": "Royal Botanic Garden Spring Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Botanic+Garden+Edinburgh",
+              "description": "Marvel at blooming flowers and tranquil ponds 🌷."
+            },
+            {
+              "name": "Dean Village Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Dean+Village+Edinburgh",
+              "description": "Enjoy riverside paths and charming cottages under soft sunlight 🌿."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Festival season! Comedy, music, and art fill every corner of Edinburgh 🎭.",
+          "ideas": [
+            {
+              "name": "Edinburgh Fringe Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Edinburgh+Fringe+Festival",
+              "description": "The world’s biggest arts festival brings vibrant street life 🎤."
+            },
+            {
+              "name": "Royal Yacht Britannia",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Yacht+Britannia",
+              "description": "Explore royal luxury aboard the former royal yacht ⚓."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves, cozy cafés, and cultural events fill the crisp air 🍁.",
+          "ideas": [
+            {
+              "name": "Scott Monument Climb",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Scott+Monument+Edinburgh",
+              "description": "Get panoramic views of the city framed by autumn colors 🍂."
+            },
+            {
+              "name": "National Galleries of Scotland",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=National+Galleries+of+Scotland",
+              "description": "Warm indoor art escape on cool autumn days 🖼️."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, cozy pubs, and the famous Christmas Market make winter magical 🎄.",
+          "ideas": [
+            {
+              "name": "Edinburgh Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Edinburgh+Christmas+Market",
+              "description": "Skate, shop, and sip hot chocolate under the Castle lights ⛸️."
+            },
+            {
+              "name": "Warm Pub Nights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Grassmarket+Edinburgh",
+              "description": "Gather around firesides with whisky and live music 🍷."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Edinburgh is best explored on foot — the Old and New Towns are easily walkable 🚶‍♀️.",
+          "link": "https://www.edinburgh.org/transport/"
+        },
+        {
+          "tip": "Use Lothian Buses or trams to reach Leith, Holyrood Park, or the Botanic Gardens 🚋.",
+          "link": "https://www.lothianbuses.com/"
+        },
+        {
+          "tip": "From the airport, take the Airlink 100 bus or tram to the city center ✈️.",
+          "link": "https://www.edinburghairport.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Edinburgh+Fringe+Festival",
+          "description": "Edinburgh Fringe Festival — the world’s largest celebration of creativity, performance, and laughter 🎭."
+        },
+        {
+          "season": "Winter",
+          "dates": "November–December (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Edinburgh+Christmas+Market",
+          "description": "Edinburgh Christmas Market — lights, food, ice skating, and winter joy 🎁."
+        }
+      ],
+      "places": [
+        {
+          "name": "Scott Monument",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Scott+Monument+Edinburgh",
+          "description": "Gothic spire honoring Sir Walter Scott — climb for stunning city panoramas 🌆."
+        },
+        {
+          "name": "Royal Yacht Britannia",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Yacht+Britannia",
+          "description": "Former royal vessel moored in Leith — step into regal maritime history ⚓."
+        },
+        {
+          "name": "National Gallery of Scotland",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=National+Gallery+of+Scotland",
+          "description": "Collection of classic European and Scottish masterpieces 🖼️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Greyfriars Kirkyard & Bobby Statue",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Greyfriars+Kirkyard+Edinburgh",
+          "description": "Charming graveyard with heartwarming tales of loyalty — meet the statue of Greyfriars Bobby 🐕."
+        },
+        {
+          "name": "The People’s Story Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=The+People’s+Story+Museum+Edinburgh",
+          "description": "Discover the lives and stories of Edinburgh’s working-class citizens 🧵."
+        },
+        {
+          "name": "Stockbridge Market",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Stockbridge+Market+Edinburgh",
+          "description": "Chic Sunday market with artisanal food, crafts, and local vibes 🧀."
+        }
+      ]
+    },
+
+    {
+      "name": "Liverpool, UK",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "The Beatles Story",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=The+Beatles+Story+Liverpool",
+            "description": "Step into the world of The Beatles 🎸 — an immersive museum at the Royal Albert Dock tracing their rise, music, and legacy."
+          },
+          {
+            "name": "Liverpool Beatles Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Liverpool+Beatles+Museum",
+            "description": "Packed with rare memorabilia, instruments, and outfits from the Fab Four’s journey 🎶."
+          },
+          {
+            "name": "Walker Art Gallery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Walker+Art+Gallery+Liverpool",
+            "description": "One of the UK’s top art galleries — explore European masterpieces, sculpture, and British portraits 🖼️."
+          },
+          {
+            "name": "World Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=World+Museum+Liverpool",
+            "description": "From mummies to meteorites, this free museum combines science, history, and adventure 🌍."
+          },
+          {
+            "name": "Merseyside Maritime Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Merseyside+Maritime+Museum+Liverpool",
+            "description": "Discover Liverpool’s seafaring and Titanic history at this fascinating dockside museum ⚓."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Royal Albert Dock",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Albert+Dock+Liverpool",
+            "description": "Colorful waterfront filled with museums, shops, and reflections on the River Mersey 🌅."
+          },
+          {
+            "name": "Crosby Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Crosby+Beach+Liverpool",
+            "description": "Home to Antony Gormley’s *Another Place* sculptures — 100 iron figures gazing out to sea 🌊."
+          },
+          {
+            "name": "Liverpool Waterfront Skyline",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Liverpool+Waterfront",
+            "description": "Capture the iconic ‘Three Graces’ buildings — UNESCO-listed elegance by the Mersey 🏙️."
+          },
+          {
+            "name": "Bold Street",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bold+Street+Liverpool",
+            "description": "Trendy street full of cafés, murals, and street art — a favorite for lifestyle photography ☕."
+          },
+          {
+            "name": "Cavern Quarter",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cavern+Quarter+Liverpool",
+            "description": "Colorful neon lights and music history make this nightlife area shine 📸."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Cavern Club",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cavern+Club+Liverpool",
+            "description": "The birthplace of The Beatles — live music, dancing, and pure Liverpool soul 🎤."
+          },
+          {
+            "name": "Bold Street",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bold+Street+Liverpool",
+            "description": "Liverpool’s foodie heart — global bites, indie cafés, and vibrant night energy 🍲."
+          },
+          {
+            "name": "Panoramic 34",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Panoramic+34+Liverpool",
+            "description": "Fine dining high above the city with incredible skyline views 🌇."
+          },
+          {
+            "name": "Baltic Market",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Baltic+Market+Liverpool",
+            "description": "Trendy food hall serving world flavors, live music, and street food vibes 🌮."
+          },
+          {
+            "name": "Ma Boyle’s Alehouse & Eatery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Ma+Boyle’s+Alehouse+Liverpool",
+            "description": "Historic pub offering British comfort food and local ales 🍻."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Sefton Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sefton+Park+Liverpool",
+            "description": "Huge Victorian park with lakes, gardens, and the stunning Palm House 🌴."
+          },
+          {
+            "name": "Crosby Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Crosby+Beach",
+            "description": "Peaceful seaside walks with sea air and sculptures 🌊."
+          },
+          {
+            "name": "Chavasse Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Chavasse+Park+Liverpool",
+            "description": "Green oasis in the city’s heart, great for picnics and people-watching 🧺."
+          },
+          {
+            "name": "St. John’s Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St+John’s+Gardens+Liverpool",
+            "description": "Calm corner of greenery behind the museums — ideal for a quiet break 🌳."
+          },
+          {
+            "name": "Otterspool Promenade",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Otterspool+Promenade+Liverpool",
+            "description": "Scenic riverside walk with cycling paths and beautiful sunset views 🚲."
+          }
+        ]
+      },
+      "local_food_tip": "Taste authentic *scouse* stew 🥘 — Liverpool’s signature comfort dish! Add a side of crusty bread and finish with sticky toffee pudding. For snacks, check out Bold Street cafés or Albert Dock seafood spots 🍤.",
+      "full_day": {
+        "morning": "☀️ Begin at <a href='https://www.google.com/maps/search/?api=1&query=The+Beatles+Story+Liverpool'>The Beatles Story</a> in Royal Albert Dock, then stroll along the Mersey and grab coffee at a waterfront café ☕.",
+        "afternoon": "🎸 Visit <a href='https://www.google.com/maps/search/?api=1&query=Cavern+Club+Liverpool'>The Cavern Club</a> and <a href='https://www.google.com/maps/search/?api=1&query=Liverpool+Beatles+Museum'>Beatles Museum</a> for music history, then explore the <a href='https://www.google.com/maps/search/?api=1&query=World+Museum+Liverpool'>World Museum</a>.",
+        "evening": "🌇 Wander through the Georgian Quarter to see <a href='https://www.google.com/maps/search/?api=1&query=Liverpool+Metropolitan+Cathedral'>Liverpool Metropolitan Cathedral</a>, then catch sunset views from the waterfront 🌅.",
+        "night": "🍷 Dine at <a href='https://www.google.com/maps/search/?api=1&query=Bold+Street+Liverpool'>Bold Street</a> or <a href='https://www.google.com/maps/search/?api=1&query=Baltic+Market+Liverpool'>Baltic Market</a>, and finish with live music in the Cavern Quarter 🎶."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Mild weather and blooming parks make Liverpool come alive 🌸.",
+          "ideas": [
+            {
+              "name": "Sefton Park Bloom Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Sefton+Park+Liverpool",
+              "description": "Spring flowers and fresh air around the lake 🌷."
+            },
+            {
+              "name": "Crosby Beach Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Crosby+Beach+Liverpool",
+              "description": "Perfect for a breezy coastal stroll and photos 🌊."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Festivals, music, and open-air fun by the Mersey ☀️.",
+          "ideas": [
+            {
+              "name": "Liverpool Waterfront Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Liverpool+Waterfront",
+              "description": "Live concerts, food trucks, and street performers 🎤."
+            },
+            {
+              "name": "River Mersey Ferry Cruise",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=River+Mersey+Ferry",
+              "description": "See Liverpool’s skyline from the water 🚢."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Cultural events, cozy cafés, and golden city views 🍂.",
+          "ideas": [
+            {
+              "name": "Walker Art Gallery Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Walker+Art+Gallery+Liverpool",
+              "description": "Dive into art on crisp autumn afternoons 🎨."
+            },
+            {
+              "name": "Historic Georgian Quarter",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Georgian+Quarter+Liverpool",
+              "description": "Charming streets and cafés with golden leaves 🍁."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive markets, lights, and warm pubs ❄️.",
+          "ideas": [
+            {
+              "name": "Liverpool Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Liverpool+Christmas+Market",
+              "description": "Stalls, lights, and mulled wine at St George’s Plateau 🎄."
+            },
+            {
+              "name": "Cathedral Carol Concerts",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Liverpool+Cathedral",
+              "description": "Beautiful candlelight music in the UK’s largest cathedral 🕯️."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Liverpool Lime Street is the main station — from here, most city sights are walkable 🚶‍♀️.",
+          "link": "https://www.visitliverpool.com/"
+        },
+        {
+          "tip": "Use Merseyrail trains for easy trips to Crosby Beach, Sefton Park, or Wirral 🚆.",
+          "link": "https://www.merseyrail.org/"
+        },
+        {
+          "tip": "Hop on the River Mersey Ferry for scenic travel and skyline views ⛴️.",
+          "link": "https://www.merseyferries.co.uk/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "August (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=International+Beatleweek+Festival+Liverpool",
+          "description": "International Beatleweek Festival — week-long celebration of The Beatles with concerts and tributes 🎶."
+        },
+        {
+          "season": "Winter",
+          "dates": "December (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Liverpool+Christmas+Market",
+          "description": "Liverpool Christmas Market — festive food, crafts, and live entertainment 🎁."
+        }
+      ],
+      "places": [
+        {
+          "name": "Anfield Stadium",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Anfield+Stadium+Liverpool",
+          "description": "Home of Liverpool FC — explore the stands, museum, and club history ⚽."
+        },
+        {
+          "name": "Liverpool Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Liverpool+Cathedral",
+          "description": "Towering Gothic masterpiece offering panoramic city views 🕍."
+        },
+        {
+          "name": "Royal Liver Building",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Royal+Liver+Building+Liverpool",
+          "description": "One of Liverpool’s ‘Three Graces’ — iconic clock towers on the waterfront ⏰."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Bombed Out Church (St Luke’s)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St+Luke’s+Church+Liverpool",
+          "description": "Roofless church turned cultural venue — art, concerts, and community vibes 🎭."
+        },
+        {
+          "name": "St. James’ Gardens",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St+James’+Gardens+Liverpool",
+          "description": "Hidden park beside the cathedral, peaceful and atmospheric 🌿."
+        },
+        {
+          "name": "Mersey Ferry to Wirral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Mersey+Ferry+Liverpool",
+          "description": "Cross the river for stunning views of Liverpool’s skyline from the water 🌅."
+        }
+      ]
+    },
+
+    {
+      "name": "London, UK",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Tower of London",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tower+of+London",
+            "description": "Explore centuries of royal history at this riverside fortress — home to the Crown Jewels, ravens, and legendary tales of kings and queens 👑."
+          },
+          {
+            "name": "British Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=British+Museum+London",
+            "description": "A global treasure chest of human history — from the Rosetta Stone to Egyptian mummies, all under one iconic roof 🏛️."
+          },
+          {
+            "name": "Westminster Abbey",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Westminster+Abbey",
+            "description": "Majestic Gothic church where monarchs are crowned and legends like Darwin and Newton rest ✝️."
+          },
+          {
+            "name": "St Paul’s Cathedral",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St+Paul’s+Cathedral+London",
+            "description": "Climb the great dome for breathtaking city views, or explore its artistic interior of mosaics and marble ⛪."
+          },
+          {
+            "name": "Tate Modern",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tate+Modern+London",
+            "description": "World-class modern art museum in a former power station — bold, inspiring, and free 🎨."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "London Eye",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=London+Eye",
+            "description": "Soar above the Thames for panoramic views of Big Ben, Westminster, and the city skyline 🎡."
+          },
+          {
+            "name": "Tower Bridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tower+Bridge+London",
+            "description": "The city’s most iconic bridge — stunning by day and magical when lit at night 🌉."
+          },
+          {
+            "name": "Greenwich Observatory",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Greenwich+Observatory",
+            "description": "Stand on the Prime Meridian Line with sweeping views over London and the Thames 🌍."
+          },
+          {
+            "name": "Sky Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Sky+Garden+London",
+            "description": "Free indoor garden high above the city offering lush plants and panoramic photos 🌿."
+          },
+          {
+            "name": "Notting Hill Streets",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Notting+Hill+London",
+            "description": "Colorful houses, charming streets, and the famous Portobello Road market 🎨."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Borough Market",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Borough+Market+London",
+            "description": "London’s oldest food market — bursting with artisan cheeses, pastries, and global flavors 🍞."
+          },
+          {
+            "name": "Soho",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Soho+London",
+            "description": "Trendy neighborhood packed with world cuisine, jazz bars, and street eats 🎶."
+          },
+          {
+            "name": "Covent Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Covent+Garden+London",
+            "description": "Historic piazza filled with performers, restaurants, and classic British charm 🍷."
+          },
+          {
+            "name": "Camden Market",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Camden+Market+London",
+            "description": "Alternative food and fashion hub with street food from every corner of the globe 🍔."
+          },
+          {
+            "name": "Chinatown",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Chinatown+London",
+            "description": "Bustling streets of neon lights and delicious Asian cuisine 🥢."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Hyde Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hyde+Park+London",
+            "description": "London’s green heart — rent a pedal boat, relax under trees, or visit the Serpentine Gallery 🌳."
+          },
+          {
+            "name": "Kew Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kew+Gardens",
+            "description": "UNESCO-listed botanical gardens bursting with exotic plants and Victorian glasshouses 🌺."
+          },
+          {
+            "name": "St James’s Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=St+James’s+Park+London",
+            "description": "Beautiful royal park with pelicans and postcard views of Buckingham Palace 🦆."
+          },
+          {
+            "name": "Regent’s Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Regent’s+Park+London",
+            "description": "Rose gardens, open-air theatre, and peaceful lake walks 🌷."
+          },
+          {
+            "name": "Primrose Hill",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Primrose+Hill+London",
+            "description": "Climb for one of the city’s best sunset views 🌇."
+          }
+        ]
+      },
+      "local_food_tip": "Try a classic *fish & chips* by the Thames, a hearty *Sunday roast* at a British pub, or *afternoon tea* at The Ritz 🍰. London’s food markets like Camden and Borough offer street eats from around the world 🌮.",
+      "full_day": {
+        "morning": "☀️ Start your day at <a href='https://www.google.com/maps/search/?api=1&query=Tower+of+London'>Tower of London</a> to see the Crown Jewels, then stroll across <a href='https://www.google.com/maps/search/?api=1&query=Tower+Bridge+London'>Tower Bridge</a> for skyline views 🌉.",
+        "afternoon": "🍽️ Have lunch at <a href='https://www.google.com/maps/search/?api=1&query=Borough+Market+London'>Borough Market</a> and explore the <a href='https://www.google.com/maps/search/?api=1&query=British+Museum+London'>British Museum</a> or <a href='https://www.google.com/maps/search/?api=1&query=Natural+History+Museum+London'>Natural History Museum</a> 🏛️.",
+        "evening": "🌇 Ride the <a href='https://www.google.com/maps/search/?api=1&query=London+Eye'>London Eye</a> for sunset views, then enjoy a walk along the South Bank 🌅.",
+        "night": "🌃 Dine in <a href='https://www.google.com/maps/search/?api=1&query=Soho+London'>Soho</a> or <a href='https://www.google.com/maps/search/?api=1&query=Covent+Garden+London'>Covent Garden</a>, and catch a West End theatre show 🎭."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Blossoms in the parks and cheerful festivals make London radiant 🌸.",
+          "ideas": [
+            {
+              "name": "Chelsea Flower Show",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Chelsea+Flower+Show+London",
+              "description": "World-famous floral displays and garden inspiration 🌷."
+            },
+            {
+              "name": "Kew Gardens Bloom Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Kew+Gardens",
+              "description": "See tulips and cherry blossoms in full color 🌼."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Street festivals, outdoor movies, and long sunny days ☀️.",
+          "ideas": [
+            {
+              "name": "Hyde Park Picnics",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hyde+Park+London",
+              "description": "Relax by the lake with friends or rent a pedal boat 🚣‍♀️."
+            },
+            {
+              "name": "Greenwich Adventure",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Greenwich+London",
+              "description": "Visit the Royal Observatory and enjoy views from the hill 🌍."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves and cozy museum afternoons 🍁.",
+          "ideas": [
+            {
+              "name": "Tate Modern & Millennium Bridge",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tate+Modern+London",
+              "description": "Enjoy riverside walks and contemporary art 🖼️."
+            },
+            {
+              "name": "Covent Garden Evenings",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Covent+Garden+London",
+              "description": "Watch street performances under twinkling lights 🎶."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Festive lights, ice skating, and Christmas magic 🎄.",
+          "ideas": [
+            {
+              "name": "Hyde Park Winter Wonderland",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hyde+Park+Winter+Wonderland",
+              "description": "Enjoy rides, hot chocolate, and festive stalls 🎠."
+            },
+            {
+              "name": "Oxford Street Christmas Lights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Oxford+Street+London",
+              "description": "Famous light displays that brighten cold nights ✨."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use an Oyster card or contactless for the Tube, buses, and trams — the quickest and cheapest way to explore 🚇.",
+          "link": "https://tfl.gov.uk/"
+        },
+        {
+          "tip": "River buses along the Thames offer scenic rides between landmarks like Greenwich and Westminster ⛴️.",
+          "link": "https://tfl.gov.uk/modes/river/"
+        },
+        {
+          "tip": "Central London is walkable — explore Westminster, Covent Garden, and the South Bank on foot 🚶‍♂️.",
+          "link": "https://www.visitlondon.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Spring",
+          "dates": "May (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Chelsea+Flower+Show+London",
+          "description": "Chelsea Flower Show — London’s most elegant garden event 🌷."
+        },
+        {
+          "season": "Winter",
+          "dates": "Nov–Jan (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hyde+Park+Winter+Wonderland",
+          "description": "Hyde Park Winter Wonderland — London’s festive fairground 🎁."
+        }
+      ],
+      "places": [
+        {
+          "name": "Houses of Parliament & Big Ben",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Big+Ben+London",
+          "description": "Iconic Gothic landmark and symbol of London 🇬🇧."
+        },
+        {
+          "name": "The Shard",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=The+Shard+London",
+          "description": "London’s tallest skyscraper with a sky-high viewing deck 🌆."
+        },
+        {
+          "name": "Buckingham Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Buckingham+Palace",
+          "description": "The royal residence and ceremonial heart of Britain 👑."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Horizon 22 Observation Deck",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Horizon+22+London",
+          "description": "Free viewing platform offering stunning 360° city views from 22 Bishopsgate 🌇."
+        },
+        {
+          "name": "Leadenhall Market",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Leadenhall+Market+London",
+          "description": "Victorian market with hidden Harry Potter film spots and boutique shops 🛍️."
+        },
+        {
+          "name": "Little Venice",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Little+Venice+London",
+          "description": "Tranquil canalside area with cafés and narrowboats — a peaceful escape from city rush 🚤."
+        }
+      ]
+    },
+
+    {
+      "name": "Manchester, UK",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Science and Industry Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Science+and+Industry+Museum+Manchester",
+            "description": "Discover how Manchester sparked the Industrial Revolution with historic engines, airplanes, and hands-on exhibits ⚙️."
+          },
+          {
+            "name": "John Rylands Library",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=John+Rylands+Library+Manchester",
+            "description": "Step into a real-life Hogwarts! A neo-Gothic masterpiece filled with ancient books and magical architecture 📚."
+          },
+          {
+            "name": "Manchester Art Gallery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Manchester+Art+Gallery",
+            "description": "Admire British and international art, from Pre-Raphaelites to contemporary pieces 🖼️."
+          },
+          {
+            "name": "Manchester Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Manchester+Museum",
+            "description": "A treasure trove of natural history, archaeology, and world cultures — newly renovated and inspiring 🌍."
+          },
+          {
+            "name": "People’s History Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=People’s+History+Museum+Manchester",
+            "description": "Explore the story of democracy and social change through art and storytelling 🗳️."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Northern Quarter Street Art",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Northern+Quarter+Manchester",
+            "description": "Murals, colorful walls, and hipster vibes make this the city’s coolest Instagram spot 🎨."
+          },
+          {
+            "name": "Castlefield Urban Heritage Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Castlefield+Urban+Heritage+Park+Manchester",
+            "description": "Peaceful canals, red-brick bridges, and old railway arches — Manchester’s photogenic industrial side 🚂."
+          },
+          {
+            "name": "Etihad Stadium",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Etihad+Stadium+Manchester",
+            "description": "Manchester City’s modern football home — ideal for sports photography ⚽."
+          },
+          {
+            "name": "Old Trafford Stadium",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Old+Trafford+Manchester",
+            "description": "The Theatre of Dreams — iconic for Manchester United fans ❤️."
+          },
+          {
+            "name": "Salford Quays & MediaCityUK",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=MediaCityUK+Salford+Quays",
+            "description": "Glittering waterfront area with futuristic architecture and sunset reflections 🌇."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Mackie Mayor",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mackie+Mayor+Manchester",
+            "description": "Trendy indoor food hall serving artisanal pizzas, tacos, and local beers 🍕."
+          },
+          {
+            "name": "Curry Mile",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Curry+Mile+Manchester",
+            "description": "A mile of vibrant South Asian restaurants and spice-scented air 🍛."
+          },
+          {
+            "name": "Spinningfields",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Spinningfields+Manchester",
+            "description": "Sleek modern district full of stylish restaurants, bars, and nightlife 🍸."
+          },
+          {
+            "name": "Gay Village – Canal Street",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Canal+Street+Manchester",
+            "description": "Rainbow-lit nightlife hub with cafés, pubs, and pride-filled energy 🌈."
+          },
+          {
+            "name": "Northern Quarter Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Northern+Quarter+Manchester",
+            "description": "Indie coffee shops and brunch spots that define Manchester’s creative soul ☕."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Heaton Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Heaton+Park+Manchester",
+            "description": "Huge park with a lake, animals, and perfect picnic spots 🌳."
+          },
+          {
+            "name": "RHS Garden Bridgewater",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=RHS+Garden+Bridgewater",
+            "description": "A botanical haven with themed gardens and peaceful walks 🌼."
+          },
+          {
+            "name": "Fletcher Moss Botanical Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Fletcher+Moss+Botanical+Gardens+Manchester",
+            "description": "Hidden oasis with wildflowers, rock gardens, and streams 🌸."
+          },
+          {
+            "name": "Chorlton Water Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Chorlton+Water+Park+Manchester",
+            "description": "Lovely lake for walks, wildlife watching, and cycling 🚲."
+          },
+          {
+            "name": "Whitworth Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Whitworth+Park+Manchester",
+            "description": "Art meets nature next to the Whitworth Gallery — relaxing and creative 🌿."
+          }
+        ]
+      },
+      "local_food_tip": "Try Manchester’s hearty *Lancashire hotpot* 🥘, or dive into global flavors on Curry Mile. For local vibes, visit Mackie Mayor for street food or enjoy brunch and coffee in the Northern Quarter ☕.",
+      "full_day": {
+        "morning": "☀️ Begin your day at the <a href='https://www.google.com/maps/search/?api=1&query=Science+and+Industry+Museum+Manchester'>Science and Industry Museum</a> for cool inventions, then visit the <a href='https://www.google.com/maps/search/?api=1&query=John+Rylands+Library+Manchester'>John Rylands Library</a> — one of the most beautiful libraries in the world 📚.",
+        "afternoon": "🍽️ Have lunch at <a href='https://www.google.com/maps/search/?api=1&query=Mackie+Mayor+Manchester'>Mackie Mayor</a>, then explore the <a href='https://www.google.com/maps/search/?api=1&query=Manchester+Art+Gallery'>Manchester Art Gallery</a> or <a href='https://www.google.com/maps/search/?api=1&query=National+Football+Museum+Manchester'>National Football Museum</a> ⚽.",
+        "evening": "🌇 Wander through the <a href='https://www.google.com/maps/search/?api=1&query=Northern+Quarter+Manchester'>Northern Quarter</a> — full of murals, shops, and chill cafés 🎨.",
+        "night": "🌃 Dine in <a href='https://www.google.com/maps/search/?api=1&query=Spinningfields+Manchester'>Spinningfields</a> or experience music and nightlife in the <a href='https://www.google.com/maps/search/?api=1&query=Canal+Street+Manchester'>Gay Village</a> 🎶."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Manchester blooms with outdoor art, food festivals, and cheerful parks 🌸.",
+          "ideas": [
+            {
+              "name": "RHS Garden Bridgewater",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=RHS+Garden+Bridgewater",
+              "description": "Enjoy spring blossoms and peaceful garden walks 🌷."
+            },
+            {
+              "name": "Canal & River Cruise",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Manchester+Canal+Cruise",
+              "description": "Relax on a scenic boat ride through Manchester’s historic waterways 🚤."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Open-air concerts, sports, and park picnics under sunny skies ☀️.",
+          "ideas": [
+            {
+              "name": "Castlefield Bowl Concerts",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Castlefield+Bowl+Manchester",
+              "description": "Watch outdoor music gigs surrounded by old brick arches 🎵."
+            },
+            {
+              "name": "Heaton Park Adventure",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Heaton+Park+Manchester",
+              "description": "Boating, biking, and summer picnics 🌳."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves, cozy cafés, and indoor culture galore 🍁.",
+          "ideas": [
+            {
+              "name": "Imperial War Museum North",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Imperial+War+Museum+North",
+              "description": "Powerful exhibitions on war, peace, and human stories 🎖️."
+            },
+            {
+              "name": "John Rylands Library Tour",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=John+Rylands+Library+Manchester",
+              "description": "Perfect for a rainy autumn afternoon 📖."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Twinkling Christmas markets and warm northern hospitality 🎄.",
+          "ideas": [
+            {
+              "name": "Manchester Christmas Markets",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Manchester+Christmas+Markets",
+              "description": "Enjoy mulled wine, lights, and handmade gifts 🎁."
+            },
+            {
+              "name": "Northern Quarter Evenings",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Northern+Quarter+Manchester",
+              "description": "Cozy pubs, indie music, and festive lights 🌃."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use the Metrolink trams for quick access between districts like Salford Quays, Etihad Campus, and the city center 🚋.",
+          "link": "https://www.metrolink.co.uk/"
+        },
+        {
+          "tip": "Manchester Piccadilly and Victoria stations connect the city with all major UK destinations 🚆.",
+          "link": "https://www.nationalrail.co.uk/"
+        },
+        {
+          "tip": "For short trips, walking or cycling is perfect — most landmarks are within 20 minutes on foot 🚶‍♀️.",
+          "link": "https://tfgm.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "Summer",
+          "dates": "July (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Manchester+International+Festival",
+          "description": "Manchester International Festival — a global celebration of music, art, and creativity 🎭."
+        },
+        {
+          "season": "Winter",
+          "dates": "Nov–Dec (annual)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Manchester+Christmas+Markets",
+          "description": "Famous Christmas Markets — wooden stalls, lights, and festive joy 🎅."
+        }
+      ],
+      "places": [
+        {
+          "name": "Manchester Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Manchester+Cathedral",
+          "description": "Elegant Gothic cathedral with stained glass and peaceful charm ⛪."
+        },
+        {
+          "name": "Castlefield Urban Heritage Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Castlefield+Urban+Heritage+Park+Manchester",
+          "description": "Historic canals and bridges blending nature with industrial beauty 🌉."
+        },
+        {
+          "name": "Afflecks",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Afflecks+Manchester",
+          "description": "Quirky indoor market filled with indie shops, fashion, and vintage treasures 🛍️."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Victoria Baths",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Victoria+Baths+Manchester",
+          "description": "Beautiful Edwardian swimming baths turned cultural venue — tiles, art, and nostalgia 🏛️."
+        },
+        {
+          "name": "Alan Turing Memorial",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Alan+Turing+Memorial+Manchester",
+          "description": "Touching tribute to the codebreaker and computing pioneer 💻."
+        },
+        {
+          "name": "The Wharf Pub, Castlefield",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=The+Wharf+Castlefield+Manchester",
+          "description": "Cozy canal-side pub with fireplaces, perfect for winter evenings 🍻."
+        }
+      ]
+    }
+
+  ]
+}

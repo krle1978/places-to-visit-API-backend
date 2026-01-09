@@ -1,0 +1,1522 @@
+{
+  "name": "Germany",
+  "cities": [
+    {
+      "name": "Berlin",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Museum Island",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+Island+Berlin",
+            "description": "A UNESCO World Heritage site with five world-famous museums, including the Pergamon and the Neues Museum — perfect for exploring art, history, and ancient civilizations."
+          },
+          {
+            "name": "East Side Gallery",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=East+Side+Gallery+Berlin",
+            "description": "A 1.3 km stretch of the Berlin Wall covered in colorful murals that celebrate freedom and unity — one of Berlin’s most powerful open-air art galleries."
+          },
+          {
+            "name": "Berliner Dom",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Berliner+Dom",
+            "description": "The magnificent Berlin Cathedral features grand architecture and a dome offering panoramic views of the city."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Brandenburg Gate",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Brandenburg+Gate+Berlin",
+            "description": "Berlin’s most iconic landmark — especially stunning at sunrise or lit up at night."
+          },
+          {
+            "name": "Berlin TV Tower (Fernsehturm)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Berlin+TV+Tower",
+            "description": "From the top of this 368-meter tower, you can capture breathtaking city views — great for skyline shots."
+          },
+          {
+            "name": "Tempelhofer Feld",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tempelhofer+Feld+Berlin",
+            "description": "A former airport turned urban park — perfect for wide-angle photos, picnics, and skating with friends."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Markthalle Neun",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Markthalle+Neun+Berlin",
+            "description": "A trendy indoor market in Kreuzberg serving international street food, desserts, and handmade snacks — great for foodies."
+          },
+          {
+            "name": "Mustafa’s Gemüse Kebap",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Mustafa%27s+Gem%C3%BCse+Kebap+Berlin",
+            "description": "A legendary street food stand known for its delicious Berlin-style kebabs — expect a line, but it’s worth it!"
+          },
+          {
+            "name": "Klunkerkranich",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Klunkerkranich+Berlin",
+            "description": "A rooftop bar and garden built on top of a parking garage, offering chill music, sunset views, and a creative vibe."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Tiergarten Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Tiergarten+Berlin",
+            "description": "Berlin’s green heart — an enormous park perfect for biking, picnics, or just relaxing under the trees."
+          },
+          {
+            "name": "Viktoriapark",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Viktoriapark+Berlin",
+            "description": "A hillside park in Kreuzberg with a small waterfall and city views — great for calm walks."
+          },
+          {
+            "name": "Wannsee Lake",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Wannsee+Lake+Berlin",
+            "description": "A peaceful lakeside area where locals swim, sail, or just relax on the beach in summer."
+          }
+        ]
+      },
+      "local_food_tip": "Try the classic 'Currywurst' — a sliced sausage topped with spicy ketchup and curry powder — or 'Döner kebab', which was actually invented in Berlin!",
+      "full_day": {
+        "morning": "☀️ Begin your day at <a href='https://www.google.com/maps/search/?api=1&query=Brandenburg+Gate+Berlin'>Brandenburg Gate</a> and walk through the <a href='https://www.google.com/maps/search/?api=1&query=Reichstag+Building+Berlin'>Reichstag</a> area for some history and great photos.",
+        "afternoon": "🎨 Explore <a href='https://www.google.com/maps/search/?api=1&query=Museum+Island+Berlin'>Museum Island</a> or check out the murals at the <a href='https://www.google.com/maps/search/?api=1&query=East+Side+Gallery+Berlin'>East Side Gallery</a>. Grab lunch at <a href='https://www.google.com/maps/search/?api=1&query=Markthalle+Neun+Berlin'>Markthalle Neun</a>.",
+        "evening": "🌆 Relax in <a href='https://www.google.com/maps/search/?api=1&query=Tiergarten+Berlin'>Tiergarten Park</a> or take in the sunset view from <a href='https://www.google.com/maps/search/?api=1&query=Klunkerkranich+Berlin'>Klunkerkranich</a>.",
+        "night": "🌙 Enjoy a river cruise on the Spree or check out the city’s light installations if you’re visiting during the <a href='https://www.google.com/maps/search/?api=1&query=Festival+of+Lights+Berlin'>Festival of Lights</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Berlin blooms with cherry blossoms, and locals return to outdoor cafés and parks.",
+          "ideas": [
+            {
+              "name": "Gärten der Welt",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gärten+der+Welt+Berlin",
+              "description": "Walk through beautiful themed gardens, including Japanese and Balinese designs."
+            },
+            {
+              "name": "Tiergarten Cycling",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tiergarten+Berlin",
+              "description": "Rent a bike and enjoy a gentle ride through blooming trees and fresh spring air."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Open-air concerts, rooftop bars, and lakes make Berlin one of Europe’s coolest summer cities.",
+          "ideas": [
+            {
+              "name": "Open Air Cinema Kreuzberg",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Open+Air+Cinema+Kreuzberg",
+              "description": "Watch classic movies under the stars with friends and snacks."
+            },
+            {
+              "name": "Wannsee Beach Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Wannsee+Lake+Berlin",
+              "description": "Swim and sunbathe like a local at Berlin’s biggest lake beach."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden trees and festivals light up the city, creating a cozy and colorful vibe.",
+          "ideas": [
+            {
+              "name": "Festival of Lights",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Festival+of+Lights+Berlin",
+              "description": "Buildings across the city are illuminated with creative light projections — a must-see photo event."
+            },
+            {
+              "name": "Tempelhofer Feld Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tempelhofer+Feld+Berlin",
+              "description": "Enjoy the crisp air and wide open skies at Berlin’s iconic urban field."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Berlin sparkles with holiday lights, Christmas markets, and cozy cafés.",
+          "ideas": [
+            {
+              "name": "Gendarmenmarkt Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Gendarmenmarkt+Christmas+Market+Berlin",
+              "description": "One of Germany’s most beautiful Christmas markets with crafts, lights, and warm treats."
+            },
+            {
+              "name": "Ice Skating at Potsdamer Platz",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Ice+Skating+Potsdamer+Platz+Berlin",
+              "description": "Skate in the heart of the city surrounded by festive music and lights."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use the BVG public transport system — it covers buses, trams, U-Bahn, and S-Bahn across all Berlin zones.",
+          "link": "https://www.bvg.de/en"
+        },
+        {
+          "tip": "Get a Berlin WelcomeCard for unlimited travel and discounts at museums and attractions.",
+          "link": "https://www.berlin-welcomecard.de/en"
+        },
+        {
+          "tip": "Download the BVG Fahrinfo app for live schedules, tickets, and easy navigation around the city.",
+          "link": "https://www.bvg.de/en/tickets-and-fares/bvg-apps"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "spring",
+          "dates": "April",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cherry+Blossom+Festival+Berlin",
+          "description": "Cherry Blossom Festival — celebrates the blooming trees with food stalls, music, and photo ops."
+        },
+        {
+          "season": "summer",
+          "dates": "June–August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Berlin+Music+Week",
+          "description": "Berlin Music Week — a season-long celebration of live performances and street music."
+        },
+        {
+          "season": "autumn",
+          "dates": "October",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Festival+of+Lights+Berlin",
+          "description": "Festival of Lights — major monuments glow with stunning art projections."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Berlin+Christmas+Markets",
+          "description": "Christmas Markets — over 60 markets across the city offering lights, sweets, and souvenirs."
+        }
+      ],
+      "places": [
+        {
+          "name": "Brandenburg Gate",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Brandenburg+Gate+Berlin",
+          "description": "The symbol of Berlin’s unity and history, standing tall since the 18th century."
+        },
+        {
+          "name": "Reichstag Building",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Reichstag+Building+Berlin",
+          "description": "Germany’s parliament building with a glass dome offering amazing city views."
+        },
+        {
+          "name": "Checkpoint Charlie",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Checkpoint+Charlie+Berlin",
+          "description": "The famous crossing point between East and West Berlin during the Cold War."
+        },
+        {
+          "name": "Berlin TV Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Berlin+TV+Tower",
+          "description": "A futuristic tower with a rotating restaurant and stunning panoramic views."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Teufelsberg",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Teufelsberg+Berlin",
+          "description": "An abandoned Cold War listening station turned street art paradise — full of graffiti and creativity."
+        },
+        {
+          "name": "Prinzessinnengarten",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Prinzessinnengarten+Berlin",
+          "description": "A community garden in Kreuzberg where you can chill among plants and sip local herbal teas."
+        },
+        {
+          "name": "Badeschiff",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Badeschiff+Berlin",
+          "description": "A floating swimming pool on the Spree River — swim with a skyline view!"
+        }
+      ]
+    },
+
+    {
+      "name": "Cologne",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Cologne Cathedral (Kölner Dom)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cologne+Cathedral",
+            "description": "One of Europe’s most impressive Gothic cathedrals and a UNESCO World Heritage Site. Climb the 533 steps for a breathtaking view of the Rhine and city skyline."
+          },
+          {
+            "name": "Museum Ludwig",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+Ludwig+Cologne",
+            "description": "Home to one of Europe’s largest modern art collections, including works by Picasso, Warhol, and Lichtenstein — perfect for art lovers."
+          },
+          {
+            "name": "Roman-Germanic Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Roman-Germanic+Museum+Cologne",
+            "description": "An archaeological museum showcasing ancient Roman artifacts found beneath Cologne, including a stunning mosaic floor from a Roman villa."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Hohenzollern Bridge",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hohenzollern+Bridge+Cologne",
+            "description": "Snap iconic photos of the Cologne Cathedral framed by this love lock–covered bridge, especially at sunset."
+          },
+          {
+            "name": "Cologne Old Town (Altstadt)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Cologne+Old+Town",
+            "description": "Colorful houses, cobblestone streets, and lively riverfront cafés make the Old Town perfect for cheerful photo walks."
+          },
+          {
+            "name": "KölnTriangle Panorama",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=KölnTriangle+Panorama",
+            "description": "For the best city view, visit the KölnTriangle observation deck across the Rhine and capture Cologne’s skyline."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Früh am Dom",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Früh+am+Dom+Cologne",
+            "description": "A traditional beer hall serving hearty German food and the famous local beer, Kölsch, right next to the cathedral."
+          },
+          {
+            "name": "Brauhaus Sion",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Brauhaus+Sion+Cologne",
+            "description": "Historic brewery restaurant offering authentic Rhineland dishes and a cozy atmosphere loved by locals."
+          },
+          {
+            "name": "Belgian Quarter (Belgisches Viertel)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Belgisches+Viertel+Cologne",
+            "description": "Trendy district filled with creative bars, cafés, and live music — a favorite hangout spot for young people."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Rheinpark",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Rheinpark+Cologne",
+            "description": "A beautiful riverside park with gardens, fountains, and open lawns — ideal for a picnic or chill walk."
+          },
+          {
+            "name": "Flora and Botanical Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Flora+and+Botanical+Garden+Cologne",
+            "description": "Peaceful botanical gardens full of rare plants and colorful flowers — perfect for nature lovers and photographers."
+          },
+          {
+            "name": "Aachener Weiher",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Aachener+Weiher+Cologne",
+            "description": "A relaxing lake surrounded by green lawns where locals gather for picnics, frisbee, or summer evenings with music."
+          }
+        ]
+      },
+      "local_food_tip": "Try 'Himmel un Ääd' (Heaven and Earth) — mashed potatoes with applesauce and sausage — and don’t forget to order a glass of local Kölsch beer served in a tall, narrow glass.",
+      "full_day": {
+        "morning": "☀️ Start your day at <a href='https://www.google.com/maps/search/?api=1&query=Cologne+Cathedral'>Cologne Cathedral</a>, then enjoy breakfast in the <a href='https://www.google.com/maps/search/?api=1&query=Cologne+Old+Town'>Old Town</a> overlooking the Rhine.",
+        "afternoon": "🎨 Visit <a href='https://www.google.com/maps/search/?api=1&query=Museum+Ludwig+Cologne'>Museum Ludwig</a> for modern art or stroll across the <a href='https://www.google.com/maps/search/?api=1&query=Hohenzollern+Bridge+Cologne'>Hohenzollern Bridge</a> for epic river views.",
+        "evening": "🌆 Relax in <a href='https://www.google.com/maps/search/?api=1&query=Rheinpark+Cologne'>Rheinpark</a> or have dinner at <a href='https://www.google.com/maps/search/?api=1&query=Früh+am+Dom+Cologne'>Früh am Dom</a> for traditional food.",
+        "night": "🌙 End your day in the <a href='https://www.google.com/maps/search/?api=1&query=Belgisches+Viertel+Cologne'>Belgian Quarter</a> with music, lights, and a refreshing glass of Kölsch."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Cologne’s parks and riverside bloom with flowers, and locals return to outdoor cafés.",
+          "ideas": [
+            {
+              "name": "Flora Botanical Garden Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Flora+and+Botanical+Garden+Cologne",
+              "description": "Admire spring blossoms in one of Germany’s oldest botanical gardens."
+            },
+            {
+              "name": "Rhine Promenade Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Rhine+Promenade+Cologne",
+              "description": "Enjoy gentle spring breezes and pastel sunsets along the river."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Sunny days by the Rhine, open-air festivals, and rooftop cafés fill the city with energy.",
+          "ideas": [
+            {
+              "name": "Cologne Lights (Kölner Lichter)",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Kölner+Lichter+Cologne",
+              "description": "A spectacular fireworks show over the Rhine set to music — one of the city’s biggest summer events."
+            },
+            {
+              "name": "Beach Clubs by the Rhine",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Rheinstrand+Cologne",
+              "description": "Relax with mocktails or snacks at pop-up urban beaches near the river."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Warm colors and cozy cafés make the city atmosphere charming and calm.",
+          "ideas": [
+            {
+              "name": "Museum Night Cologne",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Museumsnacht+Köln",
+              "description": "Explore museums late into the night with lights, DJs, and special exhibits."
+            },
+            {
+              "name": "Rheinauhafen Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Rheinauhafen+Cologne",
+              "description": "Modern architecture, riverside views, and coffee shops — perfect for a crisp autumn day."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Christmas markets and festive lights make Cologne magical during the holiday season.",
+          "ideas": [
+            {
+              "name": "Cologne Cathedral Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cologne+Cathedral+Christmas+Market",
+              "description": "Enjoy gingerbread, ornaments, and skating near the majestic cathedral."
+            },
+            {
+              "name": "Carnival Season Kickoff",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Cologne+Carnival",
+              "description": "In November, Cologne bursts into color with costumes, parades, and laughter during the famous Carnival celebrations."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Cologne’s KVB network covers trams, buses, and trains that connect all parts of the city.",
+          "link": "https://www.kvb.koeln/"
+        },
+        {
+          "tip": "The KVB app offers live departure times and mobile tickets — super easy for short trips.",
+          "link": "https://www.kvb.koeln/app"
+        },
+        {
+          "tip": "Consider a KölnCard for unlimited public transport and discounts at attractions.",
+          "link": "https://www.cologne-tourism.com/see-experience/koelncard/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "winter",
+          "dates": "November–February",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cologne+Carnival",
+          "description": "Cologne Carnival — the city’s most famous and colorful celebration with costumes, parades, and music everywhere."
+        },
+        {
+          "season": "summer",
+          "dates": "July",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kölner+Lichter+Cologne",
+          "description": "Cologne Lights — a dazzling fireworks display along the Rhine set to live music."
+        },
+        {
+          "season": "autumn",
+          "dates": "November",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Museumsnacht+Köln",
+          "description": "Museum Night — over 40 museums and galleries stay open with art, light, and sound installations."
+        }
+      ],
+      "places": [
+        {
+          "name": "Cologne Cathedral",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cologne+Cathedral",
+          "description": "An awe-inspiring Gothic masterpiece and symbol of Cologne."
+        },
+        {
+          "name": "Museum Ludwig",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Museum+Ludwig+Cologne",
+          "description": "A must-visit for fans of modern and contemporary art."
+        },
+        {
+          "name": "Old Town (Altstadt)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Cologne+Old+Town",
+          "description": "Charming cobblestone streets, colorful houses, and lively squares filled with restaurants and shops."
+        },
+        {
+          "name": "Chocolate Museum (Schokoladenmuseum)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Chocolate+Museum+Cologne",
+          "description": "Interactive exhibits showing how chocolate is made — with delicious samples included!"
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "NS Documentation Center (EL-DE Haus)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=NS+Documentation+Center+Cologne",
+          "description": "A powerful museum in a former Gestapo prison that tells Cologne’s WWII history with respect and depth."
+        },
+        {
+          "name": "Stadtwald Park",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Stadtwald+Park+Cologne",
+          "description": "A peaceful park with small lakes, animals, and walking trails — ideal for a lazy afternoon in nature."
+        },
+        {
+          "name": "Severinstorburg",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Severinstorburg+Cologne",
+          "description": "A medieval city gate that now hosts cultural events and offers great photo opportunities."
+        }
+      ]
+    },
+
+    {
+      "name": "Dresden",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Zwinger Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Zwinger+Palace+Dresden",
+            "description": "A Baroque masterpiece housing art galleries, porcelain collections, and fountains — one of Germany’s most elegant palace complexes."
+          },
+          {
+            "name": "Frauenkirche Dresden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Frauenkirche+Dresden",
+            "description": "A stunning church rebuilt after WWII, symbolizing peace and resilience. The view from its dome is breathtaking."
+          },
+          {
+            "name": "Semperoper Opera House",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Semperoper+Dresden",
+            "description": "A world-famous opera house with grand architecture and nightly performances — a must-see even from the outside."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Brühl’s Terrace (Brühlsche Terrasse)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Brühl’s+Terrace+Dresden",
+            "description": "Known as 'the Balcony of Europe', this river promenade offers scenic views over the Elbe and Dresden’s old town skyline."
+          },
+          {
+            "name": "Canaletto View",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Canaletto+View+Dresden",
+            "description": "The best spot to photograph Dresden’s skyline — the same view captured by the painter Canaletto in the 18th century."
+          },
+          {
+            "name": "Dresden Castle Courtyard",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dresden+Castle",
+            "description": "A quiet and elegant courtyard surrounded by Renaissance arches — perfect for historical photos."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Pulverturm an der Frauenkirche",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pulverturm+an+der+Frauenkirche+Dresden",
+            "description": "A cozy restaurant in a restored wine cellar serving Saxon specialties like roast pork and potato dumplings."
+          },
+          {
+            "name": "Dresdner Kaffeestübchen",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Dresdner+Kaffeestübchen",
+            "description": "A charming café known for serving traditional cakes like Eierschecke — a must-try Dresden dessert."
+          },
+          {
+            "name": "Neustadt District",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Neustadt+Dresden",
+            "description": "The city’s creative heart full of street art, indie bars, and live music — perfect for exploring after sunset."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Grosser Garten",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Großer+Garten+Dresden",
+            "description": "A huge park with lakes, flower gardens, and a small train — great for biking or just relaxing in nature."
+          },
+          {
+            "name": "Elbe Riverbanks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Elbe+River+Dresden",
+            "description": "Perfect for a picnic or evening stroll with views of old bridges and the glowing skyline."
+          },
+          {
+            "name": "Pillnitz Palace & Gardens",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pillnitz+Palace+Dresden",
+            "description": "A beautiful riverside palace surrounded by botanical gardens — a peaceful retreat from the city."
+          }
+        ]
+      },
+      "local_food_tip": "Don’t miss trying 'Sächsische Eierschecke', a layered cake made with custard and quark cheese, best enjoyed with a cup of hot coffee at a Dresden café.",
+      "full_day": {
+        "morning": "☀️ Start your day at <a href='https://www.google.com/maps/search/?api=1&query=Frauenkirche+Dresden'>Frauenkirche</a> and enjoy breakfast nearby. Stroll along <a href='https://www.google.com/maps/search/?api=1&query=Brühl’s+Terrace+Dresden'>Brühl’s Terrace</a> for morning views of the Elbe River.",
+        "afternoon": "🎨 Explore <a href='https://www.google.com/maps/search/?api=1&query=Zwinger+Palace+Dresden'>Zwinger Palace</a> and its art collections. Have lunch at <a href='https://www.google.com/maps/search/?api=1&query=Pulverturm+an+der+Frauenkirche+Dresden'>Pulverturm</a> to taste Saxon cuisine.",
+        "evening": "🌆 Visit <a href='https://www.google.com/maps/search/?api=1&query=Canaletto+View+Dresden'>Canaletto View</a> for sunset photos, then cross to <a href='https://www.google.com/maps/search/?api=1&query=Neustadt+Dresden'>Neustadt</a> for dinner and artful nightlife.",
+        "night": "🌙 Walk along the illuminated <a href='https://www.google.com/maps/search/?api=1&query=Elbe+River+Dresden'>Elbe River</a> or enjoy live music in one of Neustadt’s creative bars."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Dresden comes alive with cherry blossoms, open-air cafés, and colorful park gardens.",
+          "ideas": [
+            {
+              "name": "Großer Garten Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Großer+Garten+Dresden",
+              "description": "Bring snacks and enjoy blooming flowers in the city’s largest park."
+            },
+            {
+              "name": "Pillnitz Garden Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pillnitz+Palace+Dresden",
+              "description": "Stroll through the palace gardens as tulips and magnolias burst into color."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "River cruises, outdoor concerts, and golden sunsets make summer in Dresden unforgettable.",
+          "ideas": [
+            {
+              "name": "Elbe River Cruise",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Elbe+River+Cruise+Dresden",
+              "description": "Sail along the Elbe to see castles and vineyards from the water."
+            },
+            {
+              "name": "Film Nights on the Elbe",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Filmnächte+am+Elbufer+Dresden",
+              "description": "Watch movies under the stars with the old town skyline as your backdrop."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves line the riverbanks and cozy cafés invite you in for warm drinks.",
+          "ideas": [
+            {
+              "name": "Wine Harvest in Radebeul",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Radebeul+Wine+Festival",
+              "description": "Join locals celebrating the grape harvest just outside Dresden."
+            },
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Dresden+Old+Town",
+              "description": "Enjoy soft light and fall colors reflecting off Dresden’s Baroque buildings."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Snow-dusted rooftops and twinkling lights make Dresden one of Europe’s most festive cities.",
+          "ideas": [
+            {
+              "name": "Striezelmarkt Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Striezelmarkt+Dresden",
+              "description": "Germany’s oldest Christmas market with crafts, lights, and the famous Stollen cake."
+            },
+            {
+              "name": "Frauenkirche Winter Concerts",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Frauenkirche+Dresden",
+              "description": "Enjoy candlelit music performances in the city’s most iconic church."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "DVB (Dresdner Verkehrsbetriebe) operates trams and buses that make it easy to explore all parts of Dresden.",
+          "link": "https://www.dvb.de/en-gb/"
+        },
+        {
+          "tip": "Get a Dresden City Card for unlimited rides and discounts at museums and attractions.",
+          "link": "https://www.dresden.de/en/tourism/travel/citycard.php"
+        },
+        {
+          "tip": "For short trips, use the DVB app for live updates and mobile ticketing.",
+          "link": "https://www.dvb.de/en-gb/tickets-apps/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "winter",
+          "dates": "Late November–December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Striezelmarkt+Dresden",
+          "description": "Striezelmarkt — one of Europe’s oldest and most charming Christmas markets with gifts, food, and warm drinks."
+        },
+        {
+          "season": "summer",
+          "dates": "July–August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Filmnächte+am+Elbufer+Dresden",
+          "description": "Film Nights on the Elbe — an open-air film and concert festival with the old town as a backdrop."
+        },
+        {
+          "season": "autumn",
+          "dates": "September",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Radebeul+Wine+Festival",
+          "description": "Radebeul Wine Festival — celebrate the grape harvest with local wine, music, and markets."
+        }
+      ],
+      "places": [
+        {
+          "name": "Zwinger Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Zwinger+Palace+Dresden",
+          "description": "A stunning Baroque complex housing art galleries, fountains, and sculptures."
+        },
+        {
+          "name": "Frauenkirche Dresden",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Frauenkirche+Dresden",
+          "description": "A rebuilt Baroque church that stands as a global symbol of peace and restoration."
+        },
+        {
+          "name": "Semperoper",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Semperoper+Dresden",
+          "description": "An architectural jewel and home to one of Germany’s leading opera companies."
+        },
+        {
+          "name": "Dresden Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Dresden+Castle",
+          "description": "A Renaissance palace complex featuring the Green Vault and historic collections."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Kunsthofpassage",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Kunsthofpassage+Dresden",
+          "description": "A creative courtyard in Neustadt with artistic façades like the 'Singing Drainpipes' — a true local favorite."
+        },
+        {
+          "name": "Yenidze",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Yenidze+Dresden",
+          "description": "An old tobacco factory built to look like a mosque — now a restaurant and viewing tower with panoramic city views."
+        },
+        {
+          "name": "Blue Wonder Bridge (Blaues Wunder)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Blue+Wonder+Bridge+Dresden",
+          "description": "A famous steel bridge connecting the city’s scenic riverside neighborhoods — perfect for sunset walks."
+        }
+      ]
+    },
+
+    {
+      "name": "Hamburg",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Miniatur Wunderland",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Miniatur+Wunderland+Hamburg",
+            "description": "The world’s largest model railway and miniature world — featuring cities, airports, and mountains in incredible detail. Super fun for all ages!"
+          },
+          {
+            "name": "Elbphilharmonie",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Elbphilharmonie+Hamburg",
+            "description": "Hamburg’s iconic concert hall with futuristic glass architecture and stunning city views from its plaza."
+          },
+          {
+            "name": "Hamburg Kunsthalle",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hamburger+Kunsthalle",
+            "description": "A major art museum showcasing masterpieces from medieval to modern times, including works by Monet and Caspar David Friedrich."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Speicherstadt",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Speicherstadt+Hamburg",
+            "description": "A UNESCO-listed warehouse district with red-brick canals and bridges — most beautiful at sunset or when lit at night."
+          },
+          {
+            "name": "Landungsbrücken",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Landungsbrücken+Hamburg",
+            "description": "The harbor’s main promenade with ferries, old ships, and stunning skyline views — perfect for Instagram shots!"
+          },
+          {
+            "name": "Planten un Blomen Park",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Planten+un+Blomen+Hamburg",
+            "description": "A large city park full of fountains, lakes, and floral gardens — especially photogenic in spring and summer."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Fischmarkt",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hamburg+Fish+Market",
+            "description": "Hamburg’s famous Sunday fish market — enjoy fresh seafood, live music, and the city’s lively harbor vibe early in the morning."
+          },
+          {
+            "name": "StrandPauli",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=StrandPauli+Hamburg",
+            "description": "A beach-style bar on the Elbe with deck chairs, sand, and a chill summer atmosphere."
+          },
+          {
+            "name": "Schanzenviertel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Schanzenviertel+Hamburg",
+            "description": "Trendy neighborhood packed with street art, food trucks, indie cafés, and nightclubs — the heart of Hamburg’s youth culture."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Stadtpark",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hamburg+Stadtpark",
+            "description": "A huge urban park great for biking, playing, or chilling by the lake — locals love it for summer picnics."
+          },
+          {
+            "name": "Alster Lakes",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Binnenalster+Hamburg",
+            "description": "Take a walk or paddleboat around these calm city lakes surrounded by beautiful architecture and cafés."
+          },
+          {
+            "name": "Jenischpark",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Jenischpark+Hamburg",
+            "description": "A peaceful riverside park with open meadows, art museums, and views of ships sailing by."
+          }
+        ]
+      },
+      "local_food_tip": "Try 'Fischbrötchen' — a fresh fish sandwich served at the harbor — and 'Labskaus', a traditional sailor’s dish. Pair it with a refreshing apple spritzer or Fritz-Kola.",
+      "full_day": {
+        "morning": "☀️ Begin at <a href='https://www.google.com/maps/search/?api=1&query=Hamburg+Fish+Market'>Fischmarkt</a> for breakfast and harbor views, then stroll through <a href='https://www.google.com/maps/search/?api=1&query=Landungsbrücken+Hamburg'>Landungsbrücken</a> to watch ships go by.",
+        "afternoon": "🎨 Explore <a href='https://www.google.com/maps/search/?api=1&query=Speicherstadt+Hamburg'>Speicherstadt</a> and <a href='https://www.google.com/maps/search/?api=1&query=Miniatur+Wunderland+Hamburg'>Miniatur Wunderland</a>. Have lunch in the <a href='https://www.google.com/maps/search/?api=1&query=HafenCity+Hamburg'>HafenCity</a> district.",
+        "evening": "🌆 Head to the <a href='https://www.google.com/maps/search/?api=1&query=Elbphilharmonie+Hamburg'>Elbphilharmonie</a> plaza for a golden sunset view over the river.",
+        "night": "🌙 Chill at <a href='https://www.google.com/maps/search/?api=1&query=StrandPauli+Hamburg'>StrandPauli</a> or explore <a href='https://www.google.com/maps/search/?api=1&query=Schanzenviertel+Hamburg'>Schanzenviertel</a> for live music and street food."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Cherry blossoms bloom along the Alster, and cafés reopen their terraces for sunny afternoons.",
+          "ideas": [
+            {
+              "name": "Planten un Blomen Gardens",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Planten+un+Blomen+Hamburg",
+              "description": "Watch the fountains dance among colorful flowers — a local spring favorite."
+            },
+            {
+              "name": "Alster Lake Boat Ride",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Binnenalster+Boat+Ride+Hamburg",
+              "description": "Take a gentle cruise through Hamburg’s scenic waterways surrounded by blossoms."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Open-air concerts, beach bars, and long golden evenings by the water make Hamburg shine.",
+          "ideas": [
+            {
+              "name": "Altonale Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Altonale+Festival+Hamburg",
+              "description": "An art and culture street festival with music, food, and performances."
+            },
+            {
+              "name": "Elbjazz Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Elbjazz+Festival+Hamburg",
+              "description": "A jazz festival hosted in the port area with stages on ships and warehouses."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Warm colors along the parks and cozy cafés by the river make Hamburg peaceful and inspiring.",
+          "ideas": [
+            {
+              "name": "Kunsthalle Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hamburger+Kunsthalle",
+              "description": "Spend a chilly afternoon exploring art and relaxing in the museum café."
+            },
+            {
+              "name": "Stadtpark Autumn Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hamburg+Stadtpark",
+              "description": "Golden leaves and calm lakes make it a perfect fall stroll spot."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Harbor lights and Christmas markets create a cozy northern atmosphere.",
+          "ideas": [
+            {
+              "name": "Hamburg Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hamburg+Christmas+Market",
+              "description": "Visit the festive market at Rathausplatz for crafts, sweets, and hot chocolate."
+            },
+            {
+              "name": "Elbphilharmonie Winter Concert",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Elbphilharmonie+Hamburg",
+              "description": "Enjoy classical music surrounded by the glow of the harbor at night."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Hamburg’s HVV system includes buses, ferries, and trains that make getting around easy and scenic.",
+          "link": "https://www.hvv.de/en"
+        },
+        {
+          "tip": "Ferries 62 and 72 are part of the HVV system — you can use them with a regular ticket for a mini harbor cruise!",
+          "link": "https://www.hvv.de/en/ferries"
+        },
+        {
+          "tip": "The HVV app lets you buy tickets and check live routes across the whole city.",
+          "link": "https://www.hvv.de/en/app"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "spring",
+          "dates": "May",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hamburg+Port+Anniversary",
+          "description": "Hafengeburtstag — Hamburg’s Port Anniversary festival with ships, music, and fireworks along the Elbe."
+        },
+        {
+          "season": "summer",
+          "dates": "June",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Elbjazz+Festival+Hamburg",
+          "description": "Elbjazz — a unique jazz festival in Hamburg’s port area featuring concerts on boats and in warehouses."
+        },
+        {
+          "season": "winter",
+          "dates": "December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hamburg+Christmas+Markets",
+          "description": "Hamburg Christmas Markets — from Rathausplatz to St. Pauli, the city sparkles with festive cheer."
+        }
+      ],
+      "places": [
+        {
+          "name": "Elbphilharmonie",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Elbphilharmonie+Hamburg",
+          "description": "Hamburg’s architectural crown jewel with world-class concerts and a panoramic viewing platform."
+        },
+        {
+          "name": "Speicherstadt",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Speicherstadt+Hamburg",
+          "description": "The world’s largest warehouse district — a maze of canals, bridges, and brick charm."
+        },
+        {
+          "name": "Miniatur Wunderland",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Miniatur+Wunderland+Hamburg",
+          "description": "A magical miniature world that makes you feel like a giant traveler."
+        },
+        {
+          "name": "St. Michael’s Church (Michel)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Michael’s+Church+Hamburg",
+          "description": "Climb the tower for the best panoramic view of Hamburg and its harbor."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Old Elbe Tunnel (Alter Elbtunnel)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Alter+Elbtunnel+Hamburg",
+          "description": "A historic pedestrian tunnel under the river with cool tiles and vintage lights — totally unique!"
+        },
+        {
+          "name": "Oberhafenquartier",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Oberhafenquartier+Hamburg",
+          "description": "A creative district full of street art, small galleries, and hip cafés — perfect for exploring local talent."
+        },
+        {
+          "name": "Blankenese Treppenviertel",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Blankenese+Treppenviertel+Hamburg",
+          "description": "A charming hillside neighborhood with narrow stairways, white houses, and dreamy Elbe views."
+        }
+      ]
+    },
+
+    {
+      "name": "Heidelberg",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Heidelberg Castle",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+Castle",
+            "description": "A romantic hilltop ruin overlooking the city and Neckar River — explore its gardens, terraces, and the world’s largest wine barrel inside."
+          },
+          {
+            "name": "Old University and Student Prison (Studentenkarzer)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+Studentenkarzer",
+            "description": "Part of Heidelberg University, the historic student prison is covered in graffiti left by students from centuries past."
+          },
+          {
+            "name": "Kurpfälzisches Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kurpfälzisches+Museum+Heidelberg",
+            "description": "A local history museum featuring art, archaeology, and medieval artifacts that tell the story of the Palatinate region."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Old Bridge (Alte Brücke)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Alte+Brücke+Heidelberg",
+            "description": "A picturesque stone bridge offering postcard views of the castle and river — best at sunrise or sunset."
+          },
+          {
+            "name": "Philosopher’s Walk (Philosophenweg)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Philosophenweg+Heidelberg",
+            "description": "A scenic hillside path with panoramic views of Heidelberg’s old town, castle, and forests — ideal for golden-hour photos."
+          },
+          {
+            "name": "Kornmarkt Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kornmarkt+Heidelberg",
+            "description": "A charming square at the base of the castle hill, surrounded by cafés and framed by beautiful baroque buildings."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Vetters Alt Heidelberger Brauhaus",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vetters+Brauhaus+Heidelberg",
+            "description": "A traditional brewery in the Old Town serving hearty German dishes and their own craft beers."
+          },
+          {
+            "name": "Café Knösel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Café+Knösel+Heidelberg",
+            "description": "One of Heidelberg’s oldest cafés, famous for its 'Student’s Kiss' chocolates — a sweet local souvenir."
+          },
+          {
+            "name": "Unterestrasse Bars",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Unterestrasse+Heidelberg",
+            "description": "This lively street near the university is filled with student-friendly pubs, live music spots, and cozy lounges."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Heiligenberg Hill",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Heiligenberg+Hill+Heidelberg",
+            "description": "A forested hill with walking trails, old monastery ruins, and great views of Heidelberg Castle from across the river."
+          },
+          {
+            "name": "Neckarwiese",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Neckarwiese+Heidelberg",
+            "description": "A riverside park popular for picnics, frisbee, and sunbathing with the castle as a backdrop."
+          },
+          {
+            "name": "Königstuhl",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Königstuhl+Heidelberg",
+            "description": "Heidelberg’s highest hill — hike or take the funicular railway up for stunning forest views and fresh air."
+          }
+        ]
+      },
+      "local_food_tip": "Try 'Maultaschen' (Swabian dumplings) or 'Sauerbraten' (marinated roast beef) at a local tavern — and don’t miss the famous 'Student’s Kiss' chocolate from Café Knösel!",
+      "full_day": {
+        "morning": "☀️ Start at <a href='https://www.google.com/maps/search/?api=1&query=Heidelberg+Castle'>Heidelberg Castle</a>, explore its gardens, and enjoy the panoramic terrace views. Have breakfast with coffee at <a href='https://www.google.com/maps/search/?api=1&query=Café+Knösel+Heidelberg'>Café Knösel</a> in the Old Town.",
+        "afternoon": "🏞️ Walk across the <a href='https://www.google.com/maps/search/?api=1&query=Alte+Brücke+Heidelberg'>Old Bridge</a> and hike the <a href='https://www.google.com/maps/search/?api=1&query=Philosophenweg+Heidelberg'>Philosopher’s Walk</a>. Visit the <a href='https://www.google.com/maps/search/?api=1&query=Kurpfälzisches+Museum+Heidelberg'>Kurpfälzisches Museum</a> afterward.",
+        "evening": "🌆 Relax by the <a href='https://www.google.com/maps/search/?api=1&query=Neckarwiese+Heidelberg'>Neckarwiese</a> with snacks, or take the funicular to <a href='https://www.google.com/maps/search/?api=1&query=Königstuhl+Heidelberg'>Königstuhl</a> for sunset views.",
+        "night": "🌙 Enjoy dinner and live music in the <a href='https://www.google.com/maps/search/?api=1&query=Unterestrasse+Heidelberg'>Unterestrasse</a> area or grab a late-night crepe in the Old Town."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Cherry blossoms and mild weather make the Old Town and castle gardens glow with color.",
+          "ideas": [
+            {
+              "name": "Philosopher’s Walk in Bloom",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Philosophenweg+Heidelberg",
+              "description": "Walk through blooming trees while overlooking the pastel city rooftops."
+            },
+            {
+              "name": "Castle Garden Stroll",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+Castle+Gardens",
+              "description": "See flowers blossom around the castle’s romantic ruins."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm evenings by the river and outdoor festivals fill the city with music and light.",
+          "ideas": [
+            {
+              "name": "Heidelberg Castle Illumination",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+Castle+Illumination",
+              "description": "Watch fireworks and light shows over the castle — a magical summer highlight."
+            },
+            {
+              "name": "Picnic at Neckarwiese",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Neckarwiese+Heidelberg",
+              "description": "Join locals by the river with music, snacks, and games under the sunset."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves along the river and castle create a fairytale atmosphere.",
+          "ideas": [
+            {
+              "name": "Heiligenberg Hike",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Heiligenberg+Hill+Heidelberg",
+              "description": "Walk among colorful forests and visit ancient ruins with panoramic city views."
+            },
+            {
+              "name": "Wine Tasting in Palatinate Region",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Palatinate+Wine+Route",
+              "description": "Just outside Heidelberg, discover charming vineyards and autumn flavors."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Heidelberg turns into a winter fairytale with lights, markets, and cozy cafés.",
+          "ideas": [
+            {
+              "name": "Heidelberg Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+Christmas+Market",
+              "description": "Enjoy festive stalls, mulled wine, and handmade gifts across the Old Town squares."
+            },
+            {
+              "name": "Castle Winter Views",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+Castle",
+              "description": "See the snow-dusted castle glowing above the city’s warm lights."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Heidelberg’s VRN network connects trams, buses, and trains throughout the region — easy to navigate with a day pass.",
+          "link": "https://www.vrn.de/english/"
+        },
+        {
+          "tip": "Use the funicular railway to reach the castle or Königstuhl hill for great views without the climb.",
+          "link": "https://www.bergbahn-heidelberg.de/"
+        },
+        {
+          "tip": "Most attractions in the Old Town are walkable — wear comfy shoes for cobblestone streets!",
+          "link": "https://www.heidelberg-marketing.de/en"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "June–September",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+Castle+Illumination",
+          "description": "Heidelberg Castle Illumination — a spectacular light show and fireworks over the castle and river."
+        },
+        {
+          "season": "autumn",
+          "dates": "October",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+Literature+Festival",
+          "description": "Heidelberg Literature Festival — readings, author talks, and creative writing events across the city."
+        },
+        {
+          "season": "winter",
+          "dates": "Late November–December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+Christmas+Market",
+          "description": "Heidelberg Christmas Market — a festive wonderland spreading across multiple squares with lights and sweets."
+        }
+      ],
+      "places": [
+        {
+          "name": "Heidelberg Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+Castle",
+          "description": "The city’s crown jewel — a romantic ruin overlooking Heidelberg and the Neckar Valley."
+        },
+        {
+          "name": "Old Bridge (Alte Brücke)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Alte+Brücke+Heidelberg",
+          "description": "An 18th-century stone bridge connecting the Old Town with scenic riverbanks."
+        },
+        {
+          "name": "Philosopher’s Walk",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Philosophenweg+Heidelberg",
+          "description": "A peaceful path with one of the best panoramic views in all of Germany."
+        },
+        {
+          "name": "Old University",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Heidelberg+University",
+          "description": "Founded in 1386, one of Europe’s oldest universities — full of history and student stories."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Thingstätte Amphitheater",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Thingstätte+Heidelberg",
+          "description": "A large open-air amphitheater on Heiligenberg hill, surrounded by forest and history."
+        },
+        {
+          "name": "Jesuit Church (Jesuitenkirche)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Jesuitenkirche+Heidelberg",
+          "description": "A peaceful Baroque church tucked away in the Old Town with elegant interiors and a hidden courtyard."
+        },
+        {
+          "name": "Zuckerladen Heidelberg",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Zuckerladen+Heidelberg",
+          "description": "A quirky little candy shop filled with colorful sweets and vintage charm — a favorite among locals."
+        }
+      ]
+    },
+
+    {
+      "name": "Munich (München)",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Nymphenburg Palace",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nymphenburg+Palace+Munich",
+            "description": "A grand Baroque palace surrounded by lakes and gardens, once the summer residence of Bavarian kings. The opulent halls and mirrored ballroom are breathtaking."
+          },
+          {
+            "name": "Deutsches Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Deutsches+Museum+Munich",
+            "description": "The world’s largest science and technology museum — filled with interactive exhibits, planes, and even a full-size submarine!"
+          },
+          {
+            "name": "Alte Pinakothek",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Alte+Pinakothek+Munich",
+            "description": "A renowned art museum with European masterpieces from Da Vinci, Rubens, and Dürer — perfect for art lovers."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Marienplatz",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Marienplatz+Munich",
+            "description": "Munich’s main square, home to the New Town Hall and the Glockenspiel — the perfect starting point for photos of city life and architecture."
+          },
+          {
+            "name": "English Garden (Englischer Garten)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Englischer+Garten+Munich",
+            "description": "One of the world’s largest city parks — featuring green meadows, a Japanese teahouse, and even river surfers on the Eisbach Wave!"
+          },
+          {
+            "name": "Olympiapark",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Olympiapark+Munich",
+            "description": "The site of the 1972 Olympics — a futuristic park with panoramic city views from the Olympic Tower."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Hofbräuhaus München",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hofbräuhaus+München",
+            "description": "Munich’s most famous beer hall — with Bavarian music, pretzels, and traditional dishes served in a lively atmosphere."
+          },
+          {
+            "name": "Viktualienmarkt",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Viktualienmarkt+Munich",
+            "description": "An open-air food market with local cheeses, fruits, and snacks — grab a pretzel and relax at the beer garden in the center."
+          },
+          {
+            "name": "Glockenbachviertel",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Glockenbachviertel+Munich",
+            "description": "A stylish neighborhood filled with trendy cafés, restaurants, and nightspots — a favorite among Munich’s young crowd."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "English Garden",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Englischer+Garten+Munich",
+            "description": "Take a walk, rent a paddleboat, or relax under chestnut trees with a cold drink at a riverside beer garden."
+          },
+          {
+            "name": "Isar River Banks",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Isar+River+Munich",
+            "description": "Locals love to swim, picnic, or cycle along the Isar — especially in summer when it becomes the city’s chill-out zone."
+          },
+          {
+            "name": "Botanical Garden Munich-Nymphenburg",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Munich-Nymphenburg",
+            "description": "A peaceful garden filled with exotic plants, butterflies, and ponds near the Nymphenburg Palace."
+          }
+        ]
+      },
+      "local_food_tip": "Try 'Weißwurst' (white sausage) with sweet mustard and a pretzel before noon — it’s a Munich breakfast classic! For dessert, grab an 'Apfelstrudel' or 'Kaiserschmarrn' with vanilla sauce.",
+      "full_day": {
+        "morning": "☀️ Start at <a href='https://www.google.com/maps/search/?api=1&query=Marienplatz+Munich'>Marienplatz</a> to watch the Glockenspiel show, then grab breakfast at <a href='https://www.google.com/maps/search/?api=1&query=Viktualienmarkt+Munich'>Viktualienmarkt</a> with local treats.",
+        "afternoon": "🏰 Visit <a href='https://www.google.com/maps/search/?api=1&query=Nymphenburg+Palace+Munich'>Nymphenburg Palace</a> and its gardens, then explore <a href='https://www.google.com/maps/search/?api=1&query=Deutsches+Museum+Munich'>Deutsches Museum</a> for hands-on science fun.",
+        "evening": "🌆 Relax in the <a href='https://www.google.com/maps/search/?api=1&query=Englischer+Garten+Munich'>English Garden</a> or have dinner at <a href='https://www.google.com/maps/search/?api=1&query=Hofbräuhaus+München'>Hofbräuhaus</a> with live Bavarian music.",
+        "night": "🌙 Head to <a href='https://www.google.com/maps/search/?api=1&query=Glockenbachviertel+Munich'>Glockenbachviertel</a> for dessert or chill by the <a href='https://www.google.com/maps/search/?api=1&query=Isar+River+Munich'>Isar River</a> under the city lights."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Munich blossoms with tulips and cherry trees — perfect for picnics and riverside walks.",
+          "ideas": [
+            {
+              "name": "English Garden Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Englischer+Garten+Munich",
+              "description": "Pack snacks and enjoy blooming nature near the Chinese Tower beer garden."
+            },
+            {
+              "name": "Botanical Garden Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Botanical+Garden+Munich-Nymphenburg",
+              "description": "See spring flowers and butterflies in the palace gardens."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Beer gardens, river swims, and music festivals make summer in Munich full of life.",
+          "ideas": [
+            {
+              "name": "Tollwood Festival",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Tollwood+Festival+Munich",
+              "description": "A sustainable summer festival with art, world food, and live concerts at Olympiapark."
+            },
+            {
+              "name": "Isar River Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Isar+River+Munich",
+              "description": "Swim, picnic, or cycle along the Isar — locals’ favorite summer hangout."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden parks and Oktoberfest fill the city with color, laughter, and tradition.",
+          "ideas": [
+            {
+              "name": "Oktoberfest",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Oktoberfest+Munich",
+              "description": "The world’s largest beer festival with parades, rides, and Bavarian costumes — even if you don’t drink beer, it’s an amazing cultural experience."
+            },
+            {
+              "name": "Nymphenburg Park Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Nymphenburg+Palace+Gardens",
+              "description": "Admire golden leaves reflecting in the palace ponds."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Munich glows with Christmas lights, cozy cafés, and snowy rooftops.",
+          "ideas": [
+            {
+              "name": "Munich Christmas Market",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Munich+Christmas+Market",
+              "description": "At Marienplatz, sip hot chocolate or mulled wine surrounded by festive stalls."
+            },
+            {
+              "name": "Ice Skating at Karlsplatz",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Karlsplatz+Munich",
+              "description": "Skate in the heart of the city with holiday music and lights all around."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Munich’s MVV system includes U-Bahn, S-Bahn, trams, and buses — fast, clean, and easy to use.",
+          "link": "https://www.mvv-muenchen.de/en/"
+        },
+        {
+          "tip": "A day ticket or group ticket is great value if you’re traveling to multiple areas or with friends.",
+          "link": "https://www.mvv-muenchen.de/en/tickets-and-fares/day-ticket/index.html"
+        },
+        {
+          "tip": "Download the MVV app for real-time routes and digital tickets.",
+          "link": "https://www.mvv-muenchen.de/en/services/apps/index.html"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "autumn",
+          "dates": "Late September–Early October",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Oktoberfest+Munich",
+          "description": "Oktoberfest — Munich’s world-famous beer festival full of parades, music, and funfair rides."
+        },
+        {
+          "season": "summer",
+          "dates": "June–July",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Tollwood+Festival+Munich",
+          "description": "Tollwood Festival — an eco-friendly cultural event with concerts, art, and world cuisine."
+        },
+        {
+          "season": "winter",
+          "dates": "Late November–December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Munich+Christmas+Market",
+          "description": "Munich Christmas Market — twinkling lights, sweet treats, and handmade crafts at Marienplatz."
+        }
+      ],
+      "places": [
+        {
+          "name": "Marienplatz",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Marienplatz+Munich",
+          "description": "Munich’s vibrant central square — full of shops, history, and the famous Glockenspiel show."
+        },
+        {
+          "name": "Nymphenburg Palace",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Nymphenburg+Palace+Munich",
+          "description": "A royal residence surrounded by beautiful lakes and gardens — perfect for history and photography lovers."
+        },
+        {
+          "name": "English Garden",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Englischer+Garten+Munich",
+          "description": "One of the largest city parks in the world, filled with trails, beer gardens, and peaceful streams."
+        },
+        {
+          "name": "Deutsches Museum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Deutsches+Museum+Munich",
+          "description": "An incredible science museum where you can touch, try, and explore real inventions."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Asam Church (Asamkirche)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Asamkirche+Munich",
+          "description": "A tiny but richly decorated Baroque church hidden along Sendlinger Straße — a true artistic gem."
+        },
+        {
+          "name": "Gärtnerplatzviertel",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Gärtnerplatzviertel+Munich",
+          "description": "A colorful, bohemian neighborhood with cozy cafés and small local shops — great for people-watching."
+        },
+        {
+          "name": "Alter Peter Tower",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Alter+Peter+Munich",
+          "description": "Climb this church tower for the best panoramic view of Marienplatz and the Alps on clear days."
+        }
+      ]
+    },
+
+    {
+      "name": "Nuremberg (Nürnberg)",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Nuremberg Castle (Kaiserburg)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nuremberg+Castle",
+            "description": "A majestic medieval fortress towering over the Old Town. Explore the towers, deep well, and the castle museum for panoramic views of the city."
+          },
+          {
+            "name": "Germanisches Nationalmuseum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Germanisches+Nationalmuseum+Nuremberg",
+            "description": "Germany’s largest museum of cultural history, displaying art, artifacts, and fascinating exhibits about German life across the centuries."
+          },
+          {
+            "name": "Albrecht Dürer House",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Albrecht+Dürer+House+Nuremberg",
+            "description": "The restored 15th-century home of the famous Renaissance artist — see his workshop, tools, and woodcut art."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Weißgerbergasse",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Weißgerbergasse+Nuremberg",
+            "description": "A street lined with colorful medieval timbered houses — one of the most photogenic spots in Nuremberg."
+          },
+          {
+            "name": "Imperial Castle Viewpoint",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Nuremberg+Castle+Viewpoint",
+            "description": "Climb up to the castle walls for the best panoramic photos of the red rooftops and church towers."
+          },
+          {
+            "name": "Hauptmarkt Square",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hauptmarkt+Nuremberg",
+            "description": "The city’s central square, home to the famous Schöner Brunnen fountain and bustling market stalls."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Bratwurst Röslein",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Bratwurst+Röslein+Nuremberg",
+            "description": "The world’s largest sausage restaurant serving traditional Nürnberger Rostbratwurst with sauerkraut and mustard."
+          },
+          {
+            "name": "Hausbrauerei Altstadthof",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hausbrauerei+Altstadthof+Nuremberg",
+            "description": "A cozy brewery offering local craft beer and hearty Franconian food, located right under the castle."
+          },
+          {
+            "name": "Kaiserstraße & Gostenhof",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Kaiserstraße+Nuremberg",
+            "description": "Trendy areas filled with cafés, small bars, and live music — perfect for young travelers looking for a chill evening."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Pegnitz River Walk",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pegnitz+River+Nuremberg",
+            "description": "A scenic riverside path running through the city with bridges, ducks, and peaceful views — ideal for a calm stroll."
+          },
+          {
+            "name": "Wöhrder See",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Wöhrder+See+Nuremberg",
+            "description": "A lake near the city center popular for jogging, swimming, and picnics on sunny days."
+          },
+          {
+            "name": "Hesperidengärten",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Hesperidengärten+Nuremberg",
+            "description": "Hidden Baroque gardens with fountains, sculptures, and orange trees — a true urban oasis."
+          }
+        ]
+      },
+      "local_food_tip": "Try the famous 'Nürnberger Rostbratwurst' — small, flavorful sausages grilled over beechwood and served in sets of six or twelve. For dessert, have a piece of 'Nürnberger Lebkuchen' (gingerbread) — especially delicious in winter!",
+      "full_day": {
+        "morning": "☀️ Start your day at <a href='https://www.google.com/maps/search/?api=1&query=Nuremberg+Castle'>Nuremberg Castle</a> for history and views. Then grab breakfast and coffee in <a href='https://www.google.com/maps/search/?api=1&query=Weißgerbergasse+Nuremberg'>Weißgerbergasse</a> among colorful houses.",
+        "afternoon": "🎨 Visit <a href='https://www.google.com/maps/search/?api=1&query=Germanisches+Nationalmuseum+Nuremberg'>Germanisches Nationalmuseum</a> and the <a href='https://www.google.com/maps/search/?api=1&query=Albrecht+Dürer+House+Nuremberg'>Albrecht Dürer House</a>. Have lunch at <a href='https://www.google.com/maps/search/?api=1&query=Bratwurst+Röslein+Nuremberg'>Bratwurst Röslein</a> for authentic sausages.",
+        "evening": "🌆 Stroll through <a href='https://www.google.com/maps/search/?api=1&query=Pegnitz+River+Nuremberg'>Pegnitz River Walk</a> or visit <a href='https://www.google.com/maps/search/?api=1&query=Hauptmarkt+Nuremberg'>Hauptmarkt</a> as the lights turn on.",
+        "night": "🌙 Enjoy dinner and music at <a href='https://www.google.com/maps/search/?api=1&query=Hausbrauerei+Altstadthof+Nuremberg'>Hausbrauerei Altstadthof</a> or relax in a café in <a href='https://www.google.com/maps/search/?api=1&query=Gostenhof+Nuremberg'>Gostenhof</a>."
+      },
+      "seasons": {
+        "spring": {
+          "highlight": "Nuremberg’s parks and riverbanks bloom, and the city comes alive with outdoor cafés.",
+          "ideas": [
+            {
+              "name": "Hesperidengärten Visit",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Hesperidengärten+Nuremberg",
+              "description": "Wander through the blooming gardens full of citrus trees and sculptures."
+            },
+            {
+              "name": "Pegnitz River Picnic",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pegnitz+River+Nuremberg",
+              "description": "Bring snacks and relax by the water with city views."
+            }
+          ]
+        },
+        "summer": {
+          "highlight": "Warm festivals, outdoor concerts, and long sunny days make Nuremberg energetic and fun.",
+          "ideas": [
+            {
+              "name": "Nuremberg Bardentreffen",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Bardentreffen+Nuremberg",
+              "description": "One of Europe’s largest free music festivals with street performers and global artists."
+            },
+            {
+              "name": "Wöhrder See Swim Day",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Wöhrder+See+Nuremberg",
+              "description": "Cool off in the lake or rent a paddleboard for a fun summer activity."
+            }
+          ]
+        },
+        "autumn": {
+          "highlight": "Golden leaves and harvest festivals give the Old Town a cozy, warm glow.",
+          "ideas": [
+            {
+              "name": "Old Town Walk",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Weißgerbergasse+Nuremberg",
+              "description": "Enjoy fall colors and traditional markets around the cobblestone streets."
+            },
+            {
+              "name": "Franconian Wine Tasting",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Franconian+Wine+Region",
+              "description": "Try local wines at nearby vineyards or at city tasting events."
+            }
+          ]
+        },
+        "winter": {
+          "highlight": "Nuremberg transforms into a Christmas wonderland with lights, gingerbread, and snow.",
+          "ideas": [
+            {
+              "name": "Christkindlesmarkt",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Nuremberg+Christmas+Market",
+              "description": "Germany’s most famous Christmas market — glowing stalls, mulled wine, and handmade crafts in Hauptmarkt Square."
+            },
+            {
+              "name": "Warm Up with Lebkuchen",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Nuremberg+Lebkuchen+Shops",
+              "description": "Taste the city’s legendary gingerbread with almonds and honey at a local bakery."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "VAG Nuremberg operates trams, buses, and U-Bahn lines — easy to navigate with a day or group ticket.",
+          "link": "https://www.vag.de/en/"
+        },
+        {
+          "tip": "The VGN app helps plan routes and buy mobile tickets across the Nuremberg region.",
+          "link": "https://www.vgn.de/handyticket/"
+        },
+        {
+          "tip": "Most major sights are within walking distance in the Old Town — wear comfortable shoes for cobblestones.",
+          "link": "https://tourismus.nuernberg.de/en/"
+        }
+      ],
+      "city_events": [
+        {
+          "season": "summer",
+          "dates": "July–August",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Bardentreffen+Nuremberg",
+          "description": "Bardentreffen — a free international music festival filling the Old Town with hundreds of artists and concerts."
+        },
+        {
+          "season": "autumn",
+          "dates": "September",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Altstadtfest+Nuremberg",
+          "description": "Altstadtfest — a celebration of Franconian culture with food, folk music, and local beer."
+        },
+        {
+          "season": "winter",
+          "dates": "Late November–December",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Nuremberg+Christmas+Market",
+          "description": "Christkindlesmarkt — one of Germany’s most famous Christmas markets, known for its festive charm and sweet smells."
+        }
+      ],
+      "places": [
+        {
+          "name": "Nuremberg Castle",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Nuremberg+Castle",
+          "description": "A massive medieval fortress offering incredible city views and deep historical roots."
+        },
+        {
+          "name": "Hauptmarkt Square",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Hauptmarkt+Nuremberg",
+          "description": "Home to the daily market, the Schöner Brunnen fountain, and the famous Christmas market."
+        },
+        {
+          "name": "Germanisches Nationalmuseum",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Germanisches+Nationalmuseum+Nuremberg",
+          "description": "An impressive museum exploring Germany’s cultural and artistic heritage."
+        },
+        {
+          "name": "Albrecht Dürer House",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Albrecht+Dürer+House+Nuremberg",
+          "description": "A well-preserved 15th-century home of one of Germany’s greatest artists."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Historic Rock-Cut Cellars (Historische Felsengänge)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Historische+Felsengänge+Nuremberg",
+          "description": "A network of underground tunnels used for beer storage and air-raid shelters — take a guided tour for cool stories!"
+        },
+        {
+          "name": "Weinstadel",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Weinstadel+Nuremberg",
+          "description": "A medieval wine warehouse turned picturesque riverside building — one of the most beautiful spots in the city."
+        },
+        {
+          "name": "St. Johannis Cemetery",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=St.+Johannis+Friedhof+Nuremberg",
+          "description": "A peaceful and historic cemetery filled with ornate stone markers and flowers, where Albrecht Dürer rests."
+        }
+      ]
+    }
+  ]
+}

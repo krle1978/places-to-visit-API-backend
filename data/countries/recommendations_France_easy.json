@@ -1,0 +1,1760 @@
+{
+  "name": "France",
+  "cities": [
+    {
+      "name": "Avignon",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Palais des Papes (Papal Palace)",
+            "map_link": "https://www.google.com/maps/search/Palais+des+Papes+Avignon",
+            "description": "One of the largest Gothic buildings in Europe and a UNESCO World Heritage site. The Papal Palace was once the seat of popes in the 14th century and features grand halls, frescoes, and panoramic terraces."
+          },
+          {
+            "name": "Pont d’Avignon (Pont Saint-Bénézet)",
+            "map_link": "https://www.google.com/maps/search/Pont+Saint-Bénézet+Avignon",
+            "description": "The legendary medieval bridge partly crossing the Rhône River, known from the song 'Sur le Pont d’Avignon'. Offers beautiful views of the river and the city walls."
+          },
+          {
+            "name": "Musée Calvet",
+            "map_link": "https://www.google.com/maps/search/Musée+Calvet+Avignon",
+            "description": "Art and archaeology museum featuring fine arts, sculptures, and decorative objects from ancient to modern times, housed in an elegant 18th-century mansion."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Rocher des Doms",
+            "map_link": "https://www.google.com/maps/search/Rocher+des+Doms+Avignon",
+            "description": "A peaceful hilltop park behind the Papal Palace offering sweeping views over the Rhône River and the medieval city walls."
+          },
+          {
+            "name": "Pont d’Avignon at Sunset",
+            "map_link": "https://www.google.com/maps/search/Pont+d'Avignon+sunset+view+point",
+            "description": "Capture stunning golden-hour photos of the famous bridge with reflections on the water."
+          },
+          {
+            "name": "Rue des Teinturiers",
+            "map_link": "https://www.google.com/maps/search/Rue+des+Teinturiers+Avignon",
+            "description": "A charming cobbled street lined with cafés and waterwheels, especially atmospheric in the evening."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "La Fourchette",
+            "map_link": "https://www.google.com/maps/search/La+Fourchette+Avignon",
+            "description": "A classic Provençal restaurant serving regional dishes like ratatouille, lamb with herbs, and local wines."
+          },
+          {
+            "name": "Restaurant L’Essentiel",
+            "map_link": "https://www.google.com/maps/search/Restaurant+L'Essentiel+Avignon",
+            "description": "Modern French cuisine with creative plating and a cozy atmosphere just steps from the Papal Palace."
+          },
+          {
+            "name": "Le Bercail",
+            "map_link": "https://www.google.com/maps/search/Le+Bercail+Avignon",
+            "description": "Located across the river with a terrace view of Avignon’s skyline — perfect for dinner at sunset."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Île de la Barthelasse",
+            "map_link": "https://www.google.com/maps/search/Île+de+la+Barthelasse+Avignon",
+            "description": "A large green island in the Rhône River offering walking and cycling paths with views of the city and bridge."
+          },
+          {
+            "name": "Rocher des Doms Gardens",
+            "map_link": "https://www.google.com/maps/search/Jardins+du+Rocher+des+Doms+Avignon",
+            "description": "Lush gardens atop Avignon’s hill, with fountains, ducks, and shady benches — a perfect break from sightseeing."
+          },
+          {
+            "name": "Les Halles d’Avignon",
+            "map_link": "https://www.google.com/maps/search/Les+Halles+d'Avignon+market",
+            "description": "Indoor market full of fresh produce, cheese, pastries, and local specialties — ideal for a relaxed lunch or picnic shopping."
+          }
+        ]
+      },
+      "local_food_tip": "Try local Provençal dishes like tapenade, aioli, and 'daube provençale'. Don’t miss Châteauneuf-du-Pape wine from nearby vineyards.",
+      "full_day": {
+        "Morning": "☕ Start your day at <a href=\"https://www.google.com/maps/search/Les+Halles+d'Avignon+market\">Les Halles d’Avignon</a> for breakfast and a stroll, then explore the <a href=\"https://www.google.com/maps/search/Palais+des+Papes+Avignon\">Papal Palace</a> and its historic halls.",
+        "Afternoon": "🎨 Visit <a href=\"https://www.google.com/maps/search/Musée+Calvet+Avignon\">Musée Calvet</a> and walk down <a href=\"https://www.google.com/maps/search/Rue+des+Teinturiers+Avignon\">Rue des Teinturiers</a> for lunch and coffee.",
+        "Sunset": "🌅 Head to <a href=\"https://www.google.com/maps/search/Pont+Saint-Bénézet+Avignon\">Pont d’Avignon</a> or <a href=\"https://www.google.com/maps/search/Rocher+des+Doms+Avignon\">Rocher des Doms</a> for golden light views of the river.",
+        "Night": "🍽️ Dine at <a href=\"https://www.google.com/maps/search/Le+Bercail+Avignon\">Le Bercail</a> across the river, and enjoy the illuminated skyline of Avignon."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Printemps des Arts",
+          "description": "A local arts festival featuring concerts, exhibitions, and performances in April.",
+          "ideas": [
+            {
+              "name": "Cycling on Île de la Barthelasse",
+              "map_link": "https://www.google.com/maps/search/Île+de+la+Barthelasse+Avignon+cycling",
+              "description": "Ride along scenic river paths surrounded by blooming flowers."
+            },
+            {
+              "name": "Visit to Pont d’Avignon",
+              "map_link": "https://www.google.com/maps/search/Pont+Saint-Bénézet+Avignon",
+              "description": "Less crowded than in summer — perfect for calm photography."
+            },
+            {
+              "name": "Palais des Papes Gardens",
+              "map_link": "https://www.google.com/maps/search/Jardins+du+Rocher+des+Doms+Avignon",
+              "description": "Relax among fountains and trees in full bloom."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Festival d’Avignon",
+          "description": "One of Europe’s biggest theater festivals, turning the city into a stage every July.",
+          "ideas": [
+            {
+              "name": "Street Performances",
+              "map_link": "https://www.google.com/maps/search/Centre+Ville+Avignon+street+performances",
+              "description": "Catch free performances throughout the old town."
+            },
+            {
+              "name": "Evening by the Rhône",
+              "map_link": "https://www.google.com/maps/search/Le+Bercail+Avignon",
+              "description": "Enjoy riverside dining under string lights."
+            },
+            {
+              "name": "Sunset at Rocher des Doms",
+              "map_link": "https://www.google.com/maps/search/Rocher+des+Doms+Avignon+viewpoint",
+              "description": "Cool evening breeze and stunning city views."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Avignon Jazz Festival",
+          "description": "Celebrates jazz and modern music in historic venues each October.",
+          "ideas": [
+            {
+              "name": "Wine Tour to Châteauneuf-du-Pape",
+              "map_link": "https://www.google.com/maps/search/Châteauneuf-du-Pape+vineyards",
+              "description": "Visit vineyards just 20 minutes from Avignon."
+            },
+            {
+              "name": "Walk in Old Town",
+              "map_link": "https://www.google.com/maps/search/Centre+Ville+Avignon",
+              "description": "Admire fall colors and cozy cafés along the medieval streets."
+            },
+            {
+              "name": "Museums and Art Spaces",
+              "map_link": "https://www.google.com/maps/search/Musée+Calvet+Avignon",
+              "description": "Perfect indoor activities for cooler autumn days."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Christmas Market in Avignon",
+          "description": "Festive lights, crafts, and food stalls in Place de l’Horloge during December.",
+          "ideas": [
+            {
+              "name": "Hot Chocolate at Place de l’Horloge",
+              "map_link": "https://www.google.com/maps/search/Place+de+l'Horloge+Avignon+Christmas+Market",
+              "description": "Enjoy warm drinks under the Christmas decorations."
+            },
+            {
+              "name": "Visit Palais des Papes",
+              "map_link": "https://www.google.com/maps/search/Palais+des+Papes+Avignon",
+              "description": "Less crowded in winter, offering peaceful exploration."
+            },
+            {
+              "name": "Evening Walk along Rhône",
+              "map_link": "https://www.google.com/maps/search/Quai+de+la+Ligne+Avignon",
+              "description": "Quiet and romantic views of the city lights reflecting on the river."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Avignon Central Station (Gare Centre) connects to Marseille, Lyon, and Paris via regional trains.",
+          "link": "https://www.sncf.com/en"
+        },
+        {
+          "tip": "Tram lines T1 and T2 link Avignon’s city center with outlying areas including the TGV station.",
+          "link": "https://www.tcra.fr/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Festival d’Avignon",
+          "season": "Summer",
+          "description": "One of Europe’s top performing arts festivals, with hundreds of shows and street acts.",
+          "website": "https://festival-avignon.com",
+          "dates": "July"
+        },
+        {
+          "name": "Avignon Jazz Festival",
+          "season": "Autumn",
+          "description": "Annual jazz celebration featuring international artists.",
+          "website": "https://avignonjazzfestival.com",
+          "dates": "October"
+        }
+      ],
+      "places": [
+        {
+          "name": "Palais des Papes",
+          "map_link": "https://www.google.com/maps/search/Palais+des+Papes+Avignon",
+          "description": "The grand Papal Palace dominates the city skyline and reflects the power of the 14th-century papacy."
+        },
+        {
+          "name": "Pont d’Avignon",
+          "map_link": "https://www.google.com/maps/search/Pont+Saint-Bénézet+Avignon",
+          "description": "Historic bridge partly spanning the Rhône, offering timeless photo opportunities."
+        },
+        {
+          "name": "Rocher des Doms",
+          "map_link": "https://www.google.com/maps/search/Rocher+des+Doms+Avignon",
+          "description": "A peaceful park with the best panoramic views of Avignon, ideal for a picnic or rest."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Chartreuse du Val de Bénédiction",
+          "map_link": "https://www.google.com/maps/search/Chartreuse+du+Val+de+Bénédiction+Villeneuve-lès-Avignon",
+          "description": "A serene 14th-century monastery in nearby Villeneuve-lès-Avignon, filled with art and quiet courtyards."
+        },
+        {
+          "name": "Île de la Barthelasse Path",
+          "map_link": "https://www.google.com/maps/search/Île+de+la+Barthelasse+Avignon+path",
+          "description": "A tranquil walking path offering the best views of Avignon’s medieval walls and bridge."
+        },
+        {
+          "name": "La Mirande Courtyard Café",
+          "map_link": "https://www.google.com/maps/search/La+Mirande+Avignon+courtyard+cafe",
+          "description": "A hidden gem inside a historic hotel, perfect for tea or dessert in a peaceful courtyard."
+        }
+      ]
+    },
+
+    {
+      "name": "Cannes",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Palais des Festivals et des Congrès",
+            "map_link": "https://www.google.com/maps/search/Palais+des+Festivals+et+des+Congrès+Cannes",
+            "description": "The world-famous venue of the Cannes Film Festival, where red carpets and movie premieres bring global stars each May."
+          },
+          {
+            "name": "Musée de la Castre",
+            "map_link": "https://www.google.com/maps/search/Musée+de+la+Castre+Cannes",
+            "description": "Located in a medieval castle overlooking the city, this museum displays Mediterranean and world art with panoramic views from its tower."
+          },
+          {
+            "name": "Église Notre-Dame d’Espérance",
+            "map_link": "https://www.google.com/maps/search/Église+Notre-Dame+d’Espérance+Cannes",
+            "description": "A 17th-century church in Le Suquet, offering both historic charm and one of the best viewpoints in Cannes."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "La Croisette Promenade",
+            "map_link": "https://www.google.com/maps/search/La+Croisette+Cannes",
+            "description": "The palm-lined seafront boulevard with luxury hotels, boutiques, and stunning Mediterranean views."
+          },
+          {
+            "name": "Le Suquet (Old Town)",
+            "map_link": "https://www.google.com/maps/search/Le+Suquet+Cannes",
+            "description": "Cannes’ oldest neighborhood filled with narrow streets, pastel houses, and hilltop views."
+          },
+          {
+            "name": "Île Sainte-Marguerite",
+            "map_link": "https://www.google.com/maps/search/Île+Sainte-Marguerite+Cannes",
+            "description": "A small island just off the coast, perfect for nature photography and views of Cannes from the sea."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Astoux et Brun",
+            "map_link": "https://www.google.com/maps/search/Astoux+et+Brun+Cannes",
+            "description": "Local seafood favorite near the port, famous for oysters, mussels, and freshly caught fish."
+          },
+          {
+            "name": "Bobo Bistro",
+            "map_link": "https://www.google.com/maps/search/Bobo+Bistro+Cannes",
+            "description": "Trendy bistro serving Mediterranean cuisine with colorful décor and a lively atmosphere."
+          },
+          {
+            "name": "Gotha Club Cannes",
+            "map_link": "https://www.google.com/maps/search/Gotha+Club+Cannes",
+            "description": "A legendary summer nightclub hosting international DJs and glamorous events during the film festival."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Îles de Lérins",
+            "map_link": "https://www.google.com/maps/search/Îles+de+Lérins+Cannes",
+            "description": "Two peaceful islands accessible by boat — Sainte-Marguerite and Saint-Honorat — ideal for hiking, swimming, and picnics."
+          },
+          {
+            "name": "Parc de la Roseraie",
+            "map_link": "https://www.google.com/maps/search/Parc+de+la+Roseraie+Cannes",
+            "description": "A tranquil park filled with roses, pines, and seaside views, great for a quiet morning walk."
+          },
+          {
+            "name": "Plage du Midi",
+            "map_link": "https://www.google.com/maps/search/Plage+du+Midi+Cannes",
+            "description": "A wide sandy beach west of the old port, perfect for swimming and sunbathing with fewer crowds than La Croisette."
+          }
+        ]
+      },
+      "local_food_tip": "Try fresh seafood at the port and Provençal specialties like bouillabaisse and socca. For dessert, enjoy a tarte tropézienne with espresso.",
+      "full_day": {
+        "Morning": "☀️ Start with coffee along <a href=\"https://www.google.com/maps/search/La+Croisette+Cannes\">La Croisette</a>, then take a walk through <a href=\"https://www.google.com/maps/search/Le+Suquet+Cannes\">Le Suquet</a> for historic charm and city views.",
+        "Afternoon": "🚤 Take a short boat ride to <a href=\"https://www.google.com/maps/search/Île+Sainte-Marguerite+Cannes\">Île Sainte-Marguerite</a> for a picnic and swim, then return for lunch at <a href=\"https://www.google.com/maps/search/Astoux+et+Brun+Cannes\">Astoux et Brun</a>.",
+        "Sunset": "🌅 Head up to <a href=\"https://www.google.com/maps/search/Église+Notre-Dame+d’Espérance+Cannes\">Notre-Dame d’Espérance</a> for golden-hour photos over the bay.",
+        "Night": "🎶 Have dinner at <a href=\"https://www.google.com/maps/search/Bobo+Bistro+Cannes\">Bobo Bistro</a> and end your evening with cocktails or live music along La Croisette."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Canneseries",
+          "description": "A television series festival held every April, celebrating storytelling and digital media.",
+          "ideas": [
+            {
+              "name": "La Croisette Morning Walk",
+              "map_link": "https://www.google.com/maps/search/La+Croisette+Cannes",
+              "description": "Spring temperatures are perfect for long walks along the seafront."
+            },
+            {
+              "name": "Visit the Lérins Islands",
+              "map_link": "https://www.google.com/maps/search/Îles+de+Lérins+Cannes",
+              "description": "Wildflowers bloom across the islands in spring."
+            },
+            {
+              "name": "Le Suquet Exploration",
+              "map_link": "https://www.google.com/maps/search/Le+Suquet+Cannes",
+              "description": "Quiet streets and blooming balconies make for great photos."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Cannes Film Festival",
+          "description": "The most prestigious film festival in the world, drawing celebrities and film lovers each May.",
+          "ideas": [
+            {
+              "name": "Red Carpet Spotting",
+              "map_link": "https://www.google.com/maps/search/Palais+des+Festivals+et+des+Congrès+Cannes",
+              "description": "Watch premieres and celebrity arrivals from outside the venue."
+            },
+            {
+              "name": "Beach Relaxation at Plage du Midi",
+              "map_link": "https://www.google.com/maps/search/Plage+du+Midi+Cannes",
+              "description": "Enjoy clear waters and calm afternoons at one of Cannes’ best beaches."
+            },
+            {
+              "name": "Evening at Gotha Club",
+              "map_link": "https://www.google.com/maps/search/Gotha+Club+Cannes",
+              "description": "Dance the night away at Cannes’ most iconic summer nightclub."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Regates Royales",
+          "description": "An elegant sailing competition featuring vintage yachts each September.",
+          "ideas": [
+            {
+              "name": "Sailing Observation Point",
+              "map_link": "https://www.google.com/maps/search/Port+de+Cannes",
+              "description": "Watch the regatta from the old port or the pier near La Croisette."
+            },
+            {
+              "name": "Wine Tasting near Cannes",
+              "map_link": "https://www.google.com/maps/search/Vineyards+near+Cannes",
+              "description": "Visit nearby Provençal vineyards for autumn wine flavors."
+            },
+            {
+              "name": "Old Town Cafés",
+              "map_link": "https://www.google.com/maps/search/Le+Suquet+Cannes+cafes",
+              "description": "Relax in quiet cafés overlooking the harbor."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Cannes Shopping Festival",
+          "description": "Luxury boutiques and fashion shows light up the city in December.",
+          "ideas": [
+            {
+              "name": "Christmas Market at La Croisette",
+              "map_link": "https://www.google.com/maps/search/Cannes+Christmas+Market",
+              "description": "Enjoy festive stalls, lights, and mulled wine near the waterfront."
+            },
+            {
+              "name": "Walk in Le Suquet",
+              "map_link": "https://www.google.com/maps/search/Le+Suquet+Cannes",
+              "description": "Peaceful and beautifully lit during winter evenings."
+            },
+            {
+              "name": "Cozy Dinner at Bobo Bistro",
+              "map_link": "https://www.google.com/maps/search/Bobo+Bistro+Cannes",
+              "description": "Warm atmosphere with Provençal comfort food."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Cannes train station connects to Nice, Monaco, and Marseille via the regional TER line.",
+          "link": "https://www.sncf.com/en"
+        },
+        {
+          "tip": "Local Palm Bus lines cover the city and connect to Antibes, Grasse, and the airport.",
+          "link": "https://www.palmbus.fr/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Cannes Film Festival",
+          "season": "Spring–Summer",
+          "description": "The world's top film festival featuring premieres and global stars.",
+          "website": "https://www.festival-cannes.com",
+          "dates": "May"
+        },
+        {
+          "name": "Regates Royales",
+          "season": "Autumn",
+          "description": "Historic sailing regatta attracting beautiful vintage yachts each year.",
+          "website": "https://www.regatesroyales.com",
+          "dates": "September"
+        }
+      ],
+      "places": [
+        {
+          "name": "La Croisette",
+          "map_link": "https://www.google.com/maps/search/La+Croisette+Cannes",
+          "description": "The glamorous heart of Cannes — a seaside promenade lined with luxury hotels and palm trees."
+        },
+        {
+          "name": "Palais des Festivals et des Congrès",
+          "map_link": "https://www.google.com/maps/search/Palais+des+Festivals+et+des+Congrès+Cannes",
+          "description": "Home of the Cannes Film Festival and the city's most iconic building."
+        },
+        {
+          "name": "Le Suquet",
+          "map_link": "https://www.google.com/maps/search/Le+Suquet+Cannes",
+          "description": "The old town of Cannes offering charming alleys, restaurants, and views of the harbor."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Marché Forville",
+          "map_link": "https://www.google.com/maps/search/Marché+Forville+Cannes",
+          "description": "A lively local market selling fresh produce, flowers, and Provençal delicacies loved by locals."
+        },
+        {
+          "name": "Île Saint-Honorat",
+          "map_link": "https://www.google.com/maps/search/Île+Saint-Honorat+Cannes",
+          "description": "Peaceful island with a working monastery, vineyards, and walking trails — perfect for a quiet escape."
+        },
+        {
+          "name": "Villa Domergue",
+          "map_link": "https://www.google.com/maps/search/Villa+Domergue+Cannes",
+          "description": "Hidden art deco villa surrounded by lush gardens that hosts art exhibitions and cultural events in summer."
+        }
+      ]
+    },
+
+    {
+      "name": "Lyon",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Basilique Notre-Dame de Fourvière",
+            "map_link": "https://www.google.com/maps/search/Basilique+Notre-Dame+de+Fourvière+Lyon",
+            "description": "A grand 19th-century basilica sitting atop Fourvière Hill, offering breathtaking views over Lyon. Inside, its mosaics and gold details are stunning."
+          },
+          {
+            "name": "Musée des Confluences",
+            "map_link": "https://www.google.com/maps/search/Musée+des+Confluences+Lyon",
+            "description": "A futuristic museum where science, history, and anthropology meet — located at the confluence of the Rhône and Saône rivers."
+          },
+          {
+            "name": "Vieux Lyon (Old Lyon)",
+            "map_link": "https://www.google.com/maps/search/Vieux+Lyon",
+            "description": "One of the best-preserved Renaissance districts in Europe, filled with narrow cobbled streets, traboules (hidden passageways), and bouchons (traditional restaurants)."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Fourvière Hill Viewpoint",
+            "map_link": "https://www.google.com/maps/search/Fourvière+Hill+Viewpoint+Lyon",
+            "description": "A panoramic spot near the basilica offering views of the entire city and the Alps on clear days."
+          },
+          {
+            "name": "Place Bellecour",
+            "map_link": "https://www.google.com/maps/search/Place+Bellecour+Lyon",
+            "description": "One of Europe’s largest squares — perfect for photos of the equestrian statue of Louis XIV and the city skyline."
+          },
+          {
+            "name": "Mur des Canuts",
+            "map_link": "https://www.google.com/maps/search/Mur+des+Canuts+Lyon",
+            "description": "A massive trompe-l’œil mural depicting daily life in Lyon’s Croix-Rousse district — one of the most photographed walls in France."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Le Bouchon des Filles",
+            "map_link": "https://www.google.com/maps/search/Le+Bouchon+des+Filles+Lyon",
+            "description": "A cozy, authentic bouchon offering traditional Lyonnaise cuisine in a warm, friendly atmosphere."
+          },
+          {
+            "name": "Les Halles de Lyon Paul Bocuse",
+            "map_link": "https://www.google.com/maps/search/Les+Halles+de+Lyon+Paul+Bocuse",
+            "description": "A covered gourmet market named after Lyon’s famous chef, full of local specialties like saucisson, cheese, and pastries."
+          },
+          {
+            "name": "Le Sucre",
+            "map_link": "https://www.google.com/maps/search/Le+Sucre+Lyon",
+            "description": "A rooftop club and event space on the Confluence that mixes electronic music, art, and city views."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Parc de la Tête d’Or",
+            "map_link": "https://www.google.com/maps/search/Parc+de+la+Tête+d'Or+Lyon",
+            "description": "One of France’s largest urban parks — featuring a lake, botanical garden, and free zoo. A perfect spot for jogging or relaxing by the water."
+          },
+          {
+            "name": "Berges du Rhône",
+            "map_link": "https://www.google.com/maps/search/Berges+du+Rhône+Lyon",
+            "description": "Beautiful riverside paths great for biking or walking, with floating bars and gardens along the way."
+          },
+          {
+            "name": "Jardin des Curiosités",
+            "map_link": "https://www.google.com/maps/search/Jardin+des+Curiosités+Lyon",
+            "description": "A small, hidden park on a hill offering one of Lyon’s best sunset views away from the crowds."
+          }
+        ]
+      },
+      "local_food_tip": "Try Lyon’s famous quenelles, sausages, and praline tarts. Visit a 'bouchon' restaurant for an authentic experience, and enjoy local Côtes du Rhône wine.",
+      "full_day": {
+        "Morning": "☕ Start your day in <a href=\"https://www.google.com/maps/search/Vieux+Lyon\">Vieux Lyon</a> with coffee and croissants, then take the funicular up to <a href=\"https://www.google.com/maps/search/Basilique+Notre-Dame+de+Fourvière+Lyon\">Fourvière Basilica</a> for panoramic views.",
+        "Afternoon": "🍴 Have lunch at <a href=\"https://www.google.com/maps/search/Le+Bouchon+des+Filles+Lyon\">Le Bouchon des Filles</a>, then visit <a href=\"https://www.google.com/maps/search/Musée+des+Confluences+Lyon\">Musée des Confluences</a> to explore science and art under its glass dome.",
+        "Sunset": "🌇 Walk along the <a href=\"https://www.google.com/maps/search/Berges+du+Rhône+Lyon\">Berges du Rhône</a> or relax at <a href=\"https://www.google.com/maps/search/Jardin+des+Curiosités+Lyon\">Jardin des Curiosités</a> for sunset views.",
+        "Night": "🎶 Dine at <a href=\"https://www.google.com/maps/search/Les+Halles+de+Lyon+Paul+Bocuse\">Les Halles de Lyon</a> or enjoy rooftop music at <a href=\"https://www.google.com/maps/search/Le+Sucre+Lyon\">Le Sucre</a>."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Quais du Polar",
+          "description": "A major crime and mystery literature festival held every April in Lyon’s historic buildings.",
+          "ideas": [
+            {
+              "name": "Walk in Parc de la Tête d’Or",
+              "map_link": "https://www.google.com/maps/search/Parc+de+la+Tête+d'Or+Lyon",
+              "description": "See flowers bloom and rent a boat on the lake."
+            },
+            {
+              "name": "Explore Vieux Lyon",
+              "map_link": "https://www.google.com/maps/search/Vieux+Lyon",
+              "description": "Enjoy spring sunlight in the cobbled streets of the old town."
+            },
+            {
+              "name": "Coffee on Place Bellecour",
+              "map_link": "https://www.google.com/maps/search/Place+Bellecour+Lyon",
+              "description": "People-watch from a terrace café."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Nuits de Fourvière",
+          "description": "An annual summer arts festival with concerts, theatre, and dance held in the ancient Roman theatre of Fourvière.",
+          "ideas": [
+            {
+              "name": "Attend a Night Show at Fourvière",
+              "map_link": "https://www.google.com/maps/search/Théâtre+Antique+de+Fourvière+Lyon",
+              "description": "Experience live performances under the stars."
+            },
+            {
+              "name": "Evening Stroll along Rhône River",
+              "map_link": "https://www.google.com/maps/search/Berges+du+Rhône+Lyon",
+              "description": "Enjoy cool evening air and vibrant nightlife on floating bars."
+            },
+            {
+              "name": "Picnic in Parc de la Tête d’Or",
+              "map_link": "https://www.google.com/maps/search/Parc+de+la+Tête+d'Or+Lyon",
+              "description": "Relax under shade trees with local snacks."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Biennale d’Art Contemporain",
+          "description": "A major art biennale showcasing international contemporary art around the city.",
+          "ideas": [
+            {
+              "name": "Visit Musée des Confluences",
+              "map_link": "https://www.google.com/maps/search/Musée+des+Confluences+Lyon",
+              "description": "Perfect for a cultural afternoon indoors."
+            },
+            {
+              "name": "Wine Tasting in Beaujolais",
+              "map_link": "https://www.google.com/maps/search/Beaujolais+vineyards+near+Lyon",
+              "description": "Discover vineyards just north of the city during harvest season."
+            },
+            {
+              "name": "Explore Croix-Rousse Murals",
+              "map_link": "https://www.google.com/maps/search/Mur+des+Canuts+Lyon",
+              "description": "Stroll through the artistic district filled with street art."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Fête des Lumières",
+          "description": "Lyon’s most famous festival, where buildings and streets glow with artistic light installations every December.",
+          "ideas": [
+            {
+              "name": "Light Shows in Presqu’île",
+              "map_link": "https://www.google.com/maps/search/Presqu'île+Lyon+Fête+des+Lumières",
+              "description": "See stunning light displays in Lyon’s heart."
+            },
+            {
+              "name": "Hot Wine at Christmas Market",
+              "map_link": "https://www.google.com/maps/search/Place+Carnot+Christmas+Market+Lyon",
+              "description": "Warm up with vin chaud and local treats."
+            },
+            {
+              "name": "Basilica View at Night",
+              "map_link": "https://www.google.com/maps/search/Basilique+Notre-Dame+de+Fourvière+Lyon",
+              "description": "Admire the illuminated city from above."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Lyon’s TCL network includes metro, trams, and buses — all on one ticket system.",
+          "link": "https://www.tcl.fr/"
+        },
+        {
+          "tip": "High-speed trains (TGV) connect Lyon Part-Dieu Station to Paris in just 2 hours.",
+          "link": "https://www.sncf.com/en"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Fête des Lumières",
+          "season": "Winter",
+          "description": "Lyon’s Festival of Lights transforms the city into an open-air light show.",
+          "website": "https://www.fetedeslumieres.lyon.fr",
+          "dates": "December"
+        },
+        {
+          "name": "Nuits de Fourvière",
+          "season": "Summer",
+          "description": "Performing arts festival in the ancient Roman theatre.",
+          "website": "https://www.nuitsdefourviere.com",
+          "dates": "June–July"
+        }
+      ],
+      "places": [
+        {
+          "name": "Basilique Notre-Dame de Fourvière",
+          "map_link": "https://www.google.com/maps/search/Basilique+Notre-Dame+de+Fourvière+Lyon",
+          "description": "The shining white basilica overlooking Lyon, visible from nearly everywhere in the city."
+        },
+        {
+          "name": "Musée des Confluences",
+          "map_link": "https://www.google.com/maps/search/Musée+des+Confluences+Lyon",
+          "description": "A bold glass and metal museum at the meeting point of the Rhône and Saône rivers."
+        },
+        {
+          "name": "Parc de la Tête d’Or",
+          "map_link": "https://www.google.com/maps/search/Parc+de+la+Tête+d'Or+Lyon",
+          "description": "A green oasis in the city with a lake, gardens, and a zoo — ideal for relaxation."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Traboules of Croix-Rousse",
+          "map_link": "https://www.google.com/maps/search/Traboules+Croix-Rousse+Lyon",
+          "description": "Hidden passageways once used by silk workers — today a secret maze of tunnels and courtyards."
+        },
+        {
+          "name": "Passage Thiaffait",
+          "map_link": "https://www.google.com/maps/search/Passage+Thiaffait+Lyon",
+          "description": "An artistic courtyard filled with designer studios and concept shops — a hidden local favorite."
+        },
+        {
+          "name": "Jardin Rosa Mir",
+          "map_link": "https://www.google.com/maps/search/Jardin+Rosa+Mir+Lyon",
+          "description": "An extraordinary garden made entirely of seashells and stones, hidden in Croix-Rousse."
+        }
+      ]
+    },
+
+    {
+      "name": "Marseille",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Basilique Notre-Dame de la Garde",
+            "map_link": "https://www.google.com/maps/search/Basilique+Notre-Dame+de+la+Garde+Marseille",
+            "description": "The iconic basilica sitting high above Marseille offers panoramic views of the city and sea. Inside, its maritime-themed mosaics and candles tell the story of sailors’ devotion."
+          },
+          {
+            "name": "MuCEM (Museum of European and Mediterranean Civilisations)",
+            "map_link": "https://www.google.com/maps/search/MuCEM+Marseille",
+            "description": "A striking modern museum by the sea, dedicated to Mediterranean culture, art, and history. The architecture alone is worth the visit."
+          },
+          {
+            "name": "Le Panier District",
+            "map_link": "https://www.google.com/maps/search/Le+Panier+Marseille",
+            "description": "Marseille’s oldest neighborhood — a maze of narrow colorful streets filled with art studios, cafés, and local boutiques."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Vieux-Port (Old Port)",
+            "map_link": "https://www.google.com/maps/search/Vieux+Port+Marseille",
+            "description": "The historic harbor lined with boats, restaurants, and fishermen’s stalls — perfect for sunrise or evening photos."
+          },
+          {
+            "name": "Fort Saint-Jean Bridge",
+            "map_link": "https://www.google.com/maps/search/Fort+Saint-Jean+Marseille",
+            "description": "A pedestrian bridge connecting the fort and MuCEM, offering beautiful sea and city views."
+          },
+          {
+            "name": "Vallon des Auffes",
+            "map_link": "https://www.google.com/maps/search/Vallon+des+Auffes+Marseille",
+            "description": "A small fishing harbor hidden beneath a bridge — one of the city’s most picturesque photo spots."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Chez Etienne",
+            "map_link": "https://www.google.com/maps/search/Chez+Etienne+Marseille",
+            "description": "A classic Marseille restaurant serving wood-fired pizza and fresh seafood in a rustic atmosphere."
+          },
+          {
+            "name": "Le Miramar",
+            "map_link": "https://www.google.com/maps/search/Le+Miramar+Marseille",
+            "description": "Famous for authentic bouillabaisse, the city’s signature fish stew, right by the Vieux-Port."
+          },
+          {
+            "name": "R2 Rooftop",
+            "map_link": "https://www.google.com/maps/search/R2+Rooftop+Marseille",
+            "description": "An open-air terrace bar offering cocktails, live DJs, and stunning sunset views over the sea."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Calanques National Park",
+            "map_link": "https://www.google.com/maps/search/Calanques+National+Park+Marseille",
+            "description": "Spectacular limestone cliffs and turquoise coves stretching between Marseille and Cassis — ideal for hiking, swimming, or boat tours."
+          },
+          {
+            "name": "Prado Beach",
+            "map_link": "https://www.google.com/maps/search/Plage+du+Prado+Marseille",
+            "description": "One of Marseille’s main beaches, popular for swimming, volleyball, and picnics with locals."
+          },
+          {
+            "name": "Frioul Islands",
+            "map_link": "https://www.google.com/maps/search/Îles+du+Frioul+Marseille",
+            "description": "Accessible by ferry from the Old Port, these islands offer quiet beaches, trails, and views of Château d’If."
+          }
+        ]
+      },
+      "local_food_tip": "Try bouillabaisse, panisse (fried chickpea cake), and fresh seafood at the Vieux-Port. Pair your meal with local rosé from Provence.",
+      "full_day": {
+        "Morning": "☕ Start your day at <a href=\"https://www.google.com/maps/search/Vieux+Port+Marseille\">Vieux-Port</a> with coffee and croissants, then take the bus or hike up to <a href=\"https://www.google.com/maps/search/Basilique+Notre-Dame+de+la+Garde+Marseille\">Notre-Dame de la Garde</a> for stunning morning views.",
+        "Afternoon": "🌊 Visit <a href=\"https://www.google.com/maps/search/MuCEM+Marseille\">MuCEM</a> and <a href=\"https://www.google.com/maps/search/Fort+Saint-Jean+Marseille\">Fort Saint-Jean</a>, then enjoy lunch at <a href=\"https://www.google.com/maps/search/Le+Miramar+Marseille\">Le Miramar</a> by the harbor.",
+        "Sunset": "🌅 Take a walk through <a href=\"https://www.google.com/maps/search/Vallon+des+Auffes+Marseille\">Vallon des Auffes</a> to capture the sunset over the sea.",
+        "Night": "🎶 End the evening with cocktails and live music at <a href=\"https://www.google.com/maps/search/R2+Rooftop+Marseille\">R2 Rooftop</a> overlooking the city lights."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Printemps de l’Art Contemporain",
+          "description": "A citywide contemporary art festival held each May, featuring exhibitions and performances.",
+          "ideas": [
+            {
+              "name": "Calanques Boat Tour",
+              "map_link": "https://www.google.com/maps/search/Calanques+National+Park+boat+tour",
+              "description": "Perfect weather for exploring turquoise coves by boat."
+            },
+            {
+              "name": "Stroll in Le Panier",
+              "map_link": "https://www.google.com/maps/search/Le+Panier+Marseille",
+              "description": "Colorful streets full of flowers and local art."
+            },
+            {
+              "name": "Visit MuCEM",
+              "map_link": "https://www.google.com/maps/search/MuCEM+Marseille",
+              "description": "Less crowded in spring — ideal for photography and rooftop views."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Marseille Jazz des Cinq Continents",
+          "description": "International jazz festival held every July in outdoor venues across the city.",
+          "ideas": [
+            {
+              "name": "Swim at Prado Beach",
+              "map_link": "https://www.google.com/maps/search/Plage+du+Prado+Marseille",
+              "description": "Relax on the beach and cool off in the Mediterranean."
+            },
+            {
+              "name": "Evening Drinks at R2 Rooftop",
+              "map_link": "https://www.google.com/maps/search/R2+Rooftop+Marseille",
+              "description": "Enjoy sunset music sessions with a view."
+            },
+            {
+              "name": "Boat Trip to Frioul Islands",
+              "map_link": "https://www.google.com/maps/search/Îles+du+Frioul+Marseille",
+              "description": "Crystal-clear waters perfect for snorkeling."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Fiesta des Suds",
+          "description": "A multicultural music festival blending rock, reggae, and world sounds in October.",
+          "ideas": [
+            {
+              "name": "Old Port Walk",
+              "map_link": "https://www.google.com/maps/search/Vieux+Port+Marseille",
+              "description": "Enjoy the calm atmosphere after summer crowds leave."
+            },
+            {
+              "name": "Wine Tasting in Provence",
+              "map_link": "https://www.google.com/maps/search/Provence+vineyards+near+Marseille",
+              "description": "Join a local tour to sample wines and olive oils."
+            },
+            {
+              "name": "Dinner at Chez Etienne",
+              "map_link": "https://www.google.com/maps/search/Chez+Etienne+Marseille",
+              "description": "Classic Marseille cuisine in a cozy autumn setting."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Christmas Market at Vieux-Port",
+          "description": "Wooden chalets, lights, and local treats fill the Old Port during December.",
+          "ideas": [
+            {
+              "name": "Notre-Dame de la Garde Visit",
+              "map_link": "https://www.google.com/maps/search/Basilique+Notre-Dame+de+la+Garde+Marseille",
+              "description": "Beautiful views of the city covered in winter light."
+            },
+            {
+              "name": "Hot Chocolate at Le Panier",
+              "map_link": "https://www.google.com/maps/search/Le+Panier+Marseille+cafes",
+              "description": "Warm cafés and street art walks."
+            },
+            {
+              "name": "Marseille Soap Shopping",
+              "map_link": "https://www.google.com/maps/search/Savonnerie+Marseille+shop",
+              "description": "Buy authentic 'Savon de Marseille' soaps as souvenirs."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use RTM buses, trams, and metro lines to move easily around the city with one ticket system.",
+          "link": "https://www.rtm.fr/"
+        },
+        {
+          "tip": "Ferries to Frioul Islands depart daily from Vieux-Port (Quai des Belges).",
+          "link": "https://lebateau.fr/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Marseille Jazz des Cinq Continents",
+          "season": "Summer",
+          "description": "A major jazz festival featuring artists from around the world.",
+          "website": "https://www.marseillejazz.com",
+          "dates": "July"
+        },
+        {
+          "name": "Fiesta des Suds",
+          "season": "Autumn",
+          "description": "Colorful multicultural music festival near the port.",
+          "website": "https://www.dock-des-suds.org",
+          "dates": "October"
+        }
+      ],
+      "places": [
+        {
+          "name": "Basilique Notre-Dame de la Garde",
+          "map_link": "https://www.google.com/maps/search/Basilique+Notre-Dame+de+la+Garde+Marseille",
+          "description": "Marseille’s best-known landmark offering a complete view of the city and harbor."
+        },
+        {
+          "name": "MuCEM",
+          "map_link": "https://www.google.com/maps/search/MuCEM+Marseille",
+          "description": "A modern cultural museum surrounded by sea walls and bridges connecting to Fort Saint-Jean."
+        },
+        {
+          "name": "Le Panier",
+          "map_link": "https://www.google.com/maps/search/Le+Panier+Marseille",
+          "description": "The old quarter where Marseille’s spirit comes alive with murals, small cafés, and artisan shops."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Vallon des Auffes",
+          "map_link": "https://www.google.com/maps/search/Vallon+des+Auffes+Marseille",
+          "description": "A tiny harbor with colorful fishing boats and seafood restaurants, tucked under a stone bridge — a local favorite for dinner."
+        },
+        {
+          "name": "Calanque de Sormiou",
+          "map_link": "https://www.google.com/maps/search/Calanque+de+Sormiou+Marseille",
+          "description": "One of the most beautiful coves in the Calanques, featuring turquoise water and white cliffs, reachable by hike or car in summer."
+        },
+        {
+          "name": "La Friche la Belle de Mai",
+          "map_link": "https://www.google.com/maps/search/La+Friche+la+Belle+de+Mai+Marseille",
+          "description": "A cultural hotspot in a former tobacco factory with art exhibits, skate parks, rooftop cinema, and concerts — beloved by local youth."
+        }
+      ]
+    },
+
+    {
+      "name": "Nice",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Musée Matisse",
+            "map_link": "https://www.google.com/maps/search/Musée+Matisse+Nice",
+            "description": "Located in a 17th-century villa surrounded by olive trees, this museum showcases works by Henri Matisse created during his years on the French Riviera."
+          },
+          {
+            "name": "Old Town (Vieux Nice)",
+            "map_link": "https://www.google.com/maps/search/Vieux+Nice",
+            "description": "A maze of colorful streets filled with markets, local shops, and baroque churches. The heart of traditional Niçoise culture."
+          },
+          {
+            "name": "Musée d’Art Moderne et d’Art Contemporain (MAMAC)",
+            "map_link": "https://www.google.com/maps/search/MAMAC+Nice",
+            "description": "A bold modern art museum featuring works by Yves Klein, Niki de Saint Phalle, and Pop Art icons."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Promenade des Anglais",
+            "map_link": "https://www.google.com/maps/search/Promenade+des+Anglais+Nice",
+            "description": "The city’s famous seafront boulevard lined with palm trees and blue chairs — perfect for sunrise walks and sea-view photos."
+          },
+          {
+            "name": "Castle Hill (Colline du Château)",
+            "map_link": "https://www.google.com/maps/search/Colline+du+Château+Nice",
+            "description": "A hilltop park with waterfalls and panoramic views of Nice’s old town and bay — a must for photographers."
+          },
+          {
+            "name": "Place Masséna",
+            "map_link": "https://www.google.com/maps/search/Place+Masséna+Nice",
+            "description": "The central square known for its checkerboard pavement, red façades, and glowing sculptures at night."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "La Rossettisserie",
+            "map_link": "https://www.google.com/maps/search/La+Rossettisserie+Nice",
+            "description": "A cozy restaurant in Old Town specializing in rotisserie meats and Provençal dishes."
+          },
+          {
+            "name": "Le Plongeoir",
+            "map_link": "https://www.google.com/maps/search/Le+Plongeoir+Nice",
+            "description": "An elegant restaurant built on a rock above the sea, offering Mediterranean cuisine and spectacular views."
+          },
+          {
+            "name": "Wayne’s Bar",
+            "map_link": "https://www.google.com/maps/search/Wayne's+Bar+Nice",
+            "description": "A lively bar in Vieux Nice with live music, dancing, and a friendly crowd — perfect for nightlife."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Parc de la Colline du Château",
+            "map_link": "https://www.google.com/maps/search/Parc+de+la+Colline+du+Château+Nice",
+            "description": "A green oasis overlooking the city, with picnic spots and a small waterfall — accessible by stairs or elevator."
+          },
+          {
+            "name": "Coco Beach",
+            "map_link": "https://www.google.com/maps/search/Coco+Beach+Nice",
+            "description": "A rocky beach with clear blue water, less crowded than the main promenade beaches."
+          },
+          {
+            "name": "Jardin Albert 1er",
+            "map_link": "https://www.google.com/maps/search/Jardin+Albert+1er+Nice",
+            "description": "A lush park between the Promenade des Anglais and Place Masséna, great for relaxing under palm trees."
+          }
+        ]
+      },
+      "local_food_tip": "Try 'socca' (crispy chickpea pancake), 'salade niçoise', and local rosé. Visit the Cours Saleya market early for fresh fruit and lavender honey.",
+      "full_day": {
+        "Morning": "☀️ Start at <a href=\"https://www.google.com/maps/search/Vieux+Nice\">Vieux Nice</a> and have breakfast near <a href=\"https://www.google.com/maps/search/Cours+Saleya+Market+Nice\">Cours Saleya Market</a>. Then climb <a href=\"https://www.google.com/maps/search/Colline+du+Château+Nice\">Castle Hill</a> for panoramic views.",
+        "Afternoon": "🌊 Have lunch at <a href=\"https://www.google.com/maps/search/Le+Plongeoir+Nice\">Le Plongeoir</a> by the sea, then relax at <a href=\"https://www.google.com/maps/search/Coco+Beach+Nice\">Coco Beach</a> or stroll along <a href=\"https://www.google.com/maps/search/Promenade+des+Anglais+Nice\">Promenade des Anglais</a>.",
+        "Sunset": "🌅 Watch the sunset from <a href=\"https://www.google.com/maps/search/Colline+du+Château+Nice\">Castle Hill</a> or <a href=\"https://www.google.com/maps/search/Promenade+des+Anglais+Nice\">the promenade</a>.",
+        "Night": "🎶 Enjoy dinner at <a href=\"https://www.google.com/maps/search/La+Rossettisserie+Nice\">La Rossettisserie</a> and drinks at <a href=\"https://www.google.com/maps/search/Wayne's+Bar+Nice\">Wayne’s Bar</a> in the Old Town."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Nice Printemps des Arts",
+          "description": "A spring festival of classical music, theater, and art held in March and April.",
+          "ideas": [
+            {
+              "name": "Castle Hill Walk",
+              "map_link": "https://www.google.com/maps/search/Colline+du+Château+Nice",
+              "description": "See blooming flowers and mild weather views of the bay."
+            },
+            {
+              "name": "Visit Matisse Museum",
+              "map_link": "https://www.google.com/maps/search/Musée+Matisse+Nice",
+              "description": "Perfect for a peaceful cultural afternoon."
+            },
+            {
+              "name": "Market at Cours Saleya",
+              "map_link": "https://www.google.com/maps/search/Cours+Saleya+Market+Nice",
+              "description": "Buy fresh flowers and spring produce."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Nice Jazz Festival",
+          "description": "One of Europe’s oldest jazz festivals, held every July in the city center.",
+          "ideas": [
+            {
+              "name": "Swim at Coco Beach",
+              "map_link": "https://www.google.com/maps/search/Coco+Beach+Nice",
+              "description": "Enjoy clear water and sunshine away from the crowds."
+            },
+            {
+              "name": "Evening Walk on Promenade des Anglais",
+              "map_link": "https://www.google.com/maps/search/Promenade+des+Anglais+Nice",
+              "description": "Feel the sea breeze and watch street artists perform."
+            },
+            {
+              "name": "Night Out in Old Town",
+              "map_link": "https://www.google.com/maps/search/Wayne's+Bar+Nice",
+              "description": "Music, people, and vibrant nightlife under warm summer skies."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Fête du Château",
+          "description": "A traditional festival celebrating the city’s hilltop park and community, held each September.",
+          "ideas": [
+            {
+              "name": "Museum Day at MAMAC",
+              "map_link": "https://www.google.com/maps/search/MAMAC+Nice",
+              "description": "Enjoy modern art exhibitions as temperatures cool."
+            },
+            {
+              "name": "Walk in Jardin Albert 1er",
+              "map_link": "https://www.google.com/maps/search/Jardin+Albert+1er+Nice",
+              "description": "Relax among autumn-colored trees near the beach."
+            },
+            {
+              "name": "Wine Tasting in Bellet Vineyards",
+              "map_link": "https://www.google.com/maps/search/Vignobles+de+Bellet+Nice",
+              "description": "Visit the nearby Bellet area for local wines."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Nice Carnival",
+          "description": "France’s most colorful winter festival with parades, flowers, and floats in February.",
+          "ideas": [
+            {
+              "name": "Carnival Parade at Place Masséna",
+              "map_link": "https://www.google.com/maps/search/Place+Masséna+Nice",
+              "description": "Watch the famous floats and confetti shows."
+            },
+            {
+              "name": "Visit Matisse and Chagall Museums",
+              "map_link": "https://www.google.com/maps/search/Musée+Chagall+Nice",
+              "description": "Perfect indoor activity during cooler days."
+            },
+            {
+              "name": "Hot Chocolate in Old Town",
+              "map_link": "https://www.google.com/maps/search/Vieux+Nice+cafes",
+              "description": "Cozy cafés and lights make the winter atmosphere magical."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "The Lignes d’Azur tram and bus network covers all of Nice — tickets work for both and can be bought at machines or via app.",
+          "link": "https://www.lignesdazur.com/"
+        },
+        {
+          "tip": "Trains from Nice-Ville Station connect to Cannes, Monaco, and Menton along the scenic Côte d’Azur line.",
+          "link": "https://www.sncf.com/en"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Nice Carnival",
+          "season": "Winter",
+          "description": "One of Europe’s biggest carnivals featuring giant floats and flower parades.",
+          "website": "https://www.nicecarnaval.com",
+          "dates": "February"
+        },
+        {
+          "name": "Nice Jazz Festival",
+          "season": "Summer",
+          "description": "Historic music festival hosting world-class jazz and pop artists.",
+          "website": "https://www.nicejazzfestival.fr",
+          "dates": "July"
+        }
+      ],
+      "places": [
+        {
+          "name": "Promenade des Anglais",
+          "map_link": "https://www.google.com/maps/search/Promenade+des+Anglais+Nice",
+          "description": "Nice’s most famous promenade stretching along the Baie des Anges, lined with palm trees and cafés."
+        },
+        {
+          "name": "Castle Hill",
+          "map_link": "https://www.google.com/maps/search/Colline+du+Château+Nice",
+          "description": "A green park above the Old Town offering the best views of Nice’s coast."
+        },
+        {
+          "name": "Old Town (Vieux Nice)",
+          "map_link": "https://www.google.com/maps/search/Vieux+Nice",
+          "description": "Historic quarter filled with colorful streets, art galleries, and traditional markets."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Grotte du Lazaret",
+          "map_link": "https://www.google.com/maps/search/Grotte+du+Lazaret+Nice",
+          "description": "An archaeological cave near the coast, offering a glimpse into prehistoric human history in the region."
+        },
+        {
+          "name": "Monastère de Cimiez Gardens",
+          "map_link": "https://www.google.com/maps/search/Monastère+de+Cimiez+Nice",
+          "description": "Peaceful gardens with olive trees and views of the city — a quiet escape from the crowds."
+        },
+        {
+          "name": "Place Garibaldi Cafés",
+          "map_link": "https://www.google.com/maps/search/Place+Garibaldi+Nice",
+          "description": "A charming square with local cafés where residents gather for morning coffee and evening aperitifs."
+        }
+      ]
+    },
+
+    {
+      "name": "Paris",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Louvre Museum",
+            "map_link": "https://www.google.com/maps/search/Louvre+Museum+Paris",
+            "description": "The world’s largest art museum and home to masterpieces like the Mona Lisa and the Venus de Milo. Its glass pyramid entrance is one of Paris’s most iconic sights."
+          },
+          {
+            "name": "Musée d’Orsay",
+            "map_link": "https://www.google.com/maps/search/Musée+d'Orsay+Paris",
+            "description": "Housed in a former railway station, this museum features Impressionist and Post-Impressionist works by Monet, Van Gogh, and Degas."
+          },
+          {
+            "name": "Palace of Versailles",
+            "map_link": "https://www.google.com/maps/search/Palace+of+Versailles",
+            "description": "A UNESCO World Heritage site known for its opulent halls, royal gardens, and the iconic Hall of Mirrors."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Eiffel Tower",
+            "map_link": "https://www.google.com/maps/search/Eiffel+Tower+Paris",
+            "description": "The symbol of Paris — best photographed from the Trocadéro Gardens, especially at sunset or when it sparkles at night."
+          },
+          {
+            "name": "Montmartre & Sacré-Cœur",
+            "map_link": "https://www.google.com/maps/search/Sacré-Cœur+Paris",
+            "description": "A hilltop neighborhood known for its artists, cobbled streets, and stunning city views."
+          },
+          {
+            "name": "Pont Alexandre III",
+            "map_link": "https://www.google.com/maps/search/Pont+Alexandre+III+Paris",
+            "description": "One of the most elegant bridges in Europe, with golden statues and views of the Seine and Eiffel Tower."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Le Procope",
+            "map_link": "https://www.google.com/maps/search/Le+Procope+Paris",
+            "description": "Paris’s oldest café, open since 1686 — serving traditional French dishes in a historic setting once visited by Voltaire and Rousseau."
+          },
+          {
+            "name": "L’As du Fallafel",
+            "map_link": "https://www.google.com/maps/search/L’As+du+Fallafel+Paris",
+            "description": "A famous street-food spot in Le Marais known for its huge falafel sandwiches and lively atmosphere."
+          },
+          {
+            "name": "Le Perchoir Marais",
+            "map_link": "https://www.google.com/maps/search/Le+Perchoir+Marais+Paris",
+            "description": "A rooftop bar with panoramic views of Paris — perfect for cocktails at sunset."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Luxembourg Gardens",
+            "map_link": "https://www.google.com/maps/search/Luxembourg+Gardens+Paris",
+            "description": "Beautiful gardens with fountains, sculptures, and chairs where locals relax or read under chestnut trees."
+          },
+          {
+            "name": "Tuileries Garden",
+            "map_link": "https://www.google.com/maps/search/Tuileries+Garden+Paris",
+            "description": "Historic gardens between the Louvre and Place de la Concorde — perfect for an afternoon stroll."
+          },
+          {
+            "name": "Bois de Boulogne",
+            "map_link": "https://www.google.com/maps/search/Bois+de+Boulogne+Paris",
+            "description": "A vast park on the city’s edge with lakes, gardens, and the Louis Vuitton Foundation museum."
+          }
+        ]
+      },
+      "local_food_tip": "Try croissants and café crème for breakfast, onion soup or steak-frites for lunch, and crêpes for dessert. Don’t miss sampling pastries at a local boulangerie.",
+      "full_day": {
+        "Morning": "☕ Begin at <a href=\"https://www.google.com/maps/search/Louvre+Museum+Paris\">the Louvre</a>, then walk through <a href=\"https://www.google.com/maps/search/Tuileries+Garden+Paris\">Tuileries Garden</a> toward <a href=\"https://www.google.com/maps/search/Place+de+la+Concorde+Paris\">Place de la Concorde</a>.",
+        "Afternoon": "🎨 Visit <a href=\"https://www.google.com/maps/search/Musée+d'Orsay+Paris\">Musée d’Orsay</a>, have lunch at a café along the Seine, and take photos at <a href=\"https://www.google.com/maps/search/Pont+Alexandre+III+Paris\">Pont Alexandre III</a>.",
+        "Sunset": "🌅 Enjoy the sunset from <a href=\"https://www.google.com/maps/search/Trocadéro+Gardens+Paris\">Trocadéro Gardens</a> with a view of the Eiffel Tower.",
+        "Night": "🍷 Dine at <a href=\"https://www.google.com/maps/search/Le+Procope+Paris\">Le Procope</a> or grab a drink at <a href=\"https://www.google.com/maps/search/Le+Perchoir+Marais+Paris\">Le Perchoir Marais</a>."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Printemps du Louvre",
+          "description": "Spring art and fashion exhibitions across central Paris in April and May.",
+          "ideas": [
+            {
+              "name": "Picnic in Luxembourg Gardens",
+              "map_link": "https://www.google.com/maps/search/Luxembourg+Gardens+Paris",
+              "description": "Cherry blossoms and flowers make this park especially beautiful in spring."
+            },
+            {
+              "name": "Stroll along the Seine",
+              "map_link": "https://www.google.com/maps/search/Seine+River+Paris",
+              "description": "Walk from Notre-Dame to the Louvre under blooming trees."
+            },
+            {
+              "name": "Visit Monet’s Water Lilies at Musée de l’Orangerie",
+              "map_link": "https://www.google.com/maps/search/Musée+de+l'Orangerie+Paris",
+              "description": "Admire Impressionist masterpieces in a calm setting."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Fête de la Musique",
+          "description": "Music festival held every June 21st, filling the streets of Paris with live performances.",
+          "ideas": [
+            {
+              "name": "Sunbathe on the Seine at Paris Plages",
+              "map_link": "https://www.google.com/maps/search/Paris+Plages",
+              "description": "The city turns parts of the riverbanks into urban beaches."
+            },
+            {
+              "name": "Evening Cruise on the Seine",
+              "map_link": "https://www.google.com/maps/search/Seine+Cruise+Paris",
+              "description": "See illuminated monuments from the water."
+            },
+            {
+              "name": "Relax at Canal Saint-Martin",
+              "map_link": "https://www.google.com/maps/search/Canal+Saint-Martin+Paris",
+              "description": "Trendy cafés and bridges make this a perfect summer hangout."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Nuit Blanche",
+          "description": "All-night art installations and performances across the city in October.",
+          "ideas": [
+            {
+              "name": "Visit Montmartre during Sunset",
+              "map_link": "https://www.google.com/maps/search/Sacré-Cœur+Paris",
+              "description": "Golden autumn light over Paris rooftops."
+            },
+            {
+              "name": "Explore Le Marais",
+              "map_link": "https://www.google.com/maps/search/Le+Marais+Paris",
+              "description": "Charming boutiques and cafés surrounded by fall colors."
+            },
+            {
+              "name": "Walk in Parc des Buttes-Chaumont",
+              "map_link": "https://www.google.com/maps/search/Parc+des+Buttes-Chaumont+Paris",
+              "description": "Lakes, cliffs, and orange leaves make it a hidden autumn gem."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Christmas Markets of Paris",
+          "description": "From the Champs-Élysées to Hôtel de Ville, enjoy festive lights, gifts, and hot chocolate during December.",
+          "ideas": [
+            {
+              "name": "Eiffel Tower Light Show",
+              "map_link": "https://www.google.com/maps/search/Eiffel+Tower+Paris",
+              "description": "The tower sparkles every hour after sunset — magical in winter."
+            },
+            {
+              "name": "Ice Skating at Hôtel de Ville",
+              "map_link": "https://www.google.com/maps/search/Hôtel+de+Ville+Paris+ice+skating",
+              "description": "Skate surrounded by Christmas lights in the city center."
+            },
+            {
+              "name": "Hot Chocolate at Angelina",
+              "map_link": "https://www.google.com/maps/search/Angelina+Paris",
+              "description": "Enjoy Paris’s richest hot chocolate at this historic tea house."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use the RATP metro, RER, or buses — one ticket covers transfers for 90 minutes.",
+          "link": "https://www.ratp.fr/en"
+        },
+        {
+          "tip": "Book advance tickets for Versailles and museums to skip lines.",
+          "link": "https://www.parisinfo.com/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Fête de la Musique",
+          "season": "Summer",
+          "description": "A citywide celebration of music with free concerts and performances.",
+          "website": "https://fetedelamusique.culture.gouv.fr",
+          "dates": "June 21"
+        },
+        {
+          "name": "Nuit Blanche",
+          "season": "Autumn",
+          "description": "All-night contemporary art festival across Paris.",
+          "website": "https://quefaire.paris.fr/nuitblanche",
+          "dates": "October"
+        }
+      ],
+      "places": [
+        {
+          "name": "Eiffel Tower",
+          "map_link": "https://www.google.com/maps/search/Eiffel+Tower+Paris",
+          "description": "Paris’s iconic iron landmark with observation decks, restaurants, and stunning light shows at night."
+        },
+        {
+          "name": "Louvre Museum",
+          "map_link": "https://www.google.com/maps/search/Louvre+Museum+Paris",
+          "description": "The most visited museum in the world, housing thousands of works of art across centuries."
+        },
+        {
+          "name": "Montmartre",
+          "map_link": "https://www.google.com/maps/search/Montmartre+Paris",
+          "description": "A bohemian district filled with art studios, cafés, and the famous Sacré-Cœur Basilica."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Covered Passages of Paris",
+          "map_link": "https://www.google.com/maps/search/Passage+des+Panoramas+Paris",
+          "description": "Glass-roofed arcades from the 19th century filled with bookshops and cafés — perfect for rainy days."
+        },
+        {
+          "name": "La Coulée Verte (Promenade Plantée)",
+          "map_link": "https://www.google.com/maps/search/La+Coulée+Verte+Paris",
+          "description": "An elevated park built on an old railway line — a peaceful walk above the city streets."
+        },
+        {
+          "name": "Musée de la Vie Romantique",
+          "map_link": "https://www.google.com/maps/search/Musée+de+la+Vie+Romantique+Paris",
+          "description": "A small museum with a hidden garden café, dedicated to 19th-century art and writers."
+        }
+      ]
+    },
+
+    {
+      "name": "Saint-Tropez",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Annonciade Museum",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Annonciade+Museum+Saint-Tropez",
+            "description": "A compact but important art museum housed in a former chapel, featuring post-Impressionist works by artists like Signac and Matisse who were inspired by the light of the French Riviera."
+          },
+          {
+            "name": "Citadel of Saint-Tropez",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Citadel+of+Saint-Tropez",
+            "description": "A 17th-century fortress overlooking the town and sea, offering insight into local maritime history along with panoramic views of the Gulf of Saint-Tropez."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "Old Port (Vieux Port)",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Vieux+Port+Saint-Tropez",
+            "description": "Colorful waterfront lined with cafés, yachts, and pastel buildings, especially photogenic in the early morning or golden hour."
+          },
+          {
+            "name": "La Ponche Quarter",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=La+Ponche+Saint-Tropez",
+            "description": "The historic fishermen’s quarter with narrow streets, soft-toned houses, and quiet corners that contrast with the town’s glamorous image."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Place des Lices Market",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Place+des+Lices+Market+Saint-Tropez",
+            "description": "A lively Provençal market held twice weekly, offering local cheeses, olives, pastries, and street food ideal for a casual lunch."
+          },
+          {
+            "name": "Portside Cafés",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Port+de+Saint-Tropez",
+            "description": "Relaxed cafés along the harbor where you can try seafood dishes or enjoy a drink while watching boats come and go."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Pampelonne Beach",
+            "map_link": "https://www.google.com/maps/search/?api=1&query=Pampelonne+Beach",
+            "description": "A long sandy beach just outside town, known for both public sections and famous beach clubs, with clear water and wide open views."
+          },
+          {
+            "name": "Coastal Path (Sentier du Littoral)",
+            "map_link": "43.266204,6.637981",
+            "description": "A scenic walking path along the rocky coastline, offering quiet coves, Mediterranean vegetation, and sea views away from the crowds."
+          }
+        ]
+      },
+      "local_food_tip": "Try tarte tropézienne, a local brioche cake filled with cream, best enjoyed from a small bakery rather than a tourist café.",
+      "full_day": {
+        "Morning": "☀️ Start your day with a walk around the <a href=\"https://www.google.com/maps/search/?api=1&query=Vieux+Port+Saint-Tropez\">Old Port</a> and explore the nearby streets of La Ponche for a calm introduction to the town.",
+        "Afternoon": "🎨 Visit the <a href=\"https://www.google.com/maps/search/?api=1&query=Annonciade+Museum+Saint-Tropez\">Annonciade Museum</a>, then head to Place des Lices for lunch and market browsing.",
+        "Sunset": "🌅 Walk up to the <a href=\"https://www.google.com/maps/search/?api=1&query=Citadel+of+Saint-Tropez\">Citadel</a> for sunset views over the Gulf.",
+        "Night": "🌙 Enjoy a relaxed dinner near the harbor and a quiet evening stroll along the port."
+      },
+      "seasons": {
+        "spring": {
+          "event": "Les Bravades",
+          "description": "A traditional local festival celebrating Saint-Tropez’s history with parades and ceremonies.",
+          "ideas": [
+            {
+              "name": "Harbor Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Port+de+Saint-Tropez",
+              "description": "Mild weather makes spring ideal for long walks along the port without summer crowds."
+            },
+            {
+              "name": "Market Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Place+des+Lices+Market+Saint-Tropez",
+              "description": "Fresh produce and flowers are at their best in spring."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Annonciade+Museum+Saint-Tropez",
+              "description": "Comfortable temperatures for cultural sightseeing."
+            }
+          ]
+        },
+        "summer": {
+          "event": "Summer Beach Season",
+          "description": "Peak season with beach life, events, and long sunny days.",
+          "ideas": [
+            {
+              "name": "Pampelonne Beach Days",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Pampelonne+Beach",
+              "description": "Swimming and relaxing in the Mediterranean."
+            },
+            {
+              "name": "Boat Watching",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Vieux+Port+Saint-Tropez",
+              "description": "Luxury yachts and lively harbor scenes."
+            },
+            {
+              "name": "Evening Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=La+Ponche+Saint-Tropez",
+              "description": "Cooler evenings in the old town."
+            }
+          ]
+        },
+        "autumn": {
+          "event": "Les Voiles de Saint-Tropez",
+          "description": "An international sailing regatta attracting classic and modern yachts.",
+          "ideas": [
+            {
+              "name": "Regatta Viewing",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Port+de+Saint-Tropez",
+              "description": "Watch sailing races from the shore."
+            },
+            {
+              "name": "Coastal Walks",
+              "map_link": "43.266204,6.637981",
+              "description": "Pleasant temperatures and fewer visitors."
+            },
+            {
+              "name": "Photography",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Citadel+of+Saint-Tropez",
+              "description": "Clear skies and warm light for photos."
+            }
+          ]
+        },
+        "winter": {
+          "event": "Quiet Winter Season",
+          "description": "A calm, local-focused period with minimal crowds.",
+          "ideas": [
+            {
+              "name": "Old Town Exploration",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=La+Ponche+Saint-Tropez",
+              "description": "Experience daily life without tourism pressure."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Annonciade+Museum+Saint-Tropez",
+              "description": "Ideal time for indoor cultural activities."
+            },
+            {
+              "name": "Seafront Walks",
+              "map_link": "https://www.google.com/maps/search/?api=1&query=Port+de+Saint-Tropez",
+              "description": "Peaceful walks along the water."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Use regional buses to reach Saint-Tropez from nearby towns, especially during summer when roads are congested.",
+          "link": "https://www.zou.maregionsud.fr"
+        },
+        {
+          "tip": "Boat shuttles operate across the Gulf of Saint-Tropez and can save time compared to driving.",
+          "link": "https://www.bateauxverts.com"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Les Voiles de Saint-Tropez",
+          "season": "Autumn",
+          "description": "One of the most famous sailing events in the Mediterranean.",
+          "website": "https://www.lesvoilesdesainttropez.fr",
+          "dates": "Late September – Early October"
+        },
+        {
+          "name": "Les Bravades",
+          "season": "Spring",
+          "description": "Traditional festival honoring the town’s patron saint.",
+          "website": "https://www.sainttropeztourisme.com",
+          "dates": "May"
+        }
+      ],
+      "places": [
+        {
+          "name": "Citadel of Saint-Tropez",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Citadel+of+Saint-Tropez",
+          "description": "A stone fortress above the town featuring a maritime museum and expansive views of the coastline and rooftops below."
+        },
+        {
+          "name": "Old Port (Vieux Port)",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Vieux+Port+Saint-Tropez",
+          "description": "The social heart of Saint-Tropez, lined with cafés, fishing boats, and luxury yachts against colorful façades."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "La Ponche Beach",
+          "map_link": "https://www.google.com/maps/search/?api=1&query=Plage+de+la+Ponche+Saint-Tropez",
+          "description": "A small, pebbly beach tucked into the old town, offering a quiet swim and an authentic local atmosphere away from Pampelonne."
+        },
+        {
+          "name": "Sentier du Littoral Section",
+          "map_link": "43.266204,6.637981",
+          "description": "A less-traveled stretch of the coastal path where locals go for peaceful walks, sea air, and hidden viewpoints over rocky cliffs."
+        }
+      ]
+    },
+
+    {
+      "name": "Strasbourg",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Strasbourg Cathedral (Cathédrale Notre-Dame)",
+            "map_link": "https://www.google.com/maps/search/Strasbourg+Cathedral",
+            "description": "A masterpiece of Gothic architecture with an intricate façade and an astronomical clock inside. Climbing the platform rewards you with panoramic views over the city and even the Black Forest on clear days."
+          },
+          {
+            "name": "Palais Rohan",
+            "map_link": "https://www.google.com/maps/search/Palais+Rohan+Strasbourg",
+            "description": "An elegant 18th-century palace housing three museums (Fine Arts, Decorative Arts, and Archaeology), offering deep insight into Alsatian and European history."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "La Petite France",
+            "map_link": "https://www.google.com/maps/search/La+Petite+France+Strasbourg",
+            "description": "The most photogenic district in Strasbourg, known for half-timbered houses, canals, and flower-lined bridges—especially magical in the morning."
+          },
+          {
+            "name": "Barrages Vauban",
+            "map_link": "https://www.google.com/maps/search/Barrages+Vauban+Strasbourg",
+            "description": "Historic covered bridges with a rooftop terrace that offers one of the best skyline views of Petite France."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Place du Marché Gayot",
+            "map_link": "https://www.google.com/maps/search/Place+du+March%C3%A9+Gayot+Strasbourg",
+            "description": "A lively square filled with casual bars and restaurants, popular with students and locals for relaxed evenings."
+          },
+          {
+            "name": "Winstub Experience",
+            "map_link": "https://www.google.com/maps/search/Winstub+Strasbourg",
+            "description": "Traditional Alsatian taverns serving local dishes like tarte flambée and choucroute in a cozy, rustic atmosphere."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Parc de l'Orangerie",
+            "map_link": "https://www.google.com/maps/search/Parc+de+l'Orangerie+Strasbourg",
+            "description": "Strasbourg’s oldest park, perfect for walking, picnics, and spotting storks—the symbol of Alsace."
+          },
+          {
+            "name": "Rhine River Walk",
+            "map_link": "https://www.google.com/maps/search/Rhine+River+Strasbourg",
+            "description": "Peaceful riverside paths ideal for cycling or sunset walks near the European institutions."
+          }
+        ]
+      },
+      "local_food_tip": "Try tarte flambée (flammekueche) shared with friends—locals often order several versions to taste different toppings in one meal.",
+      "full_day": {
+        "Morning": "Start your day in <a href=\"https://www.google.com/maps/search/Strasbourg+Cathedral\">⛪ Strasbourg Cathedral</a>, then wander through <a href=\"https://www.google.com/maps/search/La+Petite+France+Strasbourg\">📸 La Petite France</a> while the streets are quiet.",
+        "Afternoon": "Visit the <a href=\"https://www.google.com/maps/search/Palais+Rohan+Strasbourg\">🏛️ Palais Rohan</a> museums and enjoy lunch in a traditional winstub nearby.",
+        "Sunset": "Head to the terrace of <a href=\"https://www.google.com/maps/search/Barrages+Vauban+Strasbourg\">🌅 Barrages Vauban</a> for golden-hour photos over the canals.",
+        "Night": "Relax with friends at <a href=\"https://www.google.com/maps/search/Place+du+March%C3%A9+Gayot+Strasbourg\">🍷 Place du Marché Gayot</a> or take an evening stroll along the Ill River."
+      },
+      "seasons": {
+        "spring": {
+          "main_event": "Spring Markets",
+          "description": "Local markets return with fresh produce, flowers, and handmade goods across the city.",
+          "ideas": [
+            {
+              "name": "Parc de l'Orangerie Blossoms",
+              "map_link": "https://www.google.com/maps/search/Parc+de+l'Orangerie+Strasbourg",
+              "description": "Enjoy blooming trees and mild weather in Strasbourg’s most famous park."
+            },
+            {
+              "name": "Boat Tour on the Ill",
+              "map_link": "https://www.google.com/maps/search/Boat+tour+Ill+River+Strasbourg",
+              "description": "A relaxing way to see the city’s architecture from the water."
+            },
+            {
+              "name": "Cycling the City",
+              "map_link": "https://www.google.com/maps/search/Bike+paths+Strasbourg",
+              "description": "Spring is ideal for exploring Strasbourg’s extensive bike paths."
+            }
+          ]
+        },
+        "summer": {
+          "main_event": "Strasbourg Music Festival",
+          "description": "Open-air concerts and cultural performances fill the city with energy.",
+          "ideas": [
+            {
+              "name": "Canal Picnics",
+              "map_link": "https://www.google.com/maps/search/Canals+Strasbourg",
+              "description": "Locals gather by the canals for relaxed summer evenings."
+            },
+            {
+              "name": "Rhine Bike Ride",
+              "map_link": "https://www.google.com/maps/search/Rhine+cycle+path+Strasbourg",
+              "description": "Flat, scenic routes perfect for longer bike trips."
+            },
+            {
+              "name": "Outdoor Cafés",
+              "map_link": "https://www.google.com/maps/search/Outdoor+cafes+Strasbourg",
+              "description": "Enjoy iced drinks and people-watching in historic squares."
+            }
+          ]
+        },
+        "autumn": {
+          "main_event": "Alsace Wine Season",
+          "description": "Wine-related events celebrate the regional vineyards and harvest.",
+          "ideas": [
+            {
+              "name": "Wine Bars",
+              "map_link": "https://www.google.com/maps/search/Wine+bar+Strasbourg",
+              "description": "Taste local Alsatian wines like Riesling and Gewürztraminer."
+            },
+            {
+              "name": "Old Town Walks",
+              "map_link": "https://www.google.com/maps/search/Grande+%C3%8Ele+Strasbourg",
+              "description": "Cooler weather makes walking tours more comfortable."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/Museums+Strasbourg",
+              "description": "A perfect season for indoor cultural experiences."
+            }
+          ]
+        },
+        "winter": {
+          "main_event": "Christkindelsmärik (Christmas Market)",
+          "description": "One of Europe’s oldest Christmas markets, transforming the city into a festive village.",
+          "ideas": [
+            {
+              "name": "Christmas Market Stalls",
+              "map_link": "https://www.google.com/maps/search/Christmas+Market+Strasbourg",
+              "description": "Wooden chalets selling crafts, sweets, and hot drinks."
+            },
+            {
+              "name": "Illuminated Cathedral",
+              "map_link": "https://www.google.com/maps/search/Strasbourg+Cathedral+night",
+              "description": "The cathedral looks especially magical with winter lights."
+            },
+            {
+              "name": "Hot Chocolate Cafés",
+              "map_link": "https://www.google.com/maps/search/Hot+chocolate+Strasbourg",
+              "description": "Warm up in cozy cafés during cold evenings."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Strasbourg’s tram network is the easiest way to move around the city.",
+          "link": "https://www.cts-strasbourg.eu"
+        },
+        {
+          "tip": "Day and multi-day passes are cost-effective for visitors.",
+          "link": "https://www.cts-strasbourg.eu/en/Tickets-fares/"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Christkindelsmärik",
+          "season": "winter",
+          "description": "Historic Christmas market attracting visitors from all over Europe.",
+          "website": "https://www.strasbourg.eu/christmas-market",
+          "dates": "Late November – Late December"
+        },
+        {
+          "name": "Strasbourg Music Festival",
+          "season": "summer",
+          "description": "A series of classical and contemporary music performances across the city.",
+          "website": "https://www.festival-musique-strasbourg.eu",
+          "dates": "June – July"
+        }
+      ],
+      "places": [
+        {
+          "name": "Grande Île",
+          "map_link": "https://www.google.com/maps/search/Grande+%C3%8Ele+Strasbourg",
+          "description": "The historic city center and UNESCO World Heritage Site, packed with landmarks, shops, and cafés."
+        },
+        {
+          "name": "European Parliament",
+          "map_link": "https://www.google.com/maps/search/European+Parliament+Strasbourg",
+          "description": "A symbol of European unity, open for visits on certain days with guided tours."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Cour du Corbeau",
+          "map_link": "https://www.google.com/maps/search/Cour+du+Corbeau+Strasbourg",
+          "description": "A quiet medieval courtyard hidden near the cathedral, offering a calm break from busy streets and a glimpse into old Strasbourg."
+        },
+        {
+          "name": "Jardin des Deux Rives",
+          "map_link": "https://www.google.com/maps/search/Jardin+des+Deux+Rives",
+          "description": "A cross-border park connecting France and Germany, loved by locals for sunsets, cycling, and relaxed hangouts."
+        }
+      ]
+    }
+  ]
+}
