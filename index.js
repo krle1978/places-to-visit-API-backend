@@ -11,6 +11,7 @@ import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 import crypto from "crypto";
 import nodemailer from "nodemailer";
+import { requireAuth } from "./middleware/auth.js";
 
 dotenv.config();
 
@@ -382,8 +383,18 @@ function haversineKm(lat1, lon1, lat2, lon2) {
   return 6371 * c;
 }
 
-app.post("/api/city/add", async (req, res) => {
+function planAllows(plan, allowed) {
+  return allowed.includes(plan);
+}
+
+app.post("/api/city/add", requireAuth, async (req, res) => {
   try {
+    if (!planAllows(req.user?.plan, ["basic", "premium"])) {
+      return res.status(403).json({
+        error: "Your plan does not allow adding new cities."
+      });
+    }
+
     const { city } = req.body;
 
     if (!city) {
@@ -401,8 +412,14 @@ app.post("/api/city/add", async (req, res) => {
   }
 });
 
-app.post("/api/ask", async (req, res) => {
+app.post("/api/ask", requireAuth, async (req, res) => {
   try {
+    if (!planAllows(req.user?.plan, ["premium"])) {
+      return res.status(403).json({
+        error: "Your plan does not allow using the AI guide."
+      });
+    }
+
     const { question } = req.body;
 
     if (!question) {
@@ -527,6 +544,87 @@ Rules:
   }
 });
 
+app.post("/api/ask/personalized", requireAuth, async (req, res) => {
+  try {
+    if (!planAllows(req.user?.plan, ["premium"])) {
+      return res.status(403).json({
+        error: "Your plan does not allow using the AI guide."
+      });
+    }
+
+    const { city, interests } = req.body || {};
+    if (!city || !interests) {
+      return res.status(400).json({ error: "City and interests are required." });
+    }
+
+    const trimmedCity = city.trim();
+    const trimmedInterests = interests.trim();
+    if (!trimmedCity || !trimmedInterests) {
+      return res.status(400).json({ error: "City and interests are required." });
+    }
+
+    const response = await client.responses.create({
+      model: "gpt-4.1-mini",
+      response_format: { type: "json_object" },
+      input: [
+        {
+          role: "system",
+          content: `
+You are City Tour Guide AI.
+
+Return ONLY valid JSON.
+No markdown, no comments, no explanations.
+
+Create a personalized city tour for the provided city and interests.
+Include a realistic schedule with timestamps and meals.
+
+The JSON MUST strictly follow this schema:
+
+{
+  "city": "",
+  "interests": "",
+  "itinerary": [
+    {
+      "time": "09:00",
+      "title": "",
+      "type": "breakfast|visit|lunch|dinner|break|activity",
+      "description": "",
+      "map_link": ""
+    }
+  ],
+  "tips": [
+    { "tip": "", "map_link": "" }
+  ]
+}
+
+Rules:
+- Include breakfast, lunch, and dinner entries in the itinerary
+- Use realistic, well-known locations related to the interests
+- All map_link values MUST be Google Maps search URLs
+- Descriptions must be factual and concise
+- No emojis inside JSON values
+`
+        },
+        {
+          role: "user",
+          content: `City: ${trimmedCity}\nInterests: ${trimmedInterests}`
+        }
+      ]
+    });
+
+    const jsonText = response.output?.[0]?.content?.[0]?.text || "";
+    const parsed = JSON.parse(jsonText);
+
+    return res.json(parsed);
+  } catch (err) {
+    console.error("OPENAI ERROR:");
+    console.error(err);
+    return res.status(500).json({
+      error: "Backend error while generating personalized city guide."
+    });
+  }
+});
+
 app.get("/api/geo/reverse", async (req, res) => {
   try {
     const lat = Number(req.query.lat);
@@ -623,8 +721,14 @@ app.get("/api/geo/nearest", async (req, res) => {
   }
 });
 
-app.post("/api/countries/:file/cities", async (req, res) => {
+app.post("/api/countries/:file/cities", requireAuth, async (req, res) => {
   try {
+    if (!planAllows(req.user?.plan, ["basic", "premium"])) {
+      return res.status(403).json({
+        error: "Your plan does not allow adding new cities."
+      });
+    }
+
     const fileName = req.params.file;
     const { city, country } = req.body || {};
 
@@ -640,8 +744,14 @@ app.post("/api/countries/:file/cities", async (req, res) => {
   }
 });
 
-app.post("/api/cities/generate", async (req, res) => {
+app.post("/api/cities/generate", requireAuth, async (req, res) => {
   try {
+    if (!planAllows(req.user?.plan, ["basic", "premium"])) {
+      return res.status(403).json({
+        error: "Your plan does not allow adding new cities."
+      });
+    }
+
     const { city, country } = req.body || {};
     if (!city || typeof city !== "string") {
       return res.status(400).json({ error: "City is required." });
@@ -760,7 +870,7 @@ app.post("/api/auth/signup", async (req, res) => {
       id: `u_${Date.now()}`,
       email: normalizedEmail,
       passwordHash,
-      plan: "basic",
+      plan: "free",
       token,
       createdAt: new Date().toISOString()
     };
@@ -810,7 +920,7 @@ app.get("/api/auth/confirm", async (req, res) => {
         id: entry.id,
         email: entry.email,
         passwordHash: entry.passwordHash,
-        plan: entry.plan || "basic"
+        plan: entry.plan || "free"
       };
       users.push(user);
       await writeJsonFile(USERS_PATH, users);
