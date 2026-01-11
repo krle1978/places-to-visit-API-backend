@@ -9,6 +9,8 @@ import path from "path";
 import { fileURLToPath } from "url";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
+import crypto from "crypto";
+import nodemailer from "nodemailer";
 
 dotenv.config();
 
@@ -33,6 +35,19 @@ const __dirname = path.dirname(__filename);
 const DATA_DIR = path.join(__dirname, "data");
 const COUNTRIES_DIR = path.join(DATA_DIR, "countries");
 const cityGeoCache = new Map();
+const smtpPort = Number(process.env.SMTP_PORT || 587);
+const mailTransport = process.env.SMTP_HOST
+  ? nodemailer.createTransport({
+      host: process.env.SMTP_HOST || "smtp.gmail.com",
+      port: smtpPort,
+      secure: smtpPort === 465,
+      auth: process.env.SMTP_USER
+        ? { user: process.env.SMTP_USER, pass: process.env.SMTP_PASS }
+        : undefined
+    })
+  : null;
+const SMTP_FROM = process.env.SMTP_FROM || process.env.SMTP_USER || "";
+
 
 function normalizeName(value) {
   return value
@@ -41,6 +56,70 @@ function normalizeName(value) {
         .normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "")
     : "";
+}
+
+function normalizeKey(value) {
+  return normalizeName(value).replace(/\s+/g, "");
+}
+
+const COUNTRY_ALIASES = {
+  "bosniaandherzegovina": "Bosnia and Herzegowina",
+  "cotedivoire": "Cote d'Ivoire",
+  "czechia": "Czech Republic",
+  "holysee": "Vatican City",
+  "macedonia": "North Macedonia",
+  "northmacedonia": "North Macedonia",
+  "republicofmoldova": "Moldova",
+  "republicofturkey": "Turkey (Europe)",
+  "russianfederation": "Russia (Europe)",
+  "slovakrepublic": "Slovakia",
+  "swissconfederation": "Swizerland",
+  "turkiye": "Turkey (Europe)",
+  "unitedkingdomofgreatbritainandnorthernireland": "United Kingdom"
+};
+
+function resolveCountryAlias(input) {
+  const key = normalizeKey(input);
+  return COUNTRY_ALIASES[key] || input;
+}
+
+async function readJsonFile(filePath, fallback) {
+  try {
+    const raw = await fs.promises.readFile(filePath, "utf8");
+    return JSON.parse(raw);
+  } catch (err) {
+    if (err.code === "ENOENT") return fallback;
+    throw err;
+  }
+}
+
+async function writeJsonFile(filePath, data) {
+  await fs.promises.writeFile(filePath, JSON.stringify(data, null, 2), "utf8");
+}
+
+function normalizeEmail(value) {
+  return String(value || "").trim().toLowerCase();
+}
+
+function buildClientUrl(req, pathname) {
+  const base = process.env.CLIENT_URL || `${req.protocol}://${req.get("host")}`;
+  return new URL(pathname, base).toString();
+}
+
+async function sendSignupEmail(to, confirmUrl) {
+  if (!mailTransport) {
+    throw new Error("Email transport is not configured.");
+  }
+  if (!SMTP_FROM) {
+    throw new Error("SMTP_FROM is not configured.");
+  }
+  await mailTransport.sendMail({
+    from: SMTP_FROM,
+    to,
+    subject: "Confirm your account",
+    text: `Please confirm your account by opening this link: ${confirmUrl}`,
+    html: `<p>Please confirm your account by clicking the link below:</p><p><a href="${confirmUrl}">Confirm account</a></p>`
+  });
 }
 
 function resolveCountryFile(fileName) {
@@ -54,6 +133,205 @@ function resolveCountryFile(fileName) {
   }
 
   return { path: resolvedPath };
+}
+
+async function resolveCountryForCity(city) {
+  const url = new URL("https://nominatim.openstreetmap.org/search");
+  url.searchParams.set("format", "jsonv2");
+  url.searchParams.set("limit", "1");
+  url.searchParams.set("city", city);
+  url.searchParams.set("addressdetails", "1");
+
+  const response = await fetch(url, {
+    headers: {
+      "User-Agent": "places-to-visit-ai/1.0",
+      "Accept-Language": "en"
+    }
+  });
+
+  if (!response.ok) return null;
+  const data = await response.json();
+  const country = data?.[0]?.address?.country || "";
+  return country || null;
+}
+
+async function findCountryFileByName(countryName) {
+  if (!countryName) return null;
+
+  const aliased = resolveCountryAlias(countryName);
+  const normalizedTarget = normalizeName(aliased);
+  const targetKey = normalizeKey(aliased);
+  const files = await fs.promises.readdir(COUNTRIES_DIR);
+
+  for (const file of files) {
+    if (!file.endsWith(".json")) continue;
+    try {
+      const fullPath = path.join(COUNTRIES_DIR, file);
+      const raw = await fs.promises.readFile(fullPath, "utf8");
+      const parsed = JSON.parse(raw);
+      const name = parsed?.name || "";
+      if (!name) continue;
+
+      const normalizedName = normalizeName(name);
+      if (normalizedName === normalizedTarget) {
+        return { file, country: name };
+      }
+
+      const normalizedNameKey = normalizeKey(name);
+      if (normalizedNameKey && normalizedNameKey === targetKey) {
+        return { file, country: name };
+      }
+    } catch (err) {
+      console.error(`Failed to load country file: ${file}`);
+    }
+  }
+
+  return null;
+}
+
+async function generateCityInFile(fileName, city, fallbackCountry) {
+  const resolved = resolveCountryFile(fileName);
+  if (resolved.error) {
+    const err = new Error(resolved.error);
+    err.status = 400;
+    throw err;
+  }
+
+  const raw = await fs.promises.readFile(resolved.path, "utf8");
+  const parsed = JSON.parse(raw);
+  parsed.cities = Array.isArray(parsed.cities) ? parsed.cities : [];
+
+  const trimmedCity = city.trim();
+  if (!trimmedCity) {
+    const err = new Error("City is required.");
+    err.status = 400;
+    throw err;
+  }
+  const normalizedCity = normalizeName(trimmedCity);
+  const existing = parsed.cities.find(
+    (entry) => normalizeName(entry?.name) === normalizedCity
+  );
+
+  if (existing) {
+    return { created: false, city: existing.name, country: parsed.name, file: fileName };
+  }
+
+  const promptCountry = parsed?.name || fallbackCountry || "";
+  const response = await client.responses.create({
+    model: "gpt-4.1-mini",
+    response_format: { type: "json_object" },
+    input: [
+      {
+        role: "system",
+        content: `
+You are City Tour Guide AI.
+
+Return ONLY valid JSON.
+No markdown, no comments, no explanations.
+
+Generate data for a city guide.
+City: ${trimmedCity}
+Country: ${promptCountry}
+
+The JSON MUST follow this schema:
+{
+  "name": "",
+  "interests": {
+    "Art & Culture": [
+      { "name": "", "map_link": "", "description": "" }
+    ],
+    "Photo Spots": [
+      { "name": "", "map_link": "", "description": "" }
+    ],
+    "Food & Nightlife": [
+      { "name": "", "map_link": "", "description": "" }
+    ],
+    "Nature & Relaxation": [
+      { "name": "", "map_link": "", "description": "" }
+    ]
+  },
+  "local_food_tip": "",
+  "full_day": {
+    "Morning": "",
+    "Afternoon": "",
+    "Sunset": "",
+    "Night": ""
+  },
+  "seasons": {
+    "spring": {
+      "main_event": "",
+      "description": "",
+      "ideas": [
+        { "name": "", "map_link": "", "description": "" }
+      ]
+    },
+    "summer": {
+      "main_event": "",
+      "description": "",
+      "ideas": [
+        { "name": "", "map_link": "", "description": "" }
+      ]
+    },
+    "autumn": {
+      "main_event": "",
+      "description": "",
+      "ideas": [
+        { "name": "", "map_link": "", "description": "" }
+      ]
+    },
+    "winter": {
+      "main_event": "",
+      "description": "",
+      "ideas": [
+        { "name": "", "map_link": "", "description": "" }
+      ]
+    }
+  },
+  "public_transport_tips": [
+    { "tip": "", "link": "" }
+  ],
+  "city_events": [
+    {
+      "name": "",
+      "season": "",
+      "description": "",
+      "website": "",
+      "dates": ""
+    }
+  ],
+  "places": [
+    { "name": "", "map_link": "", "description": "" }
+  ],
+  "hidden_gems": [
+    { "name": "", "map_link": "", "description": "" }
+  ]
+}
+
+Rules:
+- interests MUST be an object, not an array
+- All map_link values MUST be Google Maps search URLs
+- Descriptions must be factual and concise
+- No emojis inside JSON values
+`
+      }
+    ]
+  });
+
+  const jsonText = response.output?.[0]?.content?.[0]?.text || "";
+  const cityJSON = JSON.parse(jsonText);
+
+  if (!cityJSON?.name) {
+    const err = new Error("Invalid AI response.");
+    err.status = 500;
+    throw err;
+  }
+
+  parsed.cities.push(cityJSON);
+  parsed.cities.sort((a, b) => String(a.name).localeCompare(String(b.name)));
+
+  await fs.promises.writeFile(resolved.path, JSON.stringify(parsed, null, 2), "utf8");
+
+  return { created: true, city: cityJSON.name, country: parsed.name, file: fileName };
 }
 
 async function geocodeCity(city, country) {
@@ -353,142 +631,47 @@ app.post("/api/countries/:file/cities", async (req, res) => {
     if (!city || typeof city !== "string") {
       return res.status(400).json({ error: "City is required." });
     }
-
-    const resolved = resolveCountryFile(fileName);
-    if (resolved.error) {
-      return res.status(400).json({ error: resolved.error });
-    }
-
-    const raw = await fs.promises.readFile(resolved.path, "utf8");
-    const parsed = JSON.parse(raw);
-    parsed.cities = Array.isArray(parsed.cities) ? parsed.cities : [];
-
-    const normalizedCity = normalizeName(city);
-    const existing = parsed.cities.find(
-      (entry) => normalizeName(entry?.name) === normalizedCity
-    );
-
-    if (existing) {
-      return res.json({ created: false, city: existing.name });
-    }
-
-    const promptCountry = parsed?.name || country || "";
-    const response = await client.responses.create({
-      model: "gpt-4.1-mini",
-      response_format: { type: "json_object" },
-      input: [
-        {
-          role: "system",
-          content: `
-You are City Tour Guide AI.
-
-Return ONLY valid JSON.
-No markdown, no comments, no explanations.
-
-Generate data for a city guide.
-City: ${city}
-Country: ${promptCountry}
-
-The JSON MUST follow this schema:
-{
-  "name": "",
-  "interests": {
-    "Art & Culture": [
-      { "name": "", "map_link": "", "description": "" }
-    ],
-    "Photo Spots": [
-      { "name": "", "map_link": "", "description": "" }
-    ],
-    "Food & Nightlife": [
-      { "name": "", "map_link": "", "description": "" }
-    ],
-    "Nature & Relaxation": [
-      { "name": "", "map_link": "", "description": "" }
-    ]
-  },
-  "local_food_tip": "",
-  "full_day": {
-    "Morning": "",
-    "Afternoon": "",
-    "Sunset": "",
-    "Night": ""
-  },
-  "seasons": {
-    "spring": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    },
-    "summer": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    },
-    "autumn": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    },
-    "winter": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    }
-  },
-  "public_transport_tips": [
-    { "tip": "", "link": "" }
-  ],
-  "city_events": [
-    {
-      "name": "",
-      "season": "",
-      "description": "",
-      "website": "",
-      "dates": ""
-    }
-  ],
-  "places": [
-    { "name": "", "map_link": "", "description": "" }
-  ],
-  "hidden_gems": [
-    { "name": "", "map_link": "", "description": "" }
-  ]
-}
-
-Rules:
-- interests MUST be an object, not an array
-- All map_link values MUST be Google Maps search URLs
-- Descriptions must be factual and concise
-- No emojis inside JSON values
-`
-        }
-      ]
-    });
-
-    const jsonText = response.output?.[0]?.content?.[0]?.text || "";
-    const cityJSON = JSON.parse(jsonText);
-
-    if (!cityJSON?.name) {
-      return res.status(500).json({ error: "Invalid AI response." });
-    }
-
-    parsed.cities.push(cityJSON);
-    parsed.cities.sort((a, b) => String(a.name).localeCompare(String(b.name)));
-
-    await fs.promises.writeFile(resolved.path, JSON.stringify(parsed, null, 2), "utf8");
-
-    return res.json({ created: true, city: cityJSON.name });
+    const result = await generateCityInFile(fileName, city, country);
+    return res.json(result);
   } catch (err) {
     console.error(err);
-    return res.status(500).json({ error: "Failed to generate city data." });
+    const status = err.status || 500;
+    return res.status(status).json({ error: err.message || "Failed to generate city data." });
+  }
+});
+
+app.post("/api/cities/generate", async (req, res) => {
+  try {
+    const { city, country } = req.body || {};
+    if (!city || typeof city !== "string") {
+      return res.status(400).json({ error: "City is required." });
+    }
+
+    const trimmedCity = city.trim();
+    if (!trimmedCity) {
+      return res.status(400).json({ error: "City is required." });
+    }
+
+    let resolvedCountry = country?.trim();
+    if (!resolvedCountry) {
+      resolvedCountry = await resolveCountryForCity(trimmedCity);
+    }
+
+    if (!resolvedCountry) {
+      return res.status(404).json({ error: "Country could not be resolved." });
+    }
+
+    const match = await findCountryFileByName(resolvedCountry);
+    if (!match) {
+      return res.status(404).json({ error: "No data file for resolved country." });
+    }
+
+    const result = await generateCityInFile(match.file, trimmedCity, match.country);
+    return res.json(result);
+  } catch (err) {
+    console.error(err);
+    const status = err.status || 500;
+    return res.status(status).json({ error: err.message || "Failed to generate city data." });
   }
 });
 
@@ -548,6 +731,111 @@ app.listen(process.env.PORT || 3001, () => {
 });
 
 const USERS_PATH = path.join(DATA_DIR, "users.json");
+const PENDING_USERS_PATH = path.join(DATA_DIR, "pending_users.json");
+
+
+app.post("/api/auth/signup", async (req, res) => {
+  try {
+    const { email, password } = req.body || {};
+    if (!email || !password) {
+      return res.status(400).json({ error: "Email and password required" });
+    }
+
+    const normalizedEmail = normalizeEmail(email);
+    const users = await readJsonFile(USERS_PATH, []);
+    const existing = users.find((u) => normalizeEmail(u.email) === normalizedEmail);
+    if (existing) {
+      return res.status(409).json({ error: "User already exists." });
+    }
+
+    const pending = await readJsonFile(PENDING_USERS_PATH, []);
+    const pendingExisting = pending.find((u) => normalizeEmail(u.email) === normalizedEmail);
+    if (pendingExisting) {
+      return res.status(409).json({ error: "Signup already pending. Check your email to confirm." });
+    }
+
+    const passwordHash = await bcrypt.hash(password, 10);
+    const token = crypto.randomBytes(32).toString("hex");
+    const entry = {
+      id: `u_${Date.now()}`,
+      email: normalizedEmail,
+      passwordHash,
+      plan: "basic",
+      token,
+      createdAt: new Date().toISOString()
+    };
+
+    pending.push(entry);
+    await writeJsonFile(PENDING_USERS_PATH, pending);
+
+    const confirmUrl = `${req.protocol}://${req.get("host")}/api/auth/confirm?token=${token}`;
+
+    try {
+      await sendSignupEmail(normalizedEmail, confirmUrl);
+    } catch (mailErr) {
+      pending.pop();
+      await writeJsonFile(PENDING_USERS_PATH, pending);
+      throw mailErr;
+    }
+
+    return res.json({ message: "Confirmation email sent. Please check your inbox." });
+  } catch (err) {
+    console.error(err);
+    return res.status(500).json({ error: err.message || "Failed to create signup request." });
+  }
+});
+
+app.get("/api/auth/confirm", async (req, res) => {
+  try {
+    const token = String(req.query.token || "");
+    if (!token) {
+      return res.status(400).send("Invalid or expired token.");
+    }
+
+    const pending = await readJsonFile(PENDING_USERS_PATH, []);
+    const idx = pending.findIndex((u) => u.token === token);
+    if (idx === -1) {
+      return res.status(400).send("Invalid or expired token.");
+    }
+
+    const entry = pending[idx];
+    pending.splice(idx, 1);
+    await writeJsonFile(PENDING_USERS_PATH, pending);
+
+    const users = await readJsonFile(USERS_PATH, []);
+    let user = users.find((u) => normalizeEmail(u.email) === normalizeEmail(entry.email));
+
+    if (!user) {
+      user = {
+        id: entry.id,
+        email: entry.email,
+        passwordHash: entry.passwordHash,
+        plan: entry.plan || "basic"
+      };
+      users.push(user);
+      await writeJsonFile(USERS_PATH, users);
+    }
+
+    const authToken = jwt.sign(
+      {
+        userId: user.id,
+        email: user.email,
+        plan: user.plan
+      },
+      process.env.JWT_SECRET,
+      { expiresIn: "7d" }
+    );
+
+    const redirectUrl = buildClientUrl(req, "/");
+    const url = new URL(redirectUrl);
+    url.searchParams.set("token", authToken);
+
+    return res.redirect(url.toString());
+  } catch (err) {
+    console.error(err);
+    return res.status(500).send("Failed to confirm signup.");
+  }
+});
 
 app.post("/api/auth/login", async (req, res) => {
   const { email, password } = req.body;
@@ -557,7 +845,8 @@ app.post("/api/auth/login", async (req, res) => {
   }
 
   const users = JSON.parse(fs.readFileSync(USERS_PATH, "utf8"));
-  const user = users.find(u => u.email === email);
+  const normalizedEmail = normalizeEmail(email);
+  const user = users.find(u => normalizeEmail(u.email) === normalizedEmail);
 
   if (!user) {
     return res.status(401).json({ error: "Invalid credentials" });
