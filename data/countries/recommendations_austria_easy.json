@@ -2,198 +2,137 @@
   "name": "Austria",
   "cities": [
     {
-      "name": "Vienna",
+      "name": "Baden",
       "interests": {
         "Art & Culture": [
           {
-            "name": "Schönbrunn Palace",
-            "map_link": "https://www.google.com/maps/search/Sch%C3%B6nbrunn+Palace+Vienna",
-            "description": "A former imperial summer residence with grand halls, gardens, and a glimpse into Habsburg history."
+            "name": "Roman Bath Ruins",
+            "map_link": "https://www.google.com/maps/search/Roman+Bath+Ruins+Baden+Austrian",
+            "description": "Ancient Roman baths showcasing the historic significance of Baden."
           },
           {
-            "name": "Kunsthistorisches Museum",
-            "map_link": "https://www.google.com/maps/search/Kunsthistorisches+Museum+Vienna",
-            "description": "One of Europe’s most important art museums, housing masterpieces from Bruegel, Rubens, and ancient civilizations."
+            "name": "Franz Schubert Museum",
+            "map_link": "https://www.google.com/maps/search/Franz+Schubert+Museum+Baden+Austrian",
+            "description": "Museum dedicated to the famous composer Franz Schubert."
           }
         ],
         "Photo Spots": [
           {
-            "name": "St. Stephen’s Cathedral",
-            "map_link": "https://www.google.com/maps/search/St+Stephen%27s+Cathedral+Vienna",
-            "description": "Vienna’s iconic Gothic cathedral with a colorful tiled roof and panoramic city views from the tower."
+            "name": "Kurpark Gardens",
+            "map_link": "https://www.google.com/maps/search/Kurpark+Gardens+Baden+Austrian",
+            "description": "Beautiful park with lush greenery and scenic pathways."
           },
           {
-            "name": "Hundertwasserhaus",
-            "map_link": "https://www.google.com/maps/search/Hundertwasserhaus+Vienna",
-            "description": "A vibrant, unconventional residential building designed by Friedensreich Hundertwasser, perfect for creative photos."
+            "name": "Votive Church",
+            "map_link": "https://www.google.com/maps/search/Votive+Church+Baden+Austrian",
+            "description": "Historic church offering picturesque architecture and views."
           }
         ],
         "Food & Nightlife": [
           {
-            "name": "Naschmarkt",
-            "map_link": "https://www.google.com/maps/search/Naschmarkt+Vienna",
-            "description": "Vienna’s most famous market, full of street food, international flavors, and casual bars."
+            "name": "Heuriger Wine Taverns",
+            "map_link": "https://www.google.com/maps/search/Heuriger+Wine+Taverns+Baden+Austrian",
+            "description": "Traditional wine taverns serving local Austrian wines."
           },
           {
-            "name": "Traditional Coffee Houses",
-            "map_link": "https://www.google.com/maps/search/Viennese+coffee+house",
-            "description": "Historic cafés where locals linger over coffee, cake, and newspapers for hours."
+            "name": "Baden Thermal Spa Cafe",
+            "map_link": "https://www.google.com/maps/search/Baden+Thermal+Spa+Cafe",
+            "description": "Relax with local drinks after thermal spa visits."
           }
         ],
         "Nature & Relaxation": [
           {
-            "name": "Prater Park",
-            "map_link": "https://www.google.com/maps/search/Prater+Vienna",
-            "description": "A vast green park with walking paths, cycling routes, and the famous Giant Ferris Wheel."
+            "name": "Schlosspark",
+            "map_link": "https://www.google.com/maps/search/Schlosspark+Baden+Austrian",
+            "description": "Serene park near the palace, perfect for relaxing walks."
           },
           {
-            "name": "Danube Island",
-            "map_link": "https://www.google.com/maps/search/Danube+Island+Vienna",
-            "description": "A long recreational island offering swimming spots, biking paths, and summer festivals."
+            "name": "Dollinger Nature Reserve",
+            "map_link": "https://www.google.com/maps/search/Dollinger+Nature+Reserve+Baden+Austrian",
+            "description": "Protected area with walking trails and wildlife."
           }
         ]
       },
-      "local_food_tip": "Try Wiener Schnitzel with potato salad or grab a quick Käsekrainer sausage from a street stand—locals mix classic dining with fast bites.",
+      "local_food_tip": "Try the traditional Viennese Schnitzel at local Heuriger taverns.",
       "full_day": {
-        "Morning": "Start at <a href=\"https://www.google.com/maps/search/St+Stephen%27s+Cathedral+Vienna\">⛪ St. Stephen’s Cathedral</a> and walk through the historic center.",
-        "Afternoon": "Visit <a href=\"https://www.google.com/maps/search/Kunsthistorisches+Museum+Vienna\">🖼️ Kunsthistorisches Museum</a> and have lunch at <a href=\"https://www.google.com/maps/search/Naschmarkt+Vienna\">🍽️ Naschmarkt</a>.",
-        "Sunset": "Ride the Ferris wheel in the <a href=\"https://www.google.com/maps/search/Prater+Vienna\">🎡 Prater</a> for sunset views.",
-        "Night": "Enjoy coffee and cake in a <a href=\"https://www.google.com/maps/search/Viennese+coffee+house\">☕ traditional café</a> or casual drinks in the city center."
+        "Morning": "Visit the Roman Bath Ruins and enjoy a peaceful walk in Schlosspark.",
+        "Afternoon": "Explore the Franz Schubert Museum and relax at Kurpark Gardens.",
+        "Sunset": "Admire the sunset from the Votive Church area.",
+        "Night": "Experience local nightlife with wine tasting at Heuriger wine taverns."
       },
       "seasons": {
         "spring": {
-          "main_event": "Spring Concert Season",
-          "description": "Classical music and outdoor culture return with warmer weather.",
+          "main_event": "Spring Festival",
+          "description": "Celebrate spring with local markets and music.",
           "ideas": [
             {
-              "name": "City Walks",
-              "map_link": "https://www.google.com/maps/search/Vienna+old+town",
-              "description": "Mild temperatures for sightseeing."
-            },
-            {
-              "name": "Palace Gardens",
-              "map_link": "https://www.google.com/maps/search/Sch%C3%B6nbrunn+Gardens",
-              "description": "Blooming gardens and open spaces."
-            },
-            {
-              "name": "Outdoor Cafés",
-              "map_link": "https://www.google.com/maps/search/Cafes+Vienna",
-              "description": "Terraces reopen across the city."
+              "name": "Spring Flower Show",
+              "map_link": "https://www.google.com/maps/search/Spring+Flower+Show+Baden",
+              "description": "Colorful displays in local gardens."
             }
           ]
         },
         "summer": {
-          "main_event": "Danube Island Festival",
-          "description": "One of Europe’s largest free open-air music festivals.",
+          "main_event": "Baden Summer Festival",
+          "description": "Enjoy outdoor concerts and open-air markets.",
           "ideas": [
             {
-              "name": "Danube Swimming",
-              "map_link": "https://www.google.com/maps/search/Danube+Island+Vienna",
-              "description": "Cooling off during hot days."
-            },
-            {
-              "name": "Evening Parks",
-              "map_link": "https://www.google.com/maps/search/Prater+Vienna",
-              "description": "Lively summer evenings."
-            },
-            {
               "name": "Open-Air Cinema",
-              "map_link": "https://www.google.com/maps/search/Outdoor+cinema+Vienna",
-              "description": "Seasonal film screenings."
+              "map_link": "https://www.google.com/maps/search/Open-Air+Cinema+Baden",
+              "description": "Watch films under the stars in the park."
             }
           ]
         },
         "autumn": {
-          "main_event": "Vienna Wine Season",
-          "description": "Local wine taverns open for gemütlich evenings.",
+          "main_event": "Wine Harvest Festival",
+          "description": "Celebrate local wines with tastings and traditional music.",
           "ideas": [
             {
-              "name": "Heuriger Wine Taverns",
-              "map_link": "https://www.google.com/maps/search/Heuriger+Vienna",
-              "description": "Taste young local wines."
-            },
-            {
-              "name": "Museum Visits",
-              "map_link": "https://www.google.com/maps/search/Museums+Vienna",
-              "description": "Perfect weather for culture."
-            },
-            {
-              "name": "Autumn Walks",
-              "map_link": "https://www.google.com/maps/search/Vienna+autumn",
-              "description": "Golden parks and streets."
+              "name": "Autumn Walks in Dollinger Nature Reserve",
+              "map_link": "https://www.google.com/maps/search/Autumn+Walks+Dollinger+Nature+Reserve",
+              "description": "Enjoy fall foliage and peaceful trails."
             }
           ]
         },
         "winter": {
-          "main_event": "Vienna Christmas Markets",
-          "description": "Festive markets fill squares with lights, music, and hot punch.",
+          "main_event": "Christmas Market",
+          "description": "Festive markets with local crafts and mulled wine.",
           "ideas": [
             {
-              "name": "Christmas Markets",
-              "map_link": "https://www.google.com/maps/search/Vienna+Christmas+Market",
-              "description": "Traditional food and crafts."
-            },
-            {
-              "name": "Classical Concerts",
-              "map_link": "https://www.google.com/maps/search/Classical+concerts+Vienna",
-              "description": "Peak season for music lovers."
-            },
-            {
-              "name": "Coffee Houses",
-              "map_link": "https://www.google.com/maps/search/Viennese+coffee+house",
-              "description": "Warm, cozy interiors in winter."
+              "name": "Baden Thermal Spa",
+              "map_link": "https://www.google.com/maps/search/Baden+Thermal+Spa",
+              "description": "Relax in thermal pools before evening festivities."
             }
           ]
         }
       },
       "public_transport_tips": [
         {
-          "tip": "Vienna’s public transport system is extensive and very reliable.",
-          "link": "https://www.wienerlinien.at"
-        },
-        {
-          "tip": "24h and multi-day passes are ideal for visitors.",
-          "link": "https://www.wienerlinien.at/tickets"
+          "tip": "Use the local tram system for easy access around Baden.",
+          "link": "https://www.wienerlinien.at/en"
         }
       ],
       "city_events": [
         {
-          "name": "Danube Island Festival",
+          "name": "Baden Classical Music Festival",
           "season": "summer",
-          "description": "A massive free music festival with international artists.",
-          "website": "https://donauinselfest.at",
-          "dates": "June"
-        },
-        {
-          "name": "Vienna Christmas Markets",
-          "season": "winter",
-          "description": "Traditional markets across the city with food, lights, and music.",
-          "website": "https://www.wien.info",
-          "dates": "Late November – December"
+          "description": "Annual festival featuring classical performances in historic venues.",
+          "website": "https://www.baden-classic.at",
+          "dates": "July 15 - August 30"
         }
       ],
       "places": [
         {
-          "name": "Historic Center of Vienna",
-          "map_link": "https://www.google.com/maps/search/Historic+Center+of+Vienna",
-          "description": "A UNESCO World Heritage Site packed with imperial architecture and landmarks."
-        },
-        {
-          "name": "Schönbrunn Palace",
-          "map_link": "https://www.google.com/maps/search/Sch%C3%B6nbrunn+Palace+Vienna",
-          "description": "One of Austria’s most visited attractions and a symbol of imperial Vienna."
+          "name": "Baden Spa House",
+          "map_link": "https://www.google.com/maps/search/Baden+Spa+House",
+          "description": "Historic spa building with thermal baths."
         }
       ],
       "hidden_gems": [
         {
-          "name": "Augarten",
-          "map_link": "https://www.google.com/maps/search/Augarten+Vienna",
-          "description": "A quiet baroque park with few tourists, popular with locals for walks and picnics."
-        },
-        {
-          "name": "Zentralfriedhof",
-          "map_link": "https://www.google.com/maps/search/Zentralfriedhof+Vienna",
-          "description": "A vast cemetery where famous composers are buried, surprisingly peaceful and green."
+          "name": "Silent Trail",
+          "map_link": "https://www.google.com/maps/search/Silent+Trail",
+          "description": "Quiet wooded path perfect for solitude and nature spotting."
         }
       ]
     },
@@ -2273,6 +2212,202 @@
           "name": "High Mountain Lakes",
           "map_link": "https://www.google.com/maps/search/High+mountain+lake+Tyrol",
           "description": "Crystal-clear lakes hidden along hiking trails, loved by locals."
+        }
+      ]
+    },
+    {
+      "name": "Vienna",
+      "interests": {
+        "Art & Culture": [
+          {
+            "name": "Schönbrunn Palace",
+            "map_link": "https://www.google.com/maps/search/Sch%C3%B6nbrunn+Palace+Vienna",
+            "description": "A former imperial summer residence with grand halls, gardens, and a glimpse into Habsburg history."
+          },
+          {
+            "name": "Kunsthistorisches Museum",
+            "map_link": "https://www.google.com/maps/search/Kunsthistorisches+Museum+Vienna",
+            "description": "One of Europe’s most important art museums, housing masterpieces from Bruegel, Rubens, and ancient civilizations."
+          }
+        ],
+        "Photo Spots": [
+          {
+            "name": "St. Stephen’s Cathedral",
+            "map_link": "https://www.google.com/maps/search/St+Stephen%27s+Cathedral+Vienna",
+            "description": "Vienna’s iconic Gothic cathedral with a colorful tiled roof and panoramic city views from the tower."
+          },
+          {
+            "name": "Hundertwasserhaus",
+            "map_link": "https://www.google.com/maps/search/Hundertwasserhaus+Vienna",
+            "description": "A vibrant, unconventional residential building designed by Friedensreich Hundertwasser, perfect for creative photos."
+          }
+        ],
+        "Food & Nightlife": [
+          {
+            "name": "Naschmarkt",
+            "map_link": "https://www.google.com/maps/search/Naschmarkt+Vienna",
+            "description": "Vienna’s most famous market, full of street food, international flavors, and casual bars."
+          },
+          {
+            "name": "Traditional Coffee Houses",
+            "map_link": "https://www.google.com/maps/search/Viennese+coffee+house",
+            "description": "Historic cafés where locals linger over coffee, cake, and newspapers for hours."
+          }
+        ],
+        "Nature & Relaxation": [
+          {
+            "name": "Prater Park",
+            "map_link": "https://www.google.com/maps/search/Prater+Vienna",
+            "description": "A vast green park with walking paths, cycling routes, and the famous Giant Ferris Wheel."
+          },
+          {
+            "name": "Danube Island",
+            "map_link": "https://www.google.com/maps/search/Danube+Island+Vienna",
+            "description": "A long recreational island offering swimming spots, biking paths, and summer festivals."
+          }
+        ]
+      },
+      "local_food_tip": "Try Wiener Schnitzel with potato salad or grab a quick Käsekrainer sausage from a street stand—locals mix classic dining with fast bites.",
+      "full_day": {
+        "Morning": "Start at <a href=\"https://www.google.com/maps/search/St+Stephen%27s+Cathedral+Vienna\">⛪ St. Stephen’s Cathedral</a> and walk through the historic center.",
+        "Afternoon": "Visit <a href=\"https://www.google.com/maps/search/Kunsthistorisches+Museum+Vienna\">🖼️ Kunsthistorisches Museum</a> and have lunch at <a href=\"https://www.google.com/maps/search/Naschmarkt+Vienna\">🍽️ Naschmarkt</a>.",
+        "Sunset": "Ride the Ferris wheel in the <a href=\"https://www.google.com/maps/search/Prater+Vienna\">🎡 Prater</a> for sunset views.",
+        "Night": "Enjoy coffee and cake in a <a href=\"https://www.google.com/maps/search/Viennese+coffee+house\">☕ traditional café</a> or casual drinks in the city center."
+      },
+      "seasons": {
+        "spring": {
+          "main_event": "Spring Concert Season",
+          "description": "Classical music and outdoor culture return with warmer weather.",
+          "ideas": [
+            {
+              "name": "City Walks",
+              "map_link": "https://www.google.com/maps/search/Vienna+old+town",
+              "description": "Mild temperatures for sightseeing."
+            },
+            {
+              "name": "Palace Gardens",
+              "map_link": "https://www.google.com/maps/search/Sch%C3%B6nbrunn+Gardens",
+              "description": "Blooming gardens and open spaces."
+            },
+            {
+              "name": "Outdoor Cafés",
+              "map_link": "https://www.google.com/maps/search/Cafes+Vienna",
+              "description": "Terraces reopen across the city."
+            }
+          ]
+        },
+        "summer": {
+          "main_event": "Danube Island Festival",
+          "description": "One of Europe’s largest free open-air music festivals.",
+          "ideas": [
+            {
+              "name": "Danube Swimming",
+              "map_link": "https://www.google.com/maps/search/Danube+Island+Vienna",
+              "description": "Cooling off during hot days."
+            },
+            {
+              "name": "Evening Parks",
+              "map_link": "https://www.google.com/maps/search/Prater+Vienna",
+              "description": "Lively summer evenings."
+            },
+            {
+              "name": "Open-Air Cinema",
+              "map_link": "https://www.google.com/maps/search/Outdoor+cinema+Vienna",
+              "description": "Seasonal film screenings."
+            }
+          ]
+        },
+        "autumn": {
+          "main_event": "Vienna Wine Season",
+          "description": "Local wine taverns open for gemütlich evenings.",
+          "ideas": [
+            {
+              "name": "Heuriger Wine Taverns",
+              "map_link": "https://www.google.com/maps/search/Heuriger+Vienna",
+              "description": "Taste young local wines."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/Museums+Vienna",
+              "description": "Perfect weather for culture."
+            },
+            {
+              "name": "Autumn Walks",
+              "map_link": "https://www.google.com/maps/search/Vienna+autumn",
+              "description": "Golden parks and streets."
+            }
+          ]
+        },
+        "winter": {
+          "main_event": "Vienna Christmas Markets",
+          "description": "Festive markets fill squares with lights, music, and hot punch.",
+          "ideas": [
+            {
+              "name": "Christmas Markets",
+              "map_link": "https://www.google.com/maps/search/Vienna+Christmas+Market",
+              "description": "Traditional food and crafts."
+            },
+            {
+              "name": "Classical Concerts",
+              "map_link": "https://www.google.com/maps/search/Classical+concerts+Vienna",
+              "description": "Peak season for music lovers."
+            },
+            {
+              "name": "Coffee Houses",
+              "map_link": "https://www.google.com/maps/search/Viennese+coffee+house",
+              "description": "Warm, cozy interiors in winter."
+            }
+          ]
+        }
+      },
+      "public_transport_tips": [
+        {
+          "tip": "Vienna’s public transport system is extensive and very reliable.",
+          "link": "https://www.wienerlinien.at"
+        },
+        {
+          "tip": "24h and multi-day passes are ideal for visitors.",
+          "link": "https://www.wienerlinien.at/tickets"
+        }
+      ],
+      "city_events": [
+        {
+          "name": "Danube Island Festival",
+          "season": "summer",
+          "description": "A massive free music festival with international artists.",
+          "website": "https://donauinselfest.at",
+          "dates": "June"
+        },
+        {
+          "name": "Vienna Christmas Markets",
+          "season": "winter",
+          "description": "Traditional markets across the city with food, lights, and music.",
+          "website": "https://www.wien.info",
+          "dates": "Late November – December"
+        }
+      ],
+      "places": [
+        {
+          "name": "Historic Center of Vienna",
+          "map_link": "https://www.google.com/maps/search/Historic+Center+of+Vienna",
+          "description": "A UNESCO World Heritage Site packed with imperial architecture and landmarks."
+        },
+        {
+          "name": "Schönbrunn Palace",
+          "map_link": "https://www.google.com/maps/search/Sch%C3%B6nbrunn+Palace+Vienna",
+          "description": "One of Austria’s most visited attractions and a symbol of imperial Vienna."
+        }
+      ],
+      "hidden_gems": [
+        {
+          "name": "Augarten",
+          "map_link": "https://www.google.com/maps/search/Augarten+Vienna",
+          "description": "A quiet baroque park with few tourists, popular with locals for walks and picnics."
+        },
+        {
+          "name": "Zentralfriedhof",
+          "map_link": "https://www.google.com/maps/search/Zentralfriedhof+Vienna",
+          "description": "A vast cemetery where famous composers are buried, surprisingly peaceful and green."
         }
       ]
     },

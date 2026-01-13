@@ -65,6 +65,18 @@ function normalizeKey(value) {
   return normalizeName(value).replace(/\s+/g, "");
 }
 
+async function cityExistsInFile(fileName, cityName) {
+  const resolved = resolveCountryFile(fileName);
+  if (resolved.error) return null;
+
+  const raw = await fs.promises.readFile(resolved.path, "utf8");
+  const parsed = JSON.parse(raw);
+  const cities = Array.isArray(parsed?.cities) ? parsed.cities : [];
+  const target = normalizeName(cityName);
+
+  return cities.find((entry) => normalizeName(entry?.name) === target) || null;
+}
+
 const COUNTRY_ALIASES = {
   "bosniaandherzegovina": "Bosnia and Herzegowina",
   "cotedivoire": "Cote d'Ivoire",
@@ -221,100 +233,43 @@ async function generateCityInFile(fileName, city, fallbackCountry) {
 
   const promptCountry = parsed?.name || fallbackCountry || "";
   const response = await client.responses.create({
-    model: "gpt-4.1-mini",
-    response_format: { type: "json_object" },
+    model: "gpt-4.1-nano",
+    max_output_tokens: 1500,
+    text: {
+      format: { type: "json_object" }
+    },
     input: [
       {
         role: "system",
         content: `
-You are City Tour Guide AI.
-
-Return ONLY valid JSON.
-No markdown, no comments, no explanations.
-
-Generate data for a city guide.
+You are City Tour Guide AI. Reply with JSON only (no markdown/comments).
 City: ${trimmedCity}
 Country: ${promptCountry}
 
-The JSON MUST follow this schema:
+Schema:
 {
   "name": "",
   "interests": {
-    "Art & Culture": [
-      { "name": "", "map_link": "", "description": "" }
-    ],
-    "Photo Spots": [
-      { "name": "", "map_link": "", "description": "" }
-    ],
-    "Food & Nightlife": [
-      { "name": "", "map_link": "", "description": "" }
-    ],
-    "Nature & Relaxation": [
-      { "name": "", "map_link": "", "description": "" }
-    ]
+    "Art & Culture": [{ "name": "", "map_link": "", "description": "" }],
+    "Photo Spots": [{ "name": "", "map_link": "", "description": "" }],
+    "Food & Nightlife": [{ "name": "", "map_link": "", "description": "" }],
+    "Nature & Relaxation": [{ "name": "", "map_link": "", "description": "" }]
   },
   "local_food_tip": "",
-  "full_day": {
-    "Morning": "",
-    "Afternoon": "",
-    "Sunset": "",
-    "Night": ""
-  },
+  "full_day": { "Morning": "", "Afternoon": "", "Sunset": "", "Night": "" },
   "seasons": {
-    "spring": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    },
-    "summer": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    },
-    "autumn": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    },
-    "winter": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    }
+    "spring": { "main_event": "", "description": "", "ideas": [{ "name": "", "map_link": "", "description": "" }] },
+    "summer": { "main_event": "", "description": "", "ideas": [{ "name": "", "map_link": "", "description": "" }] },
+    "autumn": { "main_event": "", "description": "", "ideas": [{ "name": "", "map_link": "", "description": "" }] },
+    "winter": { "main_event": "", "description": "", "ideas": [{ "name": "", "map_link": "", "description": "" }] }
   },
-  "public_transport_tips": [
-    { "tip": "", "link": "" }
-  ],
-  "city_events": [
-    {
-      "name": "",
-      "season": "",
-      "description": "",
-      "website": "",
-      "dates": ""
-    }
-  ],
-  "places": [
-    { "name": "", "map_link": "", "description": "" }
-  ],
-  "hidden_gems": [
-    { "name": "", "map_link": "", "description": "" }
-  ]
+  "public_transport_tips": [{ "tip": "", "link": "" }],
+  "city_events": [{ "name": "", "season": "", "description": "", "website": "", "dates": "" }],
+  "places": [{ "name": "", "map_link": "", "description": "" }],
+  "hidden_gems": [{ "name": "", "map_link": "", "description": "" }]
 }
 
-Rules:
-- interests MUST be an object, not an array
-- All map_link values MUST be Google Maps search URLs
-- Descriptions must be factual and concise
-- No emojis inside JSON values
+Rules: interests is an object; use Google Maps search URLs; keep descriptions concise; full_day may include short <a> links and emojis.
 `
       }
     ]
@@ -450,97 +405,40 @@ app.post("/api/ask", requireAuth, async (req, res) => {
 
     const response = await client.responses.create({
       model: "gpt-4.1-mini",
-      response_format: { type: "json_object" },
+      max_output_tokens: 900,
+      text: {
+        format: { type: "json_object" }
+      },
       input: [
         {
           role: "system",
           content: `
-You are City Tour Guide AI.
+You are City Tour Guide AI. Reply with JSON only (no markdown/comments).
 
-Return ONLY valid JSON.
-No markdown, no comments, no explanations.
-
-The JSON MUST strictly follow this schema:
-
+Schema:
 {
   "name": "City name",
   "interests": {
-    "Art & Culture": [
-      { "name": "", "map_link": "", "description": "" }
-    ],
-    "Photo Spots": [
-      { "name": "", "map_link": "", "description": "" }
-    ],
-    "Food & Nightlife": [
-      { "name": "", "map_link": "", "description": "" }
-    ],
-    "Nature & Relaxation": [
-      { "name": "", "map_link": "", "description": "" }
-    ]
+    "Art & Culture": [{ "name": "", "map_link": "", "description": "" }],
+    "Photo Spots": [{ "name": "", "map_link": "", "description": "" }],
+    "Food & Nightlife": [{ "name": "", "map_link": "", "description": "" }],
+    "Nature & Relaxation": [{ "name": "", "map_link": "", "description": "" }]
   },
   "local_food_tip": "",
-  "full_day": {
-    "Morning": "",
-    "Afternoon": "",
-    "Sunset": "",
-    "Night": ""
-  },
+  "full_day": { "Morning": "", "Afternoon": "", "Sunset": "", "Night": "" },
   "seasons": {
-    "spring": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    },
-    "summer": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    },
-    "autumn": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    },
-    "winter": {
-      "main_event": "",
-      "description": "",
-      "ideas": [
-        { "name": "", "map_link": "", "description": "" }
-      ]
-    }
+    "spring": { "main_event": "", "description": "", "ideas": [{ "name": "", "map_link": "", "description": "" }] },
+    "summer": { "main_event": "", "description": "", "ideas": [{ "name": "", "map_link": "", "description": "" }] },
+    "autumn": { "main_event": "", "description": "", "ideas": [{ "name": "", "map_link": "", "description": "" }] },
+    "winter": { "main_event": "", "description": "", "ideas": [{ "name": "", "map_link": "", "description": "" }] }
   },
-  "public_transport_tips": [
-    { "tip": "", "link": "" }
-  ],
-  "city_events": [
-    {
-      "name": "",
-      "season": "",
-      "description": "",
-      "website": "",
-      "dates": ""
-    }
-  ],
-  "places": [
-    { "name": "", "map_link": "", "description": "" }
-  ],
-  "hidden_gems": [
-    { "name": "", "map_link": "", "description": "" }
-  ]
+  "public_transport_tips": [{ "tip": "", "link": "" }],
+  "city_events": [{ "name": "", "season": "", "description": "", "website": "", "dates": "" }],
+  "places": [{ "name": "", "map_link": "", "description": "" }],
+  "hidden_gems": [{ "name": "", "map_link": "", "description": "" }]
 }
 
-Rules:
-- interests MUST be an object, not an array
-- Use realistic, well-known locations
-- All map_link values MUST be Google Maps search URLs
-- Descriptions must be factual and concise
-- No emojis inside JSON values
+Rules: interests is an object; use realistic well-known locations; Google Maps search URLs; concise descriptions; full_day may include short <a> links and emojis.
 `
         },
         {
@@ -585,44 +483,28 @@ app.post("/api/ask/personalized", requireAuth, async (req, res) => {
 
     const response = await client.responses.create({
       model: "gpt-4.1-mini",
-      response_format: { type: "json_object" },
+      max_output_tokens: 1500,
+      text: {
+        format: { type: "json_object" }
+      },
       input: [
         {
           role: "system",
           content: `
-You are City Tour Guide AI.
+You are City Tour Guide AI. Reply with JSON only (no markdown/comments).
+Create a personalized schedule for the given city and interests with meals included.
 
-Return ONLY valid JSON.
-No markdown, no comments, no explanations.
-
-Create a personalized city tour for the provided city and interests.
-Include a realistic schedule with timestamps and meals.
-
-The JSON MUST strictly follow this schema:
-
+Schema:
 {
   "city": "",
   "interests": "",
   "itinerary": [
-    {
-      "time": "09:00",
-      "title": "",
-      "type": "breakfast|visit|lunch|dinner|break|activity",
-      "description": "",
-      "map_link": ""
-    }
+    { "time": "09:00", "title": "", "type": "breakfast|visit|lunch|dinner|break|activity", "description": "", "map_link": "" }
   ],
-  "tips": [
-    { "tip": "", "map_link": "" }
-  ]
+  "tips": [{ "tip": "", "map_link": "" }]
 }
 
-Rules:
-- Include breakfast, lunch, and dinner entries in the itinerary
-- Use realistic, well-known locations related to the interests
-- All map_link values MUST be Google Maps search URLs
-- Descriptions must be factual and concise
-- No emojis inside JSON values
+Rules: include breakfast/lunch/dinner entries; use realistic locations tied to interests; Google Maps search URLs; concise factual descriptions; no emojis.
 `
         },
         {
@@ -794,6 +676,16 @@ app.post("/api/cities/generate", requireAuth, async (req, res) => {
     const match = await findCountryFileByName(resolvedCountry);
     if (!match) {
       return res.status(404).json({ error: "No data file for resolved country." });
+    }
+
+    const existingCity = await cityExistsInFile(match.file, trimmedCity);
+    if (existingCity) {
+      return res.json({
+        created: false,
+        city: existingCity.name,
+        country: match.country,
+        file: match.file
+      });
     }
 
     const result = await generateCityInFile(match.file, trimmedCity, match.country);

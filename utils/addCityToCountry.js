@@ -49,7 +49,9 @@ export async function addCityIfMissing(cityName) {
   // --------------------------------------------------
   const aiResponse = await client.responses.create({
     model: "gpt-4.1-mini",
-    response_format: { type: "json_object" },
+    text: {
+      format: { type: "json_object" }
+    },
     input: [
       {
         role: "system",
