@@ -116,6 +116,10 @@ function normalizeEmail(value) {
   return String(value || "").trim().toLowerCase();
 }
 
+function normalizeUserName(value) {
+  return normalizeName(String(value || "").trim()).replace(/\s+/g, " ");
+}
+
 function buildClientUrl(req, pathname) {
   const base = process.env.CLIENT_URL || `${req.protocol}://${req.get("host")}`;
   return new URL(pathname, base).toString();
@@ -807,12 +811,57 @@ app.listen(process.env.PORT || 3001, () => {
 const USERS_PATH = path.join(DATA_DIR, "users.json");
 const PENDING_USERS_PATH = path.join(DATA_DIR, "pending_users.json");
 
+app.get("/api/auth/me", requireAuth, async (req, res) => {
+  try {
+    const users = await readJsonFile(USERS_PATH, []);
+    const match = users.find((u) => u.id === req.user?.userId);
+
+    return res.json({
+      userId: req.user?.userId,
+      name: match?.name || "",
+      email: req.user?.email,
+      plan: req.user?.plan,
+      tokens: Number(match?.tokens || 0)
+    });
+  } catch (err) {
+    console.error(err);
+    return res.status(500).json({ error: "Failed to load user profile." });
+  }
+});
+
+app.get("/api/auth/name-check", async (req, res) => {
+  try {
+    const rawName = String(req.query.name || "").trim();
+    if (!rawName) {
+      return res.status(400).json({ error: "Name is required." });
+    }
+
+    const normalized = normalizeUserName(rawName);
+    const users = await readJsonFile(USERS_PATH, []);
+    const pending = await readJsonFile(PENDING_USERS_PATH, []);
+
+    const exists =
+      users.some((u) => normalizeUserName(u.name) === normalized) ||
+      pending.some((u) => normalizeUserName(u.name) === normalized);
+
+    return res.json({ available: !exists });
+  } catch (err) {
+    console.error(err);
+    return res.status(500).json({ error: "Failed to check name availability." });
+  }
+});
+
 
 app.post("/api/auth/signup", async (req, res) => {
   try {
-    const { email, password } = req.body || {};
-    if (!email || !password) {
-      return res.status(400).json({ error: "Email and password required" });
+    const { name, email, password } = req.body || {};
+    if (!name || !email || !password) {
+      return res.status(400).json({ error: "Name, email, and password required" });
+    }
+
+    const normalizedName = normalizeUserName(name);
+    if (!normalizedName) {
+      return res.status(400).json({ error: "Name is required." });
     }
 
     const normalizedEmail = normalizeEmail(email);
@@ -821,17 +870,26 @@ app.post("/api/auth/signup", async (req, res) => {
     if (existing) {
       return res.status(409).json({ error: "User already exists." });
     }
+    const nameExists = users.find((u) => normalizeUserName(u.name) === normalizedName);
+    if (nameExists) {
+      return res.status(409).json({ error: "Name already exists." });
+    }
 
     const pending = await readJsonFile(PENDING_USERS_PATH, []);
     const pendingExisting = pending.find((u) => normalizeEmail(u.email) === normalizedEmail);
     if (pendingExisting) {
       return res.status(409).json({ error: "Signup already pending. Check your email to confirm." });
     }
+    const pendingName = pending.find((u) => normalizeUserName(u.name) === normalizedName);
+    if (pendingName) {
+      return res.status(409).json({ error: "Name already exists." });
+    }
 
     const passwordHash = await bcrypt.hash(password, 10);
     const token = crypto.randomBytes(32).toString("hex");
     const entry = {
       id: `u_${Date.now()}`,
+      name: normalizedName,
       email: normalizedEmail,
       passwordHash,
       plan: "free",
@@ -882,6 +940,7 @@ app.get("/api/auth/confirm", async (req, res) => {
     if (!user) {
       user = {
         id: entry.id,
+        name: entry.name,
         email: entry.email,
         passwordHash: entry.passwordHash,
         plan: entry.plan || "free",

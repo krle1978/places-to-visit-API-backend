@@ -255,6 +255,7 @@
         }
       ]
     },
+
     {
       "name": "Kragujevac",
       "interests": {
@@ -444,141 +445,197 @@
         }
       ]
     },
+
     {
       "name": "Niš",
       "interests": {
         "Art & Culture": [
           {
             "name": "Niš Fortress",
-            "map_link": "https://goo.gl/maps/XYZ123",
-            "description": "Historical fortress with museums and panoramic views."
+            "map_link": "https://www.google.com/maps/search/Ni%C5%A1+Fortress",
+            "description": "A massive Ottoman-era fortress located along the Nišava River, featuring preserved gates, inner streets, exhibition spaces, and frequent cultural events."
           },
           {
-            "name": "Naissus Archaeological Site",
-            "map_link": "https://goo.gl/maps/ABC456",
-            "description": "Ancient Roman archaeological site showcasing history."
+            "name": "National Museum Niš",
+            "map_link": "https://www.google.com/maps/search/National+Museum+Ni%C5%A1",
+            "description": "A central cultural institution presenting archaeological finds, Roman heritage, and Serbian history connected to the Niš region."
           }
         ],
         "Photo Spots": [
           {
-            "name": "Çele Kula",
-            "map_link": "https://goo.gl/maps/DEF789",
-            "description": "Iconic tower offering great city views."
+            "name": "Niš Fortress Walls & Riverbank",
+            "map_link": "https://www.google.com/maps/search/Ni%C5%A1+Fortress",
+            "description": "Stone walls, river reflections, and bridges make this one of the most photogenic areas in the city, especially during golden hour."
           },
           {
-            "name": "Nišava River Promenade",
-            "map_link": "https://goo.gl/maps/GHI012",
-            "description": "Scenic river views perfect for photography."
+            "name": "Skull Tower (Ćele Kula)",
+            "map_link": "https://www.google.com/maps/search/%C4%86ele+Kula+Ni%C5%A1",
+            "description": "A powerful and historic site offering striking, meaningful photographs tied to Serbian history and resistance."
           }
         ],
         "Food & Nightlife": [
           {
-            "name": "Ćošijini Šarenilice",
-            "map_link": "https://goo.gl/maps/JKL345",
-            "description": "Popular local tavern serving traditional Serbian dishes."
+            "name": "Kazandžijsko Sokače",
+            "map_link": "https://www.google.com/maps/search/Kazand%C5%BEijsko+Soka%C4%8De+Ni%C5%A1",
+            "description": "A charming cobblestone street filled with traditional restaurants and cafés, popular for relaxed evenings and local cuisine."
           },
           {
-            "name": "Night Market & Bars",
-            "map_link": "https://goo.gl/maps/MNO678",
-            "description": "Vibrant area with local snacks, drinks, and music."
+            "name": "Niš City Center Cafés",
+            "map_link": "https://www.google.com/maps/search/Obrenovi%C4%87eva+Street+Ni%C5%A1",
+            "description": "The main pedestrian zone with modern cafés, bakeries, and casual nightlife spots frequented by students."
           }
         ],
         "Nature & Relaxation": [
           {
-            "name": "Niš Spa & Relaxation Center",
-            "map_link": "https://goo.gl/maps/PQR901",
-            "description": "Thermal spa experience and wellness treatments."
+            "name": "Čair Park",
+            "map_link": "https://www.google.com/maps/search/%C4%8Cair+Park+Ni%C5%A1",
+            "description": "A large urban park with walking paths, sports areas, and shaded benches, ideal for a break between sightseeing."
           },
           {
-            "name": "Guber Park",
-            "map_link": "https://goo.gl/maps/STU234",
-            "description": "Relaxing green space with walking paths."
+            "name": "Nišava River Walk",
+            "map_link": "https://www.google.com/maps/search/Ni%C5%A1ava+River+Ni%C5%A1",
+            "description": "Peaceful riverside paths perfect for evening walks and casual cycling."
           }
         ]
       },
-      "local_food_tip": "Try the local specialty 'Leskovac grilled meat' at a traditional restaurant.",
+      "local_food_tip": "Niš is famous for grilled meat — try ćevapi or pljeskavica in traditional restaurants rather than fast-food chains for the best flavor.",
       "full_day": {
-        "Morning": "Visit Niš Fortress and Naissus archaeological sites. ☀️",
-        "Afternoon": "Enjoy local cuisine and stroll the river promenade. 🍽️🌳",
-        "Sunset": "Watch sunset from Çele Kula. 🌅",
-        "Night": "Experience Niš nightlife at nearby bars and markets. 🎉"
+        "Morning": "☀️ Start with breakfast near <a href=\"https://www.google.com/maps/search/Obrenovi%C4%87eva+Street+Ni%C5%A1\">Obrenovićeva Street</a>, then explore the <a href=\"https://www.google.com/maps/search/Ni%C5%A1+Fortress\">Niš Fortress</a> and walk along the river.",
+        "Afternoon": "🏛 Visit the <a href=\"https://www.google.com/maps/search/National+Museum+Ni%C5%A1\">National Museum</a> and continue to the historic <a href=\"https://www.google.com/maps/search/%C4%86ele+Kula+Ni%C5%A1\">Skull Tower</a>.",
+        "Sunset": "🌅 Relax in <a href=\"https://www.google.com/maps/search/%C4%8Cair+Park+Ni%C5%A1\">Čair Park</a> or return to the fortress for sunset views.",
+        "Night": "🌙 Dinner and drinks in <a href=\"https://www.google.com/maps/search/Kazand%C5%BEijsko+Soka%C4%8De+Ni%C5%A1\">Kazandžijsko Sokače</a>, enjoying traditional food and live music."
       },
       "seasons": {
         "spring": {
-          "main_event": "Niš Film Festival",
-          "description": "Annual film festival showcasing regional films.",
+          "event": "City Spring Cultural Program",
+          "description": "The city hosts outdoor exhibitions, performances, and cultural events as warmer weather begins.",
           "ideas": [
             {
-              "name": "Spring Bloom Walk",
-              "map_link": "https://goo.gl/maps/XYZ123",
-              "description": "Stroll through blooming Guber Park."
+              "name": "Fortress Walks",
+              "map_link": "https://www.google.com/maps/search/Ni%C5%A1+Fortress",
+              "description": "Comfortable temperatures make exploring the fortress ideal."
+            },
+            {
+              "name": "Park Picnics",
+              "map_link": "https://www.google.com/maps/search/%C4%8Cair+Park+Ni%C5%A1",
+              "description": "Locals gather for relaxed afternoons in the park."
+            },
+            {
+              "name": "Museum Visits",
+              "map_link": "https://www.google.com/maps/search/National+Museum+Ni%C5%A1",
+              "description": "Spring exhibitions often attract fewer crowds."
             }
           ]
         },
         "summer": {
-          "main_event": "Niš Summer Fest",
-          "description": "Music concerts and outdoor events in the city center.",
+          "event": "Nišville Jazz Festival",
+          "description": "An internationally known jazz festival held inside the Niš Fortress.",
           "ideas": [
             {
-              "name": "River Dinner Cruise",
-              "map_link": "https://goo.gl/maps/ABC456",
-              "description": "Enjoy summer evenings by the river with dinner."
+              "name": "Nišville Concert Nights",
+              "map_link": "https://www.google.com/maps/search/Ni%C5%A1+Fortress",
+              "description": "Live music performances in a historic setting."
+            },
+            {
+              "name": "Evening River Walks",
+              "map_link": "https://www.google.com/maps/search/Ni%C5%A1ava+River+Ni%C5%A1",
+              "description": "Cooler evenings along the river are popular."
+            },
+            {
+              "name": "Late Cafés",
+              "map_link": "https://www.google.com/maps/search/Obrenovi%C4%87eva+Street+Ni%C5%A1",
+              "description": "City nightlife stays active until late."
             }
           ]
         },
         "autumn": {
-          "main_event": "Autumn Cultural Days",
-          "description": "Exhibitions and performances celebrating Serbian culture.",
+          "event": "Student Season Opening",
+          "description": "The return of university students brings renewed energy to the city.",
           "ideas": [
             {
-              "name": "Harvest Festival",
-              "map_link": "https://goo.gl/maps/DEF789",
-              "description": "Taste seasonal produce and local wines."
+              "name": "Historic Street Walks",
+              "map_link": "https://www.google.com/maps/search/Kazand%C5%BEijsko+Soka%C4%8De+Ni%C5%A1",
+              "description": "Autumn colors add charm to old streets."
+            },
+            {
+              "name": "Indoor Cultural Events",
+              "map_link": "https://www.google.com/maps/search/National+Theatre+Ni%C5%A1",
+              "description": "Theatre and cultural programs resume."
+            },
+            {
+              "name": "Coffee Culture",
+              "map_link": "https://www.google.com/maps/search/Obrenovi%C4%87eva+Street+Ni%C5%A1",
+              "description": "Cafés become cozy meeting spots."
             }
           ]
         },
         "winter": {
-          "main_event": "Niš Winter Market",
-          "description": "Holiday market with crafts, food, and festive atmosphere.",
+          "event": "New Year Celebrations",
+          "description": "Public squares host concerts and holiday decorations.",
           "ideas": [
             {
-              "name": "Ice Skating on Plaza",
-              "map_link": "https://goo.gl/maps/GHI012",
-              "description": "Enjoy outdoor skating and winter decor."
+              "name": "Winter Fortress Views",
+              "map_link": "https://www.google.com/maps/search/Ni%C5%A1+Fortress",
+              "description": "A quiet and atmospheric winter walk."
+            },
+            {
+              "name": "Museum Days",
+              "map_link": "https://www.google.com/maps/search/National+Museum+Ni%C5%A1",
+              "description": "Ideal indoor activity during cold weather."
+            },
+            {
+              "name": "Traditional Winter Food",
+              "map_link": "https://www.google.com/maps/search/Kazand%C5%BEijsko+Soka%C4%8De+Ni%C5%A1",
+              "description": "Hearty grilled dishes and stews are popular."
             }
           ]
         }
       },
       "public_transport_tips": [
         {
-          "tip": "Use local buses for affordable city transport.",
-          "link": "https://goo.gl/maps/serbia-bus"
+          "tip": "City buses are the main form of public transport and connect most neighborhoods.",
+          "link": "https://www.ni.rs"
+        },
+        {
+          "tip": "Tickets are commonly bought from the driver; carry small cash.",
+          "link": "https://www.jgpnis.rs"
         }
       ],
       "city_events": [
         {
-          "name": "Niš International Film Festival",
-          "season": "autumn",
-          "description": "Showcases regional and international films.",
-          "website": "http://nisfilmfest.com",
-          "dates": "October 10-20"
+          "name": "Nišville Jazz Festival",
+          "season": "summer",
+          "description": "One of Southeast Europe’s most famous jazz festivals, held annually in the Niš Fortress.",
+          "website": "https://www.nisville.com",
+          "dates": "August"
         }
       ],
       "places": [
         {
-          "name": "Skull Tower",
-          "map_link": "https://goo.gl/maps/JKL345",
-          "description": "Historical monument with grim history."
+          "name": "Niš Fortress",
+          "map_link": "https://www.google.com/maps/search/Ni%C5%A1+Fortress",
+          "description": "A large, well-preserved fortress with stone walls, gates, cafés, and cultural venues, forming the social and historical heart of the city."
+        },
+        {
+          "name": "Skull Tower (Ćele Kula)",
+          "map_link": "https://www.google.com/maps/search/%C4%86ele+Kula+Ni%C5%A1",
+          "description": "A unique and solemn monument built from human skulls after the Battle of Čegar, symbolizing sacrifice and resistance."
         }
       ],
       "hidden_gems": [
         {
-          "name": "Riblja Čarda",
-          "map_link": "https://goo.gl/maps/MNO678",
-          "description": "Local restaurant with authentic traditional cuisine."
+          "name": "Bali-Beg Mosque",
+          "map_link": "https://www.google.com/maps/search/Bali+Bey+Mosque+Ni%C5%A1",
+          "description": "A restored Ottoman mosque inside the fortress, quieter than surrounding areas and often used for exhibitions and cultural events."
+        },
+        {
+          "name": "Čegar Hill Viewpoint",
+          "map_link": "43.307215,21.927602",
+          "description": "A calm hilltop area near the historic battlefield, offering open views and a peaceful atmosphere away from city crowds."
         }
       ]
     },
+
     {
       "name": "Novi Sad",
       "interests": {
@@ -831,6 +888,7 @@
         }
       ]
     },
+
     {
       "name": "Subotica",
       "interests": {
@@ -944,7 +1002,7 @@
           "ideas": [
             {
               "name": "Vinski Dvor Winery",
-              "map_link": "https://www.google.com/maps/place/Vinski+Dvor",
+            "map_link": "https://www.google.com/maps/place/Vinski+Dvor",
               "description": "Taste regional wines paired with cheese platters."
             },
             {
@@ -1042,6 +1100,7 @@
         }
       ]
     },
+
     {
       "name": "Užice",
       "interests": {
@@ -1263,6 +1322,7 @@
         }
       ]
     },
+
     {
       "name": "Valjevo",
       "interests": {
@@ -1484,6 +1544,7 @@
         }
       ]
     },
+
     {
       "name": "Zlatibor",
       "interests": {
@@ -1710,5 +1771,6 @@
         }
       ]
     }
+
   ]
 }

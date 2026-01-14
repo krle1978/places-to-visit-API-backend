@@ -1,30 +1,35 @@
 [
     {
         "id":  "u_001",
+        "name":  "Rade",
         "email":  "krstic.rade@places-to-visit.com",
         "passwordHash":  "$2b$10$H/D3wYXGCKnWaUZt9EKbSuGzxcspZRPbM0jhRV6Mm.Htfpg0Y4tPG",
         "plan":  "basic"
     },
     {
         "id":  "u1",
+        "name":  "Test User",
         "email":  "test@test.com",
         "passwordHash":  "$2b$10$H/D3wYXGCKnWaUZt9EKbSuGzxcspZRPbM0jhRV6Mm.Htfpg0Y4tPG",
         "plan":  "basic"
     },
     {
         "id":  "u_free_001",
+        "name":  "Free User",
         "email":  "free@places-to-visit.com",
         "passwordHash":  "$2b$10$H/D3wYXGCKnWaUZt9EKbSuGzxcspZRPbM0jhRV6Mm.Htfpg0Y4tPG",
         "plan":  "free"
     },
     {
         "id":  "u_basic_001",
+        "name":  "Basic User",
         "email":  "basic@places-to-visit.com",
         "passwordHash":  "$2b$10$H/D3wYXGCKnWaUZt9EKbSuGzxcspZRPbM0jhRV6Mm.Htfpg0Y4tPG",
         "plan":  "basic"
     },
     {
         "id":  "u_premium_001",
+        "name":  "Premium User",
         "email":  "premium@places-to-visit.com",
         "passwordHash":  "$2b$10$H/D3wYXGCKnWaUZt9EKbSuGzxcspZRPbM0jhRV6Mm.Htfpg0Y4tPG",
         "plan":  "premium"
