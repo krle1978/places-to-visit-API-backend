@@ -283,6 +283,9 @@ Rules: interests is an object; use Google Maps search URLs; keep descriptions co
     err.status = 500;
     throw err;
   }
+  if (normalizeName(cityJSON.name) !== normalizeName(trimmedCity)) {
+    cityJSON.name = trimmedCity;
+  }
 
   parsed.cities.push(cityJSON);
   parsed.cities.sort((a, b) => String(a.name).localeCompare(String(b.name)));
@@ -570,6 +573,55 @@ app.get("/api/geo/reverse", async (req, res) => {
     }
 
     return res.json({ city, country });
+  } catch (err) {
+    console.error(err);
+    return res.status(500).json({ error: "Failed to resolve location." });
+  }
+});
+
+app.get("/api/geo/locate", async (req, res) => {
+  try {
+    const city = String(req.query.city || "").trim();
+    if (!city) {
+      return res.status(400).json({ error: "City is required." });
+    }
+
+    const url = new URL("https://nominatim.openstreetmap.org/search");
+    url.searchParams.set("format", "jsonv2");
+    url.searchParams.set("limit", "1");
+    url.searchParams.set("city", city);
+    url.searchParams.set("addressdetails", "1");
+
+    const response = await fetch(url, {
+      headers: {
+        "User-Agent": "places-to-visit-ai/1.0",
+        "Accept-Language": "en"
+      }
+    });
+
+    if (!response.ok) {
+      return res.status(502).json({ error: "Failed to resolve location." });
+    }
+
+    const data = await response.json();
+    const entry = Array.isArray(data) ? data[0] : null;
+    const lat = Number(entry?.lat);
+    const lon = Number(entry?.lon);
+    const address = entry?.address || {};
+    const resolvedCity =
+      address.city ||
+      address.town ||
+      address.village ||
+      address.municipality ||
+      address.county ||
+      city;
+    const country = address.country || "";
+
+    if (!Number.isFinite(lat) || !Number.isFinite(lon) || !country) {
+      return res.status(404).json({ error: "Location not found." });
+    }
+
+    return res.json({ city: resolvedCity, country, lat, lon });
   } catch (err) {
     console.error(err);
     return res.status(500).json({ error: "Failed to resolve location." });
