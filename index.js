@@ -972,16 +972,21 @@ app.get("/api/auth/confirm", async (req, res) => {
 });
 
 app.post("/api/auth/login", async (req, res) => {
-  const { username, name, password } = req.body || {};
-  const rawName = username ?? name;
+  const { username, name, email, password } = req.body || {};
+  const rawIdentifier = username ?? name ?? email;
 
-  if (!rawName || !password) {
-    return res.status(400).json({ error: "Username and password required" });
+  if (!rawIdentifier || !password) {
+    return res.status(400).json({ error: "Username or email and password required" });
   }
 
   const users = await readJsonFile(USERS_PATH, []);
-  const normalizedName = normalizeUserName(rawName);
-  const user = users.find((u) => normalizeUserName(u.name) === normalizedName);
+  const normalizedName = normalizeUserName(rawIdentifier);
+  const normalizedEmail = normalizeEmail(rawIdentifier);
+  const user = users.find(
+    (u) =>
+      normalizeUserName(u.name) === normalizedName ||
+      normalizeEmail(u.email) === normalizedEmail
+  );
 
   if (!user) {
     return res.status(401).json({ error: "Invalid credentials" });
