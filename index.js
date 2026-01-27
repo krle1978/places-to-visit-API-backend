@@ -37,6 +37,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DATA_DIR = path.join(__dirname, "data");
 const COUNTRIES_DIR = path.join(DATA_DIR, "countries");
+const USERS_PATH = path.join(DATA_DIR, "users.json");
 const cityGeoCache = new Map();
 const smtpPort = Number(process.env.SMTP_PORT || 587);
 const mailTransport = process.env.SMTP_HOST
@@ -369,12 +370,76 @@ function planAllows(plan, allowed) {
   return rank >= minAllowed;
 }
 
+async function loadUserById(userId) {
+  const users = await readJsonFile(USERS_PATH, []);
+  const idx = users.findIndex((u) => u.id === userId);
+  return { users, user: idx >= 0 ? users[idx] : null };
+}
+
+function normalizeUserTokens(user) {
+  if (!user) return false;
+  const current = Number(user.tokens || 0);
+  if (!Number.isFinite(current)) {
+    user.tokens = 0;
+  } else {
+    user.tokens = current;
+  }
+
+  if (user.tokens <= 0 && user.plan !== "free") {
+    user.tokens = 0;
+    user.plan = "free";
+    return true;
+  }
+
+  return false;
+}
+
+async function getUserContext(req, res) {
+  const userId = req.user?.userId;
+  if (!userId) {
+    res.status(401).json({ error: "Not authenticated" });
+    return null;
+  }
+
+  const { users, user } = await loadUserById(userId);
+  if (!user) {
+    res.status(401).json({ error: "User not found." });
+    return null;
+  }
+
+  const changed = normalizeUserTokens(user);
+  if (changed) {
+    await writeJsonFile(USERS_PATH, users);
+  }
+
+  return { users, user };
+}
+
+function hasTokens(user) {
+  return Number(user?.tokens || 0) > 0;
+}
+
+async function consumeToken(users, user) {
+  user.tokens = Number(user.tokens || 0) - 1;
+  if (!Number.isFinite(user.tokens) || user.tokens <= 0) {
+    user.tokens = 0;
+    user.plan = "free";
+  }
+  await writeJsonFile(USERS_PATH, users);
+}
+
 app.post("/api/city/add", requireAuth, async (req, res) => {
   try {
-    if (!planAllows(req.user?.plan, ["basic", "premium"])) {
+    const context = await getUserContext(req, res);
+    if (!context) return;
+
+    if (!planAllows(context.user.plan, ["basic", "premium"])) {
       return res.status(403).json({
         error: "Your plan does not allow adding new cities."
       });
+    }
+    if (!hasTokens(context.user)) {
+      return res.status(403).json({ error: "No tokens remaining." });
     }
 
     const { city } = req.body;
@@ -384,7 +449,9 @@ app.post("/api/city/add", requireAuth, async (req, res) => {
     }
 
     const result = await addCityIfMissing(city);
-
+    if (!result?.exists) {
+      await consumeToken(context.users, context.user);
+    }
     return res.json(result);
   } catch (err) {
     console.error(err);
@@ -396,10 +463,16 @@ app.post("/api/city/add", requireAuth, async (req, res) => {
 
 app.post("/api/ask", requireAuth, async (req, res) => {
   try {
-    if (!planAllows(req.user?.plan, ["premium"])) {
+    const context = await getUserContext(req, res);
+    if (!context) return;
+
+    if (!planAllows(context.user.plan, ["premium"])) {
       return res.status(403).json({
         error: "Your plan does not allow using the AI guide."
       });
+    }
+    if (!hasTokens(context.user)) {
+      return res.status(403).json({ error: "No tokens remaining." });
     }
 
     const { question } = req.body;
@@ -471,10 +544,16 @@ Rules: interests is an object; use realistic well-known locations; Google Maps s
 
 app.post("/api/ask/personalized", requireAuth, async (req, res) => {
   try {
-    if (!planAllows(req.user?.plan, ["premium"])) {
+    const context = await getUserContext(req, res);
+    if (!context) return;
+
+    if (!planAllows(context.user.plan, ["premium"])) {
       return res.status(403).json({
         error: "Your plan does not allow using the AI guide."
       });
+    }
+    if (!hasTokens(context.user)) {
+      return res.status(403).json({ error: "No tokens remaining." });
     }
 
     const { city, interests } = req.body || {};
@@ -524,6 +603,8 @@ Rules: include breakfast/lunch/dinner entries; use realistic locations tied to i
     const jsonText = response.output?.[0]?.content?.[0]?.text || "";
     const parsed = JSON.parse(jsonText);
 
+    await consumeToken(context.users, context.user);
+    await consumeToken(context.users, context.user);
     return res.json(parsed);
   } catch (err) {
     console.error("OPENAI ERROR:");
@@ -681,10 +762,16 @@ app.get("/api/geo/nearest", async (req, res) => {
 
 app.post("/api/countries/:file/cities", requireAuth, async (req, res) => {
   try {
-    if (!planAllows(req.user?.plan, ["basic", "premium"])) {
+    const context = await getUserContext(req, res);
+    if (!context) return;
+
+    if (!planAllows(context.user.plan, ["basic", "premium"])) {
       return res.status(403).json({
         error: "Your plan does not allow adding new cities."
       });
+    }
+    if (!hasTokens(context.user)) {
+      return res.status(403).json({ error: "No tokens remaining." });
     }
 
     const fileName = req.params.file;
@@ -694,6 +781,9 @@ app.post("/api/countries/:file/cities", requireAuth, async (req, res) => {
       return res.status(400).json({ error: "City is required." });
     }
     const result = await generateCityInFile(fileName, city, country);
+    if (result?.created) {
+      await consumeToken(context.users, context.user);
+    }
     return res.json(result);
   } catch (err) {
     console.error(err);
@@ -704,10 +794,16 @@ app.post("/api/countries/:file/cities", requireAuth, async (req, res) => {
 
 app.post("/api/cities/generate", requireAuth, async (req, res) => {
   try {
-    if (!planAllows(req.user?.plan, ["basic", "premium"])) {
+    const context = await getUserContext(req, res);
+    if (!context) return;
+
+    if (!planAllows(context.user.plan, ["basic", "premium"])) {
       return res.status(403).json({
         error: "Your plan does not allow adding new cities."
       });
+    }
+    if (!hasTokens(context.user)) {
+      return res.status(403).json({ error: "No tokens remaining." });
     }
 
     const { city, country } = req.body || {};
@@ -745,6 +841,7 @@ app.post("/api/cities/generate", requireAuth, async (req, res) => {
     }
 
     const result = await generateCityInFile(match.file, trimmedCity, match.country);
+    await consumeToken(context.users, context.user);
     return res.json(result);
   } catch (err) {
     console.error(err);
@@ -808,19 +905,24 @@ app.listen(process.env.PORT || 3001, () => {
   console.log(`API running on http://localhost:${process.env.PORT || 3001}`);
 });
 
-const USERS_PATH = path.join(DATA_DIR, "users.json");
 const PENDING_USERS_PATH = path.join(DATA_DIR, "pending_users.json");
 
 app.get("/api/auth/me", requireAuth, async (req, res) => {
   try {
     const users = await readJsonFile(USERS_PATH, []);
     const match = users.find((u) => u.id === req.user?.userId);
+    if (match) {
+      const changed = normalizeUserTokens(match);
+      if (changed) {
+        await writeJsonFile(USERS_PATH, users);
+      }
+    }
 
     return res.json({
       userId: req.user?.userId,
       name: match?.name || "",
       email: req.user?.email,
-      plan: req.user?.plan,
+      plan: match?.plan || req.user?.plan || "free",
       tokens: Number(match?.tokens || 0)
     });
   } catch (err) {
@@ -995,6 +1097,11 @@ app.post("/api/auth/login", async (req, res) => {
   const match = await bcrypt.compare(password, user.passwordHash);
   if (!match) {
     return res.status(401).json({ error: "Invalid credentials" });
+  }
+
+  const normalized = normalizeUserTokens(user);
+  if (normalized) {
+    await writeJsonFile(USERS_PATH, users);
   }
 
   const token = jwt.sign(

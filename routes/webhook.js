@@ -27,6 +27,13 @@ const PAYPAL_CLIENT_SECRET = process.env.PAYPAL_CLIENT_SECRET;
 const PAYPAL_BASE_URL = process.env.PAYPAL_BASE_URL || "https://api-m.sandbox.paypal.com";
 const PAYPAL_MERCHANT_ID = process.env.PAYPAL_MERCHANT_ID || "";
 
+const PLAN_RANK = {
+  free: 0,
+  basic: 1,
+  premium: 2,
+  premium_plus: 3
+};
+
 function normalizeEmail(value) {
   return String(value || "").trim().toLowerCase();
 }
@@ -157,6 +164,19 @@ function creditTokensForUser(email, amount) {
     user.tokens = 0;
   }
 
+  if (user.tokens <= 0 && user.plan !== "free") {
+    user.tokens = 0;
+    user.plan = "free";
+  }
+
+  const currentRank = PLAN_RANK[user.plan] ?? 0;
+  const nextRank = PLAN_RANK[plan] ?? 0;
+  if (nextRank < currentRank) {
+    const err = new Error("Lower plan is not available while higher plan tokens remain.");
+    err.status = 400;
+    throw err;
+  }
+
   user.tokens += tokens;
   user.plan = plan;
   writeUsers(users);
@@ -167,7 +187,56 @@ function creditTokensForUser(email, amount) {
   };
 }
 
+function assertPurchaseAllowed(email, amount) {
+  const plan = AMOUNT_TO_PLAN[amount];
+  if (!plan) {
+    const err = new Error("Unsupported amount.");
+    err.status = 400;
+    throw err;
+  }
+
+  const users = readUsers();
+  const normalized = normalizeEmail(email);
+  const user = users.find((u) => normalizeEmail(u.email) === normalized);
+  if (!user) {
+    const err = new Error("User not found.");
+    err.status = 404;
+    throw err;
+  }
+
+  let changed = false;
+  if (typeof user.tokens !== "number" || Number.isNaN(user.tokens)) {
+    user.tokens = 0;
+    changed = true;
+  }
+
+  if (user.tokens <= 0 && user.plan !== "free") {
+    user.tokens = 0;
+    user.plan = "free";
+    changed = true;
+  }
+
+  const currentRank = PLAN_RANK[user.plan] ?? 0;
+  const nextRank = PLAN_RANK[plan] ?? 0;
+  if (nextRank < currentRank) {
+    const err = new Error("Lower plan is not available while higher plan tokens remain.");
+    err.status = 400;
+    throw err;
+  }
+
+  if (changed) {
+    writeUsers(users);
+  }
+}
+
 export function registerWebhookRoutes(app) {
+  app.get("/api/payments/paypal/config", (req, res) => {
+    if (!PAYPAL_CLIENT_ID) {
+      return res.status(500).json({ error: "PayPal client ID is not configured." });
+    }
+    return res.json({ clientId: PAYPAL_CLIENT_ID });
+  });
+
   /**
    * Client-side PayPal confirmation hook.
    * Expects authenticated user and amount that was paid.
@@ -185,6 +254,7 @@ export function registerWebhookRoutes(app) {
       if (!amount) {
         return res.status(400).json({ error: "Unsupported amount." });
       }
+      assertPurchaseAllowed(req.user?.email, amount);
 
       const accessToken = await getPayPalAccessToken();
       const order = await paypalRequest("/v2/checkout/orders", {
@@ -268,4 +338,5 @@ export function registerWebhookRoutes(app) {
       return res.status(status).json({ error: err.message || "Failed to capture PayPal order." });
     }
   });
+
 }
